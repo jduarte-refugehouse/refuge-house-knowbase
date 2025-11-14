@@ -1,0 +1,324 @@
+## ![][image1]
+
+# Program Director and Licensed Child Placing Agency Administrator
+
+## Position Overview
+
+The Program Director and Licensed Child Placing Agency Administrator serves as the senior executive responsible for the overall administration, operations, and management of the Child Placing Agency. This combined position fulfills both the T3C System Program Director requirements and the TAC §749 Licensed Child Placing Agency Administrator (LCPAA) responsibilities. This position ensures compliance with all regulatory requirements while providing strategic leadership for the agency's mission of serving children in foster care and adoption.
+
+**This is a hands-on leadership position requiring direct, in-person operational management of agency functions across multiple locations. The role demands regular daily presence to oversee staff, coordinate services, ensure regulatory compliance, and provide immediate leadership guidance for complex child welfare situations.**
+
+---
+
+## Primary Objectives
+
+- \[T3C\] Provide leadership for all T3C Service Packages and Add-On Services offered by the agency  
+- Ensure full compliance with TAC §749 Minimum Standards, T3C System Blueprint requirements, and all applicable state and federal regulations  
+- Maintain the agency's operating license and \[T3C\] credentials for all service packages  
+- Develop and implement strategic initiatives to improve outcomes for children and families  
+- \[T3C\] Oversee the implementation and maintenance of the agency's Evidence-informed Treatment Model  
+- Foster a culture of continuous quality improvement and trauma-informed care  
+- Provide direct, in-person leadership and operational oversight to ensure program excellence
+
+---
+
+## Key Responsibilities
+
+### Executive Leadership and Administration
+
+**Daily Operational Management:**
+
+* Serve as the designated Licensed Child Placing Agency Administrator per TAC §749.1355  
+* \[T3C\] Assume responsibility for overall administration of all T3C Service Packages  
+* Maintain regular daily office hours (8:30 AM \- 4:30 PM) to ensure consistent leadership presence, staff accessibility, and immediate response capability for operational needs  
+* Provide direct oversight of daily operations including staff supervision, crisis response coordination, regulatory compliance monitoring, and interdepartmental communication  
+* Conduct daily operational reviews to identify and address emerging issues before they escalate  
+* Ensure immediate availability to staff for consultation, guidance, and decision-making on complex cases  
+* Maintain physical presence necessary for hands-on management including direct observation of operations, in-person staff meetings, real-time problem solving, and relationship building with internal and external stakeholders
+
+**Policy and Strategic Leadership:**
+
+* Develop and implement agency policies and procedures in compliance with all regulations  
+* Ensure maintenance of all required licenses, permits, and \[T3C\] credentials  
+* Report directly to the Board of Directors on agency operations and compliance  
+* Lead strategic planning initiatives and organizational development efforts
+
+### Program Management
+
+**Service Delivery Oversight:**
+
+* \[T3C\] Oversee delivery of services inherent in all approved Service Packages  
+* Direct the development and implementation of treatment programs and services  
+* \[T3C\] Ensure alignment between agency services and T3C Service Package requirements  
+* Monitor program effectiveness through data collection and outcome analysis  
+* \[T3C\] Coordinate with Treatment Director on supervision of clinical staff
+
+**Quality and Compliance:**
+
+* Conduct regular site visits to foster homes and operational locations  
+* Monitor service quality through direct observation and review of documentation  
+* Ensure timely completion of required assessments, service plans, and regulatory reports  
+* Maintain personal knowledge of all children in care and their individual circumstances
+
+### Financial Oversight
+
+* Develop and manage agency budgets in alignment with \[T3C\] rate structures  
+* Ensure accurate billing and cost reporting for all services  
+* \[T3C\] Monitor financial sustainability across all Service Packages  
+* Oversee contract negotiations with SSCC and DFPS  
+* Analyze cost-effectiveness and implement efficiency improvements
+
+### Staff Leadership and Development
+
+**Recruitment and Staffing:**
+
+* Partner actively with Human Resources to ensure adequate staffing levels across all service functions  
+* Take leadership role in recruitment efforts including participating in candidate interviews, assessing organizational fit, and making hiring recommendations  
+* Monitor staffing ratios continuously and initiate recruitment processes proactively when approaching 80% capacity in any position category  
+* Ensure compliance with \[T3C\] staffing ratio requirements for all Service Packages  
+* Develop retention strategies to maintain stable, experienced workforce
+
+**Direct Supervision and Support:**
+
+* Recruit, hire, and supervise senior management team  
+* \[T3C\] Ensure adequate staffing ratios for all Service Packages  
+* Provide regular supervision, mentoring, and performance feedback to direct reports  
+* Foster professional development and \[T3C\] training requirements  
+* \[TBRI\] Promote trauma-informed care practices throughout the organization  
+* Maintain positive workplace culture focused on child welfare  
+* Address performance issues promptly and implement corrective action plans as needed
+
+### Crisis Response and 24/7 Leadership
+
+**On-Call System Coordination:**
+
+* Maintain ultimate responsibility for ensuring 24/7 on-call coverage is consistently staffed and operational  
+* Establish and maintain on-call rotation schedules for Case Managers, ensuring backup coverage at all times  
+* Serve as secondary backup in on-call rotation, providing direct crisis support when primary responders are unavailable or when situations require senior leadership involvement  
+* Monitor on-call system effectiveness and make adjustments as needed to ensure reliability
+
+**Emergency Leadership Availability:**
+
+* Maintain availability 24/7 for consultation and guidance in emergency situations, recognizing that child welfare crises do not occur only during business hours  
+* Provide phone consultation and decision-making support to on-call staff for complex situations involving placement disruptions, psychiatric emergencies, child safety concerns, and regulatory incidents  
+* Make critical decisions regarding emergency placement changes, hospital admissions, law enforcement involvement, and DFPS notifications  
+* Ensure appropriate steps are taken and proper protocols followed even when not providing in-person response  
+* Document all after-hours consultations and follow up during regular business hours
+
+**Crisis Response Protocols:**
+
+* \[T3C\] Maintain compliance with crisis management requirements for Mental & Behavioral Health and IDD/Autism Service Packages  
+* Ensure crisis response protocols are current, staff are trained, and systems are tested regularly  
+* Review all crisis incidents to identify improvement opportunities  
+* Coordinate with Treatment Directors on clinical aspects of crisis response
+
+### Compliance and Quality Assurance
+
+**Regulatory Oversight:**
+
+* Ensure compliance with all applicable laws, regulations, and contract requirements  
+* \[T3C\] Maintain Continuous Quality Assurance and Improvement Program  
+* Coordinate with regulatory bodies during inspections and reviews  
+* \[T3C\] Oversee credentialing processes for new Service Packages  
+* Implement corrective action plans as needed
+
+**Documentation and Reporting:**
+
+* Ensure timely completion of all required reporting to DFPS, SSCC, and other entities  
+* Maintain accurate agency records and documentation systems  
+* Review case documentation for quality and compliance  
+* Track and analyze outcome data for continuous improvement
+
+### External Relations and Strategic Partnerships
+
+**Stakeholder Engagement:**
+
+* Represent the agency to DFPS, SSCC, and other stakeholders  
+* Build collaborative relationships with community partners  
+* \[T3C\] Participate in T3C implementation activities and stakeholder meetings  
+* Advocate for children and families at local and state levels
+
+**Home Recruitment and Development Leadership:**
+
+* Provide leadership oversight and strategic direction to the Home Development department  
+* Work collaboratively with Home Development Director to fulfill agency strategy for foster parent recruitment and retention  
+* Monitor foster home capacity against service demands and guide recruitment priorities  
+* Participate in foster parent orientation and retention activities as needed  
+* Ensure Home Development activities align with T3C Service Package requirements and agency quality standards
+
+---
+
+## Operational Presence Requirements
+
+### Regular Office Hours Requirement
+
+**Standard Schedule: Monday-Friday, 8:30 AM \- 4:30 PM**
+
+**Operational Justification:**
+
+This regular daily schedule is essential for effective leadership and operations management in a child welfare agency for the following reasons:
+
+**Staff Accessibility and Support:**
+
+* Case Managers, Treatment Directors, and other staff require regular access to leadership for consultation on complex child welfare situations, decision-making, and problem-solving  
+* Daily operational challenges require immediate guidance to ensure child safety and regulatory compliance  
+* Staff supervision and professional development activities occur during regular business hours  
+* Performance management and corrective action processes require consistent leadership presence
+
+**Regulatory and Compliance Functions:**
+
+* DFPS, SSCC, and other regulatory bodies conduct business during standard hours  
+* Inspections, audits, and compliance reviews may occur without advance notice  
+* Regulatory inquiries require immediate response and documentation  
+* Emergency situations may require real-time consultation with licensing authorities
+
+**Operational Coordination:**
+
+* Multi-location operations require daily communication and coordination  
+* Financial management, billing, and contract administration occur during business hours  
+* Interdepartmental coordination (Case Management, Home Development, Treatment, Administration) requires regular availability  
+* Vendor management, facility oversight, and resource allocation require ongoing attention
+
+**Crisis Prevention and Early Intervention:**
+
+* Daily review of case situations allows early identification of concerns before they escalate to crises  
+* Regular presence enables observation of staff stress levels and organizational health  
+* Immediate accessibility prevents small problems from becoming emergencies  
+* Proactive leadership reduces after-hours crisis frequency
+
+**External Stakeholder Engagement:**
+
+* SSCC, DFPS, courts, schools, and medical providers operate during standard business hours  
+* Foster parent support and communication primarily occurs during daytime hours  
+* Community partnerships and resource development require regular availability  
+* Professional reputation and stakeholder confidence depend on consistent accessibility
+
+### Flexibility for Field Requirements
+
+While regular office hours provide the foundation for operational leadership, this role requires flexibility for:
+
+* Foster home visits and inspections  
+* Court appearances and DFPS meetings  
+* Community engagement and partnership development  
+* Emergency response when situations require in-person leadership presence  
+* Staff support across multiple locations
+
+Time away from the office for these legitimate operational needs is expected and supported; however, consistent daily presence during core business hours remains essential for effective program leadership.
+
+---
+
+## Qualifications
+
+### Required Education and Experience
+
+* \[T3C\] Bachelor's degree or above; OR  
+* \[T3C\] At least 5 years' experience working in a residential childcare setting (can substitute for education requirement)  
+* Meets LCPAA qualifications per TAC §749.1357
+
+### Required Knowledge and Skills
+
+* Comprehensive knowledge of Texas child welfare system and regulations  
+* \[T3C\] Understanding of T3C System Blueprint and Service Package requirements  
+* Strong leadership and organizational management skills  
+* Excellent written and verbal communication abilities  
+* Proficiency in financial management and budgeting  
+* \[TBRI\] Knowledge of trauma-informed care principles  
+* Ability to analyze data and drive continuous improvement  
+* Crisis management and decision-making capabilities  
+* Staff recruitment, development, and retention expertise
+
+### Preferred Qualifications
+
+* Master's degree in social work, public administration, or related field  
+* Previous experience as LCPAA or senior administrator in child welfare  
+* \[T3C\] Experience with Evidence-informed Treatment Models  
+* Knowledge of adoption processes and regulations  
+* Multi-site operational management experience  
+* Experience with 24/7 on-call crisis response systems
+
+---
+
+## Additional Requirements
+
+### Employment Structure
+
+* \[T3C\] Must be a full-time employee dedicated to this single Child Placing Agency  
+* \[T3C\] Cannot be contracted \- must be an actual employee of the agency  
+* Must maintain consistent presence and availability for hands-on operational leadership  
+* Expected to prioritize organizational needs and adjust schedule as necessary for operational demands
+
+### Training and Compliance
+
+Complete all required pre-service and annual training including:
+
+* \[TBRI\] Trust-Based Relational Intervention (TBRI) training within 90 days  
+* \[T3C\] Training specific to T3C Service Packages and requirements  
+* Minimum Standards required training  
+* Crisis response and emergency management training  
+* Financial management and contract compliance training
+
+### Background and Licensing
+
+* Pass all required background checks and drug screening  
+* Maintain valid driver's license and automobile insurance  
+* Meet all TAC §749 LCPAA qualifications
+
+### Availability Requirements
+
+* Maintain regular daily office hours (8:30 AM \- 4:30 PM) for operational leadership and staff support  
+* Available for on-call backup support as part of crisis response system  
+* Accessible 24/7 for emergency consultation and leadership guidance  
+* Flexible for evening and weekend work when operational needs require  
+* Available for travel between agency locations and external meetings
+
+---
+
+## Physical and Mental Requirements
+
+### Physical Requirements
+
+* Ability to travel frequently to office locations, foster homes, and meetings (multi-location operations)  
+* Capable of sitting for extended periods for computer work and meetings  
+* Ability to lift and carry up to 25 pounds  
+* Ability to respond physically to emergency situations as needed
+
+### Mental and Emotional Requirements
+
+* Mental and emotional capacity to handle high-stress situations  
+* Ability to make critical decisions under pressure  
+* Emotional resilience to manage vicarious trauma inherent in child welfare work  
+* Capacity to maintain professional boundaries while providing compassionate leadership  
+* Ability to manage multiple competing priorities simultaneously
+
+---
+
+## Working Conditions
+
+* Primarily office-based with regular travel requirements to multiple locations  
+* Regular evening and weekend work for emergencies, special events, and operational needs  
+* On-call availability for crisis situations requiring leadership consultation or direct involvement  
+* Fast-paced environment with multiple priorities and competing demands  
+* Exposure to challenging and emotionally difficult situations inherent in child welfare  
+* Must maintain professional demeanor while managing high-stress operational challenges
+
+---
+
+## Performance Expectations
+
+Success in this role is measured by:
+
+* Consistent maintenance of all licenses and T3C credentials  
+* Full compliance with regulatory requirements and contract obligations  
+* Effective leadership of staff resulting in low turnover and high performance  
+* Operational excellence demonstrated through quality outcomes for children  
+* Financial sustainability and sound resource management  
+* Timely and appropriate crisis response and emergency management  
+* Positive relationships with DFPS, SSCC, and community stakeholders  
+* Strategic growth and program development aligned with organizational mission  
+* Cultivation of organizational culture focused on trauma-informed care and continuous improvement
+
+---
+
+**This position requires a unique combination of strategic leadership, operational management, hands-on problem-solving, and unwavering commitment to child welfare. The Program Director/LCPAA serves as the cornerstone of organizational excellence, providing the consistent presence, accessibility, and decision-making authority essential for protecting vulnerable children and supporting the families who care for them.**
+
+[image1]: <data:image/png;base64,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>
