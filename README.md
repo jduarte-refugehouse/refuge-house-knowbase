@@ -37,6 +37,35 @@ This repository serves as the **single source of truth** for all Refuge House or
 - **Searchable** - Comprehensive indexing and keyword tagging
 - **Compliant** - Direct links to regulatory requirements and references
 
+### Repository Structure: Regulatory vs Operational
+
+This repository contains two distinct types of content:
+
+#### 📋 Regulatory Documents (`regulatory-references/`)
+**Purpose:** Official requirements and specifications from regulatory agencies  
+**Type:** "What must be done" - The rules and standards we must comply with  
+**Examples:**
+- T3C Blueprint (DFPS)
+- TAC Chapter 749 (HHSC)
+- RCC Contract Requirements
+- Other regulatory agency documents
+
+**Location:** `regulatory-references/`
+- `source-pdfs/` - Original PDF documents
+- `markdown/` - Searchable markdown indices and converted documents
+
+#### 🏢 Refuge House Operational Documents (all other folders)
+**Purpose:** Refuge House's policies, procedures, and operational documents  
+**Type:** "How we do it" - Our implementation of regulatory requirements  
+**Examples:**
+- Policies (`policies-procedures/Policy/`)
+- Procedures (`policies-procedures/Procedure/`)
+- Implementation Plans (`plans/`)
+- Job Descriptions (`job-descriptions/`)
+- Treatment Models (`models/`)
+
+**Key Relationship:** Every Refuge House policy/procedure references specific regulatory requirements in its `REFERENCES` section, showing how we operationalize those requirements.
+
 ### Key Entry Points
 
 1. **New to T3C?** Start with: [`T3C Basic Foster Family Home Support Services Policy`](policies-procedures/Policy/T3C%20Basic%20Foster%20Family%20Home%20Support%20Services%20Policy.md)
@@ -70,22 +99,39 @@ This repository serves as the **single source of truth** for all Refuge House or
 
 ```
 refuge-house-knowbase/
-├── policies-procedures/          # Core policies and procedures
-│   ├── Policy/                   # Standalone policies
-│   ├── Procedure/                # Standalone procedures
-│   ├── Policy-and-Procedure/     # Combined documents
-│   └── Package-Specific/         # T3C package-specific resources
-├── guides/                       # Organizational guides
-├── job-descriptions/             # Position descriptions
-├── models/                       # Treatment models (TBRI®)
-├── plans/                        # Implementation and credentialing plans
-├── regulatory-references/        # Regulatory documents
-│   ├── source-pdfs/             # Original PDF documents
-│   └── markdown/                # Searchable markdown indices (to be created)
-└── historical-docs/              # Legacy documents
-    ├── source-documents/        # Original DOCX files
-    └── markdown-conversions/    # Converted markdown files
+│
+├── 📋 REGULATORY DOCUMENTS (Requirements/Specifications)
+│   └── regulatory-references/        # Official regulatory agency documents
+│       ├── source-pdfs/             # Original PDF documents from agencies
+│       │   ├── chapter-749-cpa.pdf  # TAC Chapter 749 (HHSC)
+│       │   ├── t3c_blueprint.pdf    # T3C Blueprint (DFPS)
+│       │   ├── 24_Hour_RCC_Requirements.pdf  # RCC Contract
+│       │   └── [new regulatory documents]     # Additional regulatory docs
+│       └── markdown/                # Searchable markdown indices & conversions
+│           ├── TAC-749-INDEX.md     # TAC Chapter 749 index
+│           ├── T3C-BLUEPRINT-INDEX.md # T3C Blueprint index
+│           ├── RCC-REQUIREMENTS-INDEX.md # RCC Contract index
+│           ├── tac-749-parts/       # Split Chapter 749 documents (in progress)
+│           └── [new regulatory indices] # Indices for new regulatory docs
+│
+└── 🏢 REFUGE HOUSE OPERATIONAL DOCUMENTS (Implementation)
+    ├── policies-procedures/          # How we operationalize requirements
+    │   ├── Policy/                   # Refuge House policies
+    │   ├── Procedure/                # Refuge House procedures
+    │   ├── Policy-and-Procedure/     # Combined documents
+    │   └── Package-Specific/         # T3C package-specific implementations
+    ├── guides/                       # Organizational guides
+    ├── job-descriptions/             # Position descriptions
+    ├── models/                       # Treatment models (TBRI®)
+    ├── plans/                        # Implementation and credentialing plans
+    └── historical-docs/              # Legacy documents
+        ├── source-documents/        # Original DOCX files
+        └── markdown-conversions/    # Converted markdown files
 ```
+
+**Key Distinction:**
+- **Regulatory Documents** = "What must be done" (requirements from agencies)
+- **Operational Documents** = "How we do it" (Refuge House's implementation)
 
 ---
 
@@ -264,16 +310,54 @@ Located in `plans/`, these documents outline implementation strategies and crede
 
 ### Regulatory References
 
-Located in `regulatory-references/source-pdfs/`, these are the authoritative regulatory documents:
+**📋 Regulatory Documents (Requirements/Specifications)**
 
-| Document Name | Document Type | Last Updated | Referenced In |
-|--------------|---------------|--------------|---------------|
-| [chapter-749-cpa.pdf](regulatory-references/source-pdfs/chapter-749-cpa.pdf) | TAC Chapter 749 | - | All policies |
-| [t3c_blueprint.pdf](regulatory-references/source-pdfs/t3c_blueprint.pdf) | T3C Blueprint | April 2025 | All T3C policies |
-| [24_Hour_RCC_Requirements.pdf](regulatory-references/source-pdfs/24_Hour_RCC_Requirements.pdf) | RCC Contract | - | Multiple policies |
-| [24_Hour_RCC_Requirements_Addendum.pdf](regulatory-references/source-pdfs/24_Hour_RCC_Requirements_Addendum.pdf) | RCC Addendum | - | Multiple policies |
+Located in `regulatory-references/`, these are official documents from regulatory agencies that define requirements Refuge House must comply with. See [regulatory-references/README.md](regulatory-references/README.md) for complete documentation.
 
-**Note:** Searchable markdown indices for these PDFs are being created in `regulatory-references/markdown/` (see [Regulatory Reference Indices](#regulatory-reference-indices)).
+### Three Primary Regulatory Frameworks
+
+Refuge House must comply with **three primary regulatory frameworks**:
+
+1. **TAC Chapter 749 (HHSC)** - Administrative code establishing minimum standards for all Child Placing Agencies
+2. **T3C Blueprint (DFPS)** - System specifications for Texas Child-Centered Care service delivery
+3. **RCC Contract Requirements (RCC)** - Contractual obligations for residential child care operations
+
+**How They Work Together:**
+- **TAC Chapter 749** = General CPA licensing standards (applies to all CPAs)
+- **T3C Blueprint** = Specific T3C system requirements (applies to T3C-credentialed CPAs)
+- **RCC Contract** = Contractual obligations for residential operations (applies to CPAs operating under RCC contracts)
+- **Refuge House Policies** = Operationalize requirements from **all three** regulatory documents
+
+**Note:** Many CPAs operate under RCC contracts and must comply with all three frameworks simultaneously.
+
+**Source PDFs:** Located in `regulatory-references/source-pdfs/`
+
+| Document Name | Agency | Document Type | Pages | Last Updated | Status | Conversion |
+|--------------|--------|---------------|-------|--------------|--------|------------|
+| [chapter-749-cpa.pdf](regulatory-references/source-pdfs/chapter-749-cpa.pdf) | HHSC | TAC Chapter 749 | 503 | November 2025 | ✅ Indexed | ⏳ Split conversion (13 parts) |
+| [t3c_blueprint.pdf](regulatory-references/source-pdfs/t3c_blueprint.pdf) | DFPS | T3C Blueprint | ~400+ | April 2025 | ✅ Indexed | ✅ Indexed (page-based) |
+| [24_Hour_RCC_Requirements.pdf](regulatory-references/source-pdfs/24_Hour_RCC_Requirements.pdf) | RCC | Contract | 113 | June 2021 | ✅ Indexed | ✅ Single file (no splitting) |
+| [24_Hour_RCC_Requirements_Addendum.pdf](regulatory-references/source-pdfs/24_Hour_RCC_Requirements_Addendum.pdf) | RCC | Addendum | - | - | ✅ Indexed | ✅ Indexed |
+
+**Note:** Searchable markdown indices for these PDFs are available in `regulatory-references/markdown/` (see [Regulatory Reference Indices](#regulatory-reference-indices)).
+
+#### Regulatory Document Conversion Status
+
+**TAC Chapter 749** (503 pages):
+- **Conversion Guide:** [TAC-749-CONVERSION-GUIDE.md](regulatory-references/markdown/TAC-749-CONVERSION-GUIDE.md)
+- **Status:** ⏳ Split conversion in progress (13 parts)
+- **Location:** `regulatory-references/markdown/tac-749-parts/` (in progress)
+- **Index:** [TAC-749-INDEX.md](regulatory-references/markdown/TAC-749-INDEX.md)
+
+**RCC Contract Requirements** (113 pages):
+- **Conversion Guide:** [RCC-CONVERSION-GUIDE.md](regulatory-references/markdown/RCC-CONVERSION-GUIDE.md)
+- **Status:** ✅ Ready for conversion (single file, no splitting needed)
+- **Location:** `regulatory-references/markdown/rcc-requirements/` (pending conversion)
+- **Index:** [RCC-REQUIREMENTS-INDEX.md](regulatory-references/markdown/RCC-REQUIREMENTS-INDEX.md)
+
+**T3C Blueprint** (~400+ pages):
+- **Status:** ✅ Fully indexed with page-based references
+- **Index:** [T3C-BLUEPRINT-INDEX.md](regulatory-references/markdown/T3C-BLUEPRINT-INDEX.md)
 
 ### Historical Documents
 
@@ -551,7 +635,11 @@ The repository structure is designed to accommodate growth:
 - **New Package Document:** Add to `policies-procedures/Package-Specific/`
 - **New Implementation Plan:** Add to `plans/`
 - **New Job Description:** Add to `job-descriptions/`
-- **New Regulatory Document:** Add PDF to `regulatory-references/source-pdfs/` and create markdown index in `regulatory-references/markdown/`
+- **New Regulatory Document:** 
+  1. Add PDF to `regulatory-references/source-pdfs/`
+  2. Create markdown index in `regulatory-references/markdown/` (see [regulatory-references/README.md](regulatory-references/README.md) for template)
+  3. Update `regulatory-references/README.md` table
+  4. Update this README's Regulatory References section
 
 ### Version Control Practices
 
@@ -574,22 +662,43 @@ When adding new content:
 
 ## Regulatory Reference Indices
 
-**Status:** In Progress
+**Status:** ✅ Complete
 
-Searchable markdown indices are being created for each regulatory PDF in `regulatory-references/markdown/`:
+Searchable markdown indices are available for each regulatory PDF in `regulatory-references/markdown/`:
 
-- `TAC-749-INDEX.md` - TAC Chapter 749 Index & Reference Guide
-- `T3C-BLUEPRINT-INDEX.md` - T3C Blueprint Index & Reference Guide
-- `RCC-REQUIREMENTS-INDEX.md` - RCC Contract Requirements Index
-- `RCC-ADDENDUM-INDEX.md` - RCC Addendum Index
+- [TAC-749-INDEX.md](regulatory-references/markdown/TAC-749-INDEX.md) - TAC Chapter 749 Index & Reference Guide
+- [TAC-749-CONVERSION-GUIDE.md](regulatory-references/markdown/TAC-749-CONVERSION-GUIDE.md) - Guide for converting Chapter 749 to split markdown files
+- [T3C-BLUEPRINT-INDEX.md](regulatory-references/markdown/T3C-BLUEPRINT-INDEX.md) - T3C Blueprint Index & Reference Guide
+- [RCC-REQUIREMENTS-INDEX.md](regulatory-references/markdown/RCC-REQUIREMENTS-INDEX.md) - RCC Contract Requirements Index
+- [RCC-ADDENDUM-INDEX.md](regulatory-references/markdown/RCC-ADDENDUM-INDEX.md) - RCC Addendum Index
 
-These indices will include:
+These indices include:
 - Document title and date
 - Brief overview
 - Table of contents with section links
 - Key requirements summary
 - Where this document is referenced in organizational policies
 - Note: "Full document stored as [filename].pdf in source-pdfs/"
+
+### TAC Chapter 749 Split Documents
+
+The Chapter 749 document is being converted to markdown format, split into 13 parts:
+- **Location:** `regulatory-references/markdown/tac-749-parts/` (in progress)
+- **Status:** 
+  - Part 02 (Organization & Administration) ✅ **Complete** - [View Part 02](regulatory-references/markdown/tac-749-parts/tac-749-part-02-organization.md)
+  - Part 03 (Reports, Record Keeping & Staff) ✅ **Complete** - [View Part 03](regulatory-references/markdown/tac-749-parts/tac-749-part-03-reporting-personnel.md)
+  - Part 04 (Training & Children's Rights) ✅ **Complete** - [View Part 04](regulatory-references/markdown/tac-749-parts/tac-749-part-04-training-rights.md)
+  - Part 05 (Admission & Service Planning) ✅ **Complete** - [View Part 05](regulatory-references/markdown/tac-749-parts/tac-749-part-05-foster-admission.md)
+  - Part 06 (Medical & Dental Care, Daily Care) ✅ **Complete** - [View Part 06](regulatory-references/markdown/tac-749-parts/tac-749-part-06-foster-medical-care.md)
+  - Part 07 (Emergency Behavior Intervention) ✅ **Complete** - [View Part 07](regulatory-references/markdown/tac-749-parts/tac-749-part-07-foster-behavior.md)
+  - Part 08 (Foster Homes: Screenings & Verifications) ✅ **Complete** - [View Part 08](regulatory-references/markdown/tac-749-parts/tac-749-part-08-foster-homes-screening.md)
+  - Part 09 (Foster Homes: Management & Health/Safety) ✅ **Complete** - [View Part 09](regulatory-references/markdown/tac-749-parts/tac-749-part-09-foster-homes-safety.md)
+  - Part 10 (Foster-Adoptive Homes & Adoption Services: Children) ✅ **Complete** - [View Part 10](regulatory-references/markdown/tac-749-parts/tac-749-part-10-foster-adoptive.md)
+  - Part 11 (Adoption Services: Birth & Adoptive Parents) ✅ **Complete** - [View Part 11](regulatory-references/markdown/tac-749-parts/tac-749-part-11-adoption-parents.md)
+  - Part 12 (Special Programs: Assessment & Trafficking Victim Services) ✅ **Complete** - [View Part 12](regulatory-references/markdown/tac-749-parts/tac-749-part-12-special-programs.md)
+  - Part 13 (Kinship Foster Homes & Appendix A) ✅ **Complete** - [View Part 13](regulatory-references/markdown/tac-749-parts/tac-749-part-13-kinship-appendix.md)
+- **Conversion Guide:** See [TAC-749-CONVERSION-GUIDE.md](regulatory-references/markdown/TAC-749-CONVERSION-GUIDE.md)
+- **Benefits:** Enables targeted retrieval, better AI search performance, modular imports
 
 ---
 
