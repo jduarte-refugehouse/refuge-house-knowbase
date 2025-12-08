@@ -296,6 +296,8 @@ This catalog provides a comprehensive inventory and analysis of the Refuge House
 1. ✅ **COMPLETED** - Comprehensive README.md created
 2. ✅ **COMPLETED** - Regulatory reference indices created
 3. ✅ **COMPLETED** - Catalog summary document created
+4. ✅ **COMPLETED** - TAC Chapter 749 conversion guide created
+5. ⏳ **IN PROGRESS** - TAC Chapter 749 split markdown conversion (13 parts)
 
 #### Short-Term (This Month)
 1. **Verify Procedure Existence:**
@@ -314,17 +316,24 @@ This catalog provides a comprehensive inventory and analysis of the Refuge House
    - Prioritize conversion of active documents
 
 #### Medium-Term (Next Quarter)
-1. **Naming Convention Standardization** (Optional):
+1. **TAC Chapter 749 Conversion:**
+   - ✅ Conversion guide created
+   - ⏳ Convert 13 PDF parts to markdown (priority: Parts 05, 06, 07, 08)
+   - ⏳ Add frontmatter to each converted file
+   - ⏳ Update TAC-749-INDEX.md with links to split documents
+   - **See:** [TAC-749-CONVERSION-GUIDE.md](regulatory-references/markdown/TAC-749-CONVERSION-GUIDE.md)
+
+2. **Naming Convention Standardization** (Optional):
    - If desired, standardize policy number formats
    - Update filenames to include policy numbers
    - Update cross-references
 
-2. **Historical Document Conversion:**
+3. **Historical Document Conversion:**
    - Convert prioritized DOCX files to markdown
    - Place in `historical-docs/markdown-conversions/`
    - Update README with converted documents
 
-3. **Enhanced Cross-Reference Validation:**
+4. **Enhanced Cross-Reference Validation:**
    - Automated check for broken cross-references
    - Verify all referenced documents exist
    - Update README with missing document alerts
