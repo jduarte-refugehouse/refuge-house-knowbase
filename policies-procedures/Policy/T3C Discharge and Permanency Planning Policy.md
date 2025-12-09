@@ -9,7 +9,7 @@
 | **APPROVED ON** | \[Pending\] |
 | **EFFECTIVE DATE** | September 1, 2024 |
 | **SECTION** | FC14 |
-| **DATE(S) OF REVISION** | 12.27.2024.1 |
+| **DATE(S) OF REVISION** | 12.27.2024.1; 12.09.2025.1 |
 
 | \#\# APPLICABLE T3C PACKAGES: | \#\# APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -146,28 +146,151 @@ For children receiving IDD/Autism Spectrum Disorder Support Services, discharge 
 - Registered Nurse availability for consultation to new caregivers  
 - Support for maintaining established routines and interventions  
 - Assistance with accessing specialized therapies and services  
-- Crisis support for behavioral or medical concerns  
+- Crisis support for behavioral or medical concerns
 - Monthly documentation to SSCC/DFPS of aftercare activities
 
-### ☒ T3C TREATMENT FOSTER FAMILY CARE
+### ☒ SUBSTANCE USE SUPPORT SERVICES
 
-For children in Treatment Foster Family Care, recognizing the intensive, time-limited nature of this intervention:
+For children receiving Substance Use Support Services, discharge planning incorporates recovery-focused elements:
 
-**Intensive Discharge Planning:** Given the expected 4-6 month length of service, discharge planning begins at admission and includes:
+**Recovery-Centered Discharge Planning:** Discharge planning addresses ongoing recovery needs including:
 
-- Clear step-down criteria and timeline  
-- Identification of less-restrictive placement options early in treatment  
-- Weekly treatment team reviews of discharge readiness  
-- Detailed documentation of all effective behavioral interventions  
+- Documentation of recovery progress and stability indicators
+- Transfer of substance use treatment history and recommendations
+- Connection to community recovery resources in receiving placement area
+- Education for receiving caregivers on recovery-supportive environment maintenance
+- Relapse prevention plan with identified triggers and coping strategies
+- Coordination with substance use treatment providers for continuity
+
+**Step-Down Readiness:** At each 90-day Continued Stay Review, Treatment Director assesses:
+
+- Recovery stability (sustained engagement, absence of active use)
+- Treatment engagement and progress
+- Relapse history and response patterns
+- Readiness for less-restrictive placement
+
+When recovery is stable and specialized services are no longer required, step-down to T3C Basic Foster Family Home or permanency placement is initiated.
+
+**Recovery Environment Transfer:** Discharge documentation includes:
+
+- Home environment requirements for maintaining recovery (substance-free environment)
+- Medication storage protocols (if medication-assisted treatment applies)
+- Recovery meeting/support group connections in new location
+- Continued treatment provider recommendations
+- Warning signs and crisis response protocols for relapse situations
+
+**Mandatory Aftercare Services:** Substance Use Support Services Package requires 6 months of aftercare services per **FC-AF-01 Aftercare Services Policy** including:
+
+- Twice-monthly contact minimum
+- Connection to community recovery resources
+- Continued substance use treatment coordination
+- Recovery stability monitoring
+- 24/7 crisis support for relapse situations
+- Monthly documentation to SSCC/DFPS of aftercare activities
+
+### ☒ SHORT-TERM ASSESSMENT SUPPORT SERVICES
+
+For children receiving Short-Term Assessment Support Services, recognizing the unique assessment-focused, time-limited nature of this package:
+
+**Assessment-to-Service-Package Transition Focus:** This package does NOT involve traditional discharge to permanency. Instead, children transition to an appropriate ongoing Service Package based on assessment findings. Planning addresses:
+
+- Service Package determination based on comprehensive assessment results
+- CANS 3.0 interpretation and Service Package recommendation
+- Coordination with receiving CPA or foster home for appropriate Service Package
+- Transfer of all assessment documentation to receiving Case Manager
+- Warm handoff procedures to ensure continuity
+
+**Time-Limited Parameters:**
+
+| Child Age | Maximum Stay | Extension Available |
+|-----------|--------------|---------------------|
+| Age 5 and under | 30 days | One 15-day extension |
+| Over age 5 | 45 days | One 15-day extension |
+
+Extensions require Program Director written approval with documented justification.
+
+**Service Package Determination Process:**
+
+1. Treatment Director reviews all assessment findings and CANS 3.0 results
+2. Treatment Director recommends appropriate ongoing Service Package with clinical justification
+3. Service Planning Team confirms recommendation within 5 days
+4. Case Manager coordinates transition to receiving placement
+5. Comprehensive Transition Summary prepared before discharge
+
+**Transition Summary Components:**
+
+- All assessment results and findings with interpretation
+- CANS 3.0 assessment results
+- Behavioral observations and effective strategies identified during assessment
+- Medical/dental/vision records obtained during assessment period
+- Educational records and recommendations
+- Service Package recommendation with detailed clinical justification
+- Foster family observations and insights
+
+**NO AFTERCARE REQUIRED:** Aftercare services per **FC-AF-01 Aftercare Services Policy** are NOT required for Short-Term Assessment Support Services. This package serves an assessment function, with the child transitioning to a receiving Service Package that will provide ongoing services and any applicable aftercare. Case Manager ensures complete documentation handoff to receiving Case Manager.
+
+**NO CONTINUED STAY REVIEWS:** Due to the time-limited nature (30-45 days + 15-day extension maximum), Continued Stay Reviews per **FC-CSR-01 Continued Stay Review Policy** do NOT apply to this package.
+
+### ☒ T3C TREATMENT FOSTER FAMILY CARE (Enhanced)
+
+For children in Treatment Foster Family Care, recognizing the intensive, time-limited nature of this highest-level family-based intervention:
+
+**Time-Limited Service with Mandatory Step-Down Focus:**
+
+| Parameter | Duration |
+|-----------|----------|
+| Standard Treatment Period | Up to 274 days |
+| Extension (if clinically necessary) | Up to 91 additional days |
+| **Maximum Total** | **365 days** |
+
+**CRITICAL:** An individual child cannot be served under this package for more than 365 days per T3C Blueprint p.142 and Texas Family Code Section 264.1073.
+
+**Step-Down Planning from Day 1:** Due to the time-limited nature of this package, step-down planning begins at admission and is integrated into every 60-day Service Plan Review. Initial Service Plan must include preliminary step-down goals.
+
+**Dual Credentialing Requirement:** Both the Child Placing Agency AND the Foster Family Home must maintain credentials for BOTH Treatment Foster Family Care AND T3C Basic Foster Family Home packages. This enables same-home step-down when clinically appropriate.
+
+**60-Day Continued Stay Reviews:** Per **FC-CSR-01 Continued Stay Review Policy**, at each 60-day review:
+
+- Treatment Director and Program Director must provide written confirmation
+- Documentation submitted to SSCC/DFPS within 15 business days
+- Step-down readiness assessed at each review
+- Clinical justification required for continued intensive services
+
+**Step-Down Options:**
+
+| Option | Requirements |
+|--------|--------------|
+| Same home - Basic Package | Home dually credentialed; child stable; foster family willing to continue |
+| Different home - Basic Package | Appropriate home identified; transition planning completed |
+| Different home - Other Package | Alternative Service Package appropriate; transition coordinated |
+| Permanency placement | Permanency resource identified; preparation completed |
+
+**Step-Down Readiness Indicators:**
+
+- Behavioral stability with reduced crisis frequency
+- Treatment progress on identified goals
+- Decreased need for intensive clinical intervention
+- Foster family capacity to maintain gains with less support
+- Absence of criteria that required intensive services
+
+**Intensive Discharge Planning:** Given the expected 4-6 month length of service, discharge planning includes:
+
+- Clear step-down criteria and timeline established at admission
+- Identification of less-restrictive placement options early in treatment
+- Assessment of step-down readiness at each 60-day review
+- Detailed documentation of all effective behavioral interventions
 - Comprehensive behavior management guide for receiving placement
+- Transfer of crisis prevention and de-escalation strategies
 
-**Mandatory Aftercare Services:** Treatment Foster Family Care requires 6 months of intensive Aftercare Services including:
+**Mandatory Aftercare Services:** Treatment Foster Family Care requires 6 months of intensive aftercare services per **FC-AF-01 Aftercare Services Policy** including:
 
-- Weekly contacts during the first month post-discharge  
-- Twice-monthly contacts for months 2-6  
-- 24/7 crisis consultation availability  
-- Support for maintaining treatment gains in new environment  
-- Coordination with receiving caregivers on behavior management
+- **Weekly contacts during first month** post-discharge
+- **Twice-monthly contacts for months 2-6**
+- 24/7 crisis consultation availability
+- Step-down adjustment monitoring
+- Support for maintaining treatment gains in new environment
+- Coordination with receiving caregivers on behavioral interventions
+- Monthly documentation to SSCC/DFPS of all contacts, referrals, and case management support
 
 ### ☒ TRANSITION SUPPORT SERVICES FOR YOUTH & YOUNG ADULTS
 
@@ -231,6 +354,14 @@ For pregnant or parenting youth, discharge planning addresses:
 
 **Transition Planning:** The comprehensive process of preparing a child, family, and support systems for discharge from foster care.
 
+**Recovery Environment:** A substance-free living environment that supports ongoing recovery from substance use disorder, including secure medication storage, absence of alcohol and illicit substances, and caregiver understanding of recovery-supportive approaches.
+
+**Service Package Transition:** The process of moving a child from Short-Term Assessment Support Services to an ongoing T3C Service Package based on comprehensive assessment findings.
+
+**Step-Down:** Planned transition from a higher-intensity Service Package (such as Treatment Foster Family Care) to a lower-intensity placement (such as Basic Foster Family Home) based on treatment progress and reduced clinical need.
+
+**Time-Limited Service:** A Service Package with defined maximum duration, including Short-Term Assessment (30-45 days + extension) and Treatment Foster Family Care (365 days maximum).
+
 ## REFERENCES:
 
 - T3C Blueprint Standards:  
@@ -284,10 +415,29 @@ For pregnant or parenting youth, discharge planning addresses:
 
 **Package-Specific Dashboards:**
 
-- Package-Specific Monitoring Dashboard (Mental & Behavioral Health and IDD/Autism)  
-- Youth Transition Support Dashboard (Transition Support Add-On)  
-- Kinship Caregiver Resource Dashboard (Kinship Add-On)  
+- Package-Specific Monitoring Dashboard (Mental & Behavioral Health and IDD/Autism)
+- Youth Transition Support Dashboard (Transition Support Add-On)
+- Kinship Caregiver Resource Dashboard (Kinship Add-On)
 - Pregnant & Parenting Youth Resource Dashboard (Pregnant & Parenting Add-On)
+
+**Substance Use Discharge Forms:**
+
+- Recovery Support Transfer Summary
+- Recovery Environment Assessment for Receiving Placement
+- Relapse Prevention Plan Transfer Document
+
+**Short-Term Assessment Transition Forms:**
+
+- Service Package Recommendation Form
+- Assessment Transition Summary Template
+- Assessment Documentation Transfer Checklist
+
+**Treatment Foster Family Care Forms:**
+
+- Step-Down Readiness Assessment (for each 60-day review)
+- Step-Down Planning Worksheet
+- Treatment Gains Transfer Summary
+- Behavioral Intervention Transfer Guide
 
 ---
 
