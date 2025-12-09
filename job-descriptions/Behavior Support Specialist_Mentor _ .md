@@ -40,8 +40,43 @@ A Behavior Support Specialist/Mentor provides direct support and intervention se
 
 - Train foster parents on behavior management techniques  
 - Provide guidance on implementing behavioral interventions  
-- Support foster parents in managing challenging behaviors  
+- Support foster parents in managing challenging behaviors
 - Assist in crisis prevention and intervention
+- Complete package-specific training per FC-16 before serving specialized populations
+- **[T3C]** Treatment Foster Family Care requires additional training on high-acuity behavior management
+
+**Service Package-Specific Behavior Support**
+
+When providing behavior support services to children in specialized Service Packages, responsibilities are adapted per the applicable umbrella policy:
+
+*Substance Use Support Services:*
+
+- Support recovery-focused behavioral interventions
+- Assist with trigger identification and management
+- Model healthy coping strategies
+- **[CRITICAL]** Maintain non-punitive approach; relapse is clinical, not behavioral infraction
+- Ratio: 1:15
+- **Cross-Reference:** FC-SU-01
+
+*Short-Term Assessment Support Services:*
+
+- Focus on behavioral observation and documentation
+- Note effective intervention strategies for transition documentation
+- Support assessment activities as directed by treatment team
+- Ratio: 1:15
+- **Cross-Reference:** FC-STASS-01
+
+*T3C Treatment Foster Family Care:*
+
+- Provide intensive behavior support for high-acuity population
+- Implement behavior intervention plans with close clinical oversight
+- **[CRITICAL]** Coordinate closely with Licensed Therapist and Treatment Director
+- Support crisis prevention through proactive intervention
+- Participate in 60-day review discussions regarding behavioral progress
+- Ratio: **1:6** (more intensive than other packages)
+- **Cross-Reference:** FC-TFFC-01
+
+> **[T3C] Service Package Responsibilities:** When serving children in specialized T3C Service Packages (Substance Use, Short-Term Assessment, Treatment Foster Family Care, Mental & Behavioral Health, IDD/Autism), responsibilities are adapted per the applicable umbrella policy and procedure. Staff must complete package-specific training per FC-16 Staff and Caregiver Training Policy before assuming specialized responsibilities. Consult FC-SU-01, FC-STASS-01, FC-TFFC-01, FC-MH-01, or FC-IDD-01 for detailed Service Package requirements.
 
 ## Professional Requirements
 

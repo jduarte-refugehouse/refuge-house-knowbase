@@ -431,10 +431,269 @@ When assigned children requiring Mental & Behavioral Health or IDD/Autism Spectr
 
 **Transition Support Services:** \[Only when assigned youth 14+ approaching adulthood\]
 
-* Coordinate Extended Foster Care planning  
-* Facilitate independent living skills development  
-* Support education, employment, and housing planning  
+* Coordinate Extended Foster Care planning
+* Facilitate independent living skills development
+* Support education, employment, and housing planning
 * Connect youth with community resources for transition
+
+---
+
+### E. SUBSTANCE USE SUPPORT SERVICES COORDINATION
+
+**[Applies ONLY to Case Managers with Substance Use Service Package children]**
+
+**Caseload Ratio:** 1:15 (8 points per child in mixed caseload system)
+
+**Required Training Before Assignment:**
+* Substance Use Support Services training (4 hours) per FC-16 Section 4.4
+* Non-punitive, recovery-supportive approach training
+* Overdose recognition and response
+* STAR Health substance use treatment authorization processes
+
+**Service Planning & Coordination:**
+
+* Complete CANS 3.0 assessments every 90 days with substance use domains
+* Conduct service plan reviews minimum every 90 days with Treatment Director consultation
+* **[CRITICAL]** Coordinate weekly therapy minimum requirement
+* Initiate STAR Health authorization for comprehensive substance use assessment within 30 days
+* Coordinate with substance use treatment providers (outpatient, intensive outpatient, MAT as applicable)
+* Monitor recovery progress and treatment engagement
+* Track drug screening results as clinical tool (non-punitive documentation)
+
+**Clinical Collaboration:**
+
+* Participate in treatment team meetings with substance use providers
+* Consult with Treatment Director on relapse response and treatment adjustments
+* Coordinate with Licensed Therapist providing substance use-informed therapy
+* **[CRITICAL]** Implement non-punitive relapse response per FC-SU-01 Section 14
+
+**Foster Parent Support:**
+
+* Ensure foster parents complete Substance Use training (4 hours) per FC-16 Section 4.4
+* Verify foster home maintains substance-free environment per FC-SU-01 Section 7.4
+* Train foster parents on:
+  - Recognizing signs of substance use/intoxication
+  - Relapse warning signs and triggers
+  - Non-punitive, supportive response to relapse
+  - When and how to contact crisis support
+  - Medication storage and administration (if MAT)
+* Support foster parents through relapse events without blame
+
+**Crisis Response (Substance-Related):**
+
+* **[MEDICAL EMERGENCY]** Coordinate immediate 911 response for overdose or severe withdrawal
+* Follow FC-04 Crisis Management Procedure Section 4 for substance-related crises
+* Implement non-punitive relapse response protocol
+* Coordinate with Treatment Director and substance use treatment provider post-crisis
+* Update Service Plan within 3 business days of relapse event
+
+**Documentation:**
+
+* Recovery progress notes
+* Substance use treatment coordination records
+* Drug screening results and clinical interpretation
+* Relapse response documentation (non-punitive framing)
+* MAT coordination records (if applicable)
+* Foster home substance-free environment verification
+
+**Cross-Reference:** FC-SU-01 Substance Use Support Services Policy; FC-04 Crisis Management Procedure Section 4
+
+---
+
+### F. SHORT-TERM ASSESSMENT SUPPORT SERVICES COORDINATION
+
+**[Applies ONLY to Case Managers with Short-Term Assessment Service Package children]**
+
+**Caseload Ratio:** 1:12 (10 points per child in mixed caseload system)
+
+**Required Training Before Assignment:**
+* Short-Term Assessment training (4 hours) per FC-16 Section 4.5
+* Assessment coordination and documentation
+* Transition planning and communication
+* Unknown history crisis considerations
+
+**Placement Timeline Management:**
+
+* **Standard Assessment:** Maximum 30 days
+* **Extended Assessment:** Maximum 45 days (with SSCC/DFPS approval for complex cases)
+* Track timeline from Day 1; escalate timeline concerns to Program Director by Day 20
+
+**Assessment Coordination:**
+
+* Coordinate comprehensive assessment activities within timeline:
+  - Medical/dental screening (within 72 hours)
+  - CANS 3.0 initial assessment (within 14 days)
+  - Educational assessment coordination
+  - Behavioral observation and documentation
+  - Trauma history gathering (as information becomes available)
+* Facilitate Licensed Therapist assessment activities
+* Coordinate STAR Health assessments and authorizations
+* Compile assessment findings for Service Package recommendation
+
+**Initial 48-Hour Enhanced Coordination:**
+
+* Check in with foster parent daily during first 48 hours
+* Gather behavioral observations for expedited Personal Safety Plan
+* Assess need for clinical consultation based on early observations
+* Begin identifying potential crisis triggers from limited available history
+* **[CRITICAL]** Develop preliminary Personal Safety Plan within 72 hours
+
+**Service Planning (Assessment-Focused):**
+
+* Develop assessment-focused Service Plan within 7 days (vs. standard 30 days)
+* Focus on assessment objectives rather than long-term treatment goals
+* Document all observations systematically for transition
+* Update plan as assessment information emerges
+
+**Clinical Collaboration:**
+
+* Coordinate with Licensed Therapist on assessment activities (1:12 ratio)
+* Consult with Treatment Director on emerging clinical concerns
+* Participate in assessment staffings
+* Contribute to Service Package recommendation determination
+
+**Foster Parent Support:**
+
+* Ensure foster parents complete Short-Term Assessment training (4 hours) per FC-16 Section 4.5
+* **[CRITICAL]** Verify foster home capacity (maximum 4 STASS children per home)
+* Train foster parents on:
+  - Observation and behavioral documentation
+  - Supporting children through assessment process
+  - Managing uncertainty with unknown histories
+  - Transition preparation
+* Collect daily observations during initial period
+
+**Transition Coordination:**
+
+* **[CRITICAL]** Complete comprehensive Transition Summary documenting:
+  - All assessment findings
+  - Behavioral observations and patterns
+  - Crisis history and effective interventions
+  - Trigger identification
+  - Recommended Service Package with rationale
+* Communicate directly with receiving Case Manager
+* Ensure seamless information transfer per FC-STASS-01 Section 11
+* Coordinate placement transition logistics
+
+**Crisis Response (Assessment Period):**
+
+* Follow FC-04 Crisis Management Procedure Section 5 for STASS-specific protocols
+* Document all crisis information thoroughly for transition
+* Note effective and ineffective interventions
+* Include crisis patterns in Service Package recommendation
+
+**Documentation:**
+
+* Daily observation logs (first 48 hours)
+* Assessment activity tracking
+* Timeline compliance monitoring
+* Behavioral pattern documentation
+* Transition Summary (comprehensive)
+* Service Package recommendation with supporting evidence
+
+**Cross-Reference:** FC-STASS-01 Short-Term Assessment Support Services Policy; FC-04 Crisis Management Procedure Section 5
+
+---
+
+### G. T3C TREATMENT FOSTER FAMILY CARE COORDINATION
+
+**[Applies ONLY to Case Managers with Treatment Foster Family Care Service Package children]**
+
+**Caseload Ratio:** 1:6 (20 points per child in mixed caseload system)
+
+**Required Training Before Assignment:**
+* Treatment Foster Family Care training - clinical components
+* High-acuity population management
+* 60-day review processes
+* Step-down planning and coordination
+* Psychiatric emergency response coordination
+
+**Population Characteristics:**
+
+Children in TFFC have serious mental, emotional, or behavioral challenges requiring:
+- Concentrated therapeutic services
+- Intensive behavioral interventions
+- Close clinical monitoring
+- Active step-down planning toward less restrictive placement
+
+**Service Planning & Coordination:**
+
+* Complete CANS 3.0 assessments every 90 days
+* **[CRITICAL]** Conduct Service Plan reviews every 60 days (vs. standard 90 days)
+* Coordinate intensive therapy services (weekly minimum; 1:11 therapist ratio)
+* Coordinate Behavioral Support Specialist services (1:6 ratio)
+* Monitor treatment progress toward step-down readiness
+* **[CRITICAL]** Track 365-day maximum length of service; begin step-down planning early
+
+**60-Day Continued Stay Review Process:**
+
+* Prepare comprehensive 60-day review documentation including:
+  - CANS 3.0 progress analysis
+  - Treatment goal progress
+  - Crisis frequency and pattern analysis
+  - Behavioral trend data
+  - Step-down readiness indicators
+* **[CRITICAL]** Coordinate with Program Director AND Treatment Director for joint review
+* Obtain written confirmation of continued appropriateness
+* Submit documentation to SSCC/DFPS within 15 business days
+
+**Clinical Collaboration:**
+
+* **[CRITICAL]** Coordinate with On-Call Licensed Therapist (24/7 availability requirement)
+* Participate in intensive treatment team meetings (more frequent than standard packages)
+* Consult with Treatment Director on all clinical decisions
+* Collaborate with Behavioral Support Specialist on behavior plan implementation
+* Coordinate psychiatric services and medication management
+
+**Foster Parent Support:**
+
+* **[CRITICAL]** Ensure foster parents complete 20-hour specialized TFFC training per TAC §749.863(c) and FC-16 Section 4.6
+* **[CRITICAL]** Verify foster home capacity (maximum 2 TFFC children per home)
+* Provide enhanced support given high-acuity population:
+  - More frequent contact (minimum weekly)
+  - Proactive crisis prevention planning
+  - Respite coordination
+  - Vicarious trauma support
+* Train foster parents on:
+  - Managing high-acuity behaviors
+  - Implementing intensive behavior support plans
+  - Recognizing psychiatric emergencies
+  - Treatment team participation expectations
+* Ensure 8-hour annual specialized training completion
+
+**Crisis Response (High-Acuity):**
+
+* **[CRITICAL]** Contact On-Call Licensed Therapist for ALL crises (T3C Blueprint p.138 requirement)
+* Follow FC-04 Crisis Management Procedure Section 6 for TFFC-specific protocols
+* Coordinate psychiatric emergency response when indicated
+* Document crisis patterns for 60-day review integration
+* Assess crisis impact on step-down readiness
+
+**Step-Down Planning:**
+
+* Begin step-down planning discussions by Day 180 (6 months)
+* Identify step-down Service Package based on progress
+* Coordinate transition with receiving program/agency
+* Ensure therapeutic gains maintained through transition
+* **[CRITICAL]** Complete step-down before 365-day maximum unless extension approved
+
+**Documentation:**
+
+* Intensive progress notes (more detailed than standard)
+* 60-day review documentation package
+* Crisis pattern analysis
+* Step-down planning records
+* Treatment team meeting notes
+* On-Call Licensed Therapist consultation logs
+* Written continued stay confirmations
+
+**Cross-Reference:** FC-TFFC-01 T3C Treatment Foster Family Care Support Services Policy; FC-04 Crisis Management Procedure Section 6; FC-CSR-01 Continued Stay Review Policy
+
+---
+
+### H. SERVICE PACKAGE VARIATION STATEMENT
+
+> **Service Package Variation Notice:** Responsibilities within each T3C Service Package may vary based on individual child needs, regulatory updates, and CQI findings. Case Managers should consult the applicable umbrella policy (FC-SU-01, FC-STASS-01, FC-TFFC-01, FC-MH-01, FC-IDD-01) and corresponding procedures for detailed requirements. Training per FC-16 Staff and Caregiver Training Policy must be completed before assuming package-specific responsibilities.
 
 ---
 

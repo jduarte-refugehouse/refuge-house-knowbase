@@ -8,24 +8,31 @@ The Crisis Management Staff function provides immediate response and interventio
 
 ## Primary Objectives
 
-- **\[T3C\]** Provide crisis intervention services for all Service Packages  
-- Prevent placement disruptions through timely intervention  
-- **\[TBRI\]** Apply trauma-informed de-escalation techniques  
-- Ensure child and caregiver safety during crisis situations  
-- Support placement stability across all foster homes  
+- **[T3C]** Provide crisis intervention services for ALL Service Packages including Substance Use, Short-Term Assessment, and Treatment Foster Family Care
+- **[T3C]** Coordinate with On-Call Licensed Therapist for Treatment Foster Family Care crises
+- Prevent placement disruptions through timely intervention
+- **[TBRI]** Apply trauma-informed de-escalation techniques
+- Ensure child and caregiver safety during crisis situations
+- Support placement stability across all foster homes
 - Maintain agency's crisis response capability
 
 ## Key Responsibilities
 
 **Crisis Response**
 
-- **\[T3C\]** Respond to crises according to Service Package requirements:  
-  - Generally 1:25 ratio for most Service Packages  
-  - 24/7 on-call availability  
-  - Immediate response capability  
-- Provide telephone crisis support to foster families  
-- Conduct on-site crisis interventions when necessary  
-- **\[TBRI\]** Utilize trauma-informed de-escalation strategies
+- **[T3C]** Respond to crises according to Service Package requirements:
+  - T3C Basic: Standard TBRI® de-escalation and emergency behavior intervention
+  - Mental & Behavioral Health: Enhanced mental health crisis protocols; Treatment Director consultation
+  - IDD/Autism: Sensory-informed intervention; RN consultation available
+  - **Substance Use: Overdose/withdrawal emergency response; non-punitive relapse support; substance use provider coordination**
+  - **Short-Term Assessment: Unknown history protocols; enhanced documentation for transition; expedited safety planning**
+  - **Treatment Foster Family Care: On-Call Licensed Therapist coordination REQUIRED; psychiatric emergency response; 60-day review integration**
+- Generally 1:25 ratio for most Service Packages
+- 24/7 on-call availability
+- Immediate response capability
+- Provide telephone crisis support to foster families
+- Conduct on-site crisis interventions when necessary
+- **[TBRI]** Utilize trauma-informed de-escalation strategies
 
 **Assessment and Intervention**
 
@@ -61,11 +68,48 @@ The Crisis Management Staff function provides immediate response and interventio
 
 **Training and Prevention**
 
-- **\[TBRI\]** Train foster families in crisis prevention  
-- Develop crisis prevention plans for high-risk children  
-- **\[T3C\]** Provide Service Package specific crisis training  
-- Identify triggers and early warning signs  
+- **[TBRI]** Train foster families in crisis prevention
+- Develop crisis prevention plans for high-risk children
+- **[T3C]** Provide Service Package specific crisis training
+- Identify triggers and early warning signs
 - Support proactive intervention strategies
+
+---
+
+## Package-Specific Crisis Protocols
+
+### Substance Use Crisis Response
+
+* **[MEDICAL EMERGENCY]** Overdose: Immediate 911; Narcan if trained; recovery position
+* **[MEDICAL EMERGENCY]** Severe withdrawal: Immediate 911; monitor for seizures
+* Active intoxication: Safety monitoring; medical assessment as needed
+* Relapse (non-emergency): **Non-punitive clinical response**; Treatment Director notification; treatment plan adjustment
+* Coordinate with substance use treatment providers post-crisis
+* Follow FC-04 Crisis Management Procedure Section 4
+
+### Short-Term Assessment Crisis Response
+
+* Heightened vigilance due to unknown history
+* Document all crisis information thoroughly for transition
+* Note what interventions were effective/ineffective
+* Expedited Personal Safety Plan development (within 72 hours)
+* Include crisis patterns in Service Package recommendation
+* Follow FC-04 Crisis Management Procedure Section 5
+
+### Treatment Foster Family Care Crisis Response
+
+* **[CRITICAL]** Contact On-Call Licensed Therapist for ALL crises
+* Coordinate in-person Licensed Therapist response when clinically indicated
+* Psychiatric emergency protocols (suicidal ideation, psychotic episodes, severe dissociation)
+* Document crisis patterns for 60-day review integration
+* Assess crisis impact on step-down planning
+* Follow FC-04 Crisis Management Procedure Section 6
+
+---
+
+**[T3C] Service Package Responsibilities:** When serving children in specialized T3C Service Packages (Substance Use, Short-Term Assessment, Treatment Foster Family Care, Mental & Behavioral Health, IDD/Autism), responsibilities are adapted per the applicable umbrella policy and procedure. Staff must complete package-specific training per FC-16 Staff and Caregiver Training Policy before assuming specialized responsibilities. Consult FC-SU-01, FC-STASS-01, FC-TFFC-01, FC-MH-01, or FC-IDD-01 for detailed Service Package requirements.
+
+---
 
 ## Required Qualifications
 
@@ -86,9 +130,15 @@ The Crisis Management Staff function provides immediate response and interventio
 
 **Certifications**
 
-- CPR and First Aid required  
-- Crisis intervention certification preferred  
-- **\[TBRI\]** TBRI Practitioner level recommended
+- CPR and First Aid required
+- Crisis intervention certification preferred
+- **[TBRI]** TBRI Practitioner level recommended
+
+**Required Training:**
+
+- **[T3C]** Substance Use crisis response training (2 hours, included in FC-16 Section 4.4)
+- **[T3C]** Short-Term Assessment crisis protocols (1 hour, included in FC-16 Section 4.5)
+- **[T3C]** Treatment Foster Family Care crisis response (4 hours, included in FC-16 Section 4.6)
 
 ## Duty-Based Implementation
 

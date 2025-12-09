@@ -4,7 +4,9 @@
 
 ## **Position Overview**
 
-The Treatment Director is a full-time, exempt position reporting directly to the CEO **\[T3C\] and/or Program Director**. This role is responsible for the primary oversight and clinical management of the agency's therapeutic services, ensuring that all treatment programs are effectively directed and managed **\[T3C\] in accordance with the agency's Evidence-informed Treatment Model and Service Package requirements**.
+The Treatment Director is a full-time, exempt position reporting directly to the CEO **[T3C] and/or Program Director**. This role is responsible for the primary oversight and clinical management of the agency's therapeutic services, ensuring that all treatment programs are effectively directed and managed **[T3C] in accordance with the agency's Evidence-informed Treatment Model and Service Package requirements**.
+
+**[T3C]** This position fulfills the Treatment Director requirements for all T3C Service Packages including Mental & Behavioral Health Support Services, IDD/Autism Spectrum Disorder Support Services, Substance Use Support Services, Short-Term Assessment Support Services, and T3C Treatment Foster Family Care Support Services.
 
 ## **Primary Objectives**
 
@@ -27,6 +29,9 @@ The Treatment Director is a full-time, exempt position reporting directly to the
   * **\[T3C\]** Qualified Credentialed Counselors (QCC) for substance use services  
   * **\[T3C\]** Licensed Sex Offender Treatment Providers (LSOTP) for sexual aggression services  
 * **\[T3C\]** Ensure treatment aligns with desired individual outcomes for each Service Package
+* **\[T3C\]** Ensure On-Call Licensed Therapist coverage for Treatment Foster Family Care (24/7)
+* **\[T3C\]** Provide clinical oversight for substance use treatment coordination
+* **\[T3C\]** Review Short-Term Assessment recommendations before Service Package determination
 
 **Program Management**
 
@@ -56,8 +61,41 @@ The Treatment Director is a full-time, exempt position reporting directly to the
 
 * Be available on-call for supervisory issues  
 * Maintain knowledge of and compliance with Refuge House policies, procedures, and licensing requirements  
-* **\[T3C\]** Participate in Service Package credentialing processes  
+* **\[T3C\]** Participate in Service Package credentialing processes
 * **\[T3C\]** Ensure clinical documentation meets Service Package requirements
+
+**Service Package Clinical Oversight**
+
+*Substance Use Support Services Oversight:*
+
+* Review and approve substance use assessment recommendations
+* Consult on relapse response and treatment plan adjustments
+* Coordinate with substance use treatment providers
+* Ensure non-punitive approach maintained across treatment team
+* Provide clinical guidance for MAT coordination when applicable
+* Review drug screening results in clinical context
+* **Cross-Reference:** FC-SU-01
+
+*Short-Term Assessment Support Services Oversight:*
+
+* Approve assessment plans and methodology
+* Review assessment findings and Service Package recommendations
+* Provide clinical consultation for emerging concerns during assessment
+* Ensure assessment documentation supports package determination
+* **Cross-Reference:** FC-STASS-01
+
+*T3C Treatment Foster Family Care Oversight:*
+
+* **\[CRITICAL\]** Provide or coordinate On-Call Licensed Therapist availability (24/7 requirement per T3C Blueprint p.138)
+* **\[CRITICAL\]** Conduct 60-day Continued Stay Reviews jointly with Program Director
+* **\[CRITICAL\]** Provide written confirmation of continued appropriateness within 15 business days
+* Supervise Licensed Therapists providing intensive therapy (1:11 ratio)
+* Oversee step-down planning and readiness assessment
+* Review crisis patterns and treatment implications
+* Coordinate psychiatric services and medication management
+* Ensure treatment intensity matches high-acuity population needs
+* Monitor 365-day maximum length of service compliance
+* **Cross-Reference:** FC-TFFC-01; FC-CSR-01
 
 ## **Qualifications**
 
@@ -78,9 +116,15 @@ The Treatment Director is a full-time, exempt position reporting directly to the
 * Strong ability to handle cultural differences within the service population and staff  
 * Excellent communication, organizational, writing, and relationship development skills  
 * Ability to respond calmly to emergencies and de-escalate tense situations  
-* **\[T3C\]** Knowledge of Service Package requirements and expectations  
-* **\[T3C\]** Understanding of Evidence-informed Treatment Models  
+* **\[T3C\]** Knowledge of Service Package requirements and expectations
+* **\[T3C\]** Understanding of Evidence-informed Treatment Models
 * **\[TBRI\]** Proficiency in Trust-Based Relational Intervention approaches
+
+**Preferred Qualifications**
+
+* Experience with adolescent substance use treatment
+* Knowledge of psychiatric emergency response
+* Familiarity with step-down treatment models
 
 ## **Additional Requirements**
 
