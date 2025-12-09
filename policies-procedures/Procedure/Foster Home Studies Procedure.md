@@ -6,19 +6,19 @@
 | **PROCEDURE NUMBER** | FC17-01.1 |
 | **RELATED POLICY** | FC17-01 Foster Home Studies Policy |
 | **EFFECTIVE DATE** | 5/20/25 |
-| **REVISION DATE** | 8/25/25.1 |
+| **REVISION DATE** | 8/25/25.1; 12.09.2025.1 |
 
 | \#\# APPLICABLE T3C PACKAGES: | \#\# APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
 | ☒ T3C Basic Foster Family Home | ☐ Transition Support Services for Youth & Young Adults |
-| ☐ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
-| ☐ Short-Term Assessment | ☐ Pregnant & Parenting Youth or Young Adult |
+| ☒ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
+| ☒ Short-Term Assessment | ☐ Pregnant & Parenting Youth or Young Adult |
 | ☒ Mental & Behavioral Health |  |
 | ☐ Sexual Aggression/Sex Offender |  |
 | ☐ Complex Medical Needs or Medically Fragile |  |
 | ☐ Human Trafficking Victim/Survivor |  |
 | ☒ Intellectual or Developmental Disability (IDD)/Autism Spectrum Disorder |  |
-| ☐ T3C Treatment Foster Family Care |  |
+| ☒ T3C Treatment Foster Family Care |  |
 
 ## PURPOSE:
 
@@ -110,6 +110,194 @@ Kinship caregivers require modified assessment approaches that honor existing re
 | Kinship Specialist | Expedited kinship assessment via dashboard: 1\. Relationship verification 2\. Safety screening 3\. Support needs assessment 4\. Resource evaluation5. Placement readiness | Within 14 days | Kinship Caregiver Resource Dashboard | TAC §749.1401-1405 |
 | Kinship Specialist | Support planning through system: 1\. Identify resource needs 2\. Connect to services 3\. Plan respite support 4\. Address training gaps5. Document support plan | Ongoing | Staff Support Dashboard for Kinship Placements | T3C Blueprint Kinship Add-On |
 
+### 6B. SUBSTANCE USE SUPPORT SERVICES FOSTER HOME CREDENTIALING
+
+**Purpose and Overview**
+
+Credentialing for Substance Use Support Services ensures foster families are prepared to support children with substance use disorders through recovery-focused, non-punitive approaches. These requirements build upon Mental & Behavioral Health credentialing with substance-use-specific competencies.
+
+#### Package-Specific Credentialing Requirements Summary
+
+| Package | Training Hours | Capacity Limit | Special Requirements |
+|---------|---------------|----------------|---------------------|
+| **Substance Use** | 4 hours SU-specific | Per MH standards | Substance-free home; recovery-supportive approach |
+| **Short-Term Assessment** | 4 hours STASS-specific | **Maximum 4 children** | Observation/documentation competency; transition management |
+| **Treatment Foster Care** | **20 hours additional** (per TAC §749.863(c)) | **Maximum 2 children** | **Dual credentialing** (TFFC + Basic); intensive competencies |
+
+#### SU-CRED-1. Eligibility Prerequisites
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify foster home holds current T3C Basic Foster Family Home credential 2. Verify Mental & Behavioral Health credential (SU follows MH pattern) 3. Confirm no substance-related compliance issues in home history 4. Document eligibility status | Before initiating SU credentialing | Credentialing system | T3C Blueprint; FC-MH-01 |
+
+#### SU-CRED-2. Substance Abuse Awareness Training (4 Hours)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Training Coordinator | 1. Schedule foster parents for 4-hour substance abuse awareness training 2. Training must cover: - Understanding addiction as disease (not moral failing) - Signs of substance use and intoxication - Relapse warning signs and triggers - **Non-punitive, recovery-supportive approach** - Responding to relapse appropriately - Maintaining substance-free home environment - Understanding Medication-Assisted Treatment (MAT) 3. Document training completion | Before placement of SU-package child | Training facility or online | T3C Blueprint; FC-SU-01 |
+| Home Development Specialist | 1. Verify training completion certificate 2. Document in foster home credential file 3. Update credential status in system | Within 5 days of training completion | Credentialing module | FC-16 |
+
+#### SU-CRED-3. Home Environment Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Conduct substance-free home environment assessment: - All medications secured (locked storage) - Alcohol not accessible to youth - No tobacco/nicotine products accessible - Prescription medications with abuse potential secured separately - Over-the-counter medications with abuse potential secured 2. Document assessment findings 3. Identify any remediation needed | During credentialing assessment | Foster home | T3C Blueprint; FC-SU-01 |
+
+#### SU-CRED-4. Recovery-Supportive Competency Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Assess foster parent understanding of: - Addiction as chronic condition requiring ongoing support - Recovery as process with potential setbacks - Non-punitive response to relapse - Supporting MAT compliance if applicable - Creating recovery-supportive environment 2. Use SU Competency Checklist 3. Document competency demonstration | During credentialing assessment | Foster home or office | T3C Blueprint; FC-SU-01 |
+
+#### SU-CRED-5. Credentialing Approval
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Credentialing Committee | 1. Review all SU-specific documentation: - Training completion - Home environment assessment - Competency assessment 2. Approve, deny, or approve with conditions 3. Document decision and rationale | Within 7 days of complete application | Committee review | TAC §749.863 |
+| Home Development Specialist | 1. Notify foster family of decision 2. Issue SU credential certificate if approved 3. Update system with credential status 4. Schedule any follow-up if conditions attached | Within 3 days of committee decision | Written notification | T3C Blueprint |
+
+### 6C. SHORT-TERM ASSESSMENT SUPPORT SERVICES FOSTER HOME CREDENTIALING
+
+**Purpose and Overview**
+
+Credentialing for Short-Term Assessment Support Services ensures foster families are prepared to support children during time-limited assessment placements. These families must demonstrate competency in observation, documentation, and managing frequent transitions.
+
+#### STASS-CRED-1. Eligibility Prerequisites
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify foster home holds current T3C Basic Foster Family Home credential 2. Verify home has capacity for assessment placements (maximum 4 children unless sibling group) 3. Assess family's ability to manage short-term placements 4. Document eligibility status | Before initiating STASS credentialing | Credentialing system | T3C Blueprint p.75 |
+
+#### STASS-CRED-2. Short-Term Assessment Training (4 Hours)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Training Coordinator | 1. Schedule foster parents for 4-hour Short-Term Assessment training 2. Training must cover: - Understanding assessment placement purpose - Observation and behavioral documentation - Supporting children through multiple assessments - Maintaining stability during short-term placement - Managing frequent transitions - Communicating observations to assessment team - Supporting assessment appointments 3. Document training completion | Before placement of STASS-package child | Training facility or online | T3C Blueprint p.68-75 |
+| Home Development Specialist | 1. Verify training completion certificate 2. Document in foster home credential file 3. Update credential status in system | Within 5 days of training completion | Credentialing module | FC-16 |
+
+#### STASS-CRED-3. Observation and Documentation Competency Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Assess foster parent competency in: - Observing and documenting child behaviors - Tracking assessment appointments - Communicating observations to Case Manager - Maintaining daily logs - Recording behavioral patterns 2. Use STASS Observation Competency Checklist 3. Document competency demonstration | During credentialing assessment | Foster home or office | T3C Blueprint p.68-69 |
+
+#### STASS-CRED-4. Transition Management Competency Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Assess foster parent ability to: - Support children through short-term placements - Manage attachment and separation appropriately - Prepare children for transitions - Maintain emotional availability despite short placement - Support assessment process completion 2. Document transition readiness assessment | During credentialing assessment | Foster home or office | T3C Blueprint p.67-75 |
+
+#### STASS-CRED-5. Capacity Verification
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify home capacity does not exceed 4 children (unless sibling group placement) 2. Document current census 3. Establish capacity monitoring process | During credentialing assessment; ongoing | Home capacity tracking | T3C Blueprint p.75 |
+
+#### STASS-CRED-6. Credentialing Approval
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Credentialing Committee | 1. Review all STASS-specific documentation: - Training completion - Observation/documentation competency - Transition management competency - Capacity verification 2. Approve, deny, or approve with conditions 3. Document decision and rationale | Within 7 days of complete application | Committee review | TAC §749.863 |
+| Home Development Specialist | 1. Notify foster family of decision 2. Issue STASS credential certificate if approved 3. Update system with credential status 4. Document capacity limit in system | Within 3 days of committee decision | Written notification | T3C Blueprint |
+
+### 6D. T3C TREATMENT FOSTER FAMILY CARE CREDENTIALING
+
+**Purpose and Overview**
+
+Credentialing for Treatment Foster Family Care represents the most intensive foster home credentialing level, preparing families to provide the highest level of clinical intervention available in a family setting. **CRITICAL:** Both the foster home AND the CPA must maintain DUAL credentials for Treatment Foster Care AND Basic Foster Family Home to allow step-down within the same home.
+
+#### TFFC-CRED-1. Eligibility Prerequisites
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify foster home holds current T3C Basic Foster Family Home credential (**REQUIRED for dual credentialing**) 2. Verify Mental & Behavioral Health credential (TFFC builds on MH) 3. Assess family capacity for intensive services (maximum 2 children) 4. Verify family availability for multiple meetings per week 5. Document eligibility status | Before initiating TFFC credentialing | Credentialing system | T3C Blueprint p.143-144; Texas Family Code §264.1073 |
+
+#### TFFC-CRED-2. Treatment Foster Care Specialized Training (20 Hours)
+
+**Per TAC §749.863(c):** Caregivers must complete **20 hours additional training** beyond standard foster parent training.
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Training Coordinator | 1. Schedule foster parents for 20-hour Treatment Foster Care specialized training 2. Training must cover: - Managing high-acuity behaviors - Implementing intensive behavior support plans - Crisis intervention and de-escalation (advanced) - Supporting concentrated therapeutic treatment - Recognizing and responding to psychiatric emergencies - Understanding DSM-5 diagnoses - Working with treatment team - Maintaining therapeutic environment - Self-care and caregiver wellness 3. Document training completion | Before placement of TFFC-package child | Training facility | TAC §749.863(c); T3C Blueprint p.143 |
+| Home Development Specialist | 1. Verify 20-hour training completion certificate 2. Document in foster home credential file 3. Update credential status in system | Within 5 days of training completion | Credentialing module | FC-16; TAC §749.863(c) |
+
+#### TFFC-CRED-3. Intensive Service Competency Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Clinical Team | 1. Assess foster parent competency in: - Implementing intensive behavior support plans consistently - Responding immediately during child crisis - Maintaining structured therapeutic environment - Recognizing psychiatric emergencies - Documenting behaviors and interventions - Participating in treatment team meetings 2. Use TFFC Competency Assessment Tool 3. Document clinical assessment findings | During credentialing assessment | Foster home and clinical setting | T3C Blueprint p.143-144 |
+
+#### TFFC-CRED-4. Availability and Commitment Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Assess foster parent ability to: - Attend multiple meetings per week (therapy, treatment team, school) - Respond immediately when child is in crisis (24/7 availability) - Participate in therapy with child as needed - Commit to intensive service demands 2. Document availability assessment 3. Verify support system for caregiver wellness | During credentialing assessment | Foster home | T3C Blueprint p.143 |
+
+#### TFFC-CRED-5. Capacity Verification (Maximum 2 Children)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify home capacity does not exceed **2 children in foster care** 2. Document current census 3. Establish capacity monitoring process 4. **Note:** Lower capacity due to intensity of services required | During credentialing assessment; ongoing | Home capacity tracking | T3C Blueprint p.143 |
+
+#### TFFC-CRED-6. Dual Credentialing Verification
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify foster home maintains BOTH: - T3C Treatment Foster Family Care credential - T3C Basic Foster Family Home credential 2. Document dual credential status 3. **Critical:** Dual credentialing allows step-down to Basic in same home 4. Flag homes without dual credential (cannot accept TFFC placements) | Before TFFC credential issuance | Credentialing system | T3C Blueprint p.143 |
+
+#### TFFC-CRED-7. Credentialing Approval
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Credentialing Committee | 1. Review all TFFC-specific documentation: - 20-hour specialized training completion - Intensive service competency assessment - Availability and commitment assessment - Capacity verification (max 2) - Dual credentialing status 2. **Require clinical team input** 3. Approve, deny, or approve with conditions 4. Document decision and rationale | Within 7 days of complete application | Committee review with clinical input | TAC §749.863; T3C Blueprint p.143-144 |
+| Home Development Specialist | 1. Notify foster family of decision 2. Issue TFFC credential certificate if approved (**simultaneously with Basic credential verification**) 3. Update system with dual credential status 4. Document capacity limit (max 2) in system | Within 3 days of committee decision | Written notification | T3C Blueprint |
+
+### 6E. PACKAGE-SPECIFIC CREDENTIAL MAINTENANCE
+
+**Purpose and Overview**
+
+Foster homes with package-specific credentials require enhanced ongoing monitoring and annual compliance review to maintain their credentialing status.
+
+#### Annual Compliance Review Requirements
+
+| Package | Annual Training Requirement | Special Monitoring |
+|---------|---------------------------|-------------------|
+| Substance Use | Refresher on recovery support (2 hours) | Home environment re-assessment |
+| Short-Term Assessment | Documentation competency review | Capacity monitoring |
+| Treatment Foster Care | 8 hours annual specialized training | Competency reassessment; dual credential verification |
+
+#### SU Annual Compliance
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify annual SU refresher training completed 2. Re-assess home environment for substance-free status 3. Review any incidents related to SU placements 4. Document annual compliance | Annually at credential anniversary | Home visit; Training documentation | T3C Blueprint; FC-SU-01 |
+
+#### STASS Annual Compliance
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Review observation/documentation quality 2. Verify capacity compliance maintained 3. Review transition outcomes for children placed 4. Document annual compliance | Annually at credential anniversary | Placement data review | T3C Blueprint p.67-75 |
+
+#### TFFC Annual Compliance
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify 8-hour annual specialized training completed 2. Re-assess intensive service competencies 3. Verify dual credential maintained (TFFC + Basic) 4. Verify capacity compliance (max 2) 5. Review placement outcomes 6. **Require clinical team input** 7. Document annual compliance | Annually at credential anniversary | Home visit; Clinical review | TAC §749.863(c); T3C Blueprint p.143-144 |
+
+### 6F. FOSTER HOME CREDENTIALING REQUIREMENTS COMPARISON
+
+| Requirement | Substance Use | Short-Term Assessment | Treatment Foster Care |
+|-------------|:-------------:|:---------------------:|:---------------------:|
+| **Basic Credential Required** | ✅ | ✅ | ✅ |
+| **MH Credential Required** | ✅ | ❌ | ✅ |
+| **Dual Credentialing** | ❌ | ❌ | ✅ **REQUIRED** (TFFC + Basic) |
+| **Package-Specific Training** | 4 hours | 4 hours | **20 hours** |
+| **Competency Assessment** | Recovery-supportive approach | Observation/documentation; Transitions | Intensive service; Crisis response |
+| **Home Environment** | Substance-free verification | Standard | Standard |
+| **Capacity Limit** | Per MH standards | **Max 4 children** | **Max 2 children** |
+| **Clinical Team Review** | Optional | Optional | **REQUIRED** |
+| **Annual Training** | 2-hour refresher | Standard | 8 hours specialized |
+
 ### 7\. QUALITY ASSURANCE AND CONTINUOUS IMPROVEMENT
 
 **Purpose and Overview**
@@ -152,14 +340,37 @@ Systematic quality review ensures home studies meet standards while continuously
 
 ### Supporting Documents:
 
-- Home Study Application  
-- Criminal History Consent Forms  
-- Reference Forms (minimum 3\)  
-- Financial Statement Template  
-- Home Safety Inspection Checklist  
-- Evacuation Plan Template  
-- Interview Question Guides  
+- Home Study Application
+- Criminal History Consent Forms
+- Reference Forms (minimum 3\)
+- Financial Statement Template
+- Home Safety Inspection Checklist
+- Evacuation Plan Template
+- Interview Question Guides
 - Annual Re-credentialing Checklist
+
+### Substance Use Credentialing Forms:
+
+- Substance Use Support Services Credentialing Checklist
+- Substance-Free Home Environment Assessment
+- SU Competency Assessment Checklist
+- SU Credential Certificate
+
+### Short-Term Assessment Credentialing Forms:
+
+- Short-Term Assessment Credentialing Checklist
+- STASS Observation Competency Checklist
+- Transition Management Assessment Form
+- STASS Credential Certificate
+
+### Treatment Foster Family Care Credentialing Forms:
+
+- Treatment Foster Care Credentialing Checklist
+- TFFC 20-Hour Training Verification
+- TFFC Competency Assessment Tool
+- Availability and Commitment Assessment
+- Dual Credentialing Verification Form
+- TFFC Credential Certificate
 
 ---
 
