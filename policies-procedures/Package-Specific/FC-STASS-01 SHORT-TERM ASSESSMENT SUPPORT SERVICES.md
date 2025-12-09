@@ -39,6 +39,9 @@ This umbrella policy aggregates all requirements for Short-Term Assessment Suppo
 
 **Integration Framework:** This document works in conjunction with:
 - **FC-T3C-01** T3C Basic Foster Family Home Support Services Policy (master T3C framework)
+- **FC-04** Crisis Management Policy (assessment period crisis principles)
+- **FC-04.1** Crisis Management Procedure Section 5 (Short-Term Assessment crisis protocols)
+- **FC-16** Staff and Caregiver Training Policy Section 4.5 (STASS training requirements)
 - **FC1-01.1** Admission Screening Procedure
 - **FC2-01.1** Admission Assessment Procedure
 - **FC3-01.1** Individual Service Planning Procedure
@@ -216,7 +219,18 @@ Results inform Service Package recommendation for transition.
 
 ### 5.4 24/7 Crisis Availability
 
-**Cross-Reference:** Crisis response follows **Crisis Management Staffing Plan** with case manager level or above staff available 24/7.
+**Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 5**
+
+**CRITICAL CONSIDERATION:** Children in Short-Term Assessment often have unknown histories, requiring heightened vigilance and enhanced documentation.
+
+| Assessment Period Crisis Requirement | Protocol | Reference |
+|-------------------------------------|----------|-----------|
+| Unknown History Approach | Assume potential trauma; use TBRI® de-escalation | FC-04.1 Section 5.2 |
+| Expedited Personal Safety Plan | Within 72 hours of placement (vs. standard timeline) | FC-04.1 Section 5.3 |
+| Enhanced Crisis Documentation | Document ALL interventions (effective and ineffective) for transition | FC-04.1 Section 5.4 |
+| Transition Crisis Summary | Include crisis patterns in Service Package recommendation | FC-04.1 Section 5.5 |
+
+**Staff Training:** Per **FC-16 Staff and Caregiver Training Policy Section 4.5**, all staff serving STASS population must complete 4-hour Short-Term Assessment training including crisis protocols for unknown history children.
 
 ### 5.5 Human Trafficking Prevention
 
@@ -266,6 +280,19 @@ Results inform Service Package recommendation for transition.
 
 Admissions and placement staff on-call/available **365 days per year, 24 hours per day**.
 
+### 6.5 Job Description Cross-References
+
+Staff fulfilling these roles must have package-specific responsibilities incorporated into their job descriptions:
+
+| Role | Job Description Section | Key STASS Responsibilities |
+|------|------------------------|----------------------------|
+| Case Manager | Section F: STASS Coordination | Timeline management; 48-hr monitoring; transition documentation |
+| Crisis Management Staff | Package-Specific Protocols | Unknown history protocols; enhanced documentation |
+| Intake/Placement Coordinator | STASS Screening Section | Capacity verification (max 4); expedited placement |
+| Treatment Director | STASS Oversight Section | Assessment approval; package recommendation review |
+
+**Cross-Reference:** See **Job Description Targeted Additions - SU/STASS/TFFC** for complete duty specifications.
+
 ---
 
 ## 7. FOSTER FAMILY HOME REQUIREMENTS
@@ -285,7 +312,12 @@ Admissions and placement staff on-call/available **365 days per year, 24 hours p
 
 ### 7.3 Caregiver Training
 
-**Cross-Reference:** Training requirements per **FC-16 Caregiver Training Policy** and **T3C Staff and Caregiver Training Plan** with additional assessment-focused training.
+**Cross-Reference:** Training per **FC-16 Staff and Caregiver Training Policy Section 4.5** which specifies:
+- 4-hour Short-Term Assessment training (required before first STASS placement)
+- Annual 2-hour refresher training
+- Topics: observation documentation, supporting assessment process, unknown history considerations, transition support
+
+Foster parents must also complete training on crisis response per **FC-04 Crisis Management Policy** with emphasis on expedited safety planning.
 
 ---
 
@@ -454,7 +486,23 @@ This procedure section implements the governing principles established in Sectio
 - Educational records and recommendations
 - Service Package recommendation with justification
 
-### 14.4 No Aftercare Required
+### 14.4 Comprehensive Transition Summary with Crisis Patterns
+
+**Cross-Reference:** This section aligns with **FC-14.01 Discharge and Permanency Planning Policy** with STASS-specific requirements.
+
+The Comprehensive Transition Summary must include:
+
+| Section | Content Required | Source |
+|---------|-----------------|--------|
+| Assessment Findings | All assessment results and clinical observations | Assessment activities |
+| Behavioral Observations | Patterns noted during assessment period | Daily observation logs |
+| **Crisis History** | All crisis incidents with effective/ineffective interventions | FC-04.1 Section 5 documentation |
+| Trigger Identification | Known triggers discovered during assessment | Observation and crisis data |
+| Service Package Recommendation | Clinical determination with supporting rationale | Treatment Director approval |
+
+**CRITICAL:** Crisis patterns and intervention effectiveness must be communicated to receiving Case Manager to prevent unnecessary re-escalation.
+
+### 14.5 No Aftercare Required
 
 **Package-Specific:** Aftercare services per **FC-AF-01 Aftercare Services Policy** are NOT required for Short-Term Assessment. Case Manager ensures complete handoff to receiving Case Manager.
 
@@ -558,10 +606,14 @@ For Short-Term Assessment, TBRI principles are applied to:
 - **FC-17** Continuous Quality Improvement Policy
 - **CQI Plan**
 
+### Crisis Management:
+- **FC-04** Crisis Management Policy
+- **FC-04.1** Crisis Management Procedure (Section 5: Short-Term Assessment)
+- **FC-16** Staff and Caregiver Training Policy (Section 4.5: STASS Training)
+
 ### Other:
 - **FC-HT-01** Human Trafficking Prevention Policy
 - **TBRI Treatment Model Executive Summary**
-- **Crisis Management Staffing Plan**
 
 ---
 
@@ -574,6 +626,11 @@ For Short-Term Assessment, TBRI principles are applied to:
 - Service Plan - Short-Term Assessment Supplement
 - Service Package Recommendation Form
 - Transition Summary Template
+
+**Crisis Management Forms (per FC-04.1):**
+- Short-Term Assessment Crisis Observation Log
+- STASS Crisis Transition Summary Template
+- Expedited Personal Safety Plan (72-hour)
 
 ---
 

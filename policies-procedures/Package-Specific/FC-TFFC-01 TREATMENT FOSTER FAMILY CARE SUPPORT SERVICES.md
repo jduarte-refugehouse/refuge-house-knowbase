@@ -42,6 +42,9 @@ This umbrella policy aggregates all requirements for T3C Treatment Foster Family
 **Integration Framework:** This document works in conjunction with:
 - **FC-T3C-01** T3C Basic Foster Family Home Support Services Policy (master T3C framework)
 - **FC-MH-01** Mental & Behavioral Health Support Services Policy (clinical framework)
+- **FC-04** Crisis Management Policy (high-acuity crisis principles)
+- **FC-04.1** Crisis Management Procedure Section 6 (Treatment Foster Family Care crisis protocols)
+- **FC-16** Staff and Caregiver Training Policy Section 4.6 (TFFC training requirements)
 - **FC1-01.1** Admission Screening Procedure
 - **FC2-01.1** Admission Assessment Procedure
 - **FC3-01.1** Individual Service Planning Procedure
@@ -207,9 +210,20 @@ Child must receive **regular and frequent** therapeutic services:
 | CANS 3.0 | Every 90 days | Every 90 days |
 | Step-Down Assessment | At each 60-day review | Not applicable |
 
-### 5.3 24/7 Crisis Availability
+### 5.3 24/7 Crisis Availability with On-Call Licensed Therapist
 
-**Cross-Reference:** Crisis response per **Crisis Management Staffing Plan** with immediate access to clinical intervention when behavioral escalation occurs.
+**Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 6**
+
+**CRITICAL REQUIREMENT (T3C Blueprint p.138):** On-Call Licensed Therapist must be contacted for ALL crises involving Treatment Foster Family Care children.
+
+| Crisis Component | Requirement | Reference |
+|-----------------|-------------|-----------|
+| On-Call Licensed Therapist | 24/7 availability; contact for ALL crises | T3C Blueprint p.138; FC-04.1 Section 6.2 |
+| In-Person Response | When clinically indicated per Licensed Therapist | FC-04.1 Section 6.3 |
+| Psychiatric Emergency | Specialized protocols for suicidal ideation, psychosis, severe dissociation | FC-04.1 Section 6.4 |
+| 60-Day Review Integration | Crisis patterns documented and analyzed at each review | FC-04.1 Section 6.5 |
+
+**Staff Training:** Per **FC-16 Staff and Caregiver Training Policy Section 4.6**, all staff serving TFFC population must complete clinical components of 20-hour specialized training including high-acuity crisis response.
 
 ### 5.4 Human Trafficking Prevention
 
@@ -259,7 +273,32 @@ Child must receive **regular and frequent** therapeutic services:
 
 **Package-Specific Requirement:** Dedicated program with **1 skilled Intermittent Alternative Care Caregiver for every 20 children** receiving Treatment Foster Family Care to ensure caregiver wellness.
 
-### 6.5 Hours of Operation
+### 6.5 On-Call Licensed Therapist Requirement
+
+**T3C Blueprint p.138 Requirement:** Child Placing Agency must ensure on-call access to a Licensed Therapist who is trained in the CPA's Evidence-informed Treatment Model.
+
+**Implementation:** Treatment Director coordinates on-call coverage through:
+- Contracted therapists with Superior HealthPlan/STAR Health network credentialing
+- CPA staff therapists with on-call rotation
+- Treatment Director serving as clinical backup
+
+**Cross-Reference:** See **FC-04.1 Crisis Management Procedure Section 6.2** for On-Call Licensed Therapist protocols.
+
+### 6.6 Job Description Cross-References
+
+Staff fulfilling these roles must have package-specific responsibilities incorporated into their job descriptions:
+
+| Role | Job Description Section | Key TFFC Responsibilities |
+|------|------------------------|---------------------------|
+| Case Manager | Section G: TFFC Coordination | 60-day reviews; 1:6 ratio; on-call therapist coordination; step-down planning |
+| Crisis Management Staff | Package-Specific Protocols | On-call therapist contact REQUIRED; psychiatric emergency response |
+| Treatment Director | TFFC Oversight Section | 60-day review leadership; on-call therapist coordination; dual-signature confirmation |
+| Behavior Support Specialist | Package Variation Section | 1:6 intensive ratio; behavior plan implementation |
+| Aftercare Case Manager | Package-Specific Aftercare | Weekly contact first month; extended monitoring |
+
+**Cross-Reference:** See **Job Description Targeted Additions - SU/STASS/TFFC** for complete duty specifications.
+
+### 6.7 Hours of Operation
 
 Admissions and placement staff on-call/available **365 days per year, 24 hours per day**.
 
@@ -288,7 +327,12 @@ This allows step-down to Basic Package in same home when appropriate.
 - Supporting concentrated therapeutic treatment
 - Recognizing and responding to psychiatric emergencies
 
-**Cross-Reference:** Training per **FC-16 Caregiver Training Policy** and **T3C Staff and Caregiver Training Plan**.
+**Cross-Reference:** Training per **FC-16 Staff and Caregiver Training Policy Section 4.6** which specifies:
+- **20-hour specialized TFFC training** (required before first TFFC placement) per TAC §749.863(c)
+- 8-hour annual specialized training
+- Topics: high-acuity behavior management, psychiatric emergency recognition, intensive treatment team participation, step-down transition support
+
+Foster parents must also complete training on crisis response per **FC-04 Crisis Management Policy** with emphasis on On-Call Licensed Therapist coordination.
 
 ### 7.4 Caregiver Competencies
 
@@ -462,7 +506,31 @@ This procedure section implements the governing principles established in Sectio
 | :---- | :---- | :---- | :---- |
 | Case Manager | 1. Compile complete submission package with BOTH signatures 2. Include Service Plan T3C Supplement 3. Submit to SSCC/DFPS 4. Document submission in case record 5. Confirm receipt | **Within 15 business days of 60-day review** | **CRITICAL DEADLINE: T3C Blueprint p.145** |
 
-### 13.4 Step-Down Determination
+### 13.4 Crisis Pattern Integration in 60-Day Reviews
+
+**Cross-Reference:** This requirement aligns with **FC-04.1 Crisis Management Procedure Section 6.5**
+
+At each 60-day Continued Stay Review, the following crisis analysis must be included:
+
+| Review Component | Content | Responsible Party |
+|-----------------|---------|-------------------|
+| Crisis Incident Summary | All crises during review period | Case Manager |
+| Pattern Analysis | Frequency, triggers, intensity trends | Case Manager/Treatment Director |
+| Intervention Effectiveness | What worked; what didn't | Treatment Director |
+| Step-Down Implications | Crisis patterns impact on readiness | Treatment Director |
+
+**Step-Down Readiness Indicators Based on Crisis Patterns:**
+
+| Pattern | Implication |
+|---------|-------------|
+| Significant reduction in frequency/intensity | May indicate step-down readiness |
+| Stable pattern without improvement | Treatment adjustment needed before step-down |
+| Increasing frequency/intensity | Step-down not appropriate; intensify treatment |
+| Crisis-free for extended period | Strong step-down readiness indicator |
+
+**Documentation:** Use TFFC 60-Day Crisis Pattern Analysis Template.
+
+### 13.5 Step-Down Determination
 
 At each 60-day review, assess whether child can transition to:
 - Same home under Basic Foster Family Home Package (if dually credentialed and child stable)
@@ -645,10 +713,14 @@ For Treatment Foster Family Care, intensive clinical interventions are integrate
 - **FC-17** Continuous Quality Improvement Policy
 - **CQI Plan**
 
+### Crisis Management:
+- **FC-04** Crisis Management Policy
+- **FC-04.1** Crisis Management Procedure (Section 6: Treatment Foster Family Care)
+- **FC-16** Staff and Caregiver Training Policy (Section 4.6: TFFC Training)
+
 ### Other:
 - **FC-HT-01** Human Trafficking Prevention Policy
 - **TBRI Treatment Model Executive Summary**
-- **Crisis Management Staffing Plan**
 
 ---
 
@@ -661,6 +733,11 @@ For Treatment Foster Family Care, intensive clinical interventions are integrate
 - Step-Down Readiness Assessment Tool
 - Aftercare Services Plan Template
 - Monthly Aftercare Report Template
+
+**Crisis Management Forms (per FC-04.1):**
+- Treatment Foster Family Care Psychiatric Emergency Checklist
+- TFFC 60-Day Crisis Pattern Analysis Template
+- On-Call Licensed Therapist Consultation Log
 
 ---
 
