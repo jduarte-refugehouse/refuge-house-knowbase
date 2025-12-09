@@ -6,7 +6,7 @@
 | **PROCEDURE NUMBER** | FC14-01.1 |
 | **RELATED POLICY** | FC14-01 T3C Discharge and Permanency Planning Policy |
 | **EFFECTIVE DATE** | \[Date\] |
-| **REVISION DATE** | 12.27.2024.1 |
+| **REVISION DATE** | 12.27.2024.1; 12.09.2025.1 |
 
 | APPLICABLE T3C PACKAGES: | APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -30,15 +30,18 @@ This procedure operationalizes the T3C Discharge and Permanency Planning Policy 
 
 ## RESPONSIBILITY:
 
-- Case Managers  
-- Program Directors  
-- Treatment Directors  
-- Foster Parents  
-- Quality Assurance Staff  
-- Therapists  
-- Medical Personnel  
-- Aftercare Case Managers (for applicable packages)  
+- Case Managers
+- Program Directors
+- Treatment Directors
+- Foster Parents
+- Quality Assurance Staff
+- Therapists
+- Medical Personnel
+- Aftercare Case Managers (for applicable packages)
 - Registered Nurses (for IDD/Autism package)
+- Substance Use Counselor/Therapist (for Substance Use package - treatment transfer coordination)
+- Receiving CPA Case Manager (for Short-Term Assessment - transition coordination)
+- Behavior Support Specialist (for Treatment Foster Family Care - intervention transfer)
 
 ## PROCEDURE:
 
@@ -293,6 +296,138 @@ These package-specific requirements supplement, not replace, the core discharge 
 | Case Manager | For enhanced packages, DFPS notification must include: 1\. Copy of Enhanced Continued Stay Confirmation Form 2\. Anticipated discharge date (even if tentative) 3\. Barriers being addressed 4\. Aftercare plan summary 5\. Step-down placement needs | Within 24 hours of discharge decision | IMPACT and secure email | **Contract Term 7** |
 | Program Director | For extended stays beyond expected LOS: 1\. Provide written explanation to DFPS 2\. Share action plan with timelines 3\. Request system-level support if needed 4\. Schedule case conference | At 150% of expected LOS | Written communication | T3C Blueprint p.85, p.134 |
 
+#### 6.3 ☒ SUBSTANCE USE SUPPORT SERVICES DISCHARGE PROCEDURES
+
+##### Purpose and Overview
+
+Discharge planning for children in Substance Use Support Services requires specialized focus on recovery support continuity, treatment coordination, and environment preparation. These procedures ensure the receiving placement can maintain the recovery-supportive environment critical for sustained progress.
+
+##### SU-1. Recovery-Focused Discharge Planning
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Begin recovery-focused discharge planning addressing: - Current recovery status and stability - Ongoing treatment recommendations - Community recovery resource connections - Receiving placement environment requirements 2. Integrate into Service Plan reviews | At admission and each 90-day review | Service Plan | T3C Blueprint; FC-SU-01 |
+| Treatment Director | 1. Assess step-down readiness at each 90-day review: - Recovery stability indicators - Treatment engagement level - Relapse history and response - Sustained progress on goals 2. Recommend step-down when recovery stable | At each 90-day review | Clinical assessment | T3C Blueprint; FC14-01 |
+
+##### SU-2. Recovery Support Transfer
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Prepare Recovery Support Transfer Summary including: - Substance use treatment history and progress - Current treatment providers and contact information - Medication-assisted treatment status (if applicable) - Recovery meeting/support group attendance history - Identified triggers and effective coping strategies 2. Document relapse prevention plan | 14 days before discharge | Recovery Support Transfer Summary | FC-SU-01 |
+| Case Manager | 2. Coordinate community recovery connections: - Identify recovery resources in receiving placement area - Facilitate introductions to recovery programs - Schedule initial recovery meeting attendance - Connect with peer support networks | 14 days before discharge | Recovery resource plan | T3C Blueprint |
+| Therapist/SU Counselor | 3. Prepare clinical transfer documentation: - Treatment summary with progress - Recommended continuing care level - Provider recommendations for receiving area - Warm handoff to receiving provider (if possible) | 7 days before discharge | Clinical transfer summary | FC-SU-01 |
+
+##### SU-3. Receiving Placement Environment Preparation
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Assess receiving placement environment: - Verify substance-free environment commitment - Confirm medication storage capabilities - Assess caregiver understanding of recovery support - Identify any environmental risk factors 2. Document assessment findings | 7 days before discharge | Environment assessment | T3C Blueprint |
+| Case Manager | 2. Provide caregiver education: - Recovery-supportive approach training - Non-punitive relapse response education - Warning signs recognition - Crisis response protocols - Recovery meeting transportation support | Before discharge | Caregiver education documentation | FC-SU-01 |
+
+##### SU-4. Aftercare Services Initiation
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Initiate aftercare transition per FC-AF-01: - Transfer case to Aftercare Case Manager - Provide complete recovery documentation - Schedule initial aftercare contact - Ensure 24/7 crisis availability established | 5 days before discharge | Aftercare transfer documentation | FC-AF-01 |
+| Aftercare Case Manager | 2. Contact receiving placement within 48 hours of discharge per FC-AF-01.1 | Within 48 hours of discharge | Contact documentation | FC-AF-01.1 |
+
+#### 6.4 ☒ SHORT-TERM ASSESSMENT SUPPORT SERVICES TRANSITION PROCEDURES
+
+##### Purpose and Overview
+
+Short-Term Assessment discharges are NOT traditional discharges to permanency—they are transitions to ongoing Service Packages based on assessment findings. These procedures ensure comprehensive assessment documentation transfer and appropriate Service Package placement.
+
+##### STASS-1. Assessment Completion and Service Package Determination
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Monitor assessment completion status: - Track all scheduled assessments - Verify completion within timeline (21/30 days by age) - Compile all assessment results - Alert supervisor if delays threaten timeline | Ongoing; complete within 21 days (age 5 and under) or 30 days (age 6+) | Assessment tracking log | T3C Blueprint p.68 |
+| Treatment Director | 2. Review assessment findings and determine Service Package: - Review all assessment results - Review CANS 3.0 findings - Recommend appropriate ongoing Service Package - Document clinical justification for recommendation | Upon assessment completion | Service Package Recommendation Form | T3C Blueprint p.70-71 |
+| Service Planning Team | 3. Confirm Service Package recommendation: - Review Treatment Director recommendation - Confirm appropriate Service Package - Identify appropriate receiving placement - Document decision | Within 5 days of recommendation | Service Planning meeting documentation | T3C Blueprint p.71 |
+
+##### STASS-2. Transition Planning (NOT Discharge Planning)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Coordinate with receiving CPA or foster home: - Identify appropriate placement for recommended Service Package - Contact receiving Case Manager - Schedule transition meeting - Arrange pre-placement visit if appropriate | Upon Service Package confirmation | Transition coordination documentation | TAC §749.1361 |
+| Case Manager | 2. Prepare comprehensive Transition Summary including: - All assessment results and findings - CANS 3.0 assessment with interpretation - Behavioral observations and effective strategies - Medical/dental/vision records - Educational records and recommendations - Service Package recommendation with justification - Foster family observations from assessment period | Before transition | Transition Summary | T3C Blueprint p.71 |
+
+##### STASS-3. Documentation Transfer
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Transfer all assessment documentation: - Complete Transition Summary - All assessment reports - CANS 3.0 documentation - Medical records obtained during assessment - Educational records - Behavioral observation notes 2. Conduct warm handoff with receiving Case Manager | Day of transition | Documentation transfer checklist | TAC §749.1363 |
+| Case Manager | 2. Submit transition notification to DFPS/SSCC: - Transition notification form - Final Service Plan - Transition Summary - Service Package recommendation documentation | Within 24 hours of transition | IMPACT system | RCC Contract Term 7 |
+
+##### STASS-4. Extension Procedures (if needed)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. If extension needed, prepare justification documenting: - Specific reason extension serves child's best interest - Pending assessments that cannot be expedited - OR receiving placement identified but not yet available - Timeline for completion within 15-day extension | At least 3 days before time limit | Extension request form | T3C Blueprint p.72 |
+| Program Director | 2. Review and approve/deny extension request: - Verify justification meets criteria - Approve in writing if appropriate - Document decision rationale | Within 24 hours of request | Program Director approval | T3C Blueprint p.72 |
+
+##### STASS-5. NO AFTERCARE PROCEDURES
+
+**Package-Specific:** Aftercare services per FC-AF-01 are NOT required for Short-Term Assessment. The Case Manager ensures complete documentation handoff to receiving Case Manager. Aftercare responsibility transfers to the receiving Service Package provider.
+
+#### 6.5 ☒ T3C TREATMENT FOSTER FAMILY CARE DISCHARGE AND STEP-DOWN PROCEDURES
+
+##### Purpose and Overview
+
+Treatment Foster Family Care is time-limited (365-day maximum) with mandatory step-down focus from Day 1. These procedures ensure systematic step-down planning, readiness assessment at each 60-day review, and intensive aftercare services upon discharge.
+
+##### TFFC-1. Step-Down Planning from Admission
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Initiate step-down planning at admission: - Include preliminary step-down goals in initial Service Plan - Identify potential step-down destinations - Document anticipated length of service - Establish measurable step-down criteria | Within 30 days of admission | Initial Service Plan | T3C Blueprint p.146 |
+| Treatment Director | 2. Establish clinical step-down criteria: - Behavioral stability indicators - Crisis frequency reduction targets - Treatment goal achievement markers - Clinical indicators for readiness | Within 30 days of admission | Clinical criteria documentation | T3C Blueprint p.146 |
+
+##### TFFC-2. Step-Down Readiness Assessment (Each 60-Day Review)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Treatment Director | 1. Assess step-down readiness at each review: - Evaluate treatment progress indicators - Assess behavioral stability - Review crisis frequency and intensity - Assess need for continued intensive services - Document step-down recommendation | At each 60-day review | Step-Down Readiness Assessment form | T3C Blueprint p.146 |
+| Service Planning Team | 2. Review step-down recommendation: - Consider Treatment Director assessment - Evaluate foster family input - Assess child/youth readiness - Determine if step-down appropriate - Identify step-down timeline if ready | At each 60-day review | Service Planning meeting | T3C Blueprint p.146 |
+
+##### TFFC-3. Step-Down Options and Planning
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | When step-down appropriate, coordinate one of the following options: | Upon step-down determination | Step-down planning documentation | T3C Blueprint p.146 |
+
+**Step-Down Option Matrix:**
+
+| Option | Requirements | Coordination Steps |
+|--------|--------------|-------------------|
+| **Same home - Basic Package** | Home dually credentialed; child stable; foster family willing | 1. Verify dual credentialing current 2. Confirm foster family agreement 3. Transition Service Package in system 4. Update Service Plan |
+| **Different home - Basic Package** | Appropriate home identified | 1. Complete matching per FC6-01 2. Arrange pre-placement visit 3. Prepare transition documentation 4. Coordinate warm handoff |
+| **Different home - Other Package** | Alternative Service Package appropriate | 1. Coordinate with receiving CPA 2. Ensure appropriate package match 3. Transfer all treatment documentation 4. Facilitate warm handoff |
+| **Permanency placement** | Permanency resource identified | 1. Coordinate with permanency resource 2. Complete transition planning 3. Transfer all documentation 4. Initiate aftercare services |
+
+##### TFFC-4. Treatment Documentation Transfer
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Prepare comprehensive Treatment Transfer Package: - Complete treatment progress summary - All effective behavioral interventions documented - De-escalation strategies that work - Crisis prevention approaches - Therapy notes summary - Behavior support plan with data | 14 days before step-down | Treatment Transfer Package | TAC §749.1363 |
+| Treatment Director | 2. Prepare clinical recommendations: - Recommended ongoing treatment level - Therapy frequency recommendations - Medication status and management - Clinical monitoring recommendations | 7 days before step-down | Clinical transfer documentation | T3C Blueprint |
+| Case Manager | 3. Create Behavioral Intervention Transfer Guide: - Step-by-step de-escalation procedures - Trigger identification and response - Environmental modifications needed - Daily routine that supports stability - Communication strategies | 7 days before step-down | Behavioral Intervention Transfer Guide | FC-TFFC-01 |
+
+##### TFFC-5. Aftercare Services Initiation
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Initiate intensive aftercare per FC-AF-01: - Transfer case to Aftercare Case Manager - Provide complete treatment documentation - Ensure 24/7 crisis availability - Establish enhanced contact schedule | 5 days before discharge | Aftercare transfer documentation | FC-AF-01 |
+| Aftercare Case Manager | 2. Implement enhanced contact schedule: - **Week 1-4: Weekly contacts** - **Months 2-6: Twice-monthly contacts** - 24/7 crisis availability throughout - Monthly reports to SSCC/DFPS | Beginning at discharge | Contact schedule documentation | T3C Blueprint p.146-147 |
+| Aftercare Case Manager | 3. Monitor step-down adjustment: - Track behavioral stability - Monitor treatment gains maintenance - Provide crisis intervention as needed - Support receiving placement with interventions - Prepare monthly SSCC/DFPS reports | Per contact schedule | Monitoring documentation | T3C Blueprint p.147 |
+
+##### TFFC-6. 365-Day Maximum Procedures
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| QA Coordinator | 1. Monitor approaching 365-day limit: - Track all TFFC placements against timeline - Alert Case Manager at 300 days - Escalate to Program Director at 330 days | Ongoing monitoring | QA tracking system | T3C Blueprint p.142 |
+| Program Director | 2. If approaching 365-day limit without step-down: - Review clinical justification - Ensure step-down planning intensified - Coordinate emergency step-down if needed - Document extraordinary circumstances | By 330 days | Program Director documentation | Texas Family Code §264.1073 |
+
 ### 7\. QUALITY ASSURANCE AND CONTINUOUS IMPROVEMENT
 
 #### Purpose and Overview
@@ -372,11 +507,32 @@ Systematic quality assurance ensures discharge processes achieve intended outcom
 - Contact Documentation Form (for aftercare contacts \- available at previewforms.refugehouse.org)  
 - Aftercare Service Refusal Form (if applicable \- available at previewforms.refugehouse.org)
 
+**Substance Use Support Services:**
+
+- Recovery Support Transfer Summary Template
+- Recovery Environment Assessment Checklist
+- Relapse Prevention Plan Transfer Document
+- Community Recovery Resource Connection Log
+- Aftercare Services Plan (REQUIRED - available at previewforms.refugehouse.org)
+- Contact Documentation Form (for aftercare contacts - available at previewforms.refugehouse.org)
+
+**Short-Term Assessment Support Services:**
+
+- Service Package Recommendation Form
+- Assessment Transition Summary Template
+- Assessment Documentation Transfer Checklist
+- Extension Request and Justification Form
+
 **T3C Treatment Foster Family Care:**
 
-- Aftercare Services Plan (REQUIRED per T3C Blueprint p.71 \- available at previewforms.refugehouse.org)  
-- Contact Documentation Form (for aftercare contacts \- available at previewforms.refugehouse.org)  
-- Aftercare Service Refusal Form (if applicable \- available at previewforms.refugehouse.org)
+- Aftercare Services Plan (REQUIRED per T3C Blueprint p.71 - available at previewforms.refugehouse.org)
+- Contact Documentation Form (for aftercare contacts - available at previewforms.refugehouse.org)
+- Aftercare Service Refusal Form (if applicable - available at previewforms.refugehouse.org)
+- Step-Down Readiness Assessment (60-Day Review)
+- Step-Down Planning Worksheet
+- Treatment Transfer Package Checklist
+- Behavioral Intervention Transfer Guide Template
+- 365-Day Compliance Tracking Log
 
 ---
 

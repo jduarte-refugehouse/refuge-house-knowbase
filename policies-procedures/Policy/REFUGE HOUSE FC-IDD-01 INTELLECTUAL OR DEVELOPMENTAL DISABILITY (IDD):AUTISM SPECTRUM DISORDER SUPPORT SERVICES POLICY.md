@@ -233,24 +233,20 @@ All crisis incidents must document:
 
 Foster parents caring for children with IDD/Autism require specialized preparation before accepting placements. The comprehensive training program ensures caregivers understand developmental differences, communication needs, behavioral strategies, and medical coordination requirements.
 
-**Pre-Placement Training Requirements:**
+**Cross-Reference:** All IDD/Autism Spectrum Disorder training requirements are defined in **FC-16 Staff and Caregiver Training Policy, Section 4.3**, including:
+- IDD/Autism Awareness (4 hours)
+- Communication Strategies/AAC (4 hours)
+- Sensory Processing (2 hours)
+- Behavioral Support for IDD/Autism (4 hours)
 
-Before accepting IDD/Autism placements, foster parents must complete minimum specialized training:
-
-- **IDD/Autism Characteristics** (minimum 2 hours): Understanding intellectual disabilities and autism spectrum disorders, recognizing developmental differences, neurodiversity principles  
-- **Communication Strategies and Visual Supports** (minimum 2 hours): Alternative communication methods, visual schedules, social stories, supporting non-verbal children, understanding processing time needs  
-- **Behavior Management for Developmental Disabilities** (minimum 2 hours): Positive behavior support, understanding behavior as communication, sensory considerations, de-escalation strategies adapted for developmental differences  
-- **Medical Needs and RN Coordination** (minimum 1 hour): When to consult RN, medication administration for complex regimens, medical equipment basics, coordinating with medical providers  
-- **Crisis Prevention and Response** (minimum 1 hour): Recognizing developmental triggers, sensory-based calming strategies, differentiating medical vs. behavioral crises, implementing least restrictive interventions
-
-**Total Minimum Requirement:** 8 hours IDD/Autism-specific training
+Training must be completed before serving children in this Service Package.
 
 **Documentation Requirements:**
 
-- Training attendance verified via sign-in sheets  
-- Certificates of completion maintained in foster parent file  
-- Competency assessment completed before first placement  
-- Annual refresher training (minimum 4 hours) for ongoing placements
+- Training attendance verified via sign-in sheets
+- Certificates of completion maintained in foster parent file
+- Competency assessment completed before first placement
+- Annual refresher training per FC-16 requirements
 
 **Placement-Specific Training:**
 
@@ -686,19 +682,21 @@ Family engagement for children with IDD/Autism requires consideration of how dev
 
 **Existing Refuge House Policies:**
 
-- FC1-01 Admission Screening Policy  
-- FC2-01 Admission Assessment Policy  
-- FC3-01 Individual Service Planning Policy  
-- FC3-03 T3C Service Plan Supplement  
-- FC5-01 Family Involvement and Engagement Policy  
-- FC6-01 Admission Matching & Criteria Policy  
-- FC-14.1 Discharge and Permanency Planning Procedure  
-- FC-15.1 Crisis Intervention Procedure  
-- FC-AF-01 Aftercare Services Policy  
-- FC-CSR-01.1 Continued Stay Review Procedure  
-- FC-16 Caregiver Training Policy  
-- FC-17 Continuous Quality Improvement Policy  
-- Professional Health Guide  
+- FC1-01 Admission Screening Policy
+- FC2-01 Admission Assessment Policy
+- FC3-01 Individual Service Planning Policy
+- FC3-03 T3C Service Plan Supplement
+- FC5-01 Family Involvement and Engagement Policy
+- FC6-01 Admission Matching & Criteria Policy
+- FC-14.1 Discharge and Permanency Planning Procedure
+- FC-15.1 Crisis Intervention Procedure
+- FC-AF-01 Aftercare Services Policy
+- FC-CSR-01.1 Continued Stay Review Procedure
+- FC-16 Staff and Caregiver Training Policy (Section 4.3: IDD/Autism Training Requirements)
+- FC-16.1 Staff and Caregiver Training Procedure
+- FC-17.1 Foster Home Studies and T3C Credentialing Procedure
+- FC-17 Continuous Quality Improvement Policy
+- Professional Health Guide
 - Foster Parent Health Guide
 
 ---

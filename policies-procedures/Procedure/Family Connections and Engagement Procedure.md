@@ -8,19 +8,19 @@
 | **PROCEDURE NUMBER** | FC7-01.1 |
 | **RELATED POLICY** | FC7-01 Family Connections and Engagement Policy |
 | **EFFECTIVE DATE** | 5/20/25 |
-| **REVISION DATE** | 7/10/25 |
+| **REVISION DATE** | 7/10/25, 12.09.2025.1 |
 
 | \#\# APPLICABLE T3C PACKAGES: | \#\# APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
-| ☒ T3C Basic Foster Family Home | ☐ Transition Support Services for Youth & Young Adults |
-| ☐ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
-| ☐ Short-Term Assessment | ☐ Pregnant & Parenting Youth or Young Adult |
+| ☒ T3C Basic Foster Family Home | ☒ Transition Support Services for Youth & Young Adults |
+| ☒ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
+| ☒ Short-Term Assessment | ☐ Pregnant & Parenting Youth or Young Adult |
 | ☒ Mental & Behavioral Health |  |
 | ☐ Sexual Aggression/Sex Offender |  |
 | ☐ Complex Medical Needs or Medically Fragile |  |
 | ☐ Human Trafficking Victim/Survivor |  |
 | ☒ Intellectual or Developmental Disability (IDD)/Autism Spectrum Disorder |  |
-| ☐ T3C Treatment Foster Family Care |  |
+| ☒ T3C Treatment Foster Family Care |  |
 
 ## PURPOSE:
 
@@ -28,11 +28,15 @@ To provide specific implementation procedures for identifying, assessing, engagi
 
 ## RESPONSIBILITY:
 
-- Case Managers  
-- Program Directors  
-- Treatment Directors  
-- Foster Parents  
+- Case Managers
+- Program Directors
+- Treatment Directors
+- Foster Parents
 - Quality Assurance Staff
+- Substance Use Counselor (for Substance Use Support Services placements)
+- STASS Coordinator (for Short-Term Assessment Support Services placements)
+- Crisis Response Team (for Treatment Foster Family Care placements)
+- Aftercare Case Manager (for aftercare services)
 
 ## PROCEDURE:
 
@@ -397,6 +401,138 @@ For children receiving IDD/Autism Support Services, family engagement requires s
 | Aftercare Case Manager | 5\. Document family's implementation of recommended strategies | Monthly during aftercare | Aftercare documentation | T3C Blueprint p.134-135 |
 | Program Director | 6\. Submit monthly aftercare documentation to DFPS/SSCC | End of each month | DFPS/SSCC submission log | T3C Blueprint p.134-135 |
 
+#### ☑ SUBSTANCE USE SUPPORT SERVICES
+
+For youth receiving Substance Use Support Services, family engagement requires a recovery-focused approach:
+
+##### 9.7 Recovery-Focused Family Education
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Substance Use Counselor | 1\. Assess family's understanding of addiction as disease | Within 14 days of placement | Family assessment meeting | T3C Blueprint p.56-66 |
+| Substance Use Counselor | 2\. Provide family education on recovery process and relapse prevention | Within 30 days of placement | Education session | T3C Blueprint p.56-66 |
+| Case Manager | 3\. Connect family with community recovery support resources (Al-Anon, Nar-Anon) | Within 30 days of placement | Resource referral log | T3C Blueprint p.56-66 |
+| Substance Use Counselor | 4\. Train family on recovery-supportive (non-punitive) response to relapse | During family education | Training documentation | T3C Blueprint p.56-66; FC-SU-01 |
+| Case Manager | 5\. Document family participation in recovery education activities | After each session | Family engagement log in Radius | RCC Contract Term 7 |
+
+##### 9.8 Family Therapy Coordination
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Substance Use Counselor | 1\. Coordinate family therapy goals with youth's individual substance use treatment | Within 30 days of placement | Treatment planning meeting | T3C Blueprint p.56-66 |
+| Treatment Director | 2\. Assess family dynamics that may support or hinder recovery | During treatment planning | Clinical assessment | T3C Blueprint p.56-66 |
+| Substance Use Counselor | 3\. Engage family in youth's recovery support plan development | At Service Plan meeting | Service Plan documentation | TAC §749.1301 |
+| Case Manager | 4\. Document family progress toward recovery-supportive behaviors | Monthly minimum | Progress notes in Radius | RCC Contract Term 7 |
+| Case Manager | 5\. Include family recovery education goals in Service Plan | Within 30 days of placement | Service Plan | TAC §749.1301; FC3-01 |
+
+##### 9.9 90-Day Family Progress Review
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1\. Assess family's progress in recovery-supportive capacity | At each 90-day Continued Stay Review | Continued Stay documentation | T3C Blueprint p.56-66; FC-SU-01 |
+| Substance Use Counselor | 2\. Review family participation in education and therapy | At each 90-day review | Clinical review notes | T3C Blueprint p.56-66 |
+| Treatment Team | 3\. Update family engagement goals based on youth's recovery progress | At each 90-day review | Service Plan update | TAC §749.1335 |
+| Case Manager | 4\. Assess family's capacity to maintain substance-free home environment | At each 90-day review | Family readiness assessment | T3C Blueprint p.56-66 |
+| Case Manager | 5\. Document family readiness assessment in Continued Stay documentation | At each 90-day review | Continued Stay form | RCC Contract Term 7 |
+| Case Manager | 6\. Develop family relapse response plan aligned with non-punitive approach | By 90-day review | Family relapse response plan | FC-SU-01 |
+
+#### ☑ SHORT-TERM ASSESSMENT SUPPORT SERVICES
+
+For children receiving Short-Term Assessment Support Services, family engagement follows **EXPEDITED** timelines:
+
+##### 9.10 Expedited Family Identification (48-Hour Timeline)
+
+**CRITICAL: STASS placements require EXPEDITED family identification due to 30-45 day placement limit.**
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1\. Review all placement documentation for family identification | **Within 24 hours of placement** | Radius documentation | TAC §749.1135; T3C Blueprint p.67-75 |
+| Case Manager | 2\. Complete Expedited Family Connections Identification Form | **Within 48 HOURS of placement** (vs. standard 72 hours) | Expedited Family ID form in Radius | T3C Blueprint p.67-75; FC-STASS-01 |
+| Case Manager | 3\. Immediately contact DFPS/SSCC for additional family information | **Within 48 hours of placement** | Phone/email documented in Radius | RCC Contract Term 7 |
+| STASS Coordinator | 4\. Begin family assessment concurrently with child assessment | **Day 1 of placement** | STASS assessment documentation | T3C Blueprint p.67-75 |
+| Case Manager | 5\. Document family capacity as part of comprehensive assessment report | Throughout assessment period | STASS Comprehensive Report | T3C Blueprint p.67-75 |
+
+##### 9.11 Rapid Family Outreach (5-Day Timeline)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1\. Prioritize outreach to all identified family members | **Within 5 DAYS of placement** (vs. standard 7 days) | Contact log in Radius | T3C Blueprint p.67-75; FC-STASS-01 |
+| Case Manager | 2\. Conduct expedited family interviews as part of placement assessment | **Within 7 days of placement** | Family interview documentation | T3C Blueprint p.67-75 |
+| STASS Coordinator | 3\. Gather family input for assessment findings and recommendations | During assessment period | STASS assessment documentation | T3C Blueprint p.67-75 |
+| Case Manager | 4\. Include family perspective in comprehensive assessment report to DFPS/SSCC | Before discharge | STASS Comprehensive Report | T3C Blueprint p.67-75; RCC Contract Term 7 |
+| Case Manager | 5\. Document family strengths and areas needing support | Throughout assessment | Family assessment section | T3C Blueprint p.67-75 |
+
+##### 9.12 Assessment-Focused Family Engagement and Transition
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1\. Gather family history and perspective on child's needs | During family interviews | Assessment documentation | T3C Blueprint p.67-75 |
+| STASS Coordinator | 2\. Assess family capacity for reunification or placement support | Throughout assessment | Clinical assessment notes | T3C Blueprint p.67-75 |
+| Case Manager | 3\. Include family engagement findings in transition recommendations | Within 21 days of placement | Transition planning documentation | T3C Blueprint p.67-75; FC-STASS-01 |
+| Case Manager | 4\. Coordinate family connections information transfer to receiving placement | At discharge | Transition documentation | RCC Contract Term 7 |
+| Case Manager | 5\. Support family involvement in discharge/transition planning | Final week of placement | Discharge planning notes | TAC §749.503 |
+| Case Manager | 6\. **NOTE: STASS does not include aftercare** - document family engagement ending at discharge | At discharge | Discharge summary | T3C Blueprint p.67-75; FC-STASS-01 |
+
+#### ☑ T3C TREATMENT FOSTER FAMILY CARE
+
+For children receiving T3C Treatment Foster Family Care, family engagement requires **INTENSIVE** coordination:
+
+##### 9.13 Intensive Family Therapy Integration
+
+**CRITICAL: Family therapy is a CORE component of Treatment Foster Care, not an optional add-on.**
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Treatment Director | 1\. Coordinate **WEEKLY family therapy** as core treatment component | Beginning within 14 days of placement | Therapy scheduling | T3C Blueprint p.136-147; FC-TFFC-01 |
+| Treatment Director | 2\. Ensure family therapy goals align with intensive behavior support plan | At treatment planning | Treatment plan documentation | T3C Blueprint p.136-147 |
+| Case Manager | 3\. Track family therapy attendance and participation | Weekly | Family therapy attendance log | T3C Blueprint p.136-147 |
+| Treatment Director | 4\. Document family progress toward treatment goals in clinical notes | After each session | Clinical progress notes | TAC §749.673 |
+| Treatment Team | 5\. Coordinate with Treatment Director on family therapy effectiveness | At weekly treatment team meetings | Team meeting notes | T3C Blueprint p.136-147 |
+
+##### 9.14 60-Day Family Progress Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Treatment Team | 1\. Assess family's progress toward treatment goals | At each 60-day Continued Stay Review | Continued Stay documentation | T3C Blueprint p.136-147; FC-TFFC-01 |
+| Treatment Director | 2\. Evaluate family's readiness to support less-intensive services | At each 60-day review | Clinical readiness assessment | T3C Blueprint p.136-147 |
+| Case Manager | 3\. Review family participation in therapy and family engagement activities | At each 60-day review | Participation tracking | T3C Blueprint p.136-147 |
+| Treatment Team | 4\. Include family assessment in Continued Stay determination | At each 60-day review | Continued Stay form | FC-TFFC-01 |
+| Case Manager | 5\. Document family-related factors affecting step-down readiness | At each 60-day review | Step-down readiness assessment | T3C Blueprint p.136-147 |
+
+##### 9.15 Step-Down Family Planning
+
+**CRITICAL: Treatment Foster Care is time-limited (maximum 365 days). Step-down planning begins early.**
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Treatment Team | 1\. Begin step-down family engagement planning | **Within 90 days of placement** | Step-down planning documentation | T3C Blueprint p.136-147; FC-TFFC-01 |
+| Treatment Director | 2\. Assess family capacity to support transition to Basic Foster Family Home or reunification | Ongoing from 90-day mark | Family capacity assessment | T3C Blueprint p.136-147 |
+| Case Manager | 3\. Develop family transition plan aligned with clinical step-down criteria | By 180-day review | Transition planning documentation | T3C Blueprint p.136-147 |
+| Case Manager | 4\. Coordinate with receiving foster home (if stepping down to different home) on family engagement continuity | Before step-down | Coordination notes | RCC Contract Term 7 |
+| Treatment Team | 5\. **DUAL CREDENTIALING**: When stepping down within same foster home, ensure seamless family engagement continuity | At step-down | Transition documentation | FC-TFFC-01 |
+| Case Manager | 6\. Document family engagement plan for post-step-down services | Before step-down | Service Plan update | TAC §749.1335 |
+
+##### 9.16 Family Crisis Support
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Treatment Team | 1\. Include family in crisis prevention planning | Within 14 days of placement | Crisis prevention plan | T3C Blueprint p.136-147 |
+| Crisis Response Team | 2\. Coordinate family involvement in 24/7 crisis response when appropriate | During crisis events | Crisis response documentation | T3C Blueprint p.136-147 |
+| Treatment Director | 3\. Support family through crisis episodes with therapeutic guidance | During/after crisis | Clinical notes | T3C Blueprint p.136-147 |
+| Case Manager | 4\. Document family response to crisis situations in treatment records | Within 24 hours of crisis | Crisis documentation in Radius | RCC Contract Term 7 |
+| Treatment Team | 5\. Adjust family engagement approach based on crisis patterns | At treatment team meetings | Team meeting notes | T3C Blueprint p.136-147 |
+
+##### 9.17 Treatment Foster Care Aftercare Family Engagement
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1\. Include aftercare family engagement planning in initial Service Plan | Within 30 days of placement | Service Plan aftercare section | T3C Blueprint p.147; FC3-01 |
+| Aftercare Case Manager | 2\. Continue family therapy support during 6-month aftercare period | Throughout aftercare | Aftercare therapy coordination | T3C Blueprint p.147 |
+| Aftercare Case Manager | 3\. Maintain twice-monthly family contacts post-discharge | For 6 months post-discharge | Aftercare contact log | T3C Blueprint p.147 |
+| Aftercare Case Manager | 4\. Coordinate with community resources for ongoing family support | Within 30 days of discharge | Resource referral documentation | T3C Blueprint p.147 |
+| Program Director | 5\. Document family engagement effectiveness in aftercare outcomes | Monthly | Aftercare outcome documentation | RCC Contract Term 7 |
+| Program Director | 6\. Submit monthly aftercare documentation to DFPS/SSCC | End of each month | DFPS/SSCC submission log | T3C Blueprint p.147 |
+
 ## DEFINITIONS:
 
 - **AAC**: Augmentative and Alternative Communication devices or systems  
@@ -413,45 +549,69 @@ For children receiving IDD/Autism Support Services, family engagement requires s
 
 ## REFERENCES:
 
-- T3C Blueprint Standards: FC 1.01, FC 1.02; Pages 47-55 (Basic Foster Home); Pages 76-86 (Mental & Behavioral Health); Pages 123-135 (IDD/Autism)  
-- TAC Chapter 749 Minimum Standards: §749.503, §749.631, §749.665, §749.1003, §749.1057, §749.1135, §749.1301-1335, §749.2407, §749.2961  
-- RCC Contract Requirements: Contract Term 7  
-- Indian Child Welfare Act: 25 U.S.C. §§1901-1963  
+- T3C Blueprint Standards: FC 1.01, FC 1.02; Pages 47-55 (Basic Foster Home); Pages 76-86 (Mental & Behavioral Health); Pages 123-135 (IDD/Autism)
+- T3C Blueprint Standards: Pages 56-66 (Substance Use Support Services)
+- T3C Blueprint Standards: Pages 67-75 (Short-Term Assessment Support Services)
+- T3C Blueprint Standards: Pages 136-147 (T3C Treatment Foster Family Care Support Services)
+- TAC Chapter 749 Minimum Standards: §749.503, §749.631, §749.665, §749.673, §749.1003, §749.1057, §749.1135, §749.1301-1335, §749.2407, §749.2961
+- TAC §749.863(c): Treatment Foster Care Training Requirements
+- Texas Family Code Section 264.1073 (Treatment Foster Care)
+- RCC Contract Requirements: Contract Term 7
+- Indian Child Welfare Act: 25 U.S.C. §§1901-1963
 - Multiethnic Placement Act of 1996 (MEPA)
 
 ## RELATED PROCEDURES:
 
-- FC3-01.1 Individual Service Planning Procedure  
-- FC14-01.1 Discharge and Permanency Planning Procedure  
-- FC8-01.1 Aftercare Services Procedure  
-- Admission Matching & Criteria for Child Placement  
-- RH ICWA Services Procedure  
-- Mental & Behavioral Health Support Services Procedure  
+- FC3-01.1 Individual Service Planning Procedure
+- FC14-01.1 Discharge and Permanency Planning Procedure
+- FC8-01.1 Aftercare Services Procedure
+- Admission Matching & Criteria for Child Placement
+- RH ICWA Services Procedure
+- Mental & Behavioral Health Support Services Procedure
 - IDD/Autism Spectrum Disorder Support Services Procedure
+- FC-SU-01.1 Substance Use Support Services Procedure
+- FC-STASS-01.1 Short-Term Assessment Support Services Procedure
+- FC-TFFC-01.1 T3C Treatment Foster Family Care Support Services Procedure
 
 ## FORMS/ATTACHMENTS:
 
 **Core Forms (All Packages):**
 
-- Family Connections Identification Form  
-- Sibling Visitation Plan Template  
-- Family Contact Log  
+- Family Connections Identification Form
+- Sibling Visitation Plan Template
+- Family Contact Log
 - Family Outreach Documentation Log
 
 **Additional Forms Referenced in Existing Procedures:**
 
-- Service Plan T3C Supplement and Continued Stay Evaluation Form (FC3-03)  
+- Service Plan T3C Supplement and Continued Stay Evaluation Form (FC3-03)
 - ICWA Compliance Checklist (existing)
 
 **Package-Specific Requirements (to be developed during implementation within Radius):**
 
-- Mental & Behavioral Health:  
-  - Crisis Prevention Plan for Family Contact  
-  - Enhanced visit documentation forms with mental health indicators  
-- IDD/Autism:  
-  - Visual schedule templates for family visits  
-  - Communication support documentation  
+- Mental & Behavioral Health:
+  - Crisis Prevention Plan for Family Contact
+  - Enhanced visit documentation forms with mental health indicators
+- IDD/Autism:
+  - Visual schedule templates for family visits
+  - Communication support documentation
   - Sensory accommodation checklist
+- Substance Use Support Services:
+  - Family Recovery Education Tracking Form
+  - Family Relapse Response Plan Template
+  - 90-Day Family Progress Assessment (SU)
+  - Family Substance-Free Home Environment Assessment
+- Short-Term Assessment Support Services:
+  - Expedited Family Connections Identification Form (48-hour)
+  - Family Assessment Summary for STASS Comprehensive Report
+  - STASS Family Interview Documentation Form
+  - Family Capacity Assessment for Transition Planning
+- Treatment Foster Family Care:
+  - Family Therapy Attendance Tracking Log
+  - 60-Day Family Progress Assessment (TFFC)
+  - Step-Down Family Readiness Evaluation
+  - Family Crisis Response Documentation
+  - Aftercare Family Engagement Plan (TFFC)
 
 ---
 

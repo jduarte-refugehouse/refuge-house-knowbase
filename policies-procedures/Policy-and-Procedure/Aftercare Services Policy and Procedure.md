@@ -17,12 +17,12 @@
 | **APPROVED ON** | \[Date\] |
 | **EFFECTIVE DATE** | \[Date\] |
 | **SECTION** | FC-AF |
-| **DATE(S) OF REVISION** | 12.27.2024.1 |
+| **DATE(S) OF REVISION** | 12.27.2024.1; 12.09.2025.1 |
 
 | \#\# APPLICABLE T3C PACKAGES: | \#\# APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
 | ☒ T3C Basic Foster Family Home | ☒ Transition Support Services for Youth & Young Adults |
-| ☐ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
+| ☒ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
 | ☐ Short-Term Assessment | ☒ Pregnant & Parenting Youth or Young Adult |
 | ☒ Mental & Behavioral Health Support Services |  |
 | ☐ Sexual Aggression/Sex Offender |  |
@@ -103,13 +103,35 @@ For children receiving IDD/Autism Support Services, aftercare requirements inclu
 
 For youth stepping down from Treatment Foster Care, aftercare includes:
 
-1. **Intensive Initial Support:** Weekly contact during first month post-discharge, then twice-monthly for remainder of 6-month period.  
-     
-2. **Step-Down Monitoring:** Close monitoring of adjustment to less intensive placement with rapid response to emerging needs.  
-     
-3. **Treatment Gains Maintenance:** Transfer of all effective behavioral interventions and de-escalation strategies to receiving placement.  
-     
+1. **Intensive Initial Support:** Weekly contact during first month post-discharge, then twice-monthly for remainder of 6-month period.
+
+2. **Step-Down Monitoring:** Close monitoring of adjustment to less intensive placement with rapid response to emerging needs.
+
+3. **Treatment Gains Maintenance:** Transfer of all effective behavioral interventions and de-escalation strategies to receiving placement.
+
 4. **Placement Preservation Focus:** Proactive support to prevent disruption during critical transition from intensive treatment setting.
+
+### ☒ SUBSTANCE USE SUPPORT SERVICES
+
+For children receiving Substance Use Support Services, aftercare requirements follow the Mental & Behavioral Health pattern with recovery-specific enhancements:
+
+1. **Mandatory 6-Month Aftercare:** All youth discharging from this package MUST receive 6 months of aftercare services regardless of discharge type or destination, with specialized focus on recovery support continuity.
+
+2. **Enhanced Contact Requirements:** Twice-monthly minimum contact is required, with in-person contact preferred during the first month post-discharge to monitor recovery stability and support treatment engagement.
+
+3. **Recovery Support Continuation:** Connection to community recovery resources, 12-step or alternative recovery programs, and peer support networks as appropriate for the youth's recovery plan.
+
+4. **Substance Use Treatment Coordination:** Continued coordination with substance use treatment providers to ensure uninterrupted access to individual therapy, group therapy, and medication-assisted treatment (MAT) if applicable.
+
+5. **Recovery Stability Monitoring:** Ongoing assessment of recovery stability indicators including treatment engagement, support network involvement, and absence of substance use relapse.
+
+6. **Relapse Crisis Response:** 24/7 crisis response availability with specialized protocols for relapse situations, including immediate assessment, treatment adjustment coordination, and placement preservation support.
+
+7. **Recovery Environment Support:** Assistance to receiving placement in maintaining substance-free environment and understanding recovery-supportive approaches, including education on non-punitive responses to relapse.
+
+8. **STAR Health Coordination:** Continued coordination with STAR Health for substance use treatment services, mental health services, and medication management as clinically indicated.
+
+9. **90-Day Continued Stay Reviews (during placement):** Program Director and Treatment Director must provide written confirmation at each 90-day review that the child continues to require specialized services, with documentation to SSCC/DFPS within 15 business days per **FC-CSR-01.1 Continued Stay Review Procedure**.
 
 ## DEFINITIONS
 
@@ -123,24 +145,27 @@ For youth stepping down from Treatment Foster Care, aftercare includes:
 
 **STAR Health** \- The comprehensive healthcare program for children in foster care providing medical, dental, vision, behavioral health, and pharmacy services.
 
-**Treatment Director** \- A masters-level mental health professional responsible for clinical oversight of specialized service packages.
+**Treatment Director** - A masters-level mental health professional responsible for clinical oversight of specialized service packages.
+
+**Relapse Crisis Response** - Specialized 24/7 crisis intervention protocol for youth experiencing or at risk of substance use relapse, including immediate assessment, treatment provider coordination, placement preservation strategies, and non-punitive support approach.
 
 ## REFERENCES
 
-- T3C Blueprint Standards: Pages 47-55 (Basic Foster Care); Pages 78-93 (Mental & Behavioral Health); Pages 123-135 (IDD/Autism); Pages 71-73 (Treatment Foster Care)  
-- TAC Chapter 749: Minimum Standards for Child Placing Agencies  
-- TAC §749.503: Discharge Planning  
-- TAC §749.1335: Service Plan Reviews  
-- TAC §749.361: Quality Improvement  
+- T3C Blueprint Standards: Pages 47-55 (Basic Foster Care); Pages 78-93 (Mental & Behavioral Health); Pages 123-135 (IDD/Autism); Pages 71-73 (Treatment Foster Care); Substance Use Support Services (follows Mental & Behavioral Health pattern)
+- TAC Chapter 749: Minimum Standards for Child Placing Agencies
+- TAC §749.503: Discharge Planning
+- TAC §749.1335: Service Plan Reviews
+- TAC §749.361: Quality Improvement
 - RCC Contract Requirements: Contract Term 7
 
 ## RELATED PROCEDURES
 
-- FC-AF-01.1 Aftercare Services Procedure  
-- FC-03.1 Individual Service Planning Procedure  
-- FC-14.1 Discharge and Permanency Planning Procedure  
-- FC-15.1 Crisis Intervention Procedure  
+- FC-AF-01.1 Aftercare Services Procedure
+- FC-03.1 Individual Service Planning Procedure
+- FC-14.1 Discharge and Permanency Planning Procedure
+- FC-15.1 Crisis Intervention Procedure
 - FC-CSR-01.1 Continued Stay Review Procedure
+- FC-SU-01 Substance Use Support Services Policy
 
 ## FORMS/ATTACHMENTS
 
@@ -165,7 +190,7 @@ For youth stepping down from Treatment Foster Care, aftercare includes:
 | **PROCEDURE NUMBER** | FC-AF-01.1 |
 | **RELATED POLICY** | FC-AF-01 Aftercare Services Policy |
 | **EFFECTIVE DATE** | \[Date\] |
-| **REVISION DATE** | 12.27.2024.1 |
+| **REVISION DATE** | 12.27.2024.1; 12.09.2025.1 |
 
 ## PURPOSE AND OVERVIEW
 
@@ -242,6 +267,14 @@ Comprehensive aftercare planning ensures all necessary supports are in place bef
 | Behavior Specialist | 1\. Create behavior support transition package: \- Current behavior plans with data \- Sensory accommodation guide \- Communication strategies/tools \- Visual supports inventory \- Environmental modification needs \- Daily routine schedules 2\. Provide hands-on training | 14 days before discharge | Behavior support package | T3C Blueprint p.129 |
 | Aftercare Case Manager | 1\. Establish mandatory IDD/Autism schedule: \- **Twice-monthly contact (minimum)** \- Communication method preferences \- RN consultation availability \- Behavior monitoring tools \- Skills maintenance tracking 2\. Coordinate with regional IDD services | 7 days before discharge | IDD-specific plan | **MANDATORY: T3C Blueprint p.134** |
 
+#### 2.4 ☒ Substance Use Support Services Enhanced Planning
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Therapist/Substance Use Counselor | 1. Prepare treatment transition summary covering: - Current treatment modality and progress - Medication-assisted treatment (MAT) status if applicable - Relapse prevention plan with triggers identified - Recommended ongoing treatment level - Provider recommendations for receiving area 2. Coordinate warm handoff to receiving provider | 30 days before discharge | Treatment transition summary | T3C Blueprint; FC-SU-01 |
+| Case Manager | 1. Identify community recovery resources: - 12-step or alternative recovery programs - Peer support networks - Recovery community organizations - Sober living connections if applicable 2. Facilitate introductions before discharge | 14 days before discharge | Recovery resource plan | T3C Blueprint; FC-SU-01 |
+| Aftercare Case Manager | 1. Establish mandatory service schedule: - **Twice-monthly contact (minimum)** - First month: in-person preferred - 24/7 relapse crisis availability - Recovery stability monitoring - Treatment engagement tracking 2. Document in aftercare plan | 7 days before discharge | Aftercare service plan | **MANDATORY: T3C Blueprint (MH pattern)** |
+
 ### 3\. AFTERCARE SERVICE DELIVERY
 
 #### Purpose and Overview
@@ -252,9 +285,10 @@ Consistent, quality aftercare service delivery supports successful transitions a
 
 | Service Package | Minimum Frequency | Preferred Methods | Crisis Response |
 | :---- | :---- | :---- | :---- |
-| **Basic Foster Care** | Monthly | Phone, video, in-person per youth preference | Business hours \+ referral |
+| **Basic Foster Care** | Monthly | Phone, video, in-person per youth preference | Business hours + referral |
 | **Mental & Behavioral Health** | **TWICE MONTHLY** | In-person month 1, then flexible | **24/7 availability required** |
 | **IDD/Autism** | **TWICE MONTHLY** | Based on communication needs | **24/7 RN consultation** |
+| **Substance Use Support Services** | **TWICE MONTHLY** | In-person month 1, then flexible | **24/7 relapse crisis response** |
 | **Treatment Foster Care** | Weekly (month 1), then twice monthly | In-person for prevention | **24/7 availability required** |
 
 #### 3.2 Core Service Components
@@ -280,6 +314,25 @@ Consistent, quality aftercare service delivery supports successful transitions a
 | :---- | :---- | :---- | :---- | :---- |
 | RN Consultant | 1\. Provide medical consultation: \- Medication administration support \- Equipment troubleshooting \- Medical protocol adjustments \- Emergency guidance \- Health status review | 24/7 availability, scheduled monthly reviews | Medical consultation log | T3C Blueprint p.134 |
 | Aftercare Case Manager | 1\. Support developmental needs: \- Behavior plan implementation \- Sensory accommodation verification \- Communication system support \- Routine maintenance assistance \- Skills generalization tracking | During each contact | Developmental tracking | T3C Blueprint p.124-135 |
+
+##### Substance Use Support Services
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Aftercare Case Manager | 1. Monitor recovery stability indicators: - Treatment appointment attendance - Recovery meeting participation - Support network engagement - School/work functioning - Absence of substance use indicators 2. Document progress and concerns | During each contact | Recovery monitoring form | T3C Blueprint; FC-SU-01 |
+| Aftercare Case Manager | 2. Support recovery environment: - Verify receiving placement maintains substance-free environment - Provide education on recovery-supportive approaches - Coach caregivers on non-punitive relapse response - Assist with medication storage/administration protocols if MAT | Monthly minimum | Placement support documentation | T3C Blueprint; FC-SU-01 |
+| Aftercare Case Manager | 3. Coordinate ongoing treatment: - Verify treatment appointments scheduled - Monitor STAR Health authorization status - Facilitate provider communication - Adjust services as recovery needs change | Ongoing | Treatment coordination log | FC-STAR-01.1 |
+
+#### 3.4 Substance Use Relapse Crisis Response
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Crisis Management Staff | 1. Receive relapse crisis call: - Assess immediate safety - Determine severity of relapse - Evaluate need for medical intervention - Document initial assessment | Immediately upon notification | Crisis documentation | Crisis Management Staffing Plan |
+| Aftercare Case Manager | 2. Implement relapse response protocol: - Contact receiving placement within 2 hours - Assess placement stability - Coordinate with treatment provider - Develop immediate support plan - **Approach as treatment issue, NOT punishment** | Within 2 hours of notification | Relapse response documentation | FC-SU-01 Section 14 |
+| Treatment Director (Consultation) | 3. Provide clinical guidance: - Review relapse circumstances - Recommend treatment adjustment - Assess need for higher level of care - Approve safety planning modifications | Within 24 hours | Clinical consultation note | T3C Blueprint |
+| Aftercare Case Manager | 4. Implement post-relapse support: - Increase contact frequency temporarily - Coordinate treatment intensification - Support placement preservation - Document all interventions | Ongoing per clinical need | Case notes | FC-SU-01 |
+
+**CRITICAL:** Relapse is treated as a clinical/treatment issue requiring adjustment, NOT as a behavioral violation or failure. Non-punitive, recovery-supportive approach is mandatory.
 
 ### 4\. 90-DAY CONTINUED STAY REVIEWS
 
@@ -315,6 +368,17 @@ Systematic monitoring ensures service quality, regulatory compliance, and contin
 | Aftercare Case Manager | 1\. Prepare monthly reports including: \- Contact summary \- Service utilization \- Crisis incidents \- Progress indicators \- Barriers identified 2\. Submit for review | By 3rd of each month | Report templates | Contract Term 7 |
 | Program Director | 1\. Review and approve all reports 2\. Ensure accuracy and completeness 3\. Add executive summary 4\. Submit to SSCC/DFPS | By 5th business day of month | IMPACT portal | TAC §749.361 |
 
+**Substance Use Package-Specific Monthly Report Elements:**
+
+| Element | Description | Responsible |
+|---------|-------------|-------------|
+| Recovery stability status | Overall assessment of recovery progress | Aftercare Case Manager |
+| Treatment engagement | Attendance and participation in substance use treatment | Aftercare Case Manager |
+| Relapse incidents | Any relapse events and response actions taken | Aftercare Case Manager |
+| Recovery support connections | Status of community recovery resource engagement | Aftercare Case Manager |
+| MAT coordination (if applicable) | Medication compliance and provider coordination | Aftercare Case Manager |
+| Placement preservation status | Assessment of placement stability and any concerns | Aftercare Case Manager |
+
 ### 6\. AFTERCARE COMPLETION
 
 #### Purpose and Overview
@@ -328,6 +392,16 @@ Proper closure of aftercare services ensures youth have sustainable supports in 
 | Aftercare Case Manager | 1\. Conduct completion assessment: \- Goal achievement review \- Support sustainability check \- Resource adequacy evaluation \- Youth satisfaction survey \- Caregiver feedback 2\. Determine readiness for closure | At month 5 of aftercare | Completion assessment form | T3C Blueprint requirements |
 | Treatment Team (Mental Health/IDD) | 1\. Review clinical indicators: \- Stability maintenance \- Crisis absence \- Service engagement \- Medication compliance \- Natural support strength 2\. Recommend closure or extension | 30 days before 6-month mark | Clinical review | T3C Blueprint p.86, p.134 |
 | Program Director | 1\. Approve service: \- Successful completion \- Extension (with justification) \- Transfer to adult services 2\. Document decision rationale | Before 6-month deadline | Closure documentation | Contract Term 7 |
+
+**Substance Use Package-Specific Completion Indicators:**
+
+| Indicator | Target | Assessment Method |
+|-----------|--------|-------------------|
+| Sustained recovery | No relapse in final 60 days | Case documentation review |
+| Treatment engagement | Consistent attendance throughout 6 months | Treatment provider verification |
+| Recovery support network | Established community connections | Youth self-report + case notes |
+| Caregiver competency | Receiving placement demonstrates recovery-supportive approach | Caregiver assessment |
+| Crisis plan in place | Written relapse response plan with receiving placement | Documentation review |
 
 ### 7\. QUALITY ASSURANCE
 
@@ -389,10 +463,19 @@ Continuous quality improvement ensures aftercare services achieve intended outco
 
 **T3C Treatment Foster Family Care:**
 
-- Intensive Aftercare Schedule Template  
-- Step-Down Readiness Checklist  
-- Behavior Management Transfer Guide  
+- Intensive Aftercare Schedule Template
+- Step-Down Readiness Checklist
+- Behavior Management Transfer Guide
 - Weekly Contact Log (for first month)
+
+**Substance Use Support Services:**
+
+- Recovery Stability Monitoring Form
+- Relapse Response Documentation Form
+- Treatment Transition Summary Template
+- Community Recovery Resource Connection Log
+- MAT Coordination Tracking Form (if applicable)
+- Substance Use Aftercare Completion Assessment
 
 ### Quality Assurance Forms:
 
