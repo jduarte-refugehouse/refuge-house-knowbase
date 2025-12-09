@@ -22,11 +22,13 @@ A qualified professional responsible for coordinating and managing the safe and 
 
 * Review all placements that are sent to agency from DFPS/SSCC  
 * Assist in calling families in securing placement  
-* **\[T3C\]** Assess foster home capabilities against Service Package requirements:  
-  * Basic Support Services  
-  * Mental & Behavioral Health  
-  * IDD/Autism Spectrum Disorder  
-  * Treatment Foster Care  
+* **\[T3C\]** Assess foster home capabilities against Service Package requirements:
+  * Basic Support Services
+  * Mental & Behavioral Health
+  * IDD/Autism Spectrum Disorder
+  * **Substance Use Support Services**
+  * **Short-Term Assessment Support Services**
+  * **T3C Treatment Foster Family Care**
   * Specialized services as applicable  
 * Coordinate with CPS, foster families, and other stakeholders for smooth transitions  
 * Facilitate pre-placement visits when possible  
@@ -59,8 +61,35 @@ A qualified professional responsible for coordinating and managing the safe and 
 * Make treatment referrals and ensure completion (therapy, psychological, ECI, psychiatry etc.)  
 * **\[T3C\]** Coordinate with Treatment Director for specialized service needs  
 * Ensure completion of initial medical and dental treatment  
-* **\[T3C\]** Verify STAR Health enrollment and benefits  
+* **\[T3C\]** Verify STAR Health enrollment and benefits
 * **\[TBRI\]** Document trauma history and placement considerations
+
+**Package-Specific Placement Screening**
+
+*Substance Use Support Services Screening:*
+
+* Verify child meets SU eligibility criteria per FC-SU-01 Section 3
+* Confirm foster home is substance-free and caregiver trained
+* Coordinate with Treatment Director for clinical eligibility review
+* Document substance use history and treatment needs
+* **Cross-Reference:** FC-SU-01; FC1-01.1 Admission Screening Procedure
+
+*Short-Term Assessment Placement Screening:*
+
+* Verify child meets STASS eligibility per FC-STASS-01 Section 3
+* Confirm foster home has STASS capacity (max 4 per home)
+* Verify caregiver completed STASS training
+* Note: Enhanced urgency given assessment timelines
+* **Cross-Reference:** FC-STASS-01; FC1-01.1 Admission Screening Procedure
+
+*Treatment Foster Family Care Screening:*
+
+* **[CRITICAL]** Coordinate with Treatment Director for REQUIRED clinical review per Texas Family Code §264.1073
+* Verify child meets TFFC clinical criteria
+* Confirm foster home has TFFC credential and capacity (max 2 per home)
+* Verify caregiver completed 20-hour specialized training
+* Document high-acuity behavioral/mental health presentation
+* **Cross-Reference:** FC-TFFC-01; FC1-01.1 Admission Screening Procedure
 
 **On-Call and Emergency Response**
 
@@ -90,8 +119,10 @@ A qualified professional responsible for coordinating and managing the safe and 
 **Additional Duties**
 
 * Assist with foster home recruitment and retention efforts  
-* **\[T3C\]** Support Service Package-specific recruitment needs  
+* **\[T3C\]** Support Service Package-specific recruitment needs
 * Other special projects as assigned by the Treatment Director or Program Director
+
+> **[T3C] Service Package Responsibilities:** When serving children in specialized T3C Service Packages (Substance Use, Short-Term Assessment, Treatment Foster Family Care, Mental & Behavioral Health, IDD/Autism), responsibilities are adapted per the applicable umbrella policy and procedure. Staff must complete package-specific training per FC-16 Staff and Caregiver Training Policy before assuming specialized responsibilities. Consult FC-SU-01, FC-STASS-01, FC-TFFC-01, FC-MH-01, or FC-IDD-01 for detailed Service Package requirements.
 
 ## **Qualifications**
 

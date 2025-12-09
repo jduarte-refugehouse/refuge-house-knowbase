@@ -41,18 +41,63 @@ An Aftercare Case Manager provides continued support services to children and fa
 
 **Collaboration and Coordination**
 
-- Work with community partners and service providers  
-- Coordinate with schools, medical providers, and therapists  
-- Maintain communication with DFPS caseworkers  
-- Participate in case staffings and team meetings  
+- Work with community partners and service providers
+- Coordinate with schools, medical providers, and therapists
+- Maintain communication with DFPS caseworkers
+- Participate in case staffings and team meetings
 - Advocate for needed services and resources
+
+---
+
+**Service Package-Specific Aftercare Considerations**
+
+When providing aftercare services to children who received specialized Service Packages, responsibilities are adapted per the applicable umbrella policy. Key variations include:
+
+**Substance Use Support Services Aftercare:**
+* Monitor recovery stability indicators during aftercare period
+* Verify receiving placement maintains substance-free environment
+* Coordinate continued substance use treatment services
+* Provide education on non-punitive relapse response to receiving caregivers
+* Support MAT continuation if applicable
+* **Cross-Reference:** FC-SU-01 Section 12; FC-AF-01 Section 3.3
+
+**Short-Term Assessment Transition (Not Aftercare):**
+* Note: STASS children transition to receiving Service Package, not aftercare
+* Support transition coordination as needed
+* **Cross-Reference:** FC-STASS-01 Section 11
+
+**Treatment Foster Family Care Aftercare:**
+* Extended monitoring given high-acuity history
+* Coordinate continued therapeutic services
+* Monitor for symptom recurrence or regression
+* Support step-down stability maintenance
+* Weekly contact minimum during first month post-discharge
+* **Cross-Reference:** FC-TFFC-01 Section 12; FC-AF-01 Section 3.3
+
+**Mental & Behavioral Health Aftercare:**
+* Monitor mental health stability indicators
+* Coordinate continued therapy and medication management
+* **Cross-Reference:** FC-AF-01 Section 3.3
+
+**IDD/Autism Aftercare:**
+* Support developmental service continuity
+* Coordinate with RN for medical needs
+* **Cross-Reference:** FC-AF-01 Section 3.3
+
+---
+
+**[T3C] Service Package Responsibilities:** When serving children in specialized T3C Service Packages (Substance Use, Short-Term Assessment, Treatment Foster Family Care, Mental & Behavioral Health, IDD/Autism), responsibilities are adapted per the applicable umbrella policy and procedure. Staff must complete package-specific training per FC-16 Staff and Caregiver Training Policy before assuming specialized responsibilities. Consult FC-SU-01, FC-STASS-01, FC-TFFC-01, FC-MH-01, or FC-IDD-01 for detailed Service Package requirements.
+
+---
 
 ## Professional Requirements
 
-- Maintain client confidentiality  
-- Complete documentation within required timeframes  
-- Participate in required training and professional development  
-- Available for after-hours crisis support as needed  
+- Maintain client confidentiality
+- Complete documentation within required timeframes
+- Participate in required training and professional development
+- Complete package-specific training per FC-16 before providing aftercare to specialized populations
+- Consult applicable umbrella policy for detailed aftercare requirements
+- Available for after-hours crisis support as needed
 - Comply with agency policies and minimum standards
 
 Last Updated : 

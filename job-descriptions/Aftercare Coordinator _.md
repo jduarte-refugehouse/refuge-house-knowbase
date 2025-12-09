@@ -95,15 +95,16 @@ Provide centralized coordination and oversight of aftercare services while case 
    - Maintain communication log with SSCC/DFPS contacts  
    - Escalate issues affecting timely submissions
 
-   
 
-4. **Support Case Managers**  
-     
-   - Provide templates and tools  
-   - Send timely reminders for reports  
-   - Answer regulatory questions  
-   - Troubleshoot challenging situations  
+
+4. **Support Case Managers**
+   - Provide templates and tools
+   - Send timely reminders for reports
+   - Answer regulatory questions
+   - Troubleshoot challenging situations
    - Share best practices for SSCC/DFPS communication
+
+> **[T3C] Service Package Responsibilities:** When serving children in specialized T3C Service Packages (Substance Use, Short-Term Assessment, Treatment Foster Family Care, Mental & Behavioral Health, IDD/Autism), responsibilities are adapted per the applicable umbrella policy and procedure. Staff must complete package-specific training per FC-16 Staff and Caregiver Training Policy before assuming specialized responsibilities. Consult FC-SU-01, FC-STASS-01, FC-TFFC-01, FC-MH-01, or FC-IDD-01 for detailed Service Package requirements.
 
 ## Minimum Qualifications
 
