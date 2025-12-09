@@ -2,9 +2,9 @@
 
 | Procedure Information | Details |
 | :---- | :---- |
-| **PROCEDURE NAME** | Foster Home Studies Procedure |
-| **PROCEDURE NUMBER** | FC17-01.1 |
-| **RELATED POLICY** | FC17-01 Foster Home Studies Policy |
+| **PROCEDURE NAME** | Foster Home Studies and T3C Credentialing Procedure |
+| **PROCEDURE NUMBER** | FC-17.1 |
+| **RELATED POLICY** | FC-17 Foster Home Studies and T3C Credentialing Policy |
 | **EFFECTIVE DATE** | 5/20/25 |
 | **REVISION DATE** | 8/25/25.1; 12.09.2025.1 |
 
