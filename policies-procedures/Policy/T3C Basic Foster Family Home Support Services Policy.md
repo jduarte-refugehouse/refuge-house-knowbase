@@ -212,12 +212,14 @@ For pregnant and parenting youth receiving this Add-On Service, Refuge House pro
 
 ## RELATED PROCEDURES:
 
-- FC-T3C-01.1 T3C Basic Foster Family Home Support Services Procedure  
-- FC-CRED-01.1 Foster Family Home Credentialing Procedure  
-- FC3-01.1 Individual Service Planning Procedure  
-- FC2-01.1 Admission Assessment Procedure  
-- FC7-01.1 Family Connections and Engagement Procedure  
-- FC8-01.1 Aftercare Services Procedure  
+- FC-T3C-01.1 T3C Basic Foster Family Home Support Services Procedure
+- FC-17.1 Foster Home Studies and T3C Credentialing Procedure
+- FC-16 Staff and Caregiver Training Policy
+- FC-16.1 Staff and Caregiver Training Procedure
+- FC3-01.1 Individual Service Planning Procedure
+- FC2-01.1 Admission Assessment Procedure
+- FC7-01.1 Family Connections and Engagement Procedure
+- FC8-01.1 Aftercare Services Procedure
 - FC14-01.1 Discharge and Permanency Planning Procedure
 
 ## FORMS/ATTACHMENTS:
