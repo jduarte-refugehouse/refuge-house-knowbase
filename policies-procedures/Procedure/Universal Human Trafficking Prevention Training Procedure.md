@@ -6,7 +6,7 @@
 | **PROCEDURE NUMBER** | HT-PROC-001 |
 | **RELATED POLICY** | HT-POL-001 Universal Human Trafficking Prevention Training Policy |
 | **EFFECTIVE DATE** | \[DATE\] |
-| **REVISION DATE** | \[ANNUAL\] |
+| **REVISION DATE** | 12.09.2025.1 |
 
 | \#\# APPLICABLE T3C PACKAGES: | \#\# APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -118,6 +118,54 @@ Implementation of this training reflects Refuge House's commitment to creating m
 | Training Coordinator (Admin) | 3.5 Track training completion rates weekly and follow up with supervisors on any non-compliance issues or barriers to attendance | Weekly during initial implementation phase | LMS tracking system | Quality assurance |
 | HR/Licensing (Admin) | 3.6 Add training completion certificates and dates to personnel files for staff and licensing files for caregivers | Within 5 business days of training | Personnel/licensing files in Radius | TAC §749 documentation |
 
+### 3A. PACKAGE-SPECIFIC TRAFFICKING AWARENESS TRAINING
+
+#### Purpose and Overview
+
+While Universal Human Trafficking Prevention Training applies to all staff and caregivers, those working with certain populations require enhanced awareness of population-specific risk factors and indicators. These enhancements do NOT create new training requirements but ensure staff understand how universal requirements apply in package-specific contexts.
+
+#### 3A.1 Substance Use Support Services Staff Enhancement
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Staff assigned to SU placements | 1. Complete Universal HT Prevention Training 2. Receive supplemental guidance on trafficking-substance use correlation 3. Review case studies of trafficking involving substances 4. Understand non-punitive, trauma-informed response | Universal training + supplemental guidance at assignment | Training materials; Case consultation | T3C Blueprint; FC-SU-01 |
+| Substance Use Treatment Providers | 1. Confirm HT training completion 2. Coordinate on trafficking indicator recognition 3. Establish disclosure response protocol | At provider engagement | Provider coordination | T3C Blueprint |
+
+**Key Awareness Points for SU Staff:**
+- Substances used as recruitment tools and control mechanisms by traffickers
+- Exchange of substances for sex or labor (survival trafficking)
+- Youth with substance use disorders targeted as vulnerable
+- Non-punitive response to disclosures during SU treatment
+- Heightened vigilance during early recovery periods
+
+#### 3A.2 Short-Term Assessment Staff Enhancement
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Assessment Coordinators/Treatment Directors | 1. Complete Universal HT Prevention Training 2. Review trafficking indicator integration across assessment domains 3. Establish protocol for documenting trafficking concerns in Transition Summary | Universal training + assignment preparation | Training materials; Assessment protocols | T3C Blueprint p.67-75 |
+| Case Managers (STASS) | 1. Complete Universal HT Prevention Training 2. Understand expedited response requirements given short placement 3. Know documentation requirements for transition | Universal training + assignment preparation | Training materials | T3C Blueprint p.67-75 |
+
+**Key Awareness Points for STASS Staff:**
+- Assessment period is critical screening opportunity
+- Children may have undisclosed trafficking histories at entry
+- Multi-domain assessments may reveal trafficking indicators
+- Short placement duration requires prompt identification and response
+- Thorough documentation essential for transition to receiving placement
+
+#### 3A.3 Treatment Foster Family Care Staff Enhancement
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Clinical Team (Treatment Director, Licensed Therapists) | 1. Complete Universal HT Prevention Training 2. Receive guidance on trafficking in high-acuity youth 3. Integrate trafficking considerations into clinical assessment 4. Develop treatment approaches for trafficking trauma | Universal training + clinical consultation | Training materials; Clinical protocols | T3C Blueprint p.136-147 |
+| TFFC Foster Parents | 1. Complete Universal HT Prevention Training 2. Receive enhanced guidance on recognizing trafficking indicators in high-acuity youth 3. Understand therapeutic response to trafficking-related behaviors | Universal training + specialized foster parent training (20 hrs) | Training materials; Foster parent support | TAC §749.863(c) |
+
+**Key Awareness Points for TFFC Staff:**
+- Serious mental, emotional, and behavioral challenges may result from trafficking trauma
+- High-acuity behaviors (running, sexual acting out, distrust of adults) may indicate trafficking
+- Intensive services may uncover previously undisclosed trafficking experiences
+- Complex trauma histories increase vulnerability
+- Treatment goals must address trafficking-related trauma when identified
+
 ### 4\. NEW EMPLOYEE AND CAREGIVER ORIENTATION INTEGRATION
 
 #### Purpose and Overview
@@ -149,6 +197,54 @@ The DFPS curriculum includes practical, age-appropriate strategies for primary p
 | Clinical Team | 5.5 Review all prevention education materials for trauma-informed approach, cultural sensitivity, TBRI® alignment, and therapeutic appropriateness | Before implementation with children | Clinical team review meeting | Best practice standards |
 | Program Director | 5.6 Establish written protocol for expanding prevention education resources as new evidence-based materials become available, while maintaining DFPS curriculum as foundation | Within 120 days of policy adoption | Program enhancement plan | Continuous improvement |
 
+### 5A. PACKAGE-SPECIFIC PREVENTION EDUCATION CONSIDERATIONS
+
+#### Purpose and Overview
+
+Prevention education must be tailored to the specific populations and circumstances of each Service Package while maintaining universal content requirements. These considerations do NOT create new education requirements but clarify how universal requirements apply in package-specific contexts.
+
+#### 5A.1 Substance Use Support Services Prevention Education
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Assess youth's readiness for prevention education (per universal requirements) 2. Address trafficking-substance use connection in age-appropriate manner 3. Discuss how traffickers use substances to recruit/control 4. Empower youth with safety strategies specific to recovery 5. Document in case file | Per universal timeline; integrated with recovery education | Foster home or office | T3C Blueprint; FC-SU-01 |
+
+**Content Integration for SU Youth:**
+Prevention education for Substance Use youth should include:
+- How traffickers use substances as recruitment tools
+- Recognizing when "free" substances may indicate exploitation
+- Safety planning for recovery that includes trafficking awareness
+- Resources for youth who have experienced both trafficking and substance use
+- Non-shaming, recovery-supportive approach to discussions
+
+#### 5A.2 Short-Term Assessment Prevention Education
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Assess readiness within shortened timeline 2. Provide foundational prevention education per universal requirements 3. Document education provided for transition 4. Note any concerns or disclosures | Within assessment period (21-45 days) | Foster home | T3C Blueprint p.67-75 |
+
+**Timeline Consideration for STASS:**
+Given short placement duration, prevention education should:
+- Begin promptly after placement stabilization
+- Focus on foundational safety concepts
+- Document what was covered for receiving Case Manager
+- Not be omitted due to short placement
+- Include any concerns in Transition Summary
+
+#### 5A.3 Treatment Foster Family Care Prevention Education
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager with Clinical Guidance | 1. Consult with Treatment Director on appropriate timing/approach 2. Consider trauma history in education delivery 3. Integrate prevention concepts into therapeutic framework 4. Address any trafficking-related behaviors therapeutically 5. Document in case file and treatment records | Per clinical guidance; within 90 days | Foster home; coordinated with therapy | T3C Blueprint p.136-147 |
+
+**Clinical Integration for TFFC Youth:**
+For high-acuity youth in Treatment Foster Family Care:
+- Prevention education timing/approach guided by clinical team
+- Content delivered in trauma-informed manner
+- Consider youth's capacity to process prevention information
+- Integrate with therapeutic treatment goals when trafficking history present
+- Treatment Director oversight for youth with trafficking-related concerns
+
 ### 6\. CHILD/YOUTH PREVENTION EDUCATION DELIVERY
 
 #### Purpose and Overview
@@ -166,6 +262,62 @@ Implementation of prevention education reflects TBRI®'s correcting principles b
 | Case Managers | 6.5 Document all prevention education in case notes including: date, method used, specific DFPS topics covered, child's response, any concerns or disclosures | Within 48 hours of education delivery | Radius case file | T3C documentation requirement |
 | Caregivers | 6.6 Report any concerning responses, disclosures, or behavioral changes immediately while maintaining child's felt safety and avoiding re-traumatization | Same day as disclosure or concern | Phone call to case manager | Mandatory reporting requirements |
 | All Staff | 6.7 Recognize that resistance to prevention education may indicate trauma history or current exploitation; respond with patience, connection, and safety rather than compliance-focused correction | Ongoing in all interactions | All settings | TBRI®-informed response |
+
+### 6A. PACKAGE-SPECIFIC REPORTING CONSIDERATIONS
+
+#### Purpose and Overview
+
+Reporting requirements apply universally per this procedure and mandatory reporting laws. This section addresses considerations specific to each package to ensure appropriate coordination and documentation.
+
+#### 6A.1 Substance Use Support Services Reporting
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Any Staff/Caregiver | 1. Follow universal reporting requirements per this procedure 2. Include substance use context in report 3. Coordinate with SU treatment providers 4. Notify Treatment Director for clinical coordination | Immediately upon identification | Per reporting protocols | T3C Blueprint; FC-SU-01 |
+
+**Special Considerations for SU Reporting:**
+- Youth may disclose trafficking during substance use treatment sessions
+- Substance use treatment providers must follow reporting protocols
+- Non-punitive response maintained even when trafficking involves substances
+- Substance use context may be relevant to law enforcement response
+- Coordinate with Substance Use Counselor for clinical continuity
+
+#### 6A.2 Short-Term Assessment Reporting
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Any Staff/Caregiver | 1. Follow universal reporting requirements per this procedure 2. Document in comprehensive assessment 3. Ensure receiving CPA is informed 4. Expedite response given time-limited placement | Immediately upon identification | Per reporting protocols | T3C Blueprint p.67-75 |
+
+**Special Considerations for STASS Reporting:**
+- Trafficking identification may inform Service Package recommendation
+- Documentation must transfer to receiving placement
+- Short placement does not reduce reporting urgency
+- STASS Coordinator involvement for assessment integration
+- Include trafficking findings in Transition Summary
+
+#### 6A.3 Treatment Foster Family Care Reporting
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Any Staff/Caregiver | 1. Follow universal reporting requirements per this procedure 2. Notify Treatment Director for clinical coordination 3. Integrate into treatment planning 4. Coordinate with Licensed Therapist | Immediately upon identification | Per reporting protocols | T3C Blueprint p.136-147 |
+
+**Special Considerations for TFFC Reporting:**
+- Clinical team involvement in response planning
+- Treatment goals may need adjustment to address trafficking trauma
+- Step-down planning must consider trafficking history/risk
+- Treatment Director provides clinical oversight for response
+- Coordinate therapeutic response with external investigations
+
+#### 6A.4 Package-Specific HT Prevention Summary Table
+
+| Element | Substance Use | Short-Term Assessment | Treatment Foster Care |
+|---------|:-------------:|:---------------------:|:---------------------:|
+| **Risk Level** | **ELEVATED** | Standard + Assessment Opportunity | **ELEVATED** |
+| **Primary Risk Factors** | Substances as recruitment/control; survival trafficking | Unknown history at entry | Complex trauma; high-acuity behaviors |
+| **Screening Focus** | SU-trafficking correlation | Multi-domain assessment integration | Clinical assessment integration |
+| **Staff Enhancement** | SU-trafficking training | Assessment documentation | Clinical trafficking guidance |
+| **Prevention Education** | Recovery-integrated | Foundational (time-limited) | Clinically-guided timing |
+| **Reporting Coordination** | SU treatment providers | Transition documentation | Treatment Director/Clinical Team |
 
 ### 7\. DOCUMENTATION AND COMPLIANCE MONITORING
 
@@ -247,21 +399,37 @@ Results from these evaluation methods inform annual procedure updates, guide res
 
 ## REGULATORY REFERENCES
 
-- T3C Blueprint Standards: Pages 18-19, Universal Human Trafficking Prevention Training  
-- TAC Chapter 749 Minimum Standards: §749.43 (Required Training); §749.911 (Pre-Service Training)  
-- RCC Contract Requirements: Contract Term 7 \- Training and Professional Development  
-- SSCC Contract Requirements: (if applicable to region)  
-- DFPS Universal Human Trafficking Prevention Training: A Foundation for Texas Residential Providers and Caregivers (Fall 2024\)  
+- T3C Blueprint Standards: Pages 18-19, Universal Human Trafficking Prevention Training
+- T3C Blueprint Standards: Pages 56-66 (Substance Use Support Services - elevated trafficking risk)
+- T3C Blueprint Standards: Pages 67-75 (Short-Term Assessment Support Services - assessment integration)
+- T3C Blueprint Standards: Pages 136-147 (T3C Treatment Foster Family Care - clinical integration)
+- TAC Chapter 749 Minimum Standards: §749.43 (Required Training); §749.911 (Pre-Service Training)
+- TAC §749.863(c): Treatment Foster Care Training Requirements (20 hours)
+- RCC Contract Requirements: Contract Term 7 - Training and Professional Development
+- SSCC Contract Requirements: (if applicable to region)
+- DFPS Universal Human Trafficking Prevention Training: A Foundation for Texas Residential Providers and Caregivers (Fall 2024)
 - TBRI® Pocket Guide, Purvis, K.B., Cross, D.R., Hurst, J.R., TCU Institute of Child Development
+- FC-SU-01 Substance Use Support Services Policy (elevated trafficking risk provisions)
+- FC-STASS-01 Short-Term Assessment Support Services Policy (assessment integration)
+- FC-TFFC-01 T3C Treatment Foster Family Care Support Services Policy (clinical integration)
 
 ## FORMS/ATTACHMENTS
 
 Documentation for all training and prevention education activities will be maintained in:
 
-- **Learning Management System (LMS)**: Training schedules, attendance tracking, curriculum delivery, evaluation data, and training analytics  
+- **Learning Management System (LMS)**: Training schedules, attendance tracking, curriculum delivery, evaluation data, and training analytics
 - **Radius**: Certificates of completion for employees and caregivers, child prevention education documentation, case notes, compliance reports, and credential tracking
 
 All required documentation templates, tracking tools, and reporting functions are integrated within these systems to ensure comprehensive record-keeping and regulatory compliance.
+
+**Package-Specific Screening Supplements:**
+
+- Substance Use Trafficking Indicator Checklist
+- Assessment Period Trafficking Documentation Template (STASS)
+- Clinical Trafficking Assessment Integration Guide (TFFC)
+- SU Treatment Provider HT Training Verification Form
+- STASS Transition Summary HT Documentation Section
+- TFFC Clinical Response Coordination Checklist
 
 *Note: When implementing this procedure, always ensure compliance with the minimum regulatory requirements while maintaining the least restrictive approach that ensures child safety and well-being.*
 
