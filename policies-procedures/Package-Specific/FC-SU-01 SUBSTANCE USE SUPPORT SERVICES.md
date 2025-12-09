@@ -42,6 +42,9 @@ This umbrella policy aggregates all requirements for Substance Use Support Servi
 **Integration Framework:** This document works in conjunction with:
 - **FC-T3C-01** T3C Basic Foster Family Home Support Services Policy (master T3C framework)
 - **FC-MH-01** Mental & Behavioral Health Support Services Policy (clinical framework - substantial overlap)
+- **FC-04** Crisis Management Policy (substance-related crisis principles)
+- **FC-04.1** Crisis Management Procedure Section 4 (Substance Use crisis protocols)
+- **FC-16** Staff and Caregiver Training Policy Section 4.4 (Substance Use training requirements)
 - **FC1-01.1** Admission Screening Procedure
 - **FC2-01.1** Admission Assessment Procedure
 - **FC3-01.1** Individual Service Planning Procedure
@@ -236,7 +239,18 @@ Drug screening conducted **as clinically indicated** based on treatment team jud
 
 ### 5.5 24/7 Crisis Availability
 
-**Cross-Reference:** Crisis response per **Crisis Management Staffing Plan** including substance-related crisis response.
+**Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 4** which includes:
+
+| Crisis Type | Response Protocol | Reference |
+|-------------|-------------------|-----------|
+| **Overdose** | Immediate 911; Narcan if trained; recovery position | FC-04.1 Section 4.2 |
+| **Severe Withdrawal** | Immediate 911; monitor for seizures; medical emergency | FC-04.1 Section 4.2 |
+| **Active Intoxication** | Safety monitoring; medical assessment as indicated | FC-04.1 Section 4.3 |
+| **Relapse (Non-Emergency)** | Non-punitive clinical response; treatment adjustment | FC-04.1 Section 4.4 |
+
+**Key Principle:** All substance-related crises are addressed as clinical events requiring treatment adjustment, NOT behavioral infractions warranting punitive response.
+
+**Staff Training:** Per **FC-16 Staff and Caregiver Training Policy Section 4.4**, all staff serving Substance Use population must complete 4-hour Substance Use Support Services training including crisis response components.
 
 ### 5.6 Human Trafficking Prevention
 
@@ -291,6 +305,20 @@ Foster home must maintain substance-free environment with:
 
 Admissions and placement staff on-call/available **365 days per year, 24 hours per day**.
 
+### 6.5 Job Description Cross-References
+
+Staff fulfilling these roles must have package-specific responsibilities incorporated into their job descriptions:
+
+| Role | Job Description Section | Key SU Responsibilities |
+|------|------------------------|-------------------------|
+| Case Manager | Section E: Substance Use Coordination | Weekly therapy coordination; non-punitive relapse response; recovery monitoring |
+| Crisis Management Staff | Package-Specific Protocols | Overdose/withdrawal response; relapse support |
+| Aftercare Case Manager | Package-Specific Aftercare | Recovery stability monitoring; MAT continuation |
+| Treatment Director | SU Oversight Section | Provider coordination; clinical supervision |
+| Behavior Support Specialist | Package Variation Section | Recovery-focused interventions; non-punitive approach |
+
+**Cross-Reference:** See **Job Description Targeted Additions - SU/STASS/TFFC** for complete duty specifications.
+
 ---
 
 ## 7. FOSTER FAMILY HOME REQUIREMENTS
@@ -310,7 +338,12 @@ Admissions and placement staff on-call/available **365 days per year, 24 hours p
 - Maintaining substance-free home environment
 - Medication-assisted treatment understanding
 
-**Cross-Reference:** Training per **FC-16 Caregiver Training Policy** and **T3C Staff and Caregiver Training Plan**.
+**Cross-Reference:** Training per **FC-16 Staff and Caregiver Training Policy Section 4.4** which specifies:
+- 4-hour Substance Use awareness training (required before first SU placement)
+- Annual 2-hour refresher training
+- Topics: addiction as disease, signs of use/intoxication, non-punitive relapse response, medication safety
+
+Foster parents must also complete training on crisis response per **FC-04 Crisis Management Policy**.
 
 ### 7.3 Caregiver Competencies
 
@@ -496,6 +529,24 @@ Drug screening is a **clinical tool** to inform treatment, NOT a punitive measur
 | Treatment Director | 1. Review circumstances 2. Contact substance use provider 3. Recommend Service Plan adjustment 4. Document treatment modifications | Within 48 hours of notification | T3C Blueprint |
 | Service Planning Team | 1. Review relapse circumstances 2. Adjust Service Plan 3. Increase support as needed 4. Document recovery-focused response | Within 5 days | T3C Blueprint |
 
+### 14.4 Relapse Response Protocol
+
+**Cross-Reference:** This section aligns with **FC-04.1 Crisis Management Procedure Section 4.4**
+
+**CRITICAL PRINCIPLE:** Relapse is addressed as an opportunity for treatment adjustment, NOT as failure or behavioral infraction.
+
+| Step | Action | Responsible Party | Timeline |
+|------|--------|-------------------|----------|
+| 1 | Ensure child safety; assess for medical emergency | Foster Parent/Case Manager | Immediate |
+| 2 | If overdose or severe withdrawal: Call 911 | Anyone present | Immediate |
+| 3 | Notify Treatment Director | Case Manager | Within 2 hours |
+| 4 | Coordinate with substance use treatment provider | Case Manager | Within 24 hours |
+| 5 | Adjust treatment plan based on relapse | Treatment Director | Within 3 business days |
+| 6 | Update Service Plan with recovery plan modifications | Case Manager | Within 3 business days |
+| 7 | Provide non-punitive support to youth | All team members | Ongoing |
+
+**Documentation:** Use Relapse Response Documentation Form (non-punitive framing required).
+
 ---
 
 ## 15. THERAPEUTIC SERVICES PROCEDURES
@@ -657,10 +708,14 @@ For Substance Use Support Services, TBRI principles are integrated with recovery
 - **FC-17** Continuous Quality Improvement Policy
 - **CQI Plan**
 
+### Crisis Management:
+- **FC-04** Crisis Management Policy
+- **FC-04.1** Crisis Management Procedure (Section 4: Substance Use)
+- **FC-16** Staff and Caregiver Training Policy (Section 4.4: Substance Use Training)
+
 ### Other:
 - **FC-HT-01** Human Trafficking Prevention Policy
 - **TBRI Treatment Model Executive Summary**
-- **Crisis Management Staffing Plan**
 
 ---
 
@@ -673,6 +728,11 @@ For Substance Use Support Services, TBRI principles are integrated with recovery
 - Service Plan - Substance Use Supplement
 - Recovery Progress Tracking Log
 - Monthly Aftercare Report Template
+
+**Crisis Management Forms (per FC-04.1):**
+- Substance-Related Crisis Documentation Form
+- Overdose Response Checklist
+- Relapse Response Documentation (Non-Punitive)
 
 ---
 
