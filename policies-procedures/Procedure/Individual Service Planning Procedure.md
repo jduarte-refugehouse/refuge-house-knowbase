@@ -6,7 +6,7 @@
 | **PROCEDURE NUMBER** | FC3-01.1 |
 | **RELATED POLICY** | FC3-01 Individual Service Planning Policy |
 | **EFFECTIVE DATE** | 5/20/25 |
-| **REVISION DATE** | 12.27.2024.1 |
+| **REVISION DATE** | 12/08/25 |
 
 | APPLICABLE T3C PACKAGES: | APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -142,7 +142,107 @@ The Mental & Behavioral Health and IDD/Autism packages require enhanced document
 | **Medical/Nursing** | \- Complex medical conditions requiring RN oversight \- Multiple daily medications requiring administration \- Specialized medical equipment \- Frequent medical crises | \- Medical conditions stable \- Simplified medication regimen \- Standard medical needs \- Rare medical incidents |
 | **Behavioral Support** | \- Severe self-injurious behaviors \- Aggressive behaviors requiring specialized intervention \- Property destruction patterns \- Elopement risk requiring environmental modifications | \- Behaviors manageable with standard approaches \- Minimal behavioral incidents \- No specialized interventions needed \- Safe in standard environment |
 
-#### 2.5 Compliance Monitoring for Enhanced Packages
+#### 2.5 Substance Use Support Services - Service Plan Requirements
+
+##### Purpose and Overview
+
+Substance Use Support Services follows the Mental & Behavioral Health pattern (90-day reviews) with recovery-focused enhancements. Detailed procedures are in **FC-SU-01 §13-14**.
+
+##### 2.5.1 Service Plan Development
+
+**Per Sections 2.1-2.3** with the following package-specific additions:
+
+| Component | Requirement | Regulatory Reference |
+|-----------|-------------|---------------------|
+| Recovery goals | Include in initial Service Plan | FC-SU-01 §13.2 |
+| Weekly therapy | Document with clinical justification | FC-SU-01 §5.2 |
+| Drug screening protocol | Include if clinically indicated | FC-SU-01 §14 |
+
+##### 2.5.2 90-Day Service Plan Reviews
+
+**Per Section 4.2** (same as Mental & Behavioral Health):
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Service Planning Team | Review per Section 4.2 with recovery progress focus | Every 90 days | FC-SU-01 §13.3 |
+| Treatment Director | Complete Continued Stay Evaluation per FC-CSR-01.1 | Every 90 days | FC-SU-01 §16 |
+| Case Manager | Submit review package to SSCC/DFPS | Within 15 business days | **RCC Contract Term 7** |
+
+**Cross-Reference:** Drug screening response and relapse procedures per **FC-SU-01 §14**.
+
+#### 2.6 Short-Term Assessment - Service Plan Requirements
+
+##### Purpose and Overview
+
+Short-Term Assessment has a fundamentally different Service Plan purpose: assessment coordination for Service Package determination. **NO Continued Stay Review.** Detailed procedures in **FC-STASS-01 §13**.
+
+##### 2.6.1 Service Plan Development
+
+**Per Sections 2.1-2.3** with assessment focus:
+
+| Component | Requirement | Timeline | Regulatory Reference |
+|-----------|-------------|----------|---------------------|
+| Assessment Coordination Plan | Incorporate from FC2-01.1 | Within 72 hours | T3C Blueprint p.68 |
+| CANS 3.0 | Document completion timeline | 21 days (≤5) / 30 days (6+) | T3C Blueprint p.69 |
+| Service Package recommendation | Document as primary goal | Before discharge | T3C Blueprint p.70-71 |
+
+##### 2.6.2 30-Day Service Plan Reviews
+
+**Package-Specific Modification:** Reviews every 30 days (vs. 6 months for Basic)
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Service Planning Team | 1. Review assessment progress 2. Update Service Plan 3. Evaluate transition readiness 4. Recommend Service Package if assessments complete | **Every 30 days** | **T3C Blueprint p.68** |
+
+**NOTE:** Continued Stay Review is **NOT APPLICABLE** for this package.
+
+##### 2.6.3 Discharge Planning
+
+**Per FC-STASS-01 §14**: Case Manager prepares Transition Summary with Service Package recommendation. **Aftercare NOT required.**
+
+#### 2.7 T3C Treatment Foster Family Care - Service Plan Requirements
+
+##### Purpose and Overview
+
+Treatment Foster Family Care has accelerated 60-day reviews with dual signature requirement. Step-down planning from Day 1. Detailed procedures in **FC-TFFC-01 §12-15**.
+
+##### 2.7.1 Service Plan Development
+
+**Per Sections 2.1-2.3** with the following enhancements:
+
+| Component | Requirement | Timeline | Regulatory Reference |
+|-----------|-------------|----------|---------------------|
+| Step-down goals | **Required in initial Service Plan** | Within 30 days | T3C Blueprint p.144 |
+| Therapy justification | Written clinical justification for frequency | Within 30 days | T3C Blueprint p.143-144 |
+| 365-day tracking | Document placement start date and track days | Ongoing | T3C Blueprint p.142 |
+| Treatment Director approval | **Required written approval** | Within 5 days of draft | Texas Family Code §264.1073 |
+
+##### 2.7.2 60-Day Service Plan Reviews
+
+**Package-Specific Modification:** Reviews every 60 days (vs. 90 days for MH)
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Case Manager | Prepare review per FC-TFFC-01 §13.1 | 7 days before review | T3C Blueprint p.145 |
+| Service Planning Team | Review treatment progress, update Service Plan, assess step-down readiness | **Every 60 days** | T3C Blueprint p.145 |
+
+##### 2.7.3 Dual Confirmation Process
+
+**CRITICAL:** Both signatures required per T3C Blueprint p.145
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Treatment Director | Sign confirming child requires TFFC and is benefitting from Treatment Model | At 60-day review | **T3C Blueprint p.145** |
+| Program Director | Sign confirming continued need and less-restrictive placement not appropriate | Within 24 hours of TD signature | **T3C Blueprint p.145** |
+| Case Manager | Submit to SSCC/DFPS | Within 15 business days | **RCC Contract Term 7** |
+
+**Form:** Enhanced Continued Stay Confirmation Form - Treatment Foster Care Version (dual signature)
+
+##### 2.7.4 Aftercare Planning
+
+**Per FC-TFFC-01 §16:** 6-month aftercare REQUIRED (Month 1 weekly, Months 2-6 twice monthly).
+
+#### 2.8 Compliance Monitoring for Enhanced Packages
 
 | Who | How | When | Where | Regulatory Reference |
 | :---- | :---- | :---- | :---- | :---- |
@@ -190,6 +290,17 @@ Regular service plan reviews ensure services remain relevant and effective while
 | Program Director | 2\. Provide written confirmation of continued need | Within 48 hours of review | Confirmation form | **CRITICAL: T3C Blueprint requirement** |
 | Case Manager | 3\. Submit review package to SSCC/DFPS | **Within 15 business days of review** | IMPACT submission | **CRITICAL DEADLINE** |
 
+#### 4.3 Service Plan Review Requirements by Package
+
+| Package | Review Cycle | Continued Stay | Special Requirements |
+|---------|-------------|----------------|---------------------|
+| T3C Basic | 6 months | N/A | Standard per Section 4.1 |
+| Mental & Behavioral Health | 90 days | 90 days | Per Section 2.4 |
+| IDD/Autism | 90 days | 90 days | Per Section 2.4 |
+| **Substance Use** | **90 days** | **90 days** | **Per Section 2.5; FC-SU-01** |
+| **Short-Term Assessment** | **30 days** | **N/A** | **Per Section 2.6; FC-STASS-01** |
+| **Treatment Foster Family Care** | **60 days** | **60 days (dual signature)** | **Per Section 2.7; FC-TFFC-01** |
+
 ### 5\. MONITORING AND QUALITY ASSURANCE
 
 #### Purpose and Overview
@@ -234,11 +345,48 @@ Systematic monitoring ensures service plans meet both regulatory requirements an
 
 **IDD/Autism Forms:**
 
-- Enhanced Continued Stay Confirmation Form \- IDD/Autism Version (REQUIRED \- available at previewforms.refugehouse.org)  
-- RN Consultation Form for Continued Stay Review  
-- Behavior Data Graphing Template  
-- Skills Acquisition Tracking Form  
+- Enhanced Continued Stay Confirmation Form - IDD/Autism Version (REQUIRED - available at previewforms.refugehouse.org)
+- RN Consultation Form for Continued Stay Review
+- Behavior Data Graphing Template
+- Skills Acquisition Tracking Form
 - Communication Progress Documentation
+
+**Substance Use Forms:**
+
+- Enhanced Continued Stay Confirmation Form - Substance Use Version
+
+**Short-Term Assessment Forms:**
+
+- Service Plan - Short-Term Assessment Supplement
+
+**Treatment Foster Family Care Forms:**
+
+- Enhanced Continued Stay Confirmation Form - Treatment Foster Care Version (dual signature required)
+- Step-Down Planning Worksheet
+
+## REGULATORY REFERENCES:
+
+**TAC Chapter 749 (Minimum Standards):**
+- TAC §749.1301: 30-Day Service Plan Timeline (HIGH WEIGHT STANDARD)
+- TAC §749.1309: Service Plan Content Requirements
+- TAC §749.1317: Signature and Distribution Requirements
+- TAC §749.1335: Service Plan Review Requirements
+- TAC §749.665: Program Director Responsibilities
+- TAC §749.673: Treatment Director Responsibilities
+
+**RCC Contract:**
+- Contract Term 7: SSCC/DFPS Submission Requirements
+
+**T3C Blueprint:**
+- Pages 47-55: T3C Basic Foster Family Home
+- Pages 76-86: Mental & Behavioral Health Support Services
+- Pages 123-135: IDD/Autism Spectrum Disorder Support Services
+- Pages 67-75: Short-Term Assessment Support Services
+- Pages 136-147: T3C Treatment Foster Family Care Support Services
+
+**Other:**
+- Texas Family Code §264.1073 (Treatment Foster Family Care)
+- TAC §700.1335 (Treatment Foster Family Care)
 
 ---
 
