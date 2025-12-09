@@ -6,7 +6,7 @@
 | **PROCEDURE NUMBER** | FC10-01.1 |
 | **RELATED POLICY** | FC10-01 Physical and Mental Health Care Policy |
 | **EFFECTIVE DATE** | 5/20/25 |
-| **REVISION DATE** | 5/20/25 |
+| **REVISION DATE** | 5/20/25; 12.09.2025.1 |
 
 | APPLICABLE T3C PACKAGES: | APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -30,13 +30,15 @@ This procedure operationalizes the Physical and Mental Health Care Policy (FC10-
 
 ## RESPONSIBILITY:
 
-- Case Managers  
-- Program Directors/LCPAAs  
-- Treatment Directors  
-- Home Developers  
-- Intake Department  
-- Foster Parents  
+- Case Managers
+- Program Directors/LCPAAs
+- Treatment Directors
+- Home Developers
+- Intake Department
+- Foster Parents
 - Quality Assurance
+- Substance Use Counselor (for SU package coordination)
+- STASS Coordinator (for time-limited assessment services)
 
 ## IMPLEMENTATION GUIDANCE:
 
@@ -205,7 +207,59 @@ Implementation of package-specific requirements requires close coordination betw
 | Case Manager | **For IDD/Autism Spectrum Package:** 1\. Coordinate comprehensive developmental assessments 2\. Arrange accommodations for medical/dental appointments 3\. Coordinate with educational services for integrated support 4\. Document specific accommodation needs for healthcare 5\. Ensure developmental progress monitoring | **Ongoing specialized developmental coordination** | Developmental services coordination | T3C Blueprint IDD/Autism requirements |
 | Case Manager | **For All Specialized Packages:** 1\. Complete package-specific sections of T3C Implementation Tool 2\. Document how health services support package goals 3\. Coordinate enhanced service team meetings 4\. Monitor package-specific outcome measures 5\. Report progress to DFPS/SSCC per package requirements | **Ongoing per package requirements** | T3C Implementation Tool documentation | T3C Blueprint package-specific standards |
 
-### 10\. DOCUMENTATION AND QUALITY ASSURANCE
+### 10\. SUBSTANCE USE SUPPORT SERVICES HEALTH CARE PROCEDURES
+
+#### Purpose and Overview
+
+Health care procedures for children and youth in the Substance Use Support Services package require integration of recovery-focused health services with traditional medical care coordination. These procedures ensure that substance use treatment, including Medication-Assisted Treatment (MAT) when appropriate, is coordinated alongside physical health care in a trauma-informed manner that supports sustained recovery.
+
+The policy establishes enhanced health care requirements including "Substance Use Assessment and Treatment Coordination within 21 days of placement" and "Medication-Assisted Treatment (MAT) coordination when clinically appropriate." These procedures provide the operational steps for implementing these requirements while ensuring drug screening is used as a clinical tool rather than a punitive measure.
+
+| Procedure ID | Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **SU-1: Initial SU Screening** | Case Manager | 1. Review all available substance use history from DFPS/SSCC referral 2. Document known substances of use, treatment history, and recovery status 3. Assess for immediate withdrawal concerns requiring medical attention 4. Coordinate with foster parent on recovery environment requirements 5. Identify any MAT medications currently prescribed | **Within 24 hours of placement** | Admission documentation in Radius | T3C Blueprint SU Package; TAC §749.1401 |
+| **SU-2: SU Assessment Coordination** | Case Manager | 1. Schedule comprehensive substance use assessment with qualified STAR Health provider 2. Ensure assessor is licensed in substance use treatment (LCDC, LPC-S with SU specialty) 3. Coordinate transportation and foster parent participation 4. Provide assessor with relevant history and current concerns 5. Document assessment scheduling and completion | **Assessment completed within 21 days of placement** | STAR Health SU assessment provider | T3C Blueprint SU Package requirements |
+| **SU-3: SU Treatment Coordination** | Treatment Director | 1. Review substance use assessment recommendations 2. Develop substance use treatment coordination plan 3. Identify appropriate treatment intensity (outpatient, IOP, residential if needed) 4. Coordinate treatment schedule with school and other services 5. Ensure treatment integrates with TBRI implementation 6. Document treatment plan in Service Plan | **Within 5 days of receiving SU assessment** | Treatment coordination documentation | T3C Blueprint p.47-55; SU Package |
+| **SU-4: MAT Coordination** | Case Manager with Treatment Director oversight | 1. If MAT is recommended, identify qualified MAT prescriber in STAR Health network 2. Coordinate initial MAT evaluation appointment 3. Ensure foster parent receives MAT medication administration training 4. Establish medication pickup/delivery schedule 5. Coordinate MAT monitoring appointments 6. Document MAT plan and monitoring in Radius | **Within 14 days of MAT recommendation** | MAT provider coordination | T3C Blueprint SU Package; MAT protocols |
+| **SU-5: Drug Screening Protocol** | Case Manager | 1. Drug screening is used as a clinical tool, NOT punitive measure 2. Coordinate screening per treatment provider recommendations 3. Results shared with treatment team for clinical decision-making 4. Document screening results in clinical section of record 5. Positive screens addressed through clinical intervention, not placement disruption 6. Screen results inform service intensity adjustments | **Per clinical recommendation (typically 1-2x weekly initially)** | STAR Health approved lab or provider office | T3C Blueprint SU Package; Clinical protocols |
+| **SU-6: SU Crisis Response** | On-Call Staff/Case Manager | 1. For suspected overdose: Call 911 immediately, administer Narcan if trained and available 2. For relapse without overdose: Contact Treatment Director for clinical guidance 3. Assess safety and need for higher level of care 4. Document incident and response in Radius 5. Convene emergency service team meeting within 48 hours 6. Adjust treatment plan based on clinical assessment | **Immediately upon crisis identification** | Crisis response protocols | T3C Blueprint SU Package; Emergency protocols |
+
+### 11\. SHORT-TERM ASSESSMENT SUPPORT SERVICES HEALTH CARE PROCEDURES
+
+#### Purpose and Overview
+
+Health care procedures for children and youth in the Short-Term Assessment Support Services (STASS) package focus on completing comprehensive health assessments efficiently within the time-limited service period (30-45 days). These procedures prioritize rapid identification of health needs and establishing a complete health picture to inform recommendations for appropriate ongoing placement and services.
+
+The policy establishes that "STAR Health Service Coordination is requested within 3 business days of placement" and health assessments follow "Expedited Assessment timelines (21 days for ages 0-5, 30 days for ages 6+)." These procedures ensure health assessment completion supports the overall assessment process and generates comprehensive health documentation for transition to the recommended service package.
+
+| Procedure ID | Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **STASS-1: Assessment Planning** | Case Manager | 1. Review all available health records from DFPS/SSCC immediately upon placement 2. Identify health assessments needed (medical, dental, vision, developmental, psychological) 3. Create assessment completion timeline based on child's age 4. Prioritize appointments to meet expedited timeline 5. Coordinate all scheduling within first 3 days of placement | **Assessment plan created within 24 hours of placement** | Assessment planning documentation | T3C Blueprint STASS Package |
+| **STASS-2: STAR Health Authorization** | Case Manager | 1. Contact STAR Health Service Coordination within 3 business days 2. Request expedited authorization for comprehensive assessments 3. Document authorization numbers and approved services 4. Address any authorization barriers immediately 5. Escalate authorization delays to Program Director | **STAR Health coordination requested within 3 business days** | STAR Health authorization documentation | T3C Blueprint STASS Package requirements |
+| **STASS-3: Medical Assessment** | Case Manager | 1. Schedule comprehensive medical examination with Texas Health Steps provider 2. Request provider complete full medical history and physical examination 3. Ensure all recommended lab work and screenings completed 4. Request detailed written report of findings and recommendations 5. Document all medical findings for transition planning | **Completed within 21 days (ages 0-5) or 30 days (ages 6+)** | STAR Health medical provider | T3C Blueprint STASS expedited timelines |
+| **STASS-4: Behavioral/Developmental Assessment** | Case Manager with Treatment Director | 1. Coordinate psychological/developmental evaluation scheduling 2. Ensure evaluator receives all relevant history 3. Request comprehensive report including diagnosis and recommendations 4. Expedite evaluation completion within assessment timeline 5. Integrate findings with other assessment results | **Completed within expedited timeline** | Licensed evaluator | T3C Blueprint STASS Package; TAC §749.1413 |
+| **STASS-5: Assessment Tracking** | Case Manager | 1. Maintain STASS Assessment Tracking Form with all scheduled assessments 2. Update completion status daily 3. Address scheduling conflicts immediately 4. Document reasons for any timeline extensions 5. Report progress to service team weekly | **Daily tracking; weekly reporting** | STASS Assessment Tracking Form | T3C Blueprint STASS Package |
+| **STASS-6: Results Integration** | Treatment Director | 1. Review all completed health assessments 2. Integrate health findings into comprehensive assessment 3. Develop health-related service recommendations 4. Include health care needs in placement recommendation 5. Document health summary in STASS Final Report | **Within 5 days of final assessment completion** | STASS Final Report | T3C Blueprint STASS Package |
+| **STASS-7: Documentation Transfer** | Case Manager | 1. Compile complete health documentation package 2. Include all assessment reports, medical records, and recommendations 3. Prepare Health Summary for receiving provider 4. Transfer records to receiving CPA/placement within 24 hours of transition 5. Ensure continuity of any ongoing health treatments | **Within 24 hours of transition** | Health documentation transfer | T3C Blueprint STASS Package; Discharge requirements |
+
+### 12\. T3C TREATMENT FOSTER FAMILY CARE HEALTH CARE PROCEDURES
+
+#### Purpose and Overview
+
+Health care procedures for children and youth in the T3C Treatment Foster Family Care (TFFC) package require intensive psychiatric and behavioral health coordination alongside standard medical care. These procedures support the package's focus on time-limited, intensive treatment leading to step-down to lower levels of care within the 365-day maximum service period.
+
+The policy establishes enhanced requirements including "Initial Psychiatric Evaluation within 14 days of placement," "Monthly Treatment Director reviews of psychiatric care and treatment progress," and "Treatment Director oversight required for all psychiatric medication changes." These procedures ensure intensive health coordination supports treatment goals while preparing for successful step-down.
+
+| Procedure ID | Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **TFFC-1: Initial Psychiatric Evaluation** | Treatment Director | 1. Schedule psychiatric evaluation with child psychiatrist in STAR Health network 2. Provide psychiatrist with all available psychological and behavioral history 3. Ensure foster parent participates in evaluation 4. Request comprehensive diagnostic assessment and treatment recommendations 5. Document evaluation in clinical record | **Psychiatric evaluation completed within 14 days of placement** | Child psychiatrist | T3C Blueprint TFFC Package requirements |
+| **TFFC-2: Intensive Therapy Coordination** | Treatment Director | 1. Ensure weekly individual therapy with trauma-trained therapist 2. Coordinate therapy focus with overall treatment goals 3. Review therapy progress monthly 4. Ensure therapy supports TBRI implementation in home 5. Adjust therapy approach based on treatment response 6. Document therapy coordination in Service Plan | **Weekly therapy; monthly Treatment Director review** | STAR Health therapy provider | T3C Blueprint TFFC Package; Weekly therapy requirement |
+| **TFFC-3: Treatment Director Monthly Oversight** | Treatment Director | 1. Review all psychiatric and behavioral health services monthly 2. Assess treatment progress toward step-down readiness 3. Coordinate with psychiatrist on medication effectiveness 4. Evaluate need for treatment intensity adjustments 5. Document monthly treatment review in clinical record 6. Report progress in 60-day Continued Stay Reviews | **Monthly review; documented in 60-day CSR** | Clinical oversight documentation | T3C Blueprint TFFC Package |
+| **TFFC-4: Psychiatric Medication Management** | Treatment Director with Psychiatrist | 1. Treatment Director must review and approve all psychiatric medication changes 2. Coordinate medication changes with treating psychiatrist 3. Ensure foster parent receives medication administration guidance 4. Monitor for medication side effects 5. Document medication changes and rationale 6. Integrate medication management with overall treatment plan | **Treatment Director approval required for any medication changes** | Psychiatric medication oversight | T3C Blueprint TFFC Package; Psychotropic medication protocols |
+| **TFFC-5: Behavioral Crisis Response** | Treatment Director/On-Call | 1. Treatment Director involvement required for all behavioral crises 2. Assess need for psychiatric hospitalization 3. Coordinate with crisis services and psychiatrist as needed 4. Develop crisis stabilization plan 5. Evaluate if crisis impacts step-down timeline 6. Document crisis response and treatment plan adjustments | **Treatment Director involvement immediate upon crisis** | Crisis response documentation | T3C Blueprint TFFC Package; Crisis protocols |
+| **TFFC-6: Health Documentation for Step-Down** | Case Manager with Treatment Director | 1. Maintain comprehensive health documentation throughout placement 2. Document treatment progress supporting step-down readiness 3. Prepare Health Care Transition Summary for receiving provider 4. Coordinate medication transfer and prescriber identification 5. Ensure therapy continuation plan in place 6. Transfer all health records within 24 hours of step-down | **Ongoing documentation; transfer within 24 hours of step-down** | Step-down health documentation | T3C Blueprint TFFC Package; Step-down planning |
+
+### 13\. DOCUMENTATION AND QUALITY ASSURANCE
 
 #### Purpose and Overview
 
@@ -233,14 +287,29 @@ The integration of health documentation with the overall Service Plan and T3C Im
 
 ## FORMS/ATTACHMENTS:
 
-- DFPS Medical/Dental/Vision Appointment Form ([https://www.dfps.state.tx.us/Child\_Protection/Medical\_Services/documents/Medical\_Appointment\_Form.pdf](https://www.dfps.state.tx.us/Child_Protection/Medical_Services/documents/Medical_Appointment_Form.pdf))  
-- Medication Administration Record  
-- Immunization Worksheet  
-- TB Screening Documentation Form  
-- T3C Service Package Implementation and Compliance Tool (FC-T3C-01)  
-- Texas Health Steps Periodicity Schedule ([https://www.hhs.texas.gov/providers/health-services-providers/texas-health-steps/forms-tools-resources/periodicity-schedule](https://www.hhs.texas.gov/providers/health-services-providers/texas-health-steps/forms-tools-resources/periodicity-schedule))  
-- STAR Health Member Handbook ([https://www.superiorhealthplan.com/members/medicaid/star-health/resources.html](https://www.superiorhealthplan.com/members/medicaid/star-health/resources.html))  
+- DFPS Medical/Dental/Vision Appointment Form ([https://www.dfps.state.tx.us/Child\_Protection/Medical\_Services/documents/Medical\_Appointment\_Form.pdf](https://www.dfps.state.tx.us/Child_Protection/Medical_Services/documents/Medical_Appointment_Form.pdf))
+- Medication Administration Record
+- Immunization Worksheet
+- TB Screening Documentation Form
+- T3C Service Package Implementation and Compliance Tool (FC-T3C-01)
+- Texas Health Steps Periodicity Schedule ([https://www.hhs.texas.gov/providers/health-services-providers/texas-health-steps/forms-tools-resources/periodicity-schedule](https://www.hhs.texas.gov/providers/health-services-providers/texas-health-steps/forms-tools-resources/periodicity-schedule))
+- STAR Health Member Handbook ([https://www.superiorhealthplan.com/members/medicaid/star-health/resources.html](https://www.superiorhealthplan.com/members/medicaid/star-health/resources.html))
 - STAR Health Contact Information ([https://www.superiorhealthplan.com/members/medicaid/star-health/contact-us.html](https://www.superiorhealthplan.com/members/medicaid/star-health/contact-us.html))
+
+**Substance Use Support Services Forms:**
+- Substance Use Health Care Coordination Checklist
+- MAT Coordination and Monitoring Log
+- Drug Screening Clinical Documentation Form
+
+**Short-Term Assessment Support Services Forms:**
+- STASS Assessment Tracking Form
+- STASS Health Summary for Transition
+- Expedited Assessment Timeline Worksheet
+
+**T3C Treatment Foster Family Care Forms:**
+- TFFC Psychiatric Care Coordination Log
+- Treatment Director Monthly Health Review Form
+- TFFC Health Care Transition Summary (for Step-Down)
 
 ---
 
