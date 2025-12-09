@@ -17,12 +17,12 @@
 | **APPROVED ON** | \[Date\] |
 | **EFFECTIVE DATE** | \[Date\] |
 | **SECTION** | FC-AF |
-| **DATE(S) OF REVISION** | 12.27.2024.1 |
+| **DATE(S) OF REVISION** | 12.27.2024.1; 12.09.2025.1 |
 
 | \#\# APPLICABLE T3C PACKAGES: | \#\# APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
 | ☒ T3C Basic Foster Family Home | ☒ Transition Support Services for Youth & Young Adults |
-| ☐ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
+| ☒ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
 | ☐ Short-Term Assessment | ☒ Pregnant & Parenting Youth or Young Adult |
 | ☒ Mental & Behavioral Health Support Services |  |
 | ☐ Sexual Aggression/Sex Offender |  |
@@ -103,13 +103,35 @@ For children receiving IDD/Autism Support Services, aftercare requirements inclu
 
 For youth stepping down from Treatment Foster Care, aftercare includes:
 
-1. **Intensive Initial Support:** Weekly contact during first month post-discharge, then twice-monthly for remainder of 6-month period.  
-     
-2. **Step-Down Monitoring:** Close monitoring of adjustment to less intensive placement with rapid response to emerging needs.  
-     
-3. **Treatment Gains Maintenance:** Transfer of all effective behavioral interventions and de-escalation strategies to receiving placement.  
-     
+1. **Intensive Initial Support:** Weekly contact during first month post-discharge, then twice-monthly for remainder of 6-month period.
+
+2. **Step-Down Monitoring:** Close monitoring of adjustment to less intensive placement with rapid response to emerging needs.
+
+3. **Treatment Gains Maintenance:** Transfer of all effective behavioral interventions and de-escalation strategies to receiving placement.
+
 4. **Placement Preservation Focus:** Proactive support to prevent disruption during critical transition from intensive treatment setting.
+
+### ☒ SUBSTANCE USE SUPPORT SERVICES
+
+For children receiving Substance Use Support Services, aftercare requirements follow the Mental & Behavioral Health pattern with recovery-specific enhancements:
+
+1. **Mandatory 6-Month Aftercare:** All youth discharging from this package MUST receive 6 months of aftercare services regardless of discharge type or destination, with specialized focus on recovery support continuity.
+
+2. **Enhanced Contact Requirements:** Twice-monthly minimum contact is required, with in-person contact preferred during the first month post-discharge to monitor recovery stability and support treatment engagement.
+
+3. **Recovery Support Continuation:** Connection to community recovery resources, 12-step or alternative recovery programs, and peer support networks as appropriate for the youth's recovery plan.
+
+4. **Substance Use Treatment Coordination:** Continued coordination with substance use treatment providers to ensure uninterrupted access to individual therapy, group therapy, and medication-assisted treatment (MAT) if applicable.
+
+5. **Recovery Stability Monitoring:** Ongoing assessment of recovery stability indicators including treatment engagement, support network involvement, and absence of substance use relapse.
+
+6. **Relapse Crisis Response:** 24/7 crisis response availability with specialized protocols for relapse situations, including immediate assessment, treatment adjustment coordination, and placement preservation support.
+
+7. **Recovery Environment Support:** Assistance to receiving placement in maintaining substance-free environment and understanding recovery-supportive approaches, including education on non-punitive responses to relapse.
+
+8. **STAR Health Coordination:** Continued coordination with STAR Health for substance use treatment services, mental health services, and medication management as clinically indicated.
+
+9. **90-Day Continued Stay Reviews (during placement):** Program Director and Treatment Director must provide written confirmation at each 90-day review that the child continues to require specialized services, with documentation to SSCC/DFPS within 15 business days per **FC-CSR-01.1 Continued Stay Review Procedure**.
 
 ## DEFINITIONS
 
@@ -123,24 +145,27 @@ For youth stepping down from Treatment Foster Care, aftercare includes:
 
 **STAR Health** \- The comprehensive healthcare program for children in foster care providing medical, dental, vision, behavioral health, and pharmacy services.
 
-**Treatment Director** \- A masters-level mental health professional responsible for clinical oversight of specialized service packages.
+**Treatment Director** - A masters-level mental health professional responsible for clinical oversight of specialized service packages.
+
+**Relapse Crisis Response** - Specialized 24/7 crisis intervention protocol for youth experiencing or at risk of substance use relapse, including immediate assessment, treatment provider coordination, placement preservation strategies, and non-punitive support approach.
 
 ## REFERENCES
 
-- T3C Blueprint Standards: Pages 47-55 (Basic Foster Care); Pages 78-93 (Mental & Behavioral Health); Pages 123-135 (IDD/Autism); Pages 71-73 (Treatment Foster Care)  
-- TAC Chapter 749: Minimum Standards for Child Placing Agencies  
-- TAC §749.503: Discharge Planning  
-- TAC §749.1335: Service Plan Reviews  
-- TAC §749.361: Quality Improvement  
+- T3C Blueprint Standards: Pages 47-55 (Basic Foster Care); Pages 78-93 (Mental & Behavioral Health); Pages 123-135 (IDD/Autism); Pages 71-73 (Treatment Foster Care); Substance Use Support Services (follows Mental & Behavioral Health pattern)
+- TAC Chapter 749: Minimum Standards for Child Placing Agencies
+- TAC §749.503: Discharge Planning
+- TAC §749.1335: Service Plan Reviews
+- TAC §749.361: Quality Improvement
 - RCC Contract Requirements: Contract Term 7
 
 ## RELATED PROCEDURES
 
-- FC-AF-01.1 Aftercare Services Procedure  
-- FC-03.1 Individual Service Planning Procedure  
-- FC-14.1 Discharge and Permanency Planning Procedure  
-- FC-15.1 Crisis Intervention Procedure  
+- FC-AF-01.1 Aftercare Services Procedure
+- FC-03.1 Individual Service Planning Procedure
+- FC-14.1 Discharge and Permanency Planning Procedure
+- FC-15.1 Crisis Intervention Procedure
 - FC-CSR-01.1 Continued Stay Review Procedure
+- FC-SU-01 Substance Use Support Services Policy
 
 ## FORMS/ATTACHMENTS
 
@@ -165,7 +190,7 @@ For youth stepping down from Treatment Foster Care, aftercare includes:
 | **PROCEDURE NUMBER** | FC-AF-01.1 |
 | **RELATED POLICY** | FC-AF-01 Aftercare Services Policy |
 | **EFFECTIVE DATE** | \[Date\] |
-| **REVISION DATE** | 12.27.2024.1 |
+| **REVISION DATE** | 12.27.2024.1; 12.09.2025.1 |
 
 ## PURPOSE AND OVERVIEW
 
@@ -252,9 +277,10 @@ Consistent, quality aftercare service delivery supports successful transitions a
 
 | Service Package | Minimum Frequency | Preferred Methods | Crisis Response |
 | :---- | :---- | :---- | :---- |
-| **Basic Foster Care** | Monthly | Phone, video, in-person per youth preference | Business hours \+ referral |
+| **Basic Foster Care** | Monthly | Phone, video, in-person per youth preference | Business hours + referral |
 | **Mental & Behavioral Health** | **TWICE MONTHLY** | In-person month 1, then flexible | **24/7 availability required** |
 | **IDD/Autism** | **TWICE MONTHLY** | Based on communication needs | **24/7 RN consultation** |
+| **Substance Use Support Services** | **TWICE MONTHLY** | In-person month 1, then flexible | **24/7 relapse crisis response** |
 | **Treatment Foster Care** | Weekly (month 1), then twice monthly | In-person for prevention | **24/7 availability required** |
 
 #### 3.2 Core Service Components
