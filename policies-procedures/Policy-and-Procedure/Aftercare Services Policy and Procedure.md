@@ -267,6 +267,14 @@ Comprehensive aftercare planning ensures all necessary supports are in place bef
 | Behavior Specialist | 1\. Create behavior support transition package: \- Current behavior plans with data \- Sensory accommodation guide \- Communication strategies/tools \- Visual supports inventory \- Environmental modification needs \- Daily routine schedules 2\. Provide hands-on training | 14 days before discharge | Behavior support package | T3C Blueprint p.129 |
 | Aftercare Case Manager | 1\. Establish mandatory IDD/Autism schedule: \- **Twice-monthly contact (minimum)** \- Communication method preferences \- RN consultation availability \- Behavior monitoring tools \- Skills maintenance tracking 2\. Coordinate with regional IDD services | 7 days before discharge | IDD-specific plan | **MANDATORY: T3C Blueprint p.134** |
 
+#### 2.4 ☒ Substance Use Support Services Enhanced Planning
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Therapist/Substance Use Counselor | 1. Prepare treatment transition summary covering: - Current treatment modality and progress - Medication-assisted treatment (MAT) status if applicable - Relapse prevention plan with triggers identified - Recommended ongoing treatment level - Provider recommendations for receiving area 2. Coordinate warm handoff to receiving provider | 30 days before discharge | Treatment transition summary | T3C Blueprint; FC-SU-01 |
+| Case Manager | 1. Identify community recovery resources: - 12-step or alternative recovery programs - Peer support networks - Recovery community organizations - Sober living connections if applicable 2. Facilitate introductions before discharge | 14 days before discharge | Recovery resource plan | T3C Blueprint; FC-SU-01 |
+| Aftercare Case Manager | 1. Establish mandatory service schedule: - **Twice-monthly contact (minimum)** - First month: in-person preferred - 24/7 relapse crisis availability - Recovery stability monitoring - Treatment engagement tracking 2. Document in aftercare plan | 7 days before discharge | Aftercare service plan | **MANDATORY: T3C Blueprint (MH pattern)** |
+
 ### 3\. AFTERCARE SERVICE DELIVERY
 
 #### Purpose and Overview
@@ -307,6 +315,25 @@ Consistent, quality aftercare service delivery supports successful transitions a
 | RN Consultant | 1\. Provide medical consultation: \- Medication administration support \- Equipment troubleshooting \- Medical protocol adjustments \- Emergency guidance \- Health status review | 24/7 availability, scheduled monthly reviews | Medical consultation log | T3C Blueprint p.134 |
 | Aftercare Case Manager | 1\. Support developmental needs: \- Behavior plan implementation \- Sensory accommodation verification \- Communication system support \- Routine maintenance assistance \- Skills generalization tracking | During each contact | Developmental tracking | T3C Blueprint p.124-135 |
 
+##### Substance Use Support Services
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Aftercare Case Manager | 1. Monitor recovery stability indicators: - Treatment appointment attendance - Recovery meeting participation - Support network engagement - School/work functioning - Absence of substance use indicators 2. Document progress and concerns | During each contact | Recovery monitoring form | T3C Blueprint; FC-SU-01 |
+| Aftercare Case Manager | 2. Support recovery environment: - Verify receiving placement maintains substance-free environment - Provide education on recovery-supportive approaches - Coach caregivers on non-punitive relapse response - Assist with medication storage/administration protocols if MAT | Monthly minimum | Placement support documentation | T3C Blueprint; FC-SU-01 |
+| Aftercare Case Manager | 3. Coordinate ongoing treatment: - Verify treatment appointments scheduled - Monitor STAR Health authorization status - Facilitate provider communication - Adjust services as recovery needs change | Ongoing | Treatment coordination log | FC-STAR-01.1 |
+
+#### 3.4 Substance Use Relapse Crisis Response
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Crisis Management Staff | 1. Receive relapse crisis call: - Assess immediate safety - Determine severity of relapse - Evaluate need for medical intervention - Document initial assessment | Immediately upon notification | Crisis documentation | Crisis Management Staffing Plan |
+| Aftercare Case Manager | 2. Implement relapse response protocol: - Contact receiving placement within 2 hours - Assess placement stability - Coordinate with treatment provider - Develop immediate support plan - **Approach as treatment issue, NOT punishment** | Within 2 hours of notification | Relapse response documentation | FC-SU-01 Section 14 |
+| Treatment Director (Consultation) | 3. Provide clinical guidance: - Review relapse circumstances - Recommend treatment adjustment - Assess need for higher level of care - Approve safety planning modifications | Within 24 hours | Clinical consultation note | T3C Blueprint |
+| Aftercare Case Manager | 4. Implement post-relapse support: - Increase contact frequency temporarily - Coordinate treatment intensification - Support placement preservation - Document all interventions | Ongoing per clinical need | Case notes | FC-SU-01 |
+
+**CRITICAL:** Relapse is treated as a clinical/treatment issue requiring adjustment, NOT as a behavioral violation or failure. Non-punitive, recovery-supportive approach is mandatory.
+
 ### 4\. 90-DAY CONTINUED STAY REVIEWS
 
 #### Purpose and Overview
@@ -341,6 +368,17 @@ Systematic monitoring ensures service quality, regulatory compliance, and contin
 | Aftercare Case Manager | 1\. Prepare monthly reports including: \- Contact summary \- Service utilization \- Crisis incidents \- Progress indicators \- Barriers identified 2\. Submit for review | By 3rd of each month | Report templates | Contract Term 7 |
 | Program Director | 1\. Review and approve all reports 2\. Ensure accuracy and completeness 3\. Add executive summary 4\. Submit to SSCC/DFPS | By 5th business day of month | IMPACT portal | TAC §749.361 |
 
+**Substance Use Package-Specific Monthly Report Elements:**
+
+| Element | Description | Responsible |
+|---------|-------------|-------------|
+| Recovery stability status | Overall assessment of recovery progress | Aftercare Case Manager |
+| Treatment engagement | Attendance and participation in substance use treatment | Aftercare Case Manager |
+| Relapse incidents | Any relapse events and response actions taken | Aftercare Case Manager |
+| Recovery support connections | Status of community recovery resource engagement | Aftercare Case Manager |
+| MAT coordination (if applicable) | Medication compliance and provider coordination | Aftercare Case Manager |
+| Placement preservation status | Assessment of placement stability and any concerns | Aftercare Case Manager |
+
 ### 6\. AFTERCARE COMPLETION
 
 #### Purpose and Overview
@@ -354,6 +392,16 @@ Proper closure of aftercare services ensures youth have sustainable supports in 
 | Aftercare Case Manager | 1\. Conduct completion assessment: \- Goal achievement review \- Support sustainability check \- Resource adequacy evaluation \- Youth satisfaction survey \- Caregiver feedback 2\. Determine readiness for closure | At month 5 of aftercare | Completion assessment form | T3C Blueprint requirements |
 | Treatment Team (Mental Health/IDD) | 1\. Review clinical indicators: \- Stability maintenance \- Crisis absence \- Service engagement \- Medication compliance \- Natural support strength 2\. Recommend closure or extension | 30 days before 6-month mark | Clinical review | T3C Blueprint p.86, p.134 |
 | Program Director | 1\. Approve service: \- Successful completion \- Extension (with justification) \- Transfer to adult services 2\. Document decision rationale | Before 6-month deadline | Closure documentation | Contract Term 7 |
+
+**Substance Use Package-Specific Completion Indicators:**
+
+| Indicator | Target | Assessment Method |
+|-----------|--------|-------------------|
+| Sustained recovery | No relapse in final 60 days | Case documentation review |
+| Treatment engagement | Consistent attendance throughout 6 months | Treatment provider verification |
+| Recovery support network | Established community connections | Youth self-report + case notes |
+| Caregiver competency | Receiving placement demonstrates recovery-supportive approach | Caregiver assessment |
+| Crisis plan in place | Written relapse response plan with receiving placement | Documentation review |
 
 ### 7\. QUALITY ASSURANCE
 
@@ -415,10 +463,19 @@ Continuous quality improvement ensures aftercare services achieve intended outco
 
 **T3C Treatment Foster Family Care:**
 
-- Intensive Aftercare Schedule Template  
-- Step-Down Readiness Checklist  
-- Behavior Management Transfer Guide  
+- Intensive Aftercare Schedule Template
+- Step-Down Readiness Checklist
+- Behavior Management Transfer Guide
 - Weekly Contact Log (for first month)
+
+**Substance Use Support Services:**
+
+- Recovery Stability Monitoring Form
+- Relapse Response Documentation Form
+- Treatment Transition Summary Template
+- Community Recovery Resource Connection Log
+- MAT Coordination Tracking Form (if applicable)
+- Substance Use Aftercare Completion Assessment
 
 ### Quality Assurance Forms:
 
