@@ -9,7 +9,7 @@
 | **APPROVED ON** | 5/20/25 |
 | **EFFECTIVE DATE** | 5/20/25 |
 | **SECTION** | FC10 |
-| **DATE(S) OF REVISION** | 6/04, 8/05, 7/06, 4/20/07, 5/26/07, 2/25/08, 8/5/08, 1/22/09, 8/29/09, 1/1/10, 3/23/10, 8/1/11, 1/16/12, 5/20/25 |
+| **DATE(S) OF REVISION** | 6/04, 8/05, 7/06, 4/20/07, 5/26/07, 2/25/08, 8/5/08, 1/22/09, 8/29/09, 1/1/10, 3/23/10, 8/1/11, 1/16/12, 5/20/25, 12/09/25 |
 
 | \#\# APPLICABLE T3C PACKAGES: | \#\# APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -145,6 +145,178 @@ Refuge House will ensure that appropriate accommodations are made for medical an
 
 Foster parents will receive training and support in helping children with developmental disabilities navigate medical and dental care, including strategies for preparation, communication, and behavioral support during appointments. This training will be individualized to address each child's specific needs and characteristics.
 
+### ☒ SUBSTANCE USE SUPPORT SERVICES (Enhanced)
+
+For children receiving Substance Use Support Services, health care coordination includes specialized substance use assessment and treatment components:
+
+#### 14. Substance Use Screening and Assessment
+
+Upon admission, Case Manager completes initial substance use screening documenting substances used, frequency, duration, and last use. Within 30 days of admission, comprehensive substance use assessment is coordinated through STAR Health to determine appropriate level of treatment.
+
+#### 15. Substance Use Treatment Services
+
+Children in this package receive coordinated substance use treatment including:
+
+- Individual therapy with provider qualified in adolescent substance use treatment (weekly minimum)
+- Substance use treatment per clinical recommendation (individual, group, family modalities)
+- Psychiatric evaluation and medication management as clinically indicated
+- Medication-Assisted Treatment (MAT) coordination if clinically appropriate
+- Integration of substance use treatment with mental health services
+
+#### 16. Drug Screening as Clinical Tool
+
+Drug screening is conducted as clinically indicated based on treatment team judgment. Screening serves as a clinical tool to inform treatment planning and is NOT used as a punitive measure. Positive screens result in treatment adjustment, not punishment, consistent with recovery-supportive approach.
+
+#### 17. STAR Health Coordination for Substance Use Services
+
+All substance use treatment services are coordinated through STAR Health per **FC10-01.2 STAR Health Coordination Procedure**. Case Manager ensures:
+
+- Prior authorization for substance use assessments and treatment
+- Provider qualifications verified for adolescent substance use treatment
+- Integration of substance use providers with other healthcare providers
+- Documentation of all services in case record
+- Notification to SSCC/DFPS of service access challenges within 3 business days
+
+#### 18. Recovery Environment Health Supports
+
+Health care coordination supports recovery environment including:
+
+- Medication storage protocols (all medications secured, especially if MAT)
+- Coordination with prescribers regarding abuse potential of medications
+- Education for foster parents on medication management in recovery context
+- Crisis protocols for substance-related health emergencies
+
+#### 19. Elevated Human Trafficking Risk
+
+Youth with substance use disorders may have elevated human trafficking risk. Enhanced screening per **FC-HT-01 Human Trafficking Prevention Policy** is required, with health indicators of trafficking monitored during all health care encounters.
+
+### ☒ SHORT-TERM ASSESSMENT SUPPORT SERVICES
+
+For children receiving Short-Term Assessment Support Services, health care coordination focuses on comprehensive, time-limited assessment to determine appropriate ongoing Service Package:
+
+#### 20. Expedited Assessment Timeline
+
+| Child Age | Assessment Completion Deadline |
+|-----------|-------------------------------|
+| Age 5 and under | Within **21 days** of admission |
+| Age 6 and older | Within **30 days** of admission |
+
+All assessments must be completed within these timeframes to support Service Package determination before the placement time limit expires.
+
+#### 21. Comprehensive Assessment Domains
+
+Assessment coordination addresses all applicable domains:
+
+- **Medical/Physical:** 3-day initial exam (or within 30 days per Minimum Standards), dental examination, vision and hearing screening, developmental screening (ages 0-5)
+- **Behavioral/Mental Health:** Mental health screening, trauma assessment, psychiatric evaluation if clinically indicated
+- **Developmental:** Early Childhood Intervention referral (if applicable), disabilities screening, adaptive functioning assessment
+- **Educational:** Records review, learning disability screening, special education referral if indicated
+
+#### 22. STAR Health Authorization for Multiple Assessments
+
+Due to the assessment-intensive nature of this package, Case Manager coordinates multiple prior authorization requests through STAR Health per **FC10-01.2 STAR Health Coordination Procedure**. Authorization requests are submitted promptly upon admission to ensure assessments can be completed within required timeframe.
+
+#### 23. Assessment Tracking and Monitoring
+
+Case Manager maintains assessment tracking log documenting:
+
+- Each assessment scheduled
+- Authorization status
+- Completion date
+- Results received and uploaded
+- Any delays or barriers encountered
+
+Supervisor is alerted immediately if delays threaten timeline compliance.
+
+#### 24. Service Package Recommendation Health Component
+
+Health assessment findings are integrated into Service Package recommendation. Treatment Director reviews all health-related assessments when determining appropriate ongoing Service Package, ensuring health needs inform placement decision.
+
+#### 25. No Ongoing Treatment Focus
+
+This package focuses on assessment coordination, not ongoing treatment. While immediate health needs are addressed, the primary goal is completing assessments to inform Service Package determination. Ongoing treatment is provided by the receiving Service Package.
+
+#### 26. Documentation Transfer
+
+All health assessment results are compiled in Transition Summary for transfer to receiving Case Manager, ensuring continuity of care and eliminating need to repeat assessments.
+
+### ☒ T3C TREATMENT FOSTER FAMILY CARE (Enhanced)
+
+For children in Treatment Foster Family Care, health care coordination supports intensive clinical intervention for children with serious mental, emotional, and/or behavioral disorders:
+
+#### 27. Intensive Therapeutic Services
+
+Children in this package receive intensive therapeutic services coordinated through STAR Health:
+
+- **Individual therapy:** Weekly minimum, with frequency adjusted per clinical need
+- **Family therapy:** As clinically indicated to support treatment goals
+- **Group therapy:** As clinically indicated
+- **Psychiatric services:** Medication evaluation and ongoing medication management
+
+All therapy services are provided by Licensed Therapist specializing in serious mental, emotional, and/or behavioral disorders.
+
+#### 28. Therapy Frequency Justification
+
+Therapy frequency must be justified in writing in the Service Plan. Treatment Director provides clinical oversight ensuring therapy frequency aligns with child's treatment needs and Treatment Model.
+
+#### 29. Enhanced Psychiatric Coordination
+
+Given the severity of mental health needs in this population:
+
+- Psychiatric evaluation completed within 30 days of admission if not already current
+- Medication management appointments scheduled per prescriber recommendation
+- Case Manager coordinates between therapist and psychiatrist to ensure integrated treatment
+- Psychotropic medication monitoring follows DFPS Psychotropic Medication Guidelines with enhanced oversight
+
+#### 30. Behavioral Health Crisis Response
+
+Health care coordination includes behavioral health crisis protocols:
+
+- 24/7 crisis availability with immediate access to clinical intervention
+- Crisis response protocols documented in Service Plan
+- Coordination with psychiatric providers for crisis medication management if needed
+- Post-crisis follow-up with treatment team within 24 hours
+
+#### 31. Treatment Director Clinical Oversight
+
+Treatment Director provides monthly minimum clinical oversight of all therapeutic services:
+
+- Reviews therapy progress and treatment alignment
+- Adjusts therapy frequency as clinically needed
+- Ensures services align with TBRI Treatment Model
+- Documents clinical oversight in case record
+
+#### 32. STAR Health Authorization for Intensive Services
+
+Due to intensive service requirements, Case Manager ensures:
+
+- Prior authorization obtained for all therapy services
+- Authorization requests include clinical justification for frequency
+- Re-authorization requests submitted timely to prevent service gaps
+- Appeals filed promptly for any denials
+
+#### 33. Health Documentation for Step-Down Planning
+
+Health care documentation supports step-down planning from Day 1:
+
+- Treatment progress documented at each 60-day review
+- Health-related step-down criteria tracked (behavioral stability, crisis reduction, treatment response)
+- Health component of Transition Summary prepared for step-down placement
+
+### PACKAGE-SPECIFIC HEALTH CARE REQUIREMENTS COMPARISON
+
+| Health Care Element | Substance Use | Short-Term Assessment | Treatment Foster Care |
+|---------------------|---------------|----------------------|----------------------|
+| **Primary Focus** | Recovery support | Assessment completion | Intensive treatment |
+| **Therapy Frequency** | Weekly minimum | As indicated by assessment | Weekly minimum |
+| **Therapy Provider** | SU-qualified | Per assessment need | Specialist in serious MH/behavioral |
+| **Assessment Timeline** | Standard (30 days) | Expedited (21/30 days by age) | Standard (30 days) |
+| **Psychiatric Services** | As clinically indicated | If indicated by assessment | Required evaluation |
+| **Special Screening** | Substance use screening; Drug screening (clinical) | Multiple domain assessment | Enhanced MH assessment |
+| **STAR Health Focus** | SU treatment authorization | Multiple assessment authorization | Intensive therapy authorization |
+| **Treatment Director Role** | Clinical oversight | Assessment review; Package recommendation | Monthly clinical oversight |
+| **Crisis Protocol** | SU-specific crisis response | Standard | Enhanced behavioral crisis |
+
 ## DEFINITIONS:
 
 **CANS 3.0 Assessment**: A multi-purpose tool used to support decision-making, including identifying the optimal Service Package for T3C and planning, facilitating quality improvement initiatives, and monitoring outcomes of children in care.
@@ -159,14 +331,28 @@ Foster parents will receive training and support in helping children with develo
 
 **Texas Health Steps**: The Texas Health Steps program provides medical and dental checkups and care to children from birth through age 20 who have Medicaid.
 
+**Comprehensive Substance Use Assessment:** Clinical evaluation conducted by qualified substance use treatment provider to determine appropriate level of substance use treatment, including assessment of substance use history, severity, and treatment recommendations.
+
+**Drug Screening (Clinical):** Laboratory testing for presence of substances used as a clinical tool to inform treatment planning, NOT as a punitive measure. Positive results trigger treatment adjustment, not punishment.
+
+**Expedited Assessment Timeline:** Shortened assessment completion deadline for Short-Term Assessment package (21 days for age 5 and under; 30 days for age 6+) to support Service Package determination within placement time limits.
+
+**Medication-Assisted Treatment (MAT):** Use of FDA-approved medications in combination with counseling and behavioral therapies to treat substance use disorders.
+
+**Service Package Determination:** Clinical decision regarding appropriate ongoing T3C Service Package based on comprehensive assessment findings; applies specifically to Short-Term Assessment transitions.
+
 ## REFERENCES:
 
-- T3C Blueprint: Pages 47-55, T3C Basic Foster Family Home Support Services; Pages 99-110, Complex Medical Needs or Medically Fragile Support Services  
-- DFPS Chapter 749 Minimum Standards: §749.1401-1463 (Medical and Dental Care)  
-- RCC Contract Requirements: Contract Term 7  
-- SSCC Contract Requirements: (if applicable)  
-- TBRI® Pocket Guide, Purvis, K.B., Cross, D.R., Hurst, J.R., TCU Institute of Child Development  
+- T3C Blueprint: Pages 47-55, T3C Basic Foster Family Home Support Services; Pages 99-110, Complex Medical Needs or Medically Fragile Support Services
+- T3C Blueprint: Pages 76-86, Mental & Behavioral Health Support Services (Substance Use follows this pattern)
+- T3C Blueprint: Pages 67-75, Short-Term Assessment Support Services
+- T3C Blueprint: Pages 136-147, T3C Treatment Foster Family Care Support Services
+- DFPS Chapter 749 Minimum Standards: §749.1401-1463 (Medical and Dental Care)
+- RCC Contract Requirements: Contract Term 7
+- SSCC Contract Requirements: (if applicable)
+- TBRI® Pocket Guide, Purvis, K.B., Cross, D.R., Hurst, J.R., TCU Institute of Child Development
 - Texas Health Steps Periodicity Schedule
+- DFPS Psychotropic Medication Guidelines
 
 ## RELATED PROCEDURES:
 
