@@ -696,9 +696,8 @@ At each 60-day review, assess whether child can transition to:
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
 > | Crisis Management Staff or Foster Parent | 1. Contact On-Call Licensed Therapist for ALL crises<br>2. Provide crisis details and child's current state<br>3. Follow therapist guidance for intervention<br>4. Document therapist consultation | **Immediately during any crisis** | **T3C Blueprint p.138** |
-> | On-Call Licensed Therapist | 1. Provide immediate phone consultation<br>2. Assess need for in-person response<br>3. Guide de-escalation strategies<br>4. Determine if psychiatric emergency protocols needed<br>5. Document consultation | When contacted | T3C Blueprint p.138; FC-04.1 Section 6.2 |
-> | On-Call Licensed Therapist | If in-person response indicated:<br>1. Respond to foster home or hospital<br>2. Provide direct clinical intervention<br>3. Assess for psychiatric emergency<br>4. Coordinate with Treatment Director<br>5. Document intervention | When clinically indicated | T3C Blueprint p.138 |
-
+> | On-Call Licensed Therapist | 1. Provide immediate phone/telehealth consultation<br>2. Guide de-escalation strategies<br>3. Determine if psychiatric emergency protocols needed<br>4. Document consultation | When contacted | T3C Blueprint p.138; FC-04.1 Section 6.2 |
+> 
 ### 14.3 Psychiatric Emergency Response
 
 > **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure, Section 6.4**

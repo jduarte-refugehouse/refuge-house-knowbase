@@ -345,7 +345,6 @@ Children in TFFC have serious mental, emotional, or behavioral challenges requir
 #### Treatment Foster Family Care Crisis Response
 
 * **[CRITICAL]** Contact On-Call Licensed Therapist for ALL crises
-* Coordinate in-person Licensed Therapist response when clinically indicated
 * Psychiatric emergency protocols (suicidal ideation, psychotic episodes, severe dissociation)
 * Document crisis patterns for 60-day review integration
 * Assess crisis impact on step-down planning
