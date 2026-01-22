@@ -15,11 +15,12 @@
 | **POLICY NUMBER** | FC-STASS-01 |
 | **DOCUMENT TYPE** | Comprehensive Enhanced Snapshot |
 | **ORIGINATED** | December 2025 |
+| **REVISION DATE** | January 2026 |
 | **APPROVED BY** | Board of Directors |
 | **APPROVED ON** | [Date] |
 | **EFFECTIVE DATE** | [Date] |
 | **SECTION** | FC-STASS |
-| **DATE(S) OF REVISION** | |
+| **DATE(S) OF REVISION** | January 2026 - Expanded Section 5.6 Service Documentation and Cost Coverage |
 
 | APPLICABLE T3C PACKAGES: | APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -79,7 +80,7 @@ This convention allows reviewers to:
 12. CANS 3.0 Assessment Requirements
 13. Service Planning Procedures (with embedded FC3-01.1)
 14. Crisis Management Procedures (with embedded FC-04.1 Section 5)
-15. Discharge and Transition Procedures (with embedded FC14-01)
+15. Transition and Discharge Procedures (with embedded FC14-01)
 
 **TRAINING REQUIREMENTS**
 
@@ -104,73 +105,47 @@ This convention allows reviewers to:
 
 ### 1.1 Service Package Definition
 
-Short-Term Assessment Support Services is a T3C Service Package providing time-limited, assessment-focused foster care for children who require comprehensive evaluation to determine appropriate ongoing Service Package placement.
+Short-Term Assessment Support Services provides time-limited foster care placement for comprehensive assessment coordination and evaluation of children, youth, and young adults to inform appropriate Service Package placement.
 
 ### 1.2 Target Population
 
-Children, youth, and young adults who present as:
+Children, youth, and young adults who meet ONE of the following criteria:
 
-- **New to Care:** Newly entering foster care and requiring comprehensive assessment
-- **Transitioning from Unpaid Placement:** Moving from kinship or other unpaid arrangement
-- **Returning After Unauthorized Absence:** Returning to care after runaway
-- **Post-Disruption:** Experienced recent unplanned placement disruption requiring reassessment
+1. **New to care** or transitioning from unpaid placement where more information is needed to understand custom service needs
+2. **Returning to foster care** after unauthorized absence or unauthorized placement
+3. **Transitioning** based on recent, unplanned placement disruption
+4. **In need of further assessment(s)** and evaluation(s) to identify appropriate Service Package and subsequent placement
 
-### 1.3 Assessment-Focused Philosophy
+### 1.3 Service Package Objectives
 
-Refuge House recognizes that:
+- Coordinate comprehensive assessments within time-limited placement
+- Gather information to inform Service Package recommendation
+- Provide stable environment during assessment period
+- Support smooth transition to appropriate Service Package
 
-- The assessment period itself is an intervention that begins the child's healing journey
-- Foster families play a critical role in observing and documenting child behavior and needs
-- Comprehensive evaluation during this period informs appropriate Service Package placement
-- Time-limited structure ensures efficient assessment completion and transition
+### 1.4 Add-On Services Ineligibility
 
-### 1.4 Service Package Characteristics
-
-**CRITICAL DISTINCTIONS:**
-
-| Characteristic | Short-Term Assessment | Other Packages |
-|----------------|----------------------|----------------|
-| Time Limit | **30/45 days + 15-day extension** | No maximum (except TFFC 365 days) |
-| Add-On Services | **NOT eligible** | Eligible as applicable |
-| Aftercare | **NOT required** | Required for most packages |
-| Continued Stay Reviews | **NOT applicable** | Required per schedule |
-| Foster Home Capacity | **Maximum 4 children** | Per home study |
+**CRITICAL:** Add-On Services (Transition Support, Kinship Caregiver Support, Pregnant & Parenting) are **NOT eligible** for this package.
 
 ---
 
 ## 2. GOVERNING PRINCIPLES
 
-### 2.1 TBRI® Integration
+### 2.1 TBRI® Foundation
 
 > **📋 DERIVED FROM: TBRI Treatment Model Executive Summary**
 >
-> Trust-Based Relational Intervention (TBRI®) serves as Refuge House's Evidence-informed Treatment Model, providing the philosophical and practical foundation for all services.
+> Refuge House implements TBRI® as our Evidence-informed Treatment Model. For Short-Term Assessment, TBRI principles guide all interactions during the assessment period:
 >
-> **TBRI® Application to Short-Term Assessment:**
+> **Connecting Principles:** Building trust during short-term placement while gathering assessment information.
 >
-> **Connecting Principles:**
-> - Build trust quickly through attentive, nurturing care
-> - Communicate safety during transitional period
-> - Establish felt safety despite short placement duration
+> **Empowering Principles:** Meeting immediate physical and emotional needs while coordinating evaluations.
 >
-> **Empowering Principles:**
-> - Address physical and environmental needs that support accurate assessment
-> - Support sensory processing, nutrition, and sleep regulation
-> - Create predictable structure during uncertain transition
->
-> **Correcting Principles:**
-> - Use proactive and responsive strategies that provide structure
-> - Allow authentic behavior observation for assessment purposes
-> - Apply trauma-informed responses to behavioral challenges
+> **Correcting Principles:** Responding to behaviors with understanding, recognizing children may have unknown trauma history.
 
-### 2.2 Assessment-Centered Approach
+### 2.2 Assessment Focus Philosophy
 
-Our approach recognizes that the assessment period itself is an intervention that begins the child's healing journey. Foster families play a critical role in:
-
-- Observing behavioral patterns
-- Documenting responses to interventions
-- Providing nurturing care during evaluation
-- Supporting accurate assessment through consistent environment
+This package recognizes that accurate assessment informs appropriate placement. The focus is on gathering comprehensive information to support the best Service Package match.
 
 ---
 
@@ -178,131 +153,140 @@ Our approach recognizes that the assessment period itself is an intervention tha
 
 ### 3.1 Admission Eligibility
 
-Children are eligible for Short-Term Assessment Support Services when they meet one of the following criteria:
+Child must meet **ONE** of the following criteria:
 
-1. **New to Care:** Child is newly entering foster care and requires comprehensive assessment
-2. **Transitioning from Unpaid Placement:** Child is moving from kinship or other unpaid arrangement
-3. **Returning After Unauthorized Absence:** Child is returning to care after runaway
-4. **Post-Disruption:** Child experienced recent unplanned placement disruption
-5. **Assessment Need Identified:** Service Planning team determines additional assessment needed
+| Eligibility Category | Description |
+|---------------------|-------------|
+| **New to Care** | New to care or transitioning from unpaid placement; more information needed |
+| **Returning** | Returning to foster care after unauthorized absence or unauthorized placement |
+| **Disruption** | Transitioning based on recent, unplanned placement disruption |
+| **Assessment Need** | In need of further assessment(s) and evaluation(s) to identify appropriate Service Package |
 
 ### 3.2 Admission Process
 
 > **📋 DERIVED FROM: FC1-01.1 Admission Screening Procedure**
 >
-> **Referral Receipt and Initial Screening:**
->
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
-> | Intake/Placement Coordinator | 1. Receive referral from SSCC/DFPS<br>2. Screen for Short-Term Assessment eligibility (verify child meets one of eligibility categories)<br>3. Verify no Add-On Services needed (ineligible for this package)<br>4. Document screening outcome | Within 2 hours of referral receipt | TAC §749.1251; T3C Blueprint p.74-75 |
-> | Program Director | 1. Review screening for complex cases<br>2. Approve or redirect referral<br>3. Assign to Case Manager | Within 4 hours of screening | TAC §749.1301 |
+> | Intake/Placement Coordinator | 1. Receive referral via approved channels<br>2. Log referral in tracking system<br>3. Acknowledge receipt to SSCC/DFPS<br>4. Screen for Short-Term Assessment eligibility | Within 2 hours of receipt | TAC §749.1251 |
+> | Intake/Placement Coordinator | 1. Verify child meets eligibility criteria (one of four categories)<br>2. Confirm no Add-On Services needed<br>3. Verify credentialed STASS home availability<br>4. Document screening outcome | Within 2 hours | T3C Blueprint p.74-75 |
 
-> **📋 DERIVED FROM: FC6-01 Admission Matching & Criteria Policy**
->
-> **Placement Matching for Short-Term Assessment:**
->
-> | Who | How | When | Regulatory Reference |
-> | :---- | :---- | :---- | :---- |
-> | Intake/Placement Coordinator | 1. Review available Short-Term Assessment credentialed homes<br>2. Verify home has capacity (**maximum 4 children** unless sibling group)<br>3. Match child needs with home capabilities<br>4. Contact foster family | Within 4 hours of approval | T3C Blueprint p.75; FC6-01 |
+### 3.3 Capacity Limitation
 
-### 3.3 Capacity Limitations
-
-**CRITICAL:** Foster homes providing this Service Package may have **no more than four (4) children in foster care** at the same time, unless necessary to accommodate a sibling group.
+**Maximum 4 children** in foster care per home, unless necessary for sibling group placement.
 
 ---
 
 ## 4. LENGTH OF SERVICE PARAMETERS
 
-### 4.1 Time-Limited Service
+### 4.1 Time Limits
 
-| Child Age | Maximum Stay | Extension Available |
-|-----------|--------------|---------------------|
-| Age 5 and under | **30 days** | One 15-day extension |
-| Over age 5 | **45 days** | One 15-day extension |
+| Age Group | Initial Period | Extension | Maximum Total |
+|-----------|---------------|-----------|---------------|
+| Under 6 years | 30 days | Up to 15 days | **45 days** |
+| 6 years and older | 45 days | Up to 15 days | **60 days** |
 
-### 4.2 Anticipated Length of Service
+### 4.2 Service Plan Timeline
 
-- **Ages 5 and under:** 21-25 days typical
-- **Over age 5:** 30-40 days typical
+Initial Service Plan due within **21 days** (children under 6) or **30 days** (children 6+) of placement.
 
-### 4.3 Extension Criteria
+### 4.3 Transition Requirement
 
-A single 15-day extension may be granted when:
-
-- Additional assessments are pending and cannot be expedited
-- Appropriate receiving placement has been identified but is not yet available
-- Service Planning team documents specific reason extension serves child's best interest
-- Program Director approves extension in writing
-
-### 4.4 Extension Approval Process
-
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Case Manager | 1. Prepare extension justification documenting:<br>&nbsp;&nbsp;&nbsp;- Specific reason extension serves child's best interest<br>&nbsp;&nbsp;&nbsp;- Pending assessments that cannot be expedited<br>&nbsp;&nbsp;&nbsp;- OR receiving placement identified but not yet available<br>&nbsp;&nbsp;&nbsp;- Timeline for completion within 15-day extension | At least 3 days before time limit | T3C Blueprint p.72 |
-| Program Director | 1. Review and approve/deny extension request<br>2. Verify justification meets criteria<br>3. Document decision rationale | Within 24 hours of request | T3C Blueprint p.72 |
+Child must transition to appropriate Service Package before maximum time limit reached.
 
 ---
 
 ## 5. SERVICE PACKAGE EXPECTATIONS
 
-### 5.1 Assessment Coordination Requirements
+### 5.1 Assessment Coordination
 
-| Child Age | Assessment Completion Deadline |
-|-----------|-------------------------------|
-| Age 5 and under | Within 21 days of admission |
-| Age 6 and older | Within 30 days of admission |
+**Primary Focus:** Coordinating comprehensive assessments to inform Service Package recommendation.
 
-### 5.2 Assessment Types
+| Assessment Type | Timeline | Purpose |
+|-----------------|----------|---------|
+| CANS 3.0 | Within timeline per age | Inform Service Package recommendation |
+| Medical/Dental | Within 3 days | 3-day exam if applicable |
+| Behavioral Health | As indicated | Inform clinical needs |
+| Educational | As indicated | Inform educational supports |
+| Developmental | If indicated | For younger children or developmental concerns |
 
-Assessments coordinated based on individual child needs may include:
+### 5.2 Enhanced Monitoring
 
-- Medical/dental screening (within 72 hours)
-- Behavioral health assessment
-- Developmental evaluation
-- Educational assessment
-- Trauma screening
-- Substance use screening (if indicated)
-
-### 5.3 Service Planning Requirements
-
-> **📋 DERIVED FROM: FC3-01.1 Individual Service Planning Procedure**
+> **📋 DERIVED FROM: FC-T3C-01 T3C Basic Foster Family Home Support Services Policy**
 >
-> **Service Plan Development - Short-Term Assessment:**
+> **First 48 Hours:** Enhanced monitoring required due to unknown history:
 >
-> | Requirement | Short-Term Assessment | Standard |
-> |-------------|----------------------|----------|
-> | Initial Service Plan | **Within 7 days** | Within 30 days |
-> | Service Plan Reviews | **Every 30 days** (if still in placement) | Every 90 days |
-> | CANS 3.0 Assessment | Within 21/30 days per age | Every 90 days |
-> | Focus | **Assessment objectives** | Long-term treatment goals |
->
-> **Assessment-Focused Service Plan Components:**
->
-> | Who | How | When | Regulatory Reference |
-> | :---- | :---- | :---- | :---- |
-> | Case Manager | 1. Develop assessment-focused Service Plan with:<br>&nbsp;&nbsp;&nbsp;- Immediate safety and stability needs<br>&nbsp;&nbsp;&nbsp;- Assessment completion tracking<br>&nbsp;&nbsp;&nbsp;- Transition planning to receiving placement<br>&nbsp;&nbsp;&nbsp;- Service Package identification objectives<br>2. Focus on assessment objectives rather than long-term treatment goals<br>3. Document assessment progress and findings | Within 7 days of placement | TAC §749.1301; T3C Blueprint |
+> - Frequent check-ins (minimum every 4 hours during waking)
+> - Document behavioral observations
+> - Note effective and ineffective interventions
+> - Assess immediate safety needs
+
+### 5.3 Therapeutic Services
+
+Therapy services provided as clinically indicated during assessment period, not at the frequency required for clinical Service Packages.
 
 ### 5.4 24/7 Crisis Availability
 
-See Section 14 for complete crisis management procedures including unknown history considerations.
+> **📋 DERIVED FROM: FC-04 Crisis Management Policy; FC-04.1 Crisis Management Procedure Section 5**
+>
+> **CRITICAL CONSIDERATION:** Children in Short-Term Assessment often have unknown histories, requiring heightened vigilance and enhanced documentation.
+>
+> | Assessment Period Crisis Requirement | Protocol | Reference |
+> |-------------------------------------|----------|-----------|
+> | Unknown History Approach | Assume potential trauma; use TBRI® de-escalation | FC-04.1 Section 5.2 |
+> | Expedited Personal Safety Plan | Within 72 hours of placement (vs. standard timeline) | FC-04.1 Section 5.3 |
+> | Enhanced Crisis Documentation | Document ALL interventions (effective and ineffective) for transition | FC-04.1 Section 5.4 |
+> | Transition Crisis Summary | Include crisis patterns in Service Package recommendation | FC-04.1 Section 5.5 |
 
 ### 5.5 Human Trafficking Prevention
 
 > **📋 DERIVED FROM: FC-HT-01 Human Trafficking Prevention Policy**
 >
-> **Trafficking Screening During Assessment:**
+> Universal Human Trafficking Prevention per FC-HT-01 and Human Trafficking Prevention Training Implementation Plan.
+
+### 5.6 Service Documentation and Cost Coverage
+
+**T3C Blueprint Reference:** Pages 70-71 (April 2025)
+
+#### 5.6.1 Service Documentation Requirements
+
+In collaboration with the Medical Consenter, Refuge House must document all services the child, youth, or young adult is receiving through STAR Health, HHSC Behavioral Health, Early Childhood Intervention (if applicable), the education system, and any other county, community, or state agency.
+
+#### 5.6.2 Service Request and Denial Documentation
+
+Requests for specific services determined necessary as a part of the Service Plan or Service Plan review, and for which the child, youth, or young adult is referred, and the service is not readily available and/or it is determined that the child, youth, or young adult is ineligible for the service, must be documented in the case record. This documentation shall include:
+
+- The date the service request, application, or referral was made
+- The specific type of service being requested
+- The status of the service request
+- The reason provided for any denial (if applicable)
+- The status of any service request appeals (if applicable)
+
+#### 5.6.3 SSCC/DFPS Notification
+
+Refuge House shall notify the SSCC or DFPS caseworker of any challenges encountered with access to services and/or service referral denials **within 3 business days**.
+
+#### 5.6.4 Community Resource Pursuit
+
+Refuge House shall seek community resources to obtain any needed services that are not covered through STAR Health.
+
+#### 5.6.5 Cost Coverage Commitment
+
+**If community resources are not available and/or STAR Health does not cover the needed service(s) consistent with this Service Package, and as outlined in the Service Plan or Service Plan review, Refuge House will ensure delivery of, and cover the cost of the needed service(s) and related supports.**
+
+**Cross-Reference:** FC-STAR-01.1 STAR Health Coordination Procedure Section 9 (Managing Service Denials and Access Barriers)
+
+### 5.7 Educational Coordination
+
+> **📋 DERIVED FROM: FC-T3C-01 Section on Educational Services**
 >
-> | Who | How | When | Regulatory Reference |
-> | :---- | :---- | :---- | :---- |
-> | Case Manager | 1. Complete trafficking screening at admission<br>2. Include trafficking risk in assessment activities<br>3. Document any trafficking concerns<br>4. Report per mandatory reporting requirements | At admission; during assessment | FC-HT-01; TAC §749 |
+> Educational coordination with expedited enrollment and evaluation referrals as indicated.
 
-### 5.6 No Continued Stay Guidelines
+### 5.8 Family Engagement
 
-**Quality Assurance and Continued Stay Guidelines are NOT applicable** due to the time-limited nature of this package. Quality focus is on assessment timeliness and transition success.
-
-### 5.7 No Aftercare Services Required
-
-Aftercare services are NOT required for Short-Term Assessment. Case Manager ensures smooth handoff to receiving Case Manager at transition.
+> **📋 DERIVED FROM: FC7-01 Family Connections and Engagement Policy**
+>
+> Family engagement follows FC7-01 with documentation in Service Plan.
 
 ---
 
@@ -313,36 +297,20 @@ Aftercare services are NOT required for Short-Term Assessment. Case Manager ensu
 | Position | Requirements |
 |----------|--------------|
 | **LCPAA** | Full-time, dedicated to single CPA |
-| **Program Director** | May serve as LCPAA; bachelor's degree OR 5 years residential experience |
-| **Treatment Director** | Must meet T3C Blueprint qualifications; responsible for Service Package recommendation |
+| **Program Director** | May serve as LCPAA; bachelor's degree OR 5 years residential childcare experience |
+| **Treatment Director** | Supervision of Licensed Therapists; meets qualification requirements per T3C Blueprint |
 
 ### 6.2 Staff-to-Child Ratios
 
-| Position | Ratio | Key Responsibilities |
-|----------|-------|---------------------|
-| Case Manager | **1:12** | Assessment coordination, timeline management, transition planning |
-| Licensed Therapist | **1:12** | Assessment activities, clinical consultation |
-| Crisis Management Staff | 1:25 | 24/7 crisis response; unknown history protocols |
-
-### 6.3 Required Infrastructure Functions
-
-Per T3C Blueprint, identified personnel and infrastructure must support:
-
-- Case Management
-- Intake/Placement
-- Staff Training and Workforce Development
-- Licensed Therapist to coordinate assessments
-- Crisis Management Staff
-- Staff Recruitment and Retention
-- Foster Family Home Caregiver Recruitment and Retention
-- Education liaison for children in care
-- Continuous Quality Assurance and Improvement Program
-- Billing, cost reporting, and claims administration
-- Cross-system coordination (STAR Health, behavioral health, education, etc.)
+| Position | Ratio | Notes |
+|----------|-------|-------|
+| Case Manager | 1:12 | Per 12 children receiving Short-Term Assessment |
+| Licensed Therapist | 1:12 | Oversees assessment coordination and service planning |
+| Crisis Management Staff | 1:25 | Per 25 children receiving Short-Term Assessment |
 
 **Note:** Aftercare Case Manager and Behavior Support Specialist ratios are not specified for this package.
 
-### 6.4 Hours of Operation
+### 6.3 Hours of Operation
 
 Admissions and placement staff on-call/available **365 days per year, 24 hours per day**.
 
@@ -398,12 +366,12 @@ Quality Assurance and Continued Stay Guidelines are **NOT applicable** for this 
 
 ### 8.2 Quality Metrics for Assessment Services
 
-Key quality indicators:
-
-- Percentage of assessments completed within required timeframes (Target: 95%)
-- CANS completed within timeline (Target: 100%)
-- Accuracy of Service Package recommendations (90% placement stability at 90 days)
-- Timeliness of transition within time limit (Target: 95%)
+| Metric | Target |
+|--------|--------|
+| Assessments completed within required timeframes | 95% |
+| CANS completed within timeline | 100% |
+| Accuracy of Service Package recommendations | 90% placement stability at 90 days |
+| Timeliness of transition within time limit | 95% |
 
 ---
 
@@ -412,10 +380,6 @@ Key quality indicators:
 ## 9. RELATIONSHIP BETWEEN POLICY AND PROCEDURE
 
 This Comprehensive Enhanced Snapshot integrates policy (governing principles) and procedure (operational implementation) to provide a complete picture for external reviewers.
-
-**Internal Operations:** Staff should reference standalone policies and procedures for day-to-day operations, as these documents may be updated more frequently than this snapshot.
-
-**External Review:** This document demonstrates comprehensive compliance with T3C Blueprint requirements for Short-Term Assessment Support Services.
 
 ---
 
@@ -428,7 +392,6 @@ This Comprehensive Enhanced Snapshot integrates policy (governing principles) an
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
 > | Intake/Placement Coordinator | 1. Receive referral via approved channels<br>2. Log referral in tracking system<br>3. Acknowledge receipt to SSCC/DFPS<br>4. Screen for Short-Term Assessment eligibility | Within 2 hours of receipt | TAC §749.1251 |
-> | Intake/Placement Coordinator | 1. Verify child meets eligibility criteria (one of four categories)<br>2. Confirm no Add-On Services needed<br>3. Verify credentialed STASS home availability<br>4. Document screening outcome | Within 2 hours | T3C Blueprint p.74-75 |
 
 ### 10.2 Clinical Review
 
@@ -457,184 +420,50 @@ This Comprehensive Enhanced Snapshot integrates policy (governing principles) an
 
 ## 11. ASSESSMENT COORDINATION PROCEDURES
 
-### 11.1 Assessment Planning
-
 > **📋 DERIVED FROM: FC-STAR-01.1 STAR Health Coordination Procedure**
 >
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
-> | Case Manager | 1. Review all available records<br>2. Identify assessment domains requiring evaluation<br>3. Create comprehensive assessment plan<br>4. Coordinate with STAR Health for authorizations | Within 72 hours of admission | T3C Blueprint p.68-69; FC-STAR-01.1 |
-> | Treatment Director | 1. Review and approve assessment plan<br>2. Identify appropriate providers<br>3. Prioritize assessments based on child needs | Within 24 hours of plan draft | T3C Blueprint |
-
-### 11.2 Assessment Tracking
-
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Case Manager | 1. Track all scheduled assessments<br>2. Ensure transportation and support<br>3. Document assessment completion<br>4. Obtain assessment results<br>5. Update Assessment Tracking Log | Ongoing throughout placement | T3C Blueprint |
-
-### 11.3 Service Denial Notification
-
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Case Manager | 1. If service access challenges arise, notify SSCC/DFPS<br>2. Document barriers and attempts to resolve<br>3. Escalate to Program Director if needed | Within 3 business days of barrier | T3C Blueprint |
+> | Case Manager | 1. Identify required assessments<br>2. Submit STAR Health authorization requests<br>3. Schedule assessments within timeline<br>4. Coordinate transportation<br>5. Track assessment completion<br>6. Gather and compile results | Per timeline requirements | T3C Blueprint p.70-71 |
 
 ---
 
 ## 12. CANS 3.0 ASSESSMENT REQUIREMENTS
 
-### 12.1 CANS Timeline
-
-| Child Age | CANS Completion Deadline |
-|-----------|-------------------------|
-| Ages 3-5 | Within **21 days** of placement |
-| Age 6 and older | Within **30 days** of placement |
-
-### 12.2 CANS Process
-
-> **📋 DERIVED FROM: FC3-01.1 Individual Service Planning Procedure**
->
-> | Who | How | When | Regulatory Reference |
-> | :---- | :---- | :---- | :---- |
-> | CANS Assessor | 1. Complete comprehensive CANS 3.0 assessment<br>2. Gather information from all available sources<br>3. Include foster parent observations<br>4. Document findings | Within 21/30 days per age | T3C Blueprint |
-> | Treatment Director | 1. Review CANS results<br>2. Integrate with other assessment findings<br>3. Develop Service Package recommendation | Within 3 days of CANS completion | T3C Blueprint |
-
-### 12.3 CANS Use in Service Package Determination
-
-CANS 3.0 results inform the Service Package recommendation by identifying:
-
-- Behavioral health needs
-- Developmental needs
-- Medical needs
-- Educational needs
-- Family/permanency factors
-- Risk and safety factors
+| Age Group | CANS Timeline |
+|-----------|---------------|
+| Under 6 years | Within 21 days of placement |
+| 6 years and older | Within 30 days of placement |
 
 ---
 
 ## 13. SERVICE PLANNING PROCEDURES
 
-### 13.1 Assessment-Focused Service Plan
-
 > **📋 DERIVED FROM: FC3-01.1 Individual Service Planning Procedure**
 >
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
-> | Case Manager | 1. Develop assessment-focused Service Plan addressing:<br>&nbsp;&nbsp;&nbsp;- Immediate safety and stability needs<br>&nbsp;&nbsp;&nbsp;- Assessment coordination plan<br>&nbsp;&nbsp;&nbsp;- Assessment timeline tracking<br>&nbsp;&nbsp;&nbsp;- Preliminary transition planning<br>2. Focus on assessment completion, not long-term treatment<br>3. Obtain required signatures | **Within 7 days** of placement | TAC §749.1301; T3C Blueprint |
-
-### 13.2 Service Plan Focus Areas
-
-**Assessment-Focused (STASS) vs. Treatment-Focused (Other Packages):**
-
-| Element | Short-Term Assessment | Other Packages |
-|---------|----------------------|----------------|
-| Primary Goal | Identify appropriate Service Package | Achieve treatment objectives |
-| Timeframe | 7-day development; 30-day review | 30-day development; 90-day review |
-| Treatment Goals | Limited; immediate stability only | Comprehensive; long-term |
-| Transition Focus | Primary focus from Day 1 | Develops over time |
+> | Case Manager | 1. Complete CANS 3.0 assessment<br>2. Gather input from assessments<br>3. Include immediate needs and goals<br>4. Document assessment coordination plan<br>5. Include Service Package recommendation process<br>6. Submit to SSCC/DFPS | Within 21 days (under 6) or 30 days (6+) | TAC §749.1301; T3C Blueprint |
 
 ---
 
 ## 14. CRISIS MANAGEMENT PROCEDURES
 
-### 14.1 Crisis Management Overview
-
-> **📋 DERIVED FROM: FC-04 Crisis Management Policy**
->
-> **Guiding Principles for Short-Term Assessment Crises:**
->
-> - Children often have **unknown histories** requiring heightened vigilance
-> - Assume potential trauma history; use TBRI® de-escalation
-> - **Enhanced documentation** essential for transition
-> - Crisis patterns inform Service Package recommendation
-
-### 14.2 Assessment Period Crisis Considerations
-
-> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure, Section 5**
->
-> **Unique Challenges:**
->
-> | Challenge | Implication | Response Adaptation |
-> | :---- | :---- | :---- |
-> | Unknown trauma history | Triggers may not be identified | Heightened observation; assume trauma history |
-> | No established Personal Safety Plan | Limited individualized guidance | Use general TBRI® de-escalation; develop plan rapidly |
-> | Unknown effective interventions | What works for this child is unclear | Try multiple approaches; document effectiveness |
-> | Short placement duration | Limited time to build relationship | Prioritize felt safety and connection |
-> | Assessment purpose | Crisis data informs package recommendation | Thorough documentation essential |
-
-### 14.3 Initial 48-Hour Enhanced Monitoring
-
-> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure, Section 5.2**
+> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure Section 5**
 >
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
-> | Foster Parent | 1. Maintain enhanced supervision during initial 48 hours<br>2. Observe and document behavioral patterns, triggers, calming strategies<br>3. Note sleep patterns, eating behaviors, responses to transitions<br>4. Report observations to Case Manager daily | First 48 hours of placement | T3C Blueprint; FC-STASS-01 |
-> | Case Manager | 1. Check in with foster parent daily during first 48 hours<br>2. Gather observations for Personal Safety Plan development<br>3. Assess need for expedited clinical consultation<br>4. Begin identifying potential crisis triggers | First 48 hours | FC-STASS-01 |
-
-### 14.4 Expedited Personal Safety Plan Development
-
-> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure, Section 5.3**
->
-> | Who | How | When | Regulatory Reference |
-> | :---- | :---- | :---- | :---- |
-> | Case Manager | 1. Develop preliminary Personal Safety Plan based on:<br>&nbsp;&nbsp;&nbsp;- Available history from referral<br>&nbsp;&nbsp;&nbsp;- Foster parent observations<br>&nbsp;&nbsp;&nbsp;- Child's self-report (age-appropriate)<br>&nbsp;&nbsp;&nbsp;- Clinical consultation if indicated<br>2. Document known and suspected triggers<br>3. Include general trauma-informed strategies<br>4. Update as more information becomes available | **Within 72 hours** of placement | T3C Blueprint; FC-04.1 Section 5.3 |
-
-### 14.5 Crisis Documentation for Transition
-
-> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure, Section 5.4**
->
-> **CRITICAL:** All crisis incidents must be thoroughly documented for transition to receiving placement.
->
-> | Who | How | When | Regulatory Reference |
-> | :---- | :---- | :---- | :---- |
-> | Crisis Management Staff | 1. Document all crisis incidents with enhanced detail<br>2. Note what interventions were effective/ineffective<br>3. Identify triggers discovered during crisis<br>4. Record child's responses to different approaches<br>5. Include all information in Transition Summary | During and after each crisis | FC-04.1 Section 5.4 |
-> | Case Manager | 1. Compile crisis patterns for transition documentation<br>2. Include effective/ineffective interventions in Transition Summary<br>3. Communicate crisis history to receiving Case Manager | Before discharge | FC-STASS-01 |
-
-### 14.6 Staff Training - Short-Term Assessment Crisis
-
-> **📋 DERIVED FROM: FC-16 Staff and Caregiver Training Policy, Section 4.5**
->
-> Crisis-specific training competencies for staff serving STASS population:
->
-> | Competency | Training Content | Hours |
-> |------------|------------------|-------|
-> | Unknown History Considerations | Assuming trauma; heightened vigilance | Included in 4-hour STASS training |
-> | Expedited Safety Planning | 72-hour Personal Safety Plan development | Included in 4-hour STASS training |
-> | Crisis Documentation for Transition | Enhanced documentation; transition communication | Included in 4-hour STASS training |
-> | Observation and Pattern Identification | Identifying triggers and effective interventions | Included in 4-hour STASS training |
+> | Crisis Staff | 1. Assume potential trauma history<br>2. Use TBRI® de-escalation<br>3. Document ALL interventions<br>4. Note effective and ineffective strategies<br>5. Include crisis patterns in transition summary | All crises | FC-04.1 Section 5 |
 
 ---
 
-## 15. DISCHARGE AND TRANSITION PROCEDURES
-
-### 15.1 Service Package Determination
+## 15. TRANSITION AND DISCHARGE PROCEDURES
 
 > **📋 DERIVED FROM: FC14-01 Discharge and Permanency Planning Policy**
 >
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
-> | Treatment Director | 1. Review all assessment findings:<br>&nbsp;&nbsp;&nbsp;- CANS 3.0 results<br>&nbsp;&nbsp;&nbsp;- Behavioral health assessments<br>&nbsp;&nbsp;&nbsp;- Medical/developmental evaluations<br>&nbsp;&nbsp;&nbsp;- Foster parent observations<br>&nbsp;&nbsp;&nbsp;- Crisis history and patterns<br>2. Determine appropriate Service Package<br>3. Complete Service Package Recommendation Form | Upon assessment completion | T3C Blueprint; FC14-01 |
-> | Service Planning Team | 1. Review Treatment Director recommendation<br>2. Confirm recommendation or discuss alternatives<br>3. Finalize Service Package determination | Within 3 days of recommendation | T3C Blueprint |
-
-### 15.2 Comprehensive Transition Summary
-
-> **📋 DERIVED FROM: FC14-01 Discharge and Permanency Planning Policy**
->
-> **CRITICAL:** The Transition Summary is the primary documentation for receiving placement. It must be comprehensive.
->
-> | Who | How | When | Regulatory Reference |
-> | :---- | :---- | :---- | :---- |
-> | Case Manager | 1. Prepare comprehensive Transition Summary including:<br>&nbsp;&nbsp;&nbsp;- All assessment findings and results<br>&nbsp;&nbsp;&nbsp;- CANS 3.0 summary<br>&nbsp;&nbsp;&nbsp;- Behavioral observations from foster parent<br>&nbsp;&nbsp;&nbsp;- **Crisis history with effective/ineffective interventions**<br>&nbsp;&nbsp;&nbsp;- Trigger identification<br>&nbsp;&nbsp;&nbsp;- Service Package recommendation with rationale<br>&nbsp;&nbsp;&nbsp;- Recommendations for continued support<br>2. Ensure all information needed by receiving placement is included | Before discharge | TAC §749.1361; FC-STASS-01 |
-
-### 15.3 Transition Coordination
-
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Case Manager | 1. Identify receiving placement per Service Package recommendation<br>2. Coordinate with receiving agency/Case Manager<br>3. Conduct warm handoff with complete documentation transfer<br>4. Support child through transition | Before discharge | TAC §749.1363 |
-| Case Manager | 1. Submit transition notification to DFPS/SSCC including:<br>&nbsp;&nbsp;&nbsp;- Transition notification form<br>&nbsp;&nbsp;&nbsp;- Final Service Plan<br>&nbsp;&nbsp;&nbsp;- Comprehensive Transition Summary<br>&nbsp;&nbsp;&nbsp;- Service Package recommendation documentation | Within 24 hours of transition | RCC Contract Term 7 |
-
-### 15.4 No Aftercare Required
-
-**Package-Specific:** Aftercare services per FC-AF-01 are **NOT required** for Short-Term Assessment. The Case Manager ensures complete documentation handoff to receiving Case Manager. Aftercare responsibility transfers to the receiving Service Package provider.
+> | Case Manager | 1. Compile assessment results<br>2. Prepare Service Package recommendation<br>3. Document transition summary with:<br>   - Assessment findings<br>   - Behavioral observations<br>   - Effective/ineffective interventions<br>   - Crisis patterns<br>4. Coordinate with receiving placement<br>5. Complete handoff to receiving Case Manager | Before time limit | TAC §749.1361; T3C Blueprint |
 
 ---
 
@@ -652,30 +481,15 @@ CANS 3.0 results inform the Service Package recommendation by identifying:
 > |-------------------|----------|---------|------------|
 > | **Initial STASS Training** | 4 hours | - Assessment coordination and documentation<br>- Timeline management (30/45-day limits)<br>- Unknown history crisis considerations<br>- Expedited Personal Safety Plan development<br>- Transition planning and communication<br>- Service Package recommendation process | Before first STASS assignment |
 > | **Annual Refresher** | 2 hours | - Updates on best practices<br>- Case review<br>- Timeline compliance review | Annually |
->
-> **Staff Who Must Complete Training:**
->
-> - Case Managers assigned STASS children
-> - Crisis Management Staff serving STASS population
-> - Intake/Placement Coordinators handling STASS referrals
-> - Treatment Director (may have equivalent qualification)
 
 ### 16.2 Foster Parent Training Requirements
 
 > **📋 DERIVED FROM: FC-16 Staff and Caregiver Training Policy, Section 4.5**
 >
-> **Short-Term Assessment Training - Foster Parents:**
->
 > | Training Component | Duration | Content | Completion |
 > |-------------------|----------|---------|------------|
 > | **Initial STASS Training** | 4 hours | - Observation and documentation techniques<br>- Supporting assessment process<br>- Unknown history considerations<br>- Managing transitions and short-term placements<br>- Crisis response for unknown history children<br>- Expedited safety planning participation | Before first STASS placement |
 > | **Annual Refresher** | 2 hours | - Updates and reinforcement | Annually |
-
-### 16.3 Training Documentation
-
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Training Coordinator | 1. Track all STASS training completion<br>2. Maintain training records<br>3. Monitor annual refresher due dates<br>4. Ensure training completed before STASS assignments | Ongoing | FC-16; T3C Blueprint |
 
 ---
 
@@ -683,61 +497,29 @@ CANS 3.0 results inform the Service Package recommendation by identifying:
 
 ## 17. TREATMENT MODEL APPLICATION
 
-### 17.1 TBRI® Integration with Short-Term Assessment
-
 > **📋 DERIVED FROM: TBRI Treatment Model Executive Summary**
 >
-> Trust-Based Relational Intervention (TBRI®) principles guide all Short-Term Assessment services:
+> For Short-Term Assessment, TBRI® principles guide all interactions:
 >
-> **Connecting Principles:**
+> **Connecting Principles:** Building trust during short-term placement while gathering assessment information.
 >
-> - Build trust quickly through attentive, nurturing care
-> - Communicate safety during transitional period
-> - Maintain warm engagement despite short placement
-
-> **Empowering Principles:**
+> **Empowering Principles:** Meeting immediate physical and emotional needs while coordinating evaluations.
 >
-> - Address physiological needs (nutrition, hydration, sleep)
-> - Support sensory processing needs
-> - Create predictable structure during uncertainty
->
-> **Correcting Principles:**
->
-> - Use proactive strategies to create felt safety
-> - Allow authentic behavior observation for assessment
-> - Apply trauma-informed responses to challenges
-
-### 17.2 Assessment as Intervention
-
-The assessment period itself is an intervention that:
-
-- Begins the child's healing journey
-- Creates felt safety during uncertain transition
-- Provides data for appropriate Service Package matching
-- Builds foundation for ongoing treatment in subsequent placement
+> **Correcting Principles:** Responding to behaviors with understanding, recognizing unknown trauma history.
 
 ---
 
 ## 18. CONTINUOUS QUALITY IMPROVEMENT
 
-### 18.1 Outcome Tracking
-
-> **📋 DERIVED FROM: CQI Plan**
+> **📋 DERIVED FROM: FC-17 Continuous Quality Improvement Policy; CQI Plan**
 >
-> **Short-Term Assessment Package Outcomes Tracked:**
->
-> | Outcome Category | Metrics | Target |
-> |------------------|---------|--------|
-> | Assessment Timeliness | Assessments completed within timeline | 95% |
-> | CANS Completion | CANS completed within 21/30 days | 100% |
-> | Recommendation Accuracy | Placement stability in receiving placement at 90 days | 90% |
-> | Transition Timeliness | Transition within time limit | 95% |
-
-### 18.2 Quality Review Process
-
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| CQI Coordinator | 1. Track assessment completion timelines<br>2. Monitor transition outcomes<br>3. Track receiving placement stability<br>4. Identify improvement opportunities<br>5. Present to leadership | Monthly | FC-17; T3C Blueprint |
+> | Metric | Target | Frequency |
+> |--------|--------|-----------|
+> | Assessments completed within timeline | 95% | Monthly review |
+> | CANS completed within timeline | 100% | Monthly review |
+> | Transitions within time limit | 95% | Monthly review |
+> | Service Package recommendation accuracy | 90% stability at 90 days | Quarterly review |
+> | Foster parent training completion | 100% | Prior to placement |
 
 ---
 
@@ -745,13 +527,9 @@ The assessment period itself is an intervention that:
 
 ## 19. DEFINITIONS
 
-**Assessment Period:** Time from admission to discharge during which comprehensive evaluations are coordinated.
+**Assessment Period:** Time-limited placement for comprehensive evaluation (30/45 days + extension).
 
-**CANS 3.0:** Child and Adolescent Needs and Strengths assessment tool version 3.0.
-
-**Comprehensive Transition Summary:** Required documentation compiling all assessment findings, observations, crisis history, and Service Package recommendation for receiving placement.
-
-**Service Package Recommendation:** Clinical determination of appropriate ongoing T3C Service Package based on assessment findings.
+**Service Package Recommendation:** Assessment-informed recommendation for appropriate T3C Service Package.
 
 **Short-Term Assessment:** Time-limited (30/45 days + 15-day extension) foster care placement for assessment coordination.
 
@@ -761,22 +539,11 @@ The assessment period itself is an intervention that:
 
 ## 20. REGULATORY REFERENCES
 
-**T3C Blueprint Standards:**
-
-- Pages 67-75, Short-Term Assessment Support Services
-
-**TAC Chapter 749 (Minimum Standards):**
-
-- TAC §749.1251: Admission requirements
-- TAC §749.1301: Service Plan timeline
-- TAC §749.1361: Discharge/transfer planning
-- TAC §749.1363: Transfer requirements
-
-**RCC Contract Requirements:**
-
-- Contract Term 7: SSCC/DFPS Submission Requirements
-- Contract Term 8: Service Delivery Requirements
-- Contract Term 10: Quality Assurance Requirements
+- **T3C Blueprint Standards:** Pages 67-75, Short-Term Assessment Support Services (April 2025)
+- **TAC Chapter 749:** Foster Family Home Minimum Standards
+- **TAC §749.1301:** Service Plan Development
+- **TAC §749.1361:** Discharge/Transfer Planning
+- **RCC Contract Requirements:** Contract Terms 7, 8, 10
 
 ---
 
@@ -790,10 +557,9 @@ The assessment period itself is an intervention that:
 - Foster Parent Daily Observation Log (Assessment Version)
 - Service Plan - Short-Term Assessment Supplement
 - Service Package Recommendation Form
-- Comprehensive Transition Summary Template
-- Extension Request Form
+- Transition Summary Template
 
-### Crisis Management Forms:
+### Crisis Management Forms (per FC-04.1):
 
 - Short-Term Assessment Crisis Observation Log
 - STASS Crisis Transition Summary Template
@@ -801,7 +567,7 @@ The assessment period itself is an intervention that:
 
 ### Training Documentation:
 
-- Short-Term Assessment Training Completion Record
+- Short-Term Assessment Training Completion Record (4-hour)
 - Foster Parent STASS Training Verification
 - Annual Refresher Tracking Log
 
@@ -812,12 +578,13 @@ The assessment period itself is an intervention that:
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0 | December 2025 | Refuge House Leadership | Initial comprehensive enhanced snapshot |
+| 1.1 | January 2026 | Refuge House Leadership | Expanded Section 5.6 Service Documentation and Cost Coverage per T3C Blueprint p.70-71 requirements |
 
 ---
 
 ## COMPLIANCE STATEMENT
 
-This Comprehensive Enhanced Snapshot demonstrates Refuge House's compliance with T3C Blueprint requirements (April 2025) for Short-Term Assessment Support Services. This document integrates content from the following Refuge House policies and procedures to provide a complete operational picture:
+This Comprehensive Enhanced Snapshot demonstrates Refuge House's compliance with T3C Blueprint requirements (April 2025) for Short-Term Assessment Support Services. This document integrates content from the following Refuge House policies and procedures:
 
 | Source Document | Sections Incorporated |
 |-----------------|----------------------|
@@ -831,7 +598,7 @@ This Comprehensive Enhanced Snapshot demonstrates Refuge House's compliance with
 | FC10-01 Physical and Mental Health Care Policy | Health care coordination |
 | FC14-01 Discharge and Permanency Planning Policy | Transition process |
 | FC-HT-01 Human Trafficking Prevention Policy | Trafficking screening |
-| FC-STAR-01.1 STAR Health Coordination Procedure | Assessment authorization |
+| FC-STAR-01.1 STAR Health Coordination Procedure | Assessment authorization; Service Documentation and Cost Coverage |
 | FC-CRED-01.1 Foster Family Home Credentialing Procedure | Foster home credentialing |
 | TBRI Treatment Model Executive Summary | Treatment model application |
 | CQI Plan | Quality improvement |
