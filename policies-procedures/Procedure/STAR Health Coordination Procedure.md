@@ -3,10 +3,10 @@
 | Procedure Information | Details |
 | :---- | :---- |
 | **PROCEDURE NAME** | STAR Health Coordination Procedure |
-| **PROCEDURE NUMBER** | FC10-01.2 |
+| **PROCEDURE NUMBER** | FC10-01.2 / FC-STAR-01.1 |
 | **RELATED POLICY** | FC10-01 Physical and Mental Health Care Policy |
 | **EFFECTIVE DATE** | 5/20/25 |
-| **REVISION DATE** | 5/20/25; 12.09.2025.1 |
+| **REVISION DATE** | January 2026 |
 
 | APPLICABLE T3C PACKAGES: | APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -20,15 +20,21 @@
 | ☒ Intellectual or Developmental Disability (IDD)/Autism Spectrum Disorder |  |
 | ☒ T3C Treatment Foster Family Care |  |
 
-## PURPOSE:
+---
+
+## PURPOSE
 
 To establish a standardized process for coordinating with STAR Health to ensure children, youth, and young adults in Refuge House foster care receive comprehensive healthcare services in accordance with T3C requirements.
 
-## RELATIONSHIP BETWEEN POLICY AND PROCEDURE:
+---
+
+## RELATIONSHIP BETWEEN POLICY AND PROCEDURE
 
 This procedure supports the Physical and Mental Health Care Policy (FC10-01) by providing detailed implementation guidance for STAR Health coordination activities. The policy establishes that "Refuge House will coordinate with STAR Health, medical professionals, and other service providers to ensure that children receive appropriate preventive care, screenings, evaluations, and treatment," and this procedure operationalizes that commitment through specific processes, timeframes, and documentation requirements that fulfill T3C service package obligations.
 
-## RESPONSIBILITY:
+---
+
+## RESPONSIBILITY
 
 - Case Managers
 - Program Directors/LCPAAs
@@ -40,13 +46,17 @@ This procedure supports the Physical and Mental Health Care Policy (FC10-01) by 
 - Treatment Director (for Substance Use: clinical oversight of SU services, MAT coordination oversight; for Short-Term Assessment: assessment review, Service Package determination; for Treatment Foster Family Care: clinical justification for intensive services, re-authorization support, appeal support)
 - Program Director (for Short-Term Assessment: agency-funded assessment authorization if needed; for Treatment Foster Family Care: agency-funded services authorization if STAR Health insufficient)
 
-## IMPLEMENTATION GUIDANCE:
+---
+
+## IMPLEMENTATION GUIDANCE
 
 This procedure specifically addresses coordination with STAR Health to fulfill T3C requirements. The T3C Blueprint emphasizes cross-system coordination with STAR Health as a critical component for meeting service package requirements. During the transition period (2025-2027), all requirements in this procedure apply to children in both legacy Service Levels and T3C Packages, with additional T3C-specific requirements clearly marked.
 
-## PROCEDURE:
+---
 
-### 1\. STAR HEALTH ENROLLMENT AND BENEFITS COORDINATION
+## PROCEDURE
+
+### 1. STAR HEALTH ENROLLMENT AND BENEFITS COORDINATION
 
 #### Purpose and Overview
 
@@ -58,12 +68,14 @@ The T3C model emphasizes the importance of coordinated care and outcome-focused 
 
 | Who | How | When | Where | Regulatory Reference |
 | :---- | :---- | :---- | :---- | :---- |
-| Case Manager | 1\. Contact STAR Health Member Services at 1-866-912-6283 2\. Verify active enrollment status for the child 3\. Obtain and record STAR Health Member ID number 4\. Document verification of enrollment in Radius 5\. Address any enrollment issues immediately with DFPS/SSCC | **Within 24 hours of placement** | Phone contact documented in Radius | TAC §749.1417; RCC Contract Term 7 |
-| Case Manager | 1\. Provide STAR Health Member Services contact information to foster parents 2\. Share STAR Health Member Handbook link with foster parents 3\. Explain basic STAR Health benefits and how to access services 4\. Document orientation provided to foster parents | **Within 3 days of placement** | Foster parent orientation documentation | T3C Blueprint p.47-55; Family engagement |
-| Case Manager | 1\. For authorized staff: access and review Health Passport for medical history 2\. For staff without access: request health information from DFPS/SSCC caseworker 3\. Document how health information informs Service Plan development 4\. Include relevant health history in admission assessments | **Within 5 days of placement** | Health Passport or DFPS coordination | T3C Blueprint p.47-55; Assessment requirements |
-| Case Manager | 1\. Upon enrollment confirmation, explain available STAR Health resources to foster parents 2\. Assist with understanding provider networks and benefits 3\. Help navigate prior authorization processes when needed 4\. Document all STAR Health coordination activities in Radius | **Ongoing as services are accessed** | STAR Health benefits coordination | RCC Contract Term 7; Service coordination |
+| Case Manager | 1. Contact STAR Health Member Services at 1-866-912-6283 2. Verify active enrollment status for the child 3. Obtain and record STAR Health Member ID number 4. Document verification of enrollment in Radius 5. Address any enrollment issues immediately with DFPS/SSCC | **Within 24 hours of placement** | Phone contact documented in Radius | TAC §749.1417; RCC Contract Term 7 |
+| Case Manager | 1. Provide STAR Health Member Services contact information to foster parents 2. Share STAR Health Member Handbook link with foster parents 3. Explain basic STAR Health benefits and how to access services 4. Document orientation provided to foster parents | **Within 3 days of placement** | Foster parent orientation documentation | T3C Blueprint p.47-55; Family engagement |
+| Case Manager | 1. For authorized staff: access and review Health Passport for medical history 2. For staff without access: request health information from DFPS/SSCC caseworker 3. Document how health information informs Service Plan development 4. Include relevant health history in admission assessments | **Within 5 days of placement** | Health Passport or DFPS coordination | T3C Blueprint p.47-55; Assessment requirements |
+| Case Manager | 1. Upon enrollment confirmation, explain available STAR Health resources to foster parents 2. Assist with understanding provider networks and benefits 3. Help navigate prior authorization processes when needed 4. Document all STAR Health coordination activities in Radius | **Ongoing as services are accessed** | STAR Health benefits coordination | RCC Contract Term 7; Service coordination |
 
-### 2\. PRIMARY CARE PROVIDER SELECTION AND MANAGEMENT
+---
+
+### 2. PRIMARY CARE PROVIDER SELECTION AND MANAGEMENT
 
 #### Purpose and Overview
 
@@ -75,29 +87,30 @@ The T3C model emphasizes the importance of minimizing disruptions in services th
 
 | Who | How | When | Where | Regulatory Reference |
 | :---- | :---- | :---- | :---- | :---- |
-| Case Manager | 1\. Assist foster parent with selecting PCP from STAR Health network 2\. Verify provider is accepting new patients 3\. Check provider's location and accessibility for foster family 4\. Document selected PCP information in child's Radius record 5\. Ensure PCP selection supports continuity when possible | **Within 7 days of placement** | STAR Health provider network | TAC §749.1417; Provider coordination |
-| Case Manager | 1\. For children with existing provider relationships: \- Determine if provider is in STAR Health network \- If provider is out-of-network, explore continuity options \- Request single-case agreements when medically necessary \- Document efforts to maintain provider relationships 2\. Coordinate temporary continuity provisions when available | **Within 5 days of placement** | Provider network verification | T3C Blueprint p.47-55; Continuity of care |
-| Case Manager | 1\. Help foster parents complete provider paperwork and registration 2\. Ensure medical consenter provides relevant health history to new PCP 3\. Coordinate transfer of medical records from previous providers 4\. Schedule initial appointment with new PCP per medical examination requirements | **Within 7 days of PCP selection** | Provider registration coordination | TAC §749.1417; Medical coordination |
-| Case Manager | 1\. Monitor effectiveness of PCP relationship and care quality 2\. Address any access or quality issues with provider or STAR Health 3\. Coordinate PCP changes when necessary for child's best interests 4\. Document all provider coordination efforts and outcomes | **Ongoing throughout placement** | Provider relationship management | TAC §749.1417; Quality assurance |
+| Case Manager | 1. Assist foster parent with selecting PCP from STAR Health network 2. Verify provider is accepting new patients 3. Check provider's location and accessibility for foster family 4. Document selected PCP information in child's Radius record 5. Ensure PCP selection supports continuity when possible | **Within 7 days of placement** | STAR Health provider network | TAC §749.1417; Provider coordination |
+| Case Manager | 1. If child had existing PCP relationship, attempt to maintain continuity 2. Verify existing PCP is in STAR Health network 3. If not in network, assist with finding comparable provider 4. Document any provider transitions and reasons | **Within 7 days of placement** | Provider continuity documentation | T3C Blueprint; Service continuity |
+| Case Manager | 1. Support foster parent in establishing relationship with new PCP 2. Ensure PCP has complete health history and current medications 3. Facilitate communication between PCP and other providers 4. Monitor that PCP relationship is meeting child's needs | **Ongoing** | PCP relationship management | TAC §749.1417; Coordinated care |
+| Program Director | 1. Monitor PCP selection and continuity metrics 2. Address systemic barriers to PCP access 3. Maintain relationships with key STAR Health PCPs 4. Ensure adequate provider options in service areas | **Monthly review** | Administrative oversight | T3C Blueprint; Quality assurance |
 
-### 3\. BEHAVIORAL HEALTH SERVICES COORDINATION
+---
+
+### 3. BEHAVIORAL HEALTH SERVICES COORDINATION
 
 #### Purpose and Overview
 
-Behavioral health services coordination ensures that children receive appropriate mental health and substance abuse services through the STAR Health network in accordance with their individual needs and T3C package requirements. Our policy acknowledges that "physical and mental health care are interconnected and essential components of trauma-informed care" and emphasizes coordinated approaches to address comprehensive health needs.
+Behavioral health services coordination ensures that children receive timely access to mental health and behavioral health services through STAR Health. The policy recognizes that many children in foster care have experienced trauma and may have significant behavioral health needs that require specialized services.
 
-The T3C model places significant emphasis on trauma-informed, evidence-based behavioral health services that are tailored to each child's specific needs and circumstances. For children in specialized behavioral health packages, these services become the primary focus of their treatment, while for children in basic foster care, behavioral health services provide essential support for healing and healthy development.
-
-Coordination of behavioral health services requires careful attention to provider qualifications, treatment approaches, and integration with other services to ensure that all components of a child's care work together to support their healing and development rather than creating confusion or conflicting approaches.
+Coordination with STAR Health behavioral health services supports the T3C model's emphasis on trauma-informed care and evidence-based treatment. By ensuring children have access to appropriate therapy, psychiatric services, and other behavioral health supports, we create the foundation for healing and positive outcomes.
 
 | Who | How | When | Where | Regulatory Reference |
 | :---- | :---- | :---- | :---- | :---- |
-| Case Manager | 1\. Connect with in-network STAR Health behavioral health providers 2\. Verify provider qualifications and specializations match child's needs 3\. Assist with scheduling initial behavioral health appointments 4\. Coordinate communication between therapists, psychiatrists, and other providers 5\. Document all behavioral health services in Radius | **Within timeframes per FC10-01.1** | STAR Health behavioral health network | T3C Blueprint p.47-55; Behavioral health coordination |
-| Treatment Director | **For Mental & Behavioral Health Package:** 1\. Schedule weekly therapy with qualified STAR Health provider 2\. Coordinate psychiatric services for medication management 3\. Document how services align with TBRI treatment model 4\. Ensure service planning incorporates therapeutic recommendations 5\. Monitor treatment progress through clinical oversight | **Weekly therapy; ongoing coordination** | Package-specific behavioral health | T3C Blueprint Mental Health package requirements |
-| Case Manager | **For Substance Use Support Services Package:** 1\. Coordinate substance use assessment through STAR Health 2\. Ensure access to appropriate level of substance use treatment 3\. Coordinate between substance use providers and other healthcare providers 4\. Document integration of substance use services with treatment model 5\. Monitor compliance with treatment recommendations | **Per substance use package requirements** | Substance use service coordination | T3C Blueprint Substance Use package requirements |
-| Case Manager | **For All Behavioral Health Services:** 1\. Ensure psychotropic medication prescribers are STAR Health network providers 2\. Coordinate medication monitoring appointments with psychiatric providers 3\. Track medication effectiveness and side effects 4\. Document integration of medication management with therapy services 5\. Ensure compliance with DFPS Psychotropic Medication Guidelines | **Ongoing for children receiving psychotropic medications** | Medication management coordination | TAC §749.1819; Psychotropic oversight |
+| Case Manager | 1. Identify behavioral health service needs based on assessment 2. Submit prior authorization requests to STAR Health 3. Coordinate with STAR Health Service Coordination if needed 4. Document all authorization activities | **Within 7 days of identified need** | STAR Health portal | T3C Blueprint; TAC §749.1417 |
+| Case Manager | 1. Assist foster parents in selecting behavioral health providers 2. Ensure providers specialize in trauma and child welfare populations 3. Coordinate therapy schedules with school and other activities 4. Monitor service delivery and child's progress | **Ongoing** | Provider coordination | T3C Blueprint; TBRI implementation |
+| Case Manager | 1. Ensure psychotropic medication prescribers are STAR Health network providers 2. Coordinate medication monitoring appointments with psychiatric providers 3. Track medication effectiveness and side effects 4. Document integration of medication management with therapy services 5. Ensure compliance with DFPS Psychotropic Medication Guidelines | **Ongoing for children receiving psychotropic medications** | Medication management coordination | TAC §749.1819; Psychotropic oversight |
 
-### 4\. SUBSTANCE USE SUPPORT SERVICES STAR HEALTH COORDINATION
+---
+
+### 4. SUBSTANCE USE SUPPORT SERVICES STAR HEALTH COORDINATION
 
 #### Purpose and Overview
 
@@ -137,7 +150,9 @@ STAR Health coordination for Substance Use Support Services requires specialized
 | :---- | :---- | :---- | :---- | :---- |
 | Case Manager | 1. Upon substance use service denial: - Document denial reason - Notify Treatment Director immediately - Notify SSCC/DFPS within 3 business days 2. Initiate appeal if appropriate 3. Explore alternative providers or community resources | Within 24 hours of denial; SSCC/DFPS within 3 business days | Denial documentation; Appeal if applicable | T3C Blueprint; RCC Contract |
 
-### 5\. SHORT-TERM ASSESSMENT SUPPORT SERVICES STAR HEALTH COORDINATION
+---
+
+### 5. SHORT-TERM ASSESSMENT SUPPORT SERVICES STAR HEALTH COORDINATION
 
 #### Purpose and Overview
 
@@ -177,7 +192,9 @@ STAR Health coordination for Short-Term Assessment requires expedited authorizat
 | Case Manager | 1. Upon assessment service denial: - Document denial reason immediately - Notify supervisor and Treatment Director - Notify SSCC/DFPS within 3 business days - Initiate appeal immediately (time-sensitive) 2. Simultaneously explore alternatives: - Alternative STAR Health providers - Community resources - Agency-funded assessment if critical | Within 24 hours of denial | Denial documentation; Appeal; Alternative exploration | T3C Blueprint; RCC Contract |
 | Program Director | 1. Review assessment denial 2. Authorize agency-funded assessment if: - Critical for Service Package determination - Appeal timeline exceeds placement timeline - No alternative available 3. Document decision | Within 24 hours of escalation | Program Director authorization | T3C Blueprint |
 
-### 6\. T3C TREATMENT FOSTER FAMILY CARE STAR HEALTH COORDINATION
+---
+
+### 6. T3C TREATMENT FOSTER FAMILY CARE STAR HEALTH COORDINATION
 
 #### Purpose and Overview
 
@@ -225,71 +242,135 @@ STAR Health coordination for Treatment Foster Family Care requires authorization
 | Treatment Director | 1. Provide clinical appeal support 2. Document clinical necessity for intensive services 3. Recommend alternatives if appeal unsuccessful | Within 24 hours of denial notification | Clinical appeal documentation | T3C Blueprint |
 | Program Director | 1. If STAR Health cannot provide intensive services: - Authorize agency-funded services if clinically necessary - Document decision and rationale - Ensure services delivered per Service Package requirements | Per clinical urgency | Program Director authorization | RCC Contract Term 7 |
 
-### 7\. PACKAGE-SPECIFIC STAR HEALTH COORDINATION SUMMARY
+---
 
-| STAR Health Element | Substance Use | Short-Term Assessment | Treatment Foster Care |
-|---------------------|---------------|----------------------|----------------------|
-| **Primary Authorization Focus** | SU assessment; SU treatment | Multiple domain assessments | Intensive therapy; Psychiatric |
-| **Key Timeline** | Assessment within 30 days | All assessments within 21/30 days | Weekly therapy ongoing |
-| **Specialized Providers Needed** | Adolescent SU qualified | Multi-domain assessors | Serious MH/behavioral specialist |
-| **Authorization Urgency** | Standard | **EXPEDITED** | Standard with clinical justification |
-| **Re-Authorization Frequency** | Per authorization period | N/A (time-limited) | 30 days before expiration |
-| **Service Coordination Request** | As needed | Recommended for complex | As needed |
-| **Treatment Director Role** | Clinical oversight; MAT coordination | Assessment review; Package recommendation | Monthly oversight; Re-auth support |
-| **Denial Response Timeline** | Within 24 hrs; SSCC 3 days | **Immediate** (time-sensitive) | Within 24 hrs; SSCC 3 days |
-
-### 8\. STAR HEALTH SERVICE COORDINATION FOR COMPLEX NEEDS (All Packages)
+### 7. SERVICE COORDINATION REQUESTS
 
 #### Purpose and Overview
 
-STAR Health Service Coordination is a specialized service designed for children with complex medical, behavioral, or developmental needs that require enhanced coordination and support. Our policy establishes that "Refuge House will coordinate with STAR Health, medical professionals, and other service providers" to ensure comprehensive care, and Service Coordination represents the most intensive level of this coordination for children with the greatest needs.
-
-Service Coordination provides dedicated support from a STAR Health Service Coordinator who works specifically with children and families to navigate complex health systems, coordinate multiple providers, and ensure that all health needs are addressed in a timely and effective manner. This service is particularly important for children in specialized T3C packages where health needs may be central to their placement and treatment goals.
-
-The T3C model emphasizes outcome-focused, coordinated care that addresses the comprehensive needs of children and families. Service Coordination supports these goals by providing a single point of contact for complex health coordination and ensuring that all services work together to achieve positive outcomes for children.
+STAR Health Service Coordination provides enhanced support for children with complex health needs. Service Coordinators can assist with navigating the healthcare system, coordinating multiple providers, and addressing barriers to care. This section establishes procedures for requesting and utilizing Service Coordination effectively.
 
 | Who | How | When | Where | Regulatory Reference |
 | :---- | :---- | :---- | :---- | :---- |
-| Case Manager | 1\. Identify children who may benefit from Service Coordination based on: \- Complex medical conditions requiring multiple specialists \- Multiple behavioral health diagnoses \- Frequent hospitalizations or emergency room visits \- Multiple specialists involved in care \- History of placement instability due to healthcare needs 2\. Complete assessment of coordination needs | **Within 5 days of placement for complex needs** | Service Coordination assessment | T3C Blueprint p.47-55; Complex needs identification |
-| Case Manager | 1\. Complete STAR Health Service Coordination Request Form 2\. Submit form to Superior HealthPlan through appropriate channels 3\. Document request submission in Radius 4\. Follow up within 5 business days if no response received 5\. Escalate to DFPS Regional Well-being Specialist if needed | **Within 5 days of identifying need** | Service Coordination request process | RCC Contract Term 7; Service coordination |
-| Case Manager | 1\. Upon assignment of Service Coordinator: \- Schedule introduction call between Service Coordinator, case manager, and foster parent \- Share relevant health and placement information \- Develop joint communication and coordination plan \- Invite Service Coordinator to service planning meetings 2\. Document all coordination activities in Radius | **Within 3 days of Service Coordinator assignment** | Service Coordinator relationship establishment | T3C Blueprint p.47-55; Coordinated care |
-| Case Manager | **For Complex Medical Needs Package:** 1\. Ensure monthly communication with Service Coordinator 2\. Include Service Coordinator input in 90-day medical status reviews 3\. Coordinate equipment and supply needs through Service Coordinator 4\. Document Service Coordination activities in T3C Implementation Tool 5\. Report coordination outcomes to DFPS/SSCC | **Monthly coordination; ongoing documentation** | Enhanced Service Coordination for complex medical needs | T3C Blueprint p.99-110; Complex medical coordination |
+| Case Manager | 1. Identify children who may benefit from Service Coordination: - Complex medical conditions - Multiple providers requiring coordination - History of service access barriers - T3C Service Package with intensive health needs 2. Submit Service Coordination request to STAR Health 3. Document request and response | When complex needs identified; within 5 days of placement for eligible packages | STAR Health Service Coordination request | T3C Blueprint; TAC §749.1417 |
+| Case Manager | 1. Collaborate with assigned Service Coordinator: - Share child's health goals and needs - Coordinate provider communications - Address barriers together - Document coordination activities | Ongoing when Service Coordinator assigned | Service Coordination collaboration documentation | T3C Blueprint |
 
-### 9\. MANAGING SERVICE DENIALS AND ACCESS BARRIERS
+---
 
-#### Purpose and Overview
-
-Managing service denials and access barriers ensures that children receive necessary health services even when initial requests are denied or when barriers to access exist within the STAR Health system. The policy emphasizes that health services should be provided "in accordance with regulatory requirements, STAR Health protocols, and trauma-informed practices," and this includes advocating for children when initial access attempts are unsuccessful.
-
-Service denials can occur for various reasons including lack of prior authorization, questions about medical necessity, or administrative errors. Regardless of the reason for denial, children's health needs must be addressed promptly, and case managers must be prepared to advocate effectively for necessary services while following appropriate appeal processes.
-
-The T3C model emphasizes that services should be individualized to meet each child's specific needs, and this sometimes requires persistence and creativity in working with managed care systems to ensure that children receive appropriate care that supports their safety, permanency, and well-being goals.
-
-| Who | How | When | Where | Regulatory Reference |
-| :---- | :---- | :---- | :---- | :---- |
-| Case Manager | 1\. If service denied by STAR Health: \- Immediately notify Program Director/LCPAA \- Within 3 business days, email scanned denial letter to DFPS/SSCC caseworker and Regional Well-being Specialist \- Assist medical consenter with filing appeal if appropriate \- Document denial, notification, and appeal process in Radius 2\. Continue to advocate for necessary services | **Within 3 business days of denial** | Service denial management | RCC Contract Term 7; Advocacy requirements |
-| Case Manager | 1\. When services are denied but deemed necessary: \- Work with DFPS/SSCC to identify alternative funding sources \- Consider community-based resources for similar services \- For T3C Package-integral services, explore agency resources with Program Director \- Document all efforts to secure necessary services 2\. Ensure child's immediate needs are met while appeals process | **Immediately upon denial of necessary services** | Alternative service arrangements | T3C Blueprint p.47-55; Service assurance |
-| Case Manager | 1\. When needed providers not available in STAR Health network: \- Request out-of-network authorization \- Document efforts to find in-network providers \- Work with Service Coordinator (if assigned) to resolve access issues \- Elevate to DFPS Regional Well-being Specialist if unresolved 2\. Document all network access issues and resolution efforts | **Within 5 days of identifying network access issues** | Provider network problem resolution | TAC §749.1417; Provider access |
-| Program Director | 1\. Provide supervision and support for complex denial situations 2\. Escalate persistent access problems to appropriate DFPS personnel 3\. Coordinate with Refuge House clinical staff for alternative interventions 4\. Document supervisory actions and outcomes | **As needed for complex situations** | Administrative oversight of access barriers | RCC Contract Term 7; Administrative responsibility |
-
-### 10\. T3C DOCUMENTATION AND COMPLIANCE MONITORING
+### 8. DOCUMENTATION AND T3C COMPLIANCE
 
 #### Purpose and Overview
 
-T3C documentation and compliance monitoring ensures that all STAR Health coordination activities are properly documented to demonstrate compliance with T3C service package requirements and to support continuous quality improvement efforts. The policy establishes that "All services will be documented and tracked to ensure continuity of care and compliance with regulatory requirements," and STAR Health coordination is a critical component of this documentation.
-
-The T3C model emphasizes outcome-focused service delivery and requires specific documentation that demonstrates how services support the Evidence-informed Treatment Model and contribute to positive outcomes for children. This documentation serves multiple purposes including regulatory compliance, quality assurance, outcome measurement, and continuous improvement of service coordination practices.
+Comprehensive documentation of STAR Health coordination activities ensures compliance with T3C requirements and supports quality care delivery. This documentation serves multiple purposes including regulatory compliance, quality assurance, outcome measurement, and continuous improvement of service coordination practices.
 
 Effective documentation also supports transparency and accountability in service delivery, enabling supervisors, auditors, and oversight bodies to verify that children are receiving appropriate services and that coordination efforts are effective in supporting their needs and goals.
 
 | Who | How | When | Where | Regulatory Reference |
 | :---- | :---- | :---- | :---- | :---- |
-| Case Manager | 1\. Document all STAR Health coordination activities in Radius including: \- Service referrals and authorizations \- Communication with STAR Health providers \- Service Coordination contacts and outcomes \- Resolution of service issues and barriers 2\. Maintain chronological record of all coordination efforts | **Ongoing with each coordination activity** | Radius STAR Health documentation | T3C Blueprint p.47-55; Documentation requirements |
-| Case Manager | 1\. Complete STAR Health coordination section of T3C Service Package Implementation and Compliance Tool 2\. Document how STAR Health services support Evidence-informed Treatment Model 3\. Include STAR Health coordination in Service Plan development and reviews 4\. Document outcome measures related to health services 5\. Update documentation as services change or evolve | **Initial completion within 30 days; ongoing updates** | T3C Implementation Tool (FC-T3C-01) | T3C Blueprint p.47-55; Package compliance |
-| Case Manager | 1\. Integrate STAR Health services information in child's Service Plan: \- Document all current STAR Health services \- Incorporate recommendations from STAR Health providers \- Include health goals and expected outcomes \- Address how health needs relate to T3C Package goals 2\. Update Service Plans as health services change | **Service Plan development and all reviews** | Service Plan STAR Health integration | TAC §749.1301; Service planning |
-| Program Director | 1\. Implement regular review processes for STAR Health coordination: \- Monthly review of coordination documentation \- Quarterly audit of coordination activities \- Assessment of service barriers and resolution effectiveness \- Documentation of T3C Package-specific compliance 2\. Provide feedback and training to improve coordination | **Monthly and quarterly reviews** | Quality assurance monitoring | T3C Blueprint p.47-55; Quality improvement |
+| Case Manager | 1. Document all STAR Health coordination activities in Radius including: - Service referrals and authorizations - Communication with STAR Health providers - Service Coordination contacts and outcomes - Resolution of service issues and barriers 2. Maintain chronological record of all coordination efforts | **Ongoing with each coordination activity** | Radius STAR Health documentation | T3C Blueprint p.47-55; Documentation requirements |
+| Case Manager | 1. Complete STAR Health coordination section of T3C Service Package Implementation and Compliance Tool 2. Document how STAR Health services support Evidence-informed Treatment Model 3. Include STAR Health coordination in Service Plan development and reviews 4. Document outcome measures related to health services 5. Update documentation as services change or evolve | **Initial completion within 30 days; ongoing updates** | T3C Implementation Tool (FC-T3C-01) | T3C Blueprint p.47-55; Package compliance |
+| Case Manager | 1. Integrate STAR Health services information in child's Service Plan: - Document all current STAR Health services - Incorporate recommendations from STAR Health providers - Include health goals and expected outcomes - Address how health needs relate to T3C Package goals 2. Update Service Plans as health services change | **Service Plan development and all reviews** | Service Plan STAR Health integration | TAC §749.1301; Service planning |
+| Program Director | 1. Implement regular review processes for STAR Health coordination: - Monthly review of coordination documentation - Quarterly audit of coordination activities - Assessment of service barriers and resolution effectiveness - Documentation of T3C Package-specific compliance 2. Provide feedback and training to improve coordination | **Monthly and quarterly reviews** | Quality assurance monitoring | T3C Blueprint p.47-55; Quality improvement |
 
-### 11\. FOSTER PARENT AND CAREGIVER TRAINING
+---
+
+### 9. MANAGING SERVICE DENIALS, ACCESS BARRIERS, AND COST COVERAGE
+
+#### Purpose and Overview
+
+Managing service denials and access barriers ensures that children receive necessary health services even when initial requests are denied or when barriers to access exist within the STAR Health system. This section also establishes Refuge House's commitment to ensure service delivery and cover costs when STAR Health and community resources are unavailable.
+
+The T3C model emphasizes that services should be individualized to meet each child's specific needs, and this sometimes requires persistence and creativity in working with managed care systems to ensure that children receive appropriate care that supports their safety, permanency, and well-being goals.
+
+**T3C Blueprint References:**
+- Substance Use: Page 62 (October 2025)
+- Treatment Foster Family Care: Page 140 (April 2025)
+- Short-Term Assessment: Pages 70-71 (April 2025)
+- Mental & Behavioral Health: Page 80 (April 2025)
+- IDD/Autism: Page 128 (April 2025)
+
+#### 9.1 Service Documentation Requirements
+
+**T3C Blueprint Requirement:** In collaboration with the Medical Consenter, Refuge House must document all services the child, youth, or young adult is receiving.
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Document all services child is currently receiving through: - STAR Health - HHSC Behavioral Health - Early Childhood Intervention (if applicable) - Education system - Any other county, community, or state agency 2. Maintain current service inventory in case record 3. Update service documentation at each Service Plan review | Ongoing; updated at each Service Plan review | Case record; Service Plan documentation | T3C Blueprint (all packages) |
+
+#### 9.2 Service Request and Denial Documentation
+
+**T3C Blueprint Requirement:** Requests for specific services determined necessary as a part of the Service Plan or Service Plan review, and for which the child is referred and the service is not readily available and/or the child is ineligible, must be documented in the case record.
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Document all service requests with the following elements: - **Date** the service request, application, or referral was made - **Specific type** of service being requested - **Status** of the service request - **Reason** provided for any denial (if applicable) - **Status of appeals** (if applicable) 2. Maintain service request log with all elements 3. Update status as changes occur | Within 24 hours of request submission; updated as status changes | Service request tracking log; case notes | T3C Blueprint (all packages) |
+
+#### 9.3 SSCC/DFPS Notification of Access Challenges
+
+**T3C Blueprint Requirement:** CPA shall notify SSCC or DFPS caseworker of any challenges encountered with access to services and/or service referral denials within 3 business days.
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. If service denied by STAR Health or access challenge identified: - Immediately notify Program Director/LCPAA - **Within 3 business days**, email scanned denial letter to DFPS/SSCC caseworker and Regional Well-being Specialist - Document notification in case notes 2. Continue to advocate for necessary services | **Within 3 business days of denial or access challenge** | Email to SSCC/DFPS; case notes | T3C Blueprint (all packages); RCC Contract Term 7 |
+| Case Manager | 1. Notification must include: - Child identifying information - Service requested - Denial reason or access barrier - Actions being taken to resolve - Request for any available support from DFPS/SSCC | With notification | Notification documentation | T3C Blueprint |
+
+#### 9.4 Community Resource Pursuit
+
+**T3C Blueprint Requirement:** CPA shall seek community resources to obtain any needed services that are not covered through STAR Health.
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. When services denied or not covered by STAR Health: - Identify potential community resources for similar services - Contact community providers to assess availability - Document outreach efforts and outcomes - Coordinate community services if available 2. Resources to explore include: - Community mental health centers - Nonprofit service providers - University-based clinics - Faith-based organizations - Other state/county programs | Immediately upon denial of necessary services | Community resource documentation; case notes | T3C Blueprint (all packages) |
+
+#### 9.5 Cost Coverage Commitment
+
+**T3C Blueprint Requirement:** If community resources are not available and/or STAR Health does not cover the needed service(s) consistent with the specific Service Package, and as outlined in the CPA's Service Plan or Service Plan review, the Child Placing Agency must ensure delivery of, and cover the cost of the needed service(s) and related supports.
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. When services denied, community resources unavailable, AND service is necessary per Service Plan: - Document all denial and community resource pursuit efforts - Escalate to Program Director with request for agency-funded services - Prepare cost estimate for needed services | Immediately upon determination that STAR Health and community resources unavailable | Escalation documentation | T3C Blueprint (all packages) |
+| Program Director | 1. Review escalation request 2. Authorize agency-funded services if: - Service is documented as necessary in Service Plan - STAR Health has denied or does not cover service - Community resources are not available - Service is consistent with the child's T3C Service Package 3. Document authorization decision and rationale 4. Coordinate service delivery | Within 24-48 hours of escalation (urgent) or per clinical urgency | Program Director authorization; financial documentation | T3C Blueprint; RCC Contract Term 7 |
+| Case Manager | 1. Once agency-funded services authorized: - Coordinate service delivery with approved provider - Document services provided - Track service costs for reporting - Continue to monitor for STAR Health coverage options | Ongoing | Service coordination documentation | T3C Blueprint |
+
+#### 9.6 Appeal Process for Service Denials
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Upon service denial: - Review denial reason - Consult with Treatment Director on clinical necessity - Determine if appeal is appropriate - Assist medical consenter with filing appeal if appropriate 2. For expedited appeals (urgent/emergent): - File immediately - Request expedited review - Document urgency factors | Immediately upon denial; expedited appeals filed same day | STAR Health appeal system; case notes | STAR Health guidelines; RCC Contract |
+| Treatment Director | 1. Provide clinical support for appeals: - Prepare clinical necessity statement - Document treatment rationale - Request peer-to-peer review with STAR Health medical director if appropriate | Per appeal timeline | Clinical documentation | T3C Blueprint |
+
+#### 9.7 Alternative Service Arrangements
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. While appeals pending or when services unavailable: - Identify alternative services that may meet need - Modify Service Plan to address need through other means - Ensure child's immediate needs are met - Document impact on treatment goals 2. Consider: - Alternative STAR Health providers - Telehealth options - Modified service frequency - Related services that address same need | Immediately upon denial of necessary services | Alternative service documentation | T3C Blueprint |
+
+#### 9.8 Provider Network Access Issues
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. When needed providers not available in STAR Health network: - Request out-of-network authorization - Document efforts to find in-network providers - Work with Service Coordinator (if assigned) to resolve access issues - Elevate to DFPS Regional Well-being Specialist if unresolved 2. Document all network access issues and resolution efforts | Within 5 days of identifying network access issues | Provider network documentation | TAC §749.1417 |
+
+#### 9.9 Documentation and Compliance Tracking
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Case Manager | 1. Maintain comprehensive documentation of: - All services child is receiving (Section 9.1) - All service requests and denials (Section 9.2) - SSCC/DFPS notifications (Section 9.3) - Community resource pursuit (Section 9.4) - Agency cost coverage authorizations (Section 9.5) - Appeals and outcomes (Section 9.6) 2. Include service documentation summary in each Service Plan review | Ongoing; summarized at each Service Plan review | Service documentation log; Service Plan | T3C Blueprint (all packages) |
+| Program Director | 1. Monitor compliance with service documentation requirements 2. Review agency cost coverage authorizations monthly 3. Report cost coverage trends to Executive Director 4. Ensure adequate budget allocation for cost coverage commitments | Monthly | Administrative oversight documentation | T3C Blueprint; RCC Contract |
+
+#### 9.10 Package-Specific Considerations
+
+| Service Package | Cost Coverage Considerations | Blueprint Reference |
+|-----------------|------------------------------|---------------------|
+| **Substance Use** | Recovery-focused services; MAT support; substance use treatment | Page 62 |
+| **Treatment Foster Family Care** | Intensive therapy services; psychiatric services; behavioral support | Page 140 |
+| **Short-Term Assessment** | Assessment services; expedited evaluations | Pages 70-71 |
+| **Mental & Behavioral Health** | Therapy services; psychiatric services; behavioral health | Page 80 |
+| **IDD/Autism** | Developmental therapies; ABA; communication supports; medical equipment | Page 128 |
+
+---
+
+### 10. FOSTER PARENT AND CAREGIVER TRAINING
 
 #### Purpose and Overview
 
@@ -301,22 +382,32 @@ The trauma-informed approach recognizes that foster parents need support and tra
 
 | Who | How | When | Where | Regulatory Reference |
 | :---- | :---- | :---- | :---- | :---- |
-| Case Manager | 1\. Provide comprehensive STAR Health training including: \- Overview of STAR Health system and benefits \- How to access services and navigate provider networks \- Role of medical consenter vs. foster parent \- Medication management responsibilities \- When and how to request Service Coordination 2\. Document training provided | **Within 7 days of placement** | Foster parent STAR Health training | T3C Blueprint p.47-55; Caregiver support |
-| Case Manager | 1\. Provide trauma-informed training for health care support: \- Using TBRI principles during medical appointments \- Preparing children for health care visits \- Supporting children through medical procedures \- Recognizing and responding to health-related trauma triggers 2\. Include health care training in ongoing foster parent support | **Initial training within 7 days; ongoing support** | Trauma-informed health care training | TBRI implementation; Trauma-informed care |
-| Case Manager | 1\. Include STAR Health information in pre-service training for new foster parents 2\. Provide annual STAR Health updates to existing foster parents 3\. Create reference materials for foster parents including contact information and processes 4\. Document all STAR Health training provided to foster parents | **Pre-service and annually** | Systematic STAR Health training | TAC §749.1059; Training requirements |
-| Program Director | 1\. Ensure STAR Health training curriculum stays current with system changes 2\. Monitor effectiveness of foster parent training through feedback and outcomes 3\. Coordinate with STAR Health representatives for updated training materials 4\. Document training effectiveness and improvement needs | **Ongoing curriculum management** | Training program oversight | T3C Blueprint p.47-55; Training quality |
+| Case Manager | 1. Provide comprehensive STAR Health training including: - Overview of STAR Health system and benefits - How to access services and navigate provider networks - Role of medical consenter vs. foster parent - Medication management responsibilities - When and how to request Service Coordination 2. Document training provided | **Within 7 days of placement** | Foster parent STAR Health training | T3C Blueprint p.47-55; Caregiver support |
+| Case Manager | 1. Provide trauma-informed training for health care support: - Using TBRI principles during medical appointments - Preparing children for health care visits - Supporting children through medical procedures - Recognizing and responding to health-related trauma triggers 2. Include health care training in ongoing foster parent support | **Initial training within 7 days; ongoing support** | Trauma-informed health care training | TBRI implementation; Trauma-informed care |
+| Case Manager | 1. Include STAR Health information in pre-service training for new foster parents 2. Provide annual STAR Health updates to existing foster parents 3. Create reference materials for foster parents including contact information and processes 4. Document all STAR Health training provided to foster parents | **Pre-service and annually** | Systematic STAR Health training | TAC §749.1059; Training requirements |
+| Program Director | 1. Ensure STAR Health training curriculum stays current with system changes 2. Monitor effectiveness of foster parent training through feedback and outcomes 3. Coordinate with STAR Health representatives for updated training materials 4. Document training effectiveness and improvement needs | **Ongoing curriculum management** | Training program oversight | T3C Blueprint p.47-55; Training quality |
 
-## REGULATORY REFERENCES:
+---
 
-- T3C Blueprint Standards: Pages 47-55, T3C Basic Foster Family Home Support Services; Pages 99-110, Complex Medical Needs or Medically Fragile Support Services  
-- TAC §749.1401-1435 (Medical and Dental Care)  
-- TAC §749.1461-1463 (Nursing Services)  
-- RCC Contract Requirements: Contract Term 7  
+## REGULATORY REFERENCES
+
+- T3C Blueprint Standards: Pages 47-55, T3C Basic Foster Family Home Support Services; Pages 99-110, Complex Medical Needs or Medically Fragile Support Services; Pages 67-75, Short-Term Assessment Support Services; Pages 76-86, Mental & Behavioral Health Support Services; Pages 136-147, T3C Treatment Foster Family Care Support Services; Pages 119-133, IDD/Autism Spectrum Disorder Support Services
+- TAC §749.1401-1435 (Medical and Dental Care)
+- TAC §749.1461-1463 (Nursing Services)
+- TAC §749.1417 (Provider requirements)
+- TAC §749.1059 (Training requirements)
+- TAC §749.1301 (Service planning)
+- TAC §749.1819 (Psychotropic oversight)
+- RCC Contract Requirements: Contract Term 7
 - SSCC Contract Requirements: (if applicable)
+- DFPS Psychotropic Medication Guidelines
 
-## FORMS/ATTACHMENTS:
+---
 
-- DFPS Medical/Dental/Vision Appointment Form ([https://www.dfps.state.tx.us/Child\_Protection/Medical\_Services/documents/Medical\_Appointment\_Form.pdf](https://www.dfps.state.tx.us/Child_Protection/Medical_Services/documents/Medical_Appointment_Form.pdf))
+## FORMS/ATTACHMENTS
+
+**Standard STAR Health Forms:**
+- DFPS Medical/Dental/Vision Appointment Form ([https://www.dfps.state.tx.us/Child_Protection/Medical_Services/documents/Medical_Appointment_Form.pdf](https://www.dfps.state.tx.us/Child_Protection/Medical_Services/documents/Medical_Appointment_Form.pdf))
 - T3C Service Package Implementation and Compliance Tool (FC-T3C-01)
 - STAR Health Service Coordination information (available at [https://www.superiorhealthplan.com/members/medicaid/resources/service-coordination.html](https://www.superiorhealthplan.com/members/medicaid/resources/service-coordination.html) and in the STAR Health Member Handbook)
 - Texas Health Steps Periodicity Schedule ([https://www.hhs.texas.gov/providers/health-services-providers/texas-health-steps/forms-tools-resources/periodicity-schedule](https://www.hhs.texas.gov/providers/health-services-providers/texas-health-steps/forms-tools-resources/periodicity-schedule))
@@ -341,6 +432,52 @@ The trauma-informed approach recognizes that foster parents need support and tra
 - Re-Authorization Request Template (with Treatment Director statement)
 - Intensive Service Denial Appeal Template
 
+**Service Denial and Cost Coverage Forms:**
+- Service Request Tracking Log
+- SSCC/DFPS Notification Template
+- Community Resource Pursuit Documentation Form
+- Agency Cost Coverage Authorization Form
+- Appeal Documentation Checklist
+
 ---
 
-*This procedure document operationalizes the principles established in the corresponding policy by providing specific implementation details (who, when, where, and how). While policies require Board approval and remain relatively stable, procedures may be updated by the Executive Director to adapt to regulatory changes, technological advancements, or operational improvements without requiring Board approval, provided such changes maintain alignment with the policy's intent.*  
+## CROSS-REFERENCES
+
+This procedure is cross-referenced in:
+
+- **FC-SU-01** Substance Use Support Services Policy, Section 5.9
+- **FC-TFFC-01** Treatment Foster Family Care Support Services Policy, Section 5.6
+- **FC-STASS-01** Short-Term Assessment Support Services Policy, Section 5.6
+- **FC-MH-01** Mental & Behavioral Health Support Services Policy, Section 5.9
+- **FC-IDD-01** IDD/Autism Spectrum Disorder Support Services Policy, Section 5.9
+- **FC-T3C-01** T3C Basic Foster Family Home Support Services Policy, Section 4
+- **FC10-01** Physical and Mental Health Care Policy
+- **FC10-01.1** Physical and Mental Health Care Procedure
+
+---
+
+## REVISION HISTORY
+
+| Version | Date | Author | Changes |
+|---------|------|--------|---------|
+| 1.0 | 5/20/25 | Refuge House Leadership | Initial procedure |
+| 1.1 | 12/09/25 | Refuge House Leadership | Added Substance Use, Short-Term Assessment, and Treatment Foster Family Care STAR Health coordination sections |
+| 2.0 | January 2026 | Refuge House Leadership | Enhanced Section 9 with explicit service documentation requirements and cost coverage commitment language per T3C Blueprint requirements across all specialized Service Packages |
+
+---
+
+## IMPLEMENTATION NOTES
+
+1. **Training Requirement:** All Case Managers must be trained on updated service documentation and cost coverage procedures.
+
+2. **Documentation Tools:** Service request tracking log template should include all five required elements from Section 9.2.
+
+3. **Budget Allocation:** Program Directors should ensure adequate budget allocation exists to fulfill cost coverage commitments.
+
+4. **Reporting:** Monthly reporting on service denials, cost coverage authorizations, and resolution outcomes should be included in CQI review.
+
+5. **Consistency:** Language in this procedure should be applied consistently across all T3C Service Packages to ensure uniform compliance demonstration to DFPS reviewers.
+
+---
+
+*This procedure document operationalizes the principles established in the corresponding policy by providing specific implementation details (who, when, where, and how). While policies require Board approval and remain relatively stable, procedures may be updated by the Executive Director to adapt to regulatory changes, technological advancements, or operational improvements without requiring Board approval, provided such changes maintain alignment with the policy's intent.*
