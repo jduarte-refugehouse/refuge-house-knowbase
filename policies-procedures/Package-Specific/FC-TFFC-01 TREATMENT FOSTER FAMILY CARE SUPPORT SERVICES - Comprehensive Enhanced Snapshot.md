@@ -241,7 +241,6 @@ Child must receive **regular and frequent** therapeutic services:
 > | Crisis Component | Requirement | Reference |
 > |-----------------|-------------|-----------|
 > | On-Call Licensed Therapist | 24/7 availability; contact for ALL crises | T3C Blueprint p.138; FC-04.1 Section 6.2 |
-> | In-Person Response | When clinically indicated per Licensed Therapist | FC-04.1 Section 6.3 |
 > | Psychiatric Emergency | Specialized protocols for suicidal ideation, psychosis, severe dissociation | FC-04.1 Section 6.4 |
 > | 60-Day Review Integration | Crisis patterns documented and analyzed at each review | FC-04.1 Section 6.5 |
 
