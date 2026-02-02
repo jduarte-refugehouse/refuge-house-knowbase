@@ -272,17 +272,49 @@ Children over the age of 3, youth, and young adults must receive CANS 3.0 Assess
 - Case Manager ensures scheduling and follow-through
 
 **Integration with Intensive Services:**
-- Results directly inform Service Plan development and modifications
-- CANS 3.0 findings guide adjustments to therapy frequency and intensity
-- Progress across domains tracked to evaluate effectiveness of intensive intervention
-- Regression in domains triggers immediate clinical review and service adjustment
 
-**Documentation:**
-- CANS 3.0 results entered into designated system
-- Summary of findings in case record
-- Integration into 60-day Service Plan reviews documented
-- Comparison across assessments included in step-down evaluations
-- Copy provided to SSCC/DFPS caseworker
+Results of the most recent CANS 3.0 Assessment must be used to inform the customized Service Plan, including adjustments to the type of, frequency, and duration of intensive therapeutic services. Given the high-acuity nature of TFFC, CANS integration is critical for treatment effectiveness:
+
+**At Initial Service Plan Development (30 days):**
+- CANS 3.0 domains with actionable needs (ratings of 2-3) drive intensive goal development
+- Therapy type selection matches CANS-identified needs (individual, family, group, specialized modalities)
+- Therapy frequency determined by CANS severity and complexity (weekly minimum, may increase to multiple sessions weekly)
+- Crisis risk domains inform safety planning and on-call therapist protocols
+
+**At Each 60-Day Service Plan Review:**
+- Compare current CANS 3.0 to previous assessment(s) (baseline and 90-day if available)
+- Analyze CANS changes to evaluate intensive intervention effectiveness
+- Adjust therapy type based on domain-specific progress or challenges
+- Modify therapy frequency based on clinical response and CANS trajectory
+- Assess step-down readiness using CANS improvement across multiple domains
+
+**TFFC-Specific CANS-Driven Adjustments:**
+- **Increased therapy frequency:** When CANS shows minimal improvement or regression despite weekly therapy
+- **Addition of specialized modalities:** When CANS reveals specific needs (e.g., DBT for emotion regulation, trauma-focused for PTSD domains)
+- **Family therapy intensification:** When CANS indicates caregiver stress or family dysfunction hindering progress
+- **Step-down initiation:** When CANS demonstrates sustained improvement allowing transition to MH/BH package
+- **Continued TFFC justification:** CANS data supports continued need for intensive services in Continued Stay reviews
+
+**Step-Down Planning:**
+- CANS improvement across behavioral/emotional domains triggers step-down assessment
+- Target: Move from actionable (2-3) to watchful/strengths (0-1) in key domains
+- Sustained CANS improvement over two consecutive assessments indicates readiness
+- Step-down plan includes projected CANS targets for successful transition
+
+**Regression in domains triggers immediate clinical review and service adjustment:**
+- Emergency clinical staffing when CANS shows significant worsening
+- Immediate adjustment to therapy frequency or modality
+- Enhanced safety planning if risk domains deteriorate
+- Caregiver support intensification if placement stability threatened
+
+**Documentation Requirements:**
+- Service Plan explicitly documents CANS findings and their clinical implications
+- Therapy frequency justified with reference to specific CANS domains
+- Service adjustments directly linked to CANS domain changes with clinical rationale
+- Continued Stay reviews include CANS-based justification for TFFC-level intensity
+- Step-down planning references CANS targets and current progress
+
+**T3C Blueprint Reference:** TFFC Support Services p.139 (October 2025) - Results of the CANS 3.0 Assessment must be used to inform the customized Service Plan, including adjustments to the type of, frequency, and duration of services.
 
 **Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 1.7 (CANS 3.0 Implementation)
 

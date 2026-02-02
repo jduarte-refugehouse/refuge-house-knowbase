@@ -294,15 +294,36 @@ Children over the age of 3, youth, and young adults must receive CANS 3.0 Assess
 - Case Manager ensures scheduling and follow-through
 
 **Integration with Service Planning:**
-- Results directly inform Service Plan development and modifications
-- CANS 3.0 findings guide adjustments to service type, frequency, and duration
-- Progress tracked across multiple assessments throughout placement
 
-**Documentation:**
-- CANS 3.0 results entered into designated system
-- Summary of findings in case record
-- Integration into Service Plan documented
-- Copy provided to SSCC/DFPS caseworker
+Results of the most recent CANS 3.0 Assessment must be used to inform the customized Service Plan, including adjustments to the type of, frequency, and duration of services. This integration occurs at multiple points:
+
+**At Initial Service Plan Development (30 days):**
+- CANS 3.0 domains with high needs (ratings of 2-3) drive goal prioritization
+- Service type selection matches CANS-identified needs (individual vs. family therapy, specialized substance use treatment)
+- Service frequency determined by CANS severity ratings and needs
+- Strengths identified in CANS leveraged in treatment approach
+
+**At Each 90-Day Service Plan Review:**
+- Compare current CANS 3.0 to previous assessment(s)
+- Analyze changes in CANS domains to evaluate service effectiveness
+- Adjust service type based on changing needs (e.g., add family therapy if caregiver support domain declines)
+- Modify service frequency based on progress or regression in key domains
+- Adjust service duration/intensity based on overall CANS trajectory
+
+**Specific CANS-Driven Adjustments:**
+- **Increased therapy frequency:** When CANS shows worsening in behavioral/emotional domains
+- **Addition of family therapy:** When CANS indicates declining caregiver resources or family functioning
+- **Intensification of substance use treatment:** When CANS reveals increased substance use severity
+- **Step-down planning:** When CANS demonstrates sustained improvement across multiple domains
+- **Service array expansion:** When CANS identifies new needs in previously stable domains
+
+**Documentation Requirements:**
+- Service Plan explicitly references CANS 3.0 findings
+- Service adjustments directly linked to CANS domain changes
+- Rationale for service type, frequency, and duration documented with CANS support
+- Progress toward goals measured against CANS improvement
+
+**T3C Blueprint Reference:** Substance Use Support Services p.60 (October 2025) - Results of the CANS 3.0 Assessment must be used to inform the customized Service Plan, including adjustments to the type of, frequency, and duration of services.
 
 **Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 1.7 (CANS 3.0 Implementation)
 
