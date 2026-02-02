@@ -250,6 +250,28 @@ The Service Planning team incorporates input from the child/youth, Case Manager,
 
 **T3C Blueprint Reference:** Substance Use Support Services p.59 - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
 
+#### Service Plan Review - Progress Documentation
+
+Service Plan reviews must include documentation demonstrating the progress made toward achieving **each goal** identified in the Service Plan. Progress documentation is:
+
+- **Goal-specific** - addressing each stated goal individually, not general observations
+- **Measurable** - using objective indicators where possible (frequency, duration, intensity)
+- **Descriptive** - providing specific examples and observations that illustrate progress or challenges
+- **Action-oriented** - identifying next steps, adjustments, and continued supports needed
+
+For each goal in the Service Plan, the review documents:
+- Current status of goal achievement (no progress, minimal progress, moderate progress, significant progress, goal achieved)
+- Specific examples demonstrating current functioning related to the goal
+- Effective interventions and supports that have promoted progress
+- Barriers to progress and challenges encountered
+- Adjustments needed to services, supports, or the goal itself
+
+**Review Frequency:** Service Plan reviews occur every 90 days minimum for Substance Use Support Services, conducted in conjunction with Continued Stay Review.
+
+**T3C Blueprint Reference:** Substance Use Support Services p.59 - Service Plan reviews must include documentation to show the progress made toward achieving each goal.
+
+**Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 3 (Service Plan Reviews)
+
 ### 5.5 24/7 Crisis Availability
 
 **Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 4** which includes:
