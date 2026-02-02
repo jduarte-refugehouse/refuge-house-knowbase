@@ -15,12 +15,12 @@
 | **POLICY NUMBER** | FC-SU-01 |
 | **DOCUMENT TYPE** | Comprehensive Enhanced Snapshot |
 | **ORIGINATED** | December 2025 |
-| **REVISION DATE** | January 2026 |
+| **REVISION DATE** | February 2026 |
 | **APPROVED BY** | Board of Directors |
 | **APPROVED ON** | [Date] |
 | **EFFECTIVE DATE** | [Date] |
 | **SECTION** | FC-SU |
-| **DATE(S) OF REVISION** | January 2026 - Added Section 5.9 Service Documentation and Cost Coverage |
+| **DATE(S) OF REVISION** | January 2026 - Added Section 5.9 Service Documentation and Cost Coverage<br>February 2026 - Full reconciliation with umbrella policy; Added Sections 3.3-3.7, expanded Sections 14-15, updated training tables |
 
 | APPLICABLE T3C PACKAGES: | APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
@@ -163,60 +163,186 @@ Children, youth, and young adults who:
 
 ## 3. ADMISSION CRITERIA AND GUIDELINES
 
-### 3.1 Admission Screening
+### 3.1 Eligibility Criteria
+
+**T3C Blueprint Reference:** Substance Use Support Services p.60 (October 2025)
+
+Children, youth, and young adults are appropriate for Substance Use Support Services when they meet the following criteria:
+
+**Primary Admission Requirement - Substance Use Disorder or Significant Substance Use Concerns:**
+- Current or recent substance use that impacts functioning
+- May or may not have formal DSM-5 Substance-Related and Addictive Disorder diagnosis
+- Substance use interferes with daily activities, relationships, or permanency planning
+- Risk factors present that could lead to substance use disorder if unaddressed
+
+**Substance Use May Include:**
+- Alcohol
+- Marijuana/cannabis
+- Prescription medications (misuse)
+- Illicit drugs (methamphetamine, cocaine, opioids, etc.)
+- Inhalants
+- Synthetic substances
+- Polysubstance use
+
+**CANS 3.0 Assessment Alignment:**
+
+Once CANS 3.0 is administered, placement type and Service Package should align with the child's needs and strengths as demonstrated through the assessment results.
+
+**CANS Indicators Supporting Substance Use Placement:**
+- Substance Use domain scored 2 (actionable) or 3 (dangerous/disabling)
+- Multiple behavioral/emotional domains rated 2-3 that relate to substance use
+- Risk Behaviors domain showing substance-related concerns
+- Family/Caregiver domains showing substance use in home environment
+
+**Professional Judgment Consideration:**
+
+Admission may also be based on the knowledge and professional judgment of the child's Service Planning team, which includes:
+- The child, youth, or young adult (when age-appropriate)
+- Biological parents or family members
+- CPS or SSCC caseworker
+- Attorney ad-litem, guardian ad-litem, and/or CASA volunteer
+- STAR Health Service Coordinator
+- Relatives and subsequent caregivers
+- Other stakeholders as appropriate
+
+### 3.2 Admission Screening
 
 > **📋 DERIVED FROM: FC1-01.1 Admission Screening Procedure**
 >
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
-> | Intake Specialist | 1. Receive referral from SSCC/DFPS<br>2. Log referral in case management system<br>3. Review available documentation<br>4. Identify substance use history<br>5. Forward to Treatment Director for clinical review | Within 2 hours of referral | TAC §749.1251 |
+> | Intake Specialist | 1. Receive referral information<br>2. Screen for substance use indicators<br>3. Gather substance use history<br>4. Forward to Treatment Director | Within 2 hours of referral | FC1-01.1 |
+> | Treatment Director | 1. Review substance use history and current status<br>2. Assess appropriateness for Substance Use package<br>3. Identify any higher level of care needs<br>4. Approve or redirect placement | Within 4 hours of screening | T3C Blueprint p.60 (October 2025) |
+> | Case Manager | 1. Complete initial substance use screening tool<br>2. Document substances used, frequency, duration, last use<br>3. Identify immediate safety concerns | Within 24 hours of placement | FC2-01.1 |
 
-### 3.2 Clinical Screening
+#### Documentation Requirements
 
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Treatment Director | 1. Review substance use documentation<br>2. Assess treatment needs<br>3. Determine clinical appropriateness<br>4. Approve for placement or recommend alternative | Within 4 hours of screening | T3C Blueprint |
+**At Admission, Case Manager documents:**
+- Specific substance(s) used
+- Frequency and duration of use
+- Date of last use
+- Route of administration
+- History of overdose or medical complications
+- Previous substance use treatment
+- Current withdrawal risk
+- Motivation for treatment/recovery stage
 
-### 3.3 Placement Matching
+### 3.3 Exclusion Criteria
+
+Children are **NOT appropriate** for Substance Use Support Services when:
+
+**Higher Level of Care Needed:**
+- Active withdrawal requiring medical detoxification
+- Severe substance use disorder requiring residential treatment
+- Co-occurring psychiatric condition requiring psychiatric hospitalization
+- Immediate safety risk to self or others due to substance-related impairment
+
+**Redirect to:**
+- Medical facility for detoxification
+- Psychiatric hospital for stabilization
+- Residential substance use treatment facility
+- TFFC if meeting intensive treatment criteria
+
+**Lower Level Appropriate:**
+- Substance experimentation without pattern of use
+- No current use and strong recovery supports already in place
+- Basic Foster Home with therapy adequate to address needs
+
+### 3.4 Pre-Placement Visit Requirements
+
+> **📋 DERIVED FROM: FC1-01.1 Admission Screening Procedure; TAC §749.1111**
+>
+> When applicable and appropriate, a pre-placement visit must be conducted and successful before admission to Substance Use Support Services.
+>
+> **Visit Components:**
+> - Youth meets foster family
+> - Home environment reviewed for substance-free status
+> - Foster parent understanding of recovery support needs confirmed
+> - Youth expresses comfort with placement (if developmentally appropriate)
+> - Any substance use triggers in home environment addressed
+>
+> **Documentation:**
+> - Pre-placement visit checklist completed
+> - Youth feedback documented
+> - Foster parent agreement to support recovery documented
+> - Any concerns identified and resolved
+
+### 3.5 Dual Credentialing Requirement
+
+**Foster Family Home Requirements:**
+
+Foster home must hold credential for:
+- T3C Basic Foster Family Home Support Services (foundation)
+- AND have capacity to support substance use recovery
+
+**Caregiver Capabilities:**
+- Understanding of adolescent substance use disorders
+- Commitment to substance-free home environment
+- Ability to support recovery without punitive approach
+- Willingness to participate in family therapy as needed
+- Capability to monitor without enabling
+
+### 3.6 Capacity and Limitations
+
+**Maximum Capacity:**
+- No specific capacity limitation beyond TAC §749 requirements
+- Foster home capacity determined by home's credential
+
+**Age Appropriateness:**
+- Typically serves youth ages 12-21
+- Younger children may be served if substance exposure/use documented
+- Young adults in Extended Foster Care eligible if substance use needs present
+
+### 3.7 Coordination with SSCC/DFPS
 
 > **📋 DERIVED FROM: FC6-01 Admission Matching & Criteria Policy**
 >
-> **Substance Use Placement Matching:**
+> **Placement Approval Process:**
 >
-> | Who | How | When | Regulatory Reference |
-> | :---- | :---- | :---- | :---- |
-> | Intake Specialist | 1. Identify Substance Use credentialed homes<br>2. Verify foster family completed substance abuse training (4 hours)<br>3. Confirm substance-free environment maintained<br>4. Match based on youth needs and home capabilities | Within 4 hours of approval | T3C Blueprint; FC6-01 |
-
-### 3.4 Capacity
-
-Foster homes providing Substance Use Support Services may have up to 4 children in foster care unless necessary for sibling group placement.
+> | Who | Action | Timeline |
+> |-----|--------|----------|
+> | SSCC/DFPS Caseworker | Determines Service Package need based on assessment and case planning | Before placement |
+> | Treatment Director | Reviews and confirms appropriateness | Within 4 hours of referral |
+> | Case Manager | Coordinates admission logistics | Upon approval |
+>
+> **Application for Placement Review:**
+>
+> If SSCC/DFPS refers placement that may not meet Substance Use criteria, Treatment Director reviews and may:
+> - Accept placement if criteria met
+> - Recommend alternative Service Package
+> - Request additional clinical information
+> - Decline if criteria not met and document rationale
 
 ---
 
 ## 4. LENGTH OF SERVICE PARAMETERS
 
-### 4.1 Length of Service
+### 4.1 Service Duration
 
-Length of service is individualized based on:
+There is no predetermined length of service for Substance Use Support Services. Duration is based on:
+- Individual recovery progress
+- Treatment plan goals
+- CANS 3.0 assessment results
+- Clinical judgment of treatment team
 
-- Severity of substance use disorder
-- Progress in recovery
-- Stability of recovery supports
-- Treatment recommendations
-- Family/permanency readiness
+### 4.2 Continued Stay Reviews
 
-### 4.2 Anticipated Length of Service
+> **📋 DERIVED FROM: FC-CSR-01.1 Continued Stay Review Procedure**
+>
+> Continued Stay Reviews occur every **90 days** to assess:
+> - Continued need for specialized substance use services
+> - Recovery progress and treatment engagement
+> - Appropriateness of current placement level
+> - Step-down readiness
 
-Refuge House policy includes anticipated Length of Service for children served under this package, recognizing that recovery timelines vary significantly based on individual circumstances.
+### 4.3 Step-Down Criteria
 
-### 4.3 Service Plan Reviews
-
-Service Plans are reviewed every 90 days (aligned with Mental & Behavioral Health pattern) to assess:
-
-- Recovery progress
-- Treatment effectiveness
-- Step-down readiness
-- Continued service need
+Step-down to T3C Basic Foster Family Home may be appropriate when:
+- Sustained recovery progress demonstrated
+- Reduced need for specialized substance use monitoring
+- Youth demonstrates coping skills for recovery maintenance
+- Treatment team consensus on reduced support needs
+- CANS 3.0 scores support lower level of care
 
 ---
 
@@ -238,7 +364,7 @@ Service Plans are reviewed every 90 days (aligned with Mental & Behavioral Healt
 > | :---- | :---- | :---- | :---- |
 > | Case Manager | 1. Request authorization through STAR Health<br>2. Coordinate with qualified substance use assessor<br>3. Ensure assessment includes treatment level recommendation<br>4. Integrate results into Service Plan | Within 30 days of admission | T3C Blueprint; FC-STAR-01.1 |
 
-### 5.2 Therapeutic Services
+### 5.2 Therapeutic Services Requirements
 
 **Package-Specific Requirement:** Weekly therapy minimum for children receiving this package.
 
@@ -252,6 +378,25 @@ Services include:
 
 **Provider Qualifications:** Treatment provided by providers qualified in adolescent substance use treatment, coordinated through STAR Health.
 
+**Therapy Types Documentation:**
+
+Service Plan must document each type of therapy being provided:
+1. Each type of therapy being provided
+2. Frequency and duration of each therapy type
+3. Clinical rationale for each therapy selection
+4. Provider qualifications for each therapy type
+5. How therapy types address CANS-identified needs
+6. Coordination plan among multiple therapists if applicable
+
+**At Each 90-Day Service Plan Review:**
+
+Service Plan review must document:
+1. Effectiveness of current therapy types
+2. Any changes to therapy types with justification
+3. Reasons for adding or discontinuing therapy types
+4. Progress specific to each therapy modality
+5. Ongoing clinical rationale for therapy configuration
+
 ### 5.3 Drug Screening
 
 Drug screening is conducted **as clinically indicated** based on treatment team judgment:
@@ -261,16 +406,70 @@ Drug screening is conducted **as clinically indicated** based on treatment team 
 - Documented and shared with treatment team
 - Response to positive screens follows non-punitive protocol (Section 14)
 
-### 5.4 Service Planning Requirements
+### 5.4 Youth-Informed Service Planning
 
-| Requirement | Substance Use Package | Standard Reference |
-|-------------|----------------------|-------------------|
-| Service Plan Reviews | **Every 90 days** | Per FC3-01.1 |
-| CANS 3.0 | Every 90 days | Per FC3-01.1 |
-| Recovery Planning | Required component | Package-specific |
-| Drug Screening Protocol | Required component | Package-specific |
+> **📋 DERIVED FROM: FC3-01.1 Individual Service Planning Procedure**
+>
+> **Service Plan Requirements:**
+>
+> Service Plans must be:
+> - Informed by the child (if appropriate), youth, or young adult
+> - Developed in collaboration with the Service Planning team
+> - Include customized goals
+> - Include planned service(s) and support(s) to achieve goals
+>
+> **Service Plan Review Progress Documentation:**
+>
+> Service Plan Reviews must include documentation showing progress made toward achieving each goal.
+>
+> **CANS 3.0 Assessment Requirements:**
+>
+> For children over age 3:
+> - CANS 3.0 administered every **90 days**
+> - Results used to inform Service Plan
+> - Adjustments to type, frequency, and duration of services based on CANS results
+>
+> **CANS 3.0 Integration with Service Planning:**
+>
+> CANS results directly inform:
+> - Service Plan goal development
+> - Therapy type and frequency recommendations
+> - Continued Stay determinations
+> - Step-down readiness assessments
 
-### 5.5 24/7 Crisis Availability
+### 5.5 Continued Stay Review Requirements
+
+> **📋 DERIVED FROM: FC-CSR-01.1 Continued Stay Review Procedure**
+>
+> **90-Day Continued Stay Review Process:**
+>
+> At each 90-day Service Plan review, Case Manager in consultation with Treatment Director must:
+>
+> 1. **Evaluate Continued Need:** Document whether child continues to meet admission criteria or has developed other service needs aligned with this package
+>
+> 2. **Assess Recovery Progress:** Review treatment engagement, recovery milestones, and substance use treatment effectiveness
+>
+> 3. **Confirm Service Appropriateness:** Verify services continue to support safety, well-being, and permanency goals
+>
+> 4. **Consider Less Restrictive Options:** Document whether step-down to Basic Foster Home is appropriate
+>
+> 5. **CANS-Based Justification:** Use most recent CANS 3.0 assessment to support continued placement
+>
+> **Written Confirmation:**
+>
+> Written confirmation of Continued Stay evaluation must be documented in case record and copy provided to SSCC/DFPS within **15 business days** of review.
+>
+> **Step-Down Process:**
+>
+> When step-down is appropriate:
+> 1. Treatment Director recommends step-down with clinical justification
+> 2. Service Planning Team reviews and confirms appropriateness
+> 3. Transition plan developed (typically to Mental & Behavioral Health package or Basic)
+> 4. 30-day transition period with continued substance use support oversight
+> 5. Written notification to SSCC/DFPS of planned transition
+> 6. Warm handoff to receiving Case Manager with comprehensive recovery summary
+
+### 5.6 24/7 Crisis Availability
 
 > **📋 DERIVED FROM: FC-04 Crisis Management Policy; FC-04.1 Crisis Management Procedure Section 4**
 >
@@ -285,7 +484,7 @@ Drug screening is conducted **as clinically indicated** based on treatment team 
 >
 > **Key Principle:** All substance-related crises are addressed as clinical events requiring treatment adjustment, NOT behavioral infractions warranting punitive response.
 
-### 5.6 Human Trafficking Prevention
+### 5.7 Human Trafficking Prevention
 
 > **📋 DERIVED FROM: FC-HT-01 Human Trafficking Prevention Policy**
 >
@@ -296,7 +495,7 @@ Drug screening is conducted **as clinically indicated** based on treatment team 
 > - Staff training on substance use/trafficking connections
 > - Immediate response protocol if trafficking suspected
 
-### 5.7 Foster Home Environment
+### 5.8 Foster Home Environment
 
 Foster home must maintain substance-free environment with:
 
@@ -305,7 +504,7 @@ Foster home must maintain substance-free environment with:
 - No tobacco/nicotine products accessible to youth
 - Environment supportive of recovery
 
-### 5.8 Family Engagement
+### 5.9 Family Engagement
 
 > **📋 DERIVED FROM: FC7-01 Family Connections and Engagement Policy**
 >
@@ -316,7 +515,7 @@ Foster home must maintain substance-free environment with:
 > - Family therapy as clinically indicated
 > - Support for family members affected by youth's substance use
 
-### 5.9 Service Documentation and Cost Coverage
+### 5.10 Service Documentation and Cost Coverage
 
 **T3C Blueprint Reference:** Page 62 (October 2025)
 
@@ -347,6 +546,17 @@ Refuge House shall seek community resources to obtain any needed services that a
 **If community resources are not available and/or STAR Health does not cover the needed service(s) consistent with this Service Package, and as outlined in the Service Plan or Service Plan review, Refuge House will ensure delivery of, and cover the cost of the needed service(s) and related supports.**
 
 **Cross-Reference:** FC-STAR-01.1 STAR Health Coordination Procedure Section 9 (Managing Service Denials and Access Barriers)
+
+### 5.11 Educational Coordination
+
+> **📋 DERIVED FROM: FC-T3C-01 T3C Basic Foster Family Home Support Services Policy**
+>
+> Educational coordination includes:
+> - Expedited school enrollment
+> - Educational testing coordination as needed
+> - IEP/504 plan support and advocacy
+> - Educational accommodations monitoring
+> - School liaison communication
 
 ---
 
@@ -578,39 +788,74 @@ Comprehensive assessment should address:
 
 ## 14. DRUG SCREENING PROCEDURES
 
-### 14.1 Drug Screening Protocol
+### 14.1 Clinical Purpose
+
+> **📋 DERIVED FROM: FC-SU-01 Umbrella Policy Section 14**
+>
+> Drug screening is conducted **as clinically indicated** and serves as a **clinical tool**, NOT a punitive measure.
+>
+> **Purpose of Screening:**
+> - Monitor treatment effectiveness
+> - Inform clinical decision-making
+> - Identify need for treatment adjustments
+> - Support youth in recovery accountability
+>
+> **CRITICAL:** Results are NEVER used for:
+> - Punishment or consequences
+> - Placement disruption decisions (unless safety-related)
+> - Negative documentation without clinical context
+
+### 14.2 Screening Protocol
 
 | Who | How | When | Regulatory Reference |
 | :---- | :---- | :---- | :---- |
-| Case Manager | 1. Conduct drug screening as clinically indicated<br>2. Ensure chain of custody procedures followed<br>3. Document results in case record<br>4. Share results with treatment team<br>5. Use results to inform treatment adjustments (NOT punishment) | As clinically indicated | T3C Blueprint |
+| Case Manager / Foster Parent | 1. Conduct screening per treatment team guidance<br>2. Document results<br>3. Report to treatment team<br>4. Implement clinical response | As clinically indicated | T3C Blueprint; FC-SU-01 |
+| Treatment Director | 1. Review screening results<br>2. Determine treatment adjustments<br>3. Guide clinical response<br>4. Document in case record | Upon receipt of results | T3C Blueprint |
 
-### 14.2 Response to Positive Screens
+### 14.3 Response to Positive Screens
 
-**CRITICAL:** Positive drug screens are treated as clinical information, NOT behavioral infractions.
+**Non-Punitive Clinical Response Protocol:**
 
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Case Manager | 1. Notify Treatment Director<br>2. Convene treatment team meeting<br>3. Assess for withdrawal risk<br>4. Adjust treatment plan as needed<br>5. Document using non-punitive framework | Within 24 hours of results | T3C Blueprint; FC-04.1 |
+1. **Immediate Safety Assessment:** Ensure youth is safe and not in medical distress
+2. **Clinical Notification:** Notify Treatment Director within 2 hours
+3. **Treatment Team Consultation:** Convene treatment team to assess
+4. **Treatment Adjustment:** Modify Service Plan as clinically indicated
+5. **Supportive Response:** Engage youth in recovery-supportive conversation
+6. **Documentation:** Record as clinical event with treatment response
+
+**PROHIBITED RESPONSES:**
+- Grounding or loss of privileges as punishment for positive screen
+- Threats regarding placement
+- Shame-based interventions
+- Reporting to DFPS as behavioral incident (unless safety concern)
 
 ---
 
 ## 15. RELAPSE RESPONSE PROCEDURES
 
-> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure, Section 4**
+> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure Section 4**
 >
-> **Non-Punitive Relapse Response:**
+> ### 15.1 Relapse Philosophy
+>
+> **CRITICAL PRINCIPLE:** Relapse is addressed as an opportunity for treatment adjustment, NOT as failure or behavioral infraction.
+>
+> ### 15.2 Non-Emergency Relapse Response
 >
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
-> | Case Manager | 1. Assess immediate safety<br>2. Contact Treatment Director<br>3. Coordinate medical evaluation if needed<br>4. Adjust treatment plan<br>5. Provide supportive response to youth<br>6. Document using non-punitive framework<br>7. Update Service Plan within 3 business days | Immediately upon awareness | FC-04.1 Section 4; T3C Blueprint |
-
-### 15.1 Overdose Response
-
-**CRITICAL:** For suspected overdose, call 911 immediately.
-
-| Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Any Staff/Foster Parent | 1. Call 911 immediately<br>2. Administer Narcan if available and trained<br>3. Begin CPR if needed<br>4. Contact Treatment Director<br>5. Document incident | Immediately | FC-04.1 Section 4 |
+> | Foster Parent | 1. Ensure youth safety<br>2. Provide supportive, non-judgmental response<br>3. Notify Case Manager<br>4. Document observations | Immediately upon awareness | FC-04.1 Section 4.4 |
+> | Case Manager | 1. Assess situation<br>2. Notify Treatment Director<br>3. Convene treatment team<br>4. Adjust Service Plan as needed | Within 2 hours | FC-04.1 Section 4.4 |
+> | Treatment Director | 1. Review clinical situation<br>2. Recommend treatment adjustments<br>3. Determine if higher level of care needed<br>4. Guide clinical response | Within 4 hours | T3C Blueprint |
+>
+> ### 15.3 Emergency Relapse Situations
+>
+> For overdose, severe intoxication, or withdrawal emergencies, follow FC-04.1 Section 4.2 (Substance-Related Medical Emergencies):
+>
+> | Crisis Type | Immediate Response |
+> |-------------|-------------------|
+> | **Overdose** | Call 911; Administer Narcan if trained; Recovery position; Do not leave youth alone |
+> | **Severe Withdrawal** | Call 911; Monitor for seizures; Treat as medical emergency |
+> | **Severe Intoxication** | Safety monitoring; Medical assessment; Recovery position if unconscious |
 
 ---
 
@@ -666,12 +911,12 @@ Comprehensive assessment should address:
 
 > **📋 DERIVED FROM: FC-16 Staff and Caregiver Training Policy, Section 4.4**
 >
-> **Substance Use Training - Staff:**
+> **Substance Use Support Services Training - Staff:**
 >
 > | Training Component | Duration | Content | Completion |
 > |-------------------|----------|---------|------------|
-> | **Initial SU Training** | 4 hours | - Understanding substance use disorders in youth<br>- Recovery-supportive approach<br>- Non-punitive response philosophy<br>- Overdose recognition and response<br>- Withdrawal signs and response<br>- Relapse as treatment opportunity<br>- MAT basics<br>- Trauma and substance use connection | Before first SU assignment |
-> | **Annual Refresher** | 2 hours | - Updates on best practices<br>- Case review<br>- Protocol reinforcement | Annually |
+> | **Initial SU Training** | 4 hours | - Understanding substance use disorders in youth<br>- Non-punitive, recovery-supportive approach<br>- Drug screening as clinical tool<br>- Relapse response protocols<br>- Overdose recognition and Narcan administration<br>- STAR Health substance use treatment coordination<br>- MAT support basics<br>- Trauma-substance use connections | Before first SU assignment |
+> | **Annual Refresher** | 2 hours | - Updates on best practices<br>- Case review and discussion<br>- Reinforcement of non-punitive approach | Annually |
 >
 > **Staff Who Must Complete Training:**
 >
@@ -686,14 +931,14 @@ Comprehensive assessment should address:
 
 > **📋 DERIVED FROM: FC-16 Staff and Caregiver Training Policy, Section 4.4**
 >
-> **Substance Use Training - Foster Parents:**
+> **Substance Use Support Services Training - Foster Parents:**
 >
-> | Training Component | Duration | Content | Completion |
-> |-------------------|----------|---------|------------|
-> | **Initial SU Training** | 4 hours | - Understanding substance use disorders<br>- Creating recovery-supportive home environment<br>- Non-punitive response to relapse<br>- Recognizing signs of use/intoxication/withdrawal<br>- Emergency response (overdose)<br>- Securing medications and substances<br>- Supporting MAT if applicable<br>- Working with treatment team | Before first SU placement |
+> | Training Component | Hours | Content | Timing |
+> |-------------------|-------|---------|--------|
+> | **Initial Training** | 4 hours | - Understanding substance use disorders<br>- Creating recovery-supportive home environment<br>- Non-punitive response to relapse<br>- Recognizing signs of use/intoxication/withdrawal<br>- Emergency response (overdose)<br>- Securing medications and substances<br>- Supporting MAT if applicable<br>- Working with treatment team | Before first SU placement |
 > | **Annual Refresher** | 2 hours | - Updates and reinforcement<br>- Case discussion | Annually |
 
-### 19.3 Training Documentation
+### 19.3 Training Tracking
 
 | Who | How | When | Regulatory Reference |
 | :---- | :---- | :---- | :---- |
@@ -786,9 +1031,11 @@ The treatment model integrates recovery principles:
 
 ## 23. REGULATORY REFERENCES
 
-- **T3C Blueprint Standards:** Substance Use Support Services requirements (October 2025)
+- **T3C Blueprint Standards:** Pages 58-66, Substance Use Support Services (October 2025)
 - **TAC Chapter 749:** Minimum Standards for Child Placing Agencies
-- **TAC §749.1301:** Service Plan Requirements
+- **TAC §749.1251:** Screening requirements
+- **TAC §749.1301:** Service Plan requirements
+- **TAC §749.1111:** Pre-placement visits
 - **TAC §749.1361:** Discharge Planning
 - **RCC Contract Requirements:** Contract Terms 7, 8, 10
 - **STAR Health Guidelines:** Substance use treatment authorization
@@ -889,6 +1136,7 @@ The treatment model integrates recovery principles:
 |---------|------|--------|---------|
 | 1.0 | December 2025 | Refuge House Leadership | Initial comprehensive enhanced snapshot |
 | 1.1 | January 2026 | Refuge House Leadership | Added Section 5.9 Service Documentation and Cost Coverage per T3C Blueprint p.62 requirements |
+| 1.2 | February 2026 | Refuge House Leadership | Full reconciliation with umbrella policy; Added Sections 3.3-3.7 (Exclusion Criteria, Pre-Placement Visit, Dual Credentialing, Capacity, SSCC/DFPS Coordination); Expanded Sections 14-15 (Drug Screening and Relapse Response); Updated training tables; Added Section 5.11 Educational Coordination; Updated regulatory references to October 2025 Blueprint pages 58-66 |
 
 ---
 
