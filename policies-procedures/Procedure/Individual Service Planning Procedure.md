@@ -95,7 +95,30 @@ The service planning process must balance regulatory compliance with meaningful,
 | Case Manager | 5\. Obtain all required signatures | **Within 30 days of placement** | Signature page/DocuSign | **TAC §749.1317** |
 | Case Manager | 6\. Distribute to all authorized parties | Within 2 days of signatures | Secure distribution | TAC §749.1317 |
 
-#### 2.4 Enhanced Continued Stay Requirements for Specialized Packages
+#### 2.4 Youth Participation in Service Planning
+
+**T3C Blueprint Reference:** All T3C Service Packages require youth-informed service planning (SU p.59, STASS p.70, TFFC p.138)
+
+##### Purpose and Overview
+
+Service Plans must be informed by the child, youth, or young adult (when age-appropriate) and include customized goals developed through meaningful youth participation. This requirement ensures youth voice drives service planning rather than being an afterthought.
+
+| Who | How | When | Where | Regulatory Reference |
+|-----|-----|------|-------|---------------------|
+| Case Manager | 1. Meet with youth individually before Service Planning meeting<br>2. Use age-appropriate methods to gather input:<br>   - Verbal discussion for older youth<br>   - Visual aids and simplified language for younger children<br>   - Written surveys or preference assessments<br>   - Drawing/creative expression for younger children<br>3. Document youth's goals, preferences, and priorities in their own words<br>4. Prepare youth for participation in planning meeting<br>5. Review previous Service Plan goals with youth | 5-7 days before Service Plan meeting | Individual meeting with youth | T3C Blueprint p.59, 70, 138 |
+| Treatment Director | 1. Review youth's stated goals and preferences<br>2. Ensure clinical recommendations align with youth voice<br>3. Identify ways to incorporate youth priorities into treatment planning<br>4. Reconcile clinical needs with youth-identified goals | Before Service Planning meeting | Clinical review | T3C Blueprint p.59, 70, 138 |
+| Service Planning Team | 1. Include youth in Service Planning meeting (age-appropriate)<br>2. Present goals in youth's own words during meeting<br>3. Ask youth to explain their priorities to the team<br>4. Develop customized services/supports to achieve youth's goals<br>5. Ensure youth understands how services connect to their goals<br>6. Document youth participation and agreement (or concerns)<br>7. Ensure cultural considerations reflected in goals and services | At Service Planning meeting | Service Planning meeting | T3C Blueprint p.59, 70, 138 |
+| Case Manager | Document in Service Plan:<br>1. Youth's stated goals (in their words when possible)<br>2. Level of youth participation<br>3. How services align with youth-identified needs<br>4. Cultural considerations incorporated<br>5. Any concerns youth expressed<br>6. Youth's understanding of the plan | During/after Service Planning meeting | Service Plan in Radius | T3C Blueprint p.59, 70, 138 |
+
+**Package-Specific Considerations:**
+
+*Short-Term Assessment:* Youth goals focus on supporting assessment process and preparing for transition to receiving Service Package.
+
+*Substance Use:* Youth goals include recovery objectives and relapse prevention strategies developed with youth input.
+
+*TFFC:* Youth goals address intensive mental health needs while honoring youth's perspective on their challenges and desired outcomes.
+
+#### 2.5 Enhanced Continued Stay Requirements for Specialized Packages
 
 ##### Purpose and Overview
 
@@ -142,13 +165,13 @@ The Mental & Behavioral Health and IDD/Autism packages require enhanced document
 | **Medical/Nursing** | \- Complex medical conditions requiring RN oversight \- Multiple daily medications requiring administration \- Specialized medical equipment \- Frequent medical crises | \- Medical conditions stable \- Simplified medication regimen \- Standard medical needs \- Rare medical incidents |
 | **Behavioral Support** | \- Severe self-injurious behaviors \- Aggressive behaviors requiring specialized intervention \- Property destruction patterns \- Elopement risk requiring environmental modifications | \- Behaviors manageable with standard approaches \- Minimal behavioral incidents \- No specialized interventions needed \- Safe in standard environment |
 
-#### 2.5 Substance Use Support Services - Service Plan Requirements
+#### 2.6 Substance Use Support Services - Service Plan Requirements
 
 ##### Purpose and Overview
 
 Substance Use Support Services follows the Mental & Behavioral Health pattern (90-day reviews) with recovery-focused enhancements. Detailed procedures are in **FC-SU-01 §13-14**.
 
-##### 2.5.1 Service Plan Development
+##### 2.6.1 Service Plan Development
 
 **Per Sections 2.1-2.3** with the following package-specific additions:
 
@@ -158,7 +181,7 @@ Substance Use Support Services follows the Mental & Behavioral Health pattern (9
 | Weekly therapy | Document with clinical justification | FC-SU-01 §5.2 |
 | Drug screening protocol | Include if clinically indicated | FC-SU-01 §14 |
 
-##### 2.5.2 90-Day Service Plan Reviews
+##### 2.6.2 90-Day Service Plan Reviews
 
 **Per Section 4.2** (same as Mental & Behavioral Health):
 
@@ -170,13 +193,13 @@ Substance Use Support Services follows the Mental & Behavioral Health pattern (9
 
 **Cross-Reference:** Drug screening response and relapse procedures per **FC-SU-01 §14**.
 
-#### 2.6 Short-Term Assessment - Service Plan Requirements
+#### 2.7 Short-Term Assessment - Service Plan Requirements
 
 ##### Purpose and Overview
 
 Short-Term Assessment has a fundamentally different Service Plan purpose: assessment coordination for Service Package determination. **NO Continued Stay Review.** Detailed procedures in **FC-STASS-01 §13**.
 
-##### 2.6.1 Service Plan Development
+##### 2.7.1 Service Plan Development
 
 **Per Sections 2.1-2.3** with assessment focus:
 
@@ -186,7 +209,7 @@ Short-Term Assessment has a fundamentally different Service Plan purpose: assess
 | CANS 3.0 | Document completion timeline | 21 days (≤5) / 30 days (6+) | T3C Blueprint p.69 |
 | Service Package recommendation | Document as primary goal | Before discharge | T3C Blueprint p.70-71 |
 
-##### 2.6.2 30-Day Service Plan Reviews
+##### 2.7.2 30-Day Service Plan Reviews
 
 **Package-Specific Modification:** Reviews every 30 days (vs. 6 months for Basic)
 
@@ -196,17 +219,17 @@ Short-Term Assessment has a fundamentally different Service Plan purpose: assess
 
 **NOTE:** Continued Stay Review is **NOT APPLICABLE** for this package.
 
-##### 2.6.3 Discharge Planning
+##### 2.7.3 Discharge Planning
 
 **Per FC-STASS-01 §14**: Case Manager prepares Transition Summary with Service Package recommendation. **Aftercare NOT required.**
 
-#### 2.7 T3C Treatment Foster Family Care - Service Plan Requirements
+#### 2.8 T3C Treatment Foster Family Care - Service Plan Requirements
 
 ##### Purpose and Overview
 
 Treatment Foster Family Care has accelerated 60-day reviews with dual signature requirement. Step-down planning from Day 1. Detailed procedures in **FC-TFFC-01 §12-15**.
 
-##### 2.7.1 Service Plan Development
+##### 2.8.1 Service Plan Development
 
 **Per Sections 2.1-2.3** with the following enhancements:
 
@@ -217,7 +240,7 @@ Treatment Foster Family Care has accelerated 60-day reviews with dual signature 
 | 365-day tracking | Document placement start date and track days | Ongoing | T3C Blueprint p.142 |
 | Treatment Director approval | **Required written approval** | Within 5 days of draft | Texas Family Code §264.1073 |
 
-##### 2.7.2 60-Day Service Plan Reviews
+##### 2.8.2 60-Day Service Plan Reviews
 
 **Package-Specific Modification:** Reviews every 60 days (vs. 90 days for MH)
 
@@ -226,7 +249,7 @@ Treatment Foster Family Care has accelerated 60-day reviews with dual signature 
 | Case Manager | Prepare review per FC-TFFC-01 §13.1 | 7 days before review | T3C Blueprint p.145 |
 | Service Planning Team | Review treatment progress, update Service Plan, assess step-down readiness | **Every 60 days** | T3C Blueprint p.145 |
 
-##### 2.7.3 Dual Confirmation Process
+##### 2.8.3 Dual Confirmation Process
 
 **CRITICAL:** Both signatures required per T3C Blueprint p.145
 
@@ -238,11 +261,11 @@ Treatment Foster Family Care has accelerated 60-day reviews with dual signature 
 
 **Form:** Enhanced Continued Stay Confirmation Form - Treatment Foster Care Version (dual signature)
 
-##### 2.7.4 Aftercare Planning
+##### 2.8.4 Aftercare Planning
 
 **Per FC-TFFC-01 §16:** 6-month aftercare REQUIRED (Month 1 weekly, Months 2-6 twice monthly).
 
-#### 2.8 Compliance Monitoring for Enhanced Packages
+#### 2.9 Compliance Monitoring for Enhanced Packages
 
 | Who | How | When | Where | Regulatory Reference |
 | :---- | :---- | :---- | :---- | :---- |
@@ -295,11 +318,11 @@ Regular service plan reviews ensure services remain relevant and effective while
 | Package | Review Cycle | Continued Stay | Special Requirements |
 |---------|-------------|----------------|---------------------|
 | T3C Basic | 6 months | N/A | Standard per Section 4.1 |
-| Mental & Behavioral Health | 90 days | 90 days | Per Section 2.4 |
-| IDD/Autism | 90 days | 90 days | Per Section 2.4 |
-| **Substance Use** | **90 days** | **90 days** | **Per Section 2.5; FC-SU-01** |
-| **Short-Term Assessment** | **30 days** | **N/A** | **Per Section 2.6; FC-STASS-01** |
-| **Treatment Foster Family Care** | **60 days** | **60 days (dual signature)** | **Per Section 2.7; FC-TFFC-01** |
+| Mental & Behavioral Health | 90 days | 90 days | Per Section 2.5 |
+| IDD/Autism | 90 days | 90 days | Per Section 2.5 |
+| **Substance Use** | **90 days** | **90 days** | **Per Section 2.6; FC-SU-01** |
+| **Short-Term Assessment** | **30 days** | **N/A** | **Per Section 2.7; FC-STASS-01** |
+| **Treatment Foster Family Care** | **60 days** | **60 days (dual signature)** | **Per Section 2.8; FC-TFFC-01** |
 
 ### 5\. MONITORING AND QUALITY ASSURANCE
 
