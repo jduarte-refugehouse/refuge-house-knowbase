@@ -202,20 +202,128 @@ Anticipated length of service varies based on:
 
 **Comprehensive Assessment:** Coordinated through STAR Health within 30 days of admission per **FC-STAR-01.1** to determine appropriate level of substance use treatment.
 
-### 5.2 Therapeutic Services
+### 5.2 Therapeutic Services Requirements
+
+**T3C Blueprint Reference:** Substance Use Support Services p.60 (October 2025)
+
+Children must receive therapeutic services addressing both substance use disorders and co-occurring mental health needs. For children ages 6 and older, the Service Plan must document the types of therapy services being provided.
 
 **Package-Specific Requirement:** **Weekly therapy minimum** for children receiving this package.
 
 **Cross-Reference:** Therapy coordination per **FC-STAR-01.1 STAR Health Coordination Procedure** with substance use provider integration.
 
-Services include:
-- Individual therapy (weekly minimum)
-- Substance use treatment per clinical recommendation
-- Group therapy as clinically indicated
-- Family therapy as clinically indicated
-- Medication-assisted treatment (MAT) coordination if applicable
-
 **Provider Qualifications:** Treatment provided by providers qualified in adolescent substance use treatment.
+
+#### Required Service Plan Documentation for Children Ages 6+
+
+The Service Plan must explicitly identify and justify each type of therapy being provided:
+
+**Therapy Type Documentation:**
+- **Individual Therapy:** Specific modality (CBT, DBT, motivational interviewing, trauma-focused, etc.)
+- **Family Therapy:** Focus and participants (biological family, foster family, or both)
+- **Group Therapy:** Type of group (recovery support, skills building, peer support, etc.)
+- **Specialized Substance Use Treatment:** Evidence-based approach being used
+
+**Required Elements for Each Therapy Type:**
+
+| Documentation Component | Description | Example |
+|------------------------|-------------|---------|
+| Therapy Type/Modality | Specific therapeutic approach | "Cognitive Behavioral Therapy (CBT) for substance use" |
+| Frequency | Sessions per week/month | "Weekly individual CBT sessions" |
+| Provider Qualification | Credentials of therapist | "Licensed Professional Counselor (LPC) with substance use specialization" |
+| Clinical Justification | Why this type is needed | "CBT addresses thought patterns contributing to substance use per CANS assessment" |
+| Target Goals | What this therapy addresses | "Develop coping skills to replace substance use; identify triggers" |
+| CANS Connection | Link to CANS domains | "Addresses Behavioral/Emotional Needs domain (rating 2)" |
+
+#### Evidence-Based Therapy Types for Substance Use
+
+**Individual Therapy Modalities:**
+- **Cognitive Behavioral Therapy (CBT):** Addresses thought patterns and behaviors contributing to substance use
+- **Dialectical Behavior Therapy (DBT):** For emotion regulation and distress tolerance
+- **Motivational Interviewing (MI):** Enhances motivation for behavior change
+- **Trauma-Focused Cognitive Behavioral Therapy (TF-CBT):** When trauma underlies substance use
+- **Contingency Management:** Reinforcement-based approach for abstinence
+
+**Family Therapy Approaches:**
+- **Multidimensional Family Therapy (MDFT):** Evidence-based for adolescent substance use
+- **Brief Strategic Family Therapy (BSFT):** Addresses family dynamics contributing to use
+- **Family Behavior Therapy (FBT):** Skills-based approach involving family members
+- **Trauma Systems Therapy (TST):** When family trauma relates to youth substance use
+
+**Group Therapy Types:**
+- **Recovery Support Groups:** Peer-led recovery maintenance
+- **Skills-Building Groups:** Developing coping and life skills
+- **Process Groups:** Exploring underlying issues with peers
+- **12-Step Facilitation:** Introduction to recovery programs
+- **Relapse Prevention Groups:** Identifying and managing triggers
+
+**Specialized Substance Use Treatment:**
+- **Medication-Assisted Treatment (MAT):** When clinically indicated (coordinated with psychiatrist)
+- **Intensive Outpatient Program (IOP):** Multiple sessions weekly for higher acuity
+- **Dual Diagnosis Treatment:** Integrated approach for co-occurring disorders
+
+#### Service Plan Integration
+
+**At Initial Service Plan (30 days):**
+
+Service Plan must document:
+1. Each type of therapy being provided
+2. Frequency and duration of each therapy type
+3. Clinical rationale for each therapy selection
+4. Provider qualifications for each therapy type
+5. How therapy types address CANS-identified needs
+6. Coordination plan among multiple therapists if applicable
+
+**At Each 90-Day Service Plan Review:**
+
+Service Plan review must document:
+1. Effectiveness of current therapy types
+2. Any changes to therapy types with justification
+3. Reasons for adding or discontinuing therapy types
+4. Progress specific to each therapy modality
+5. Continued appropriateness of therapy array
+
+#### Therapy Coordination Requirements
+
+When youth receives multiple therapy types, Service Plan documents:
+- **Primary therapist:** Who coordinates overall treatment
+- **Communication plan:** How therapists share information
+- **Treatment alignment:** How modalities complement each other
+- **Conflict resolution:** Process when approaches may conflict
+- **Youth understanding:** How youth comprehends role of each therapy
+
+#### Age-Specific Considerations
+
+**Children Ages 5 and Under:**
+- Therapy type documentation not explicitly required by Blueprint
+- However, best practice dictates documenting play therapy, parent-child interaction therapy, or other age-appropriate modalities
+- Service Plan should note age-appropriate therapeutic interventions
+
+**Children Ages 6 and Older:**
+- **REQUIRED:** Explicit documentation of therapy types
+- Modalities must be developmentally appropriate (e.g., play therapy components for younger children, more cognitive approaches for adolescents)
+- Service Plan must justify why specific types fit developmental stage
+
+**Transition Age Youth (14-22):**
+- Consider therapy types that build autonomy and life skills
+- Include recovery support and relapse prevention
+- Document how therapy supports transition planning
+
+#### Quality Assurance for Therapy Type Documentation
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Treatment Director | Review all Substance Use Service Plans for children 6+ to verify therapy types documented | Within 48 hours of plan completion | T3C Blueprint p.60 (October 2025) |
+| QA Coordinator | Audit sample of Service Plans monthly:<br>- Therapy types explicitly identified<br>- Justification for each type<br>- Developmental appropriateness<br>- CANS alignment | Monthly | TAC §749.131 |
+| Program Director | Analyze aggregate data on therapy types utilized | Quarterly | T3C Blueprint (October 2025) |
+
+**Compliance Standards:**
+- 100% of Service Plans for children 6+ document therapy types
+- 100% of therapy types have clinical justification
+- 90% of therapy type selections show clear CANS alignment
+- 100% of multiple therapy situations have coordination plan
+
+**Cross-Reference:** FC3-01.1 Individual Service Planning Procedure for Service Plan development requirements
 
 ### 5.3 Drug Screening
 
