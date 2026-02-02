@@ -435,7 +435,124 @@ Results of the most recent CANS 3.0 Assessment must be used to inform the custom
 
 **Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 1.7 (CANS 3.0 Implementation)
 
-### 5.5 24/7 Crisis Availability
+### 5.5 Service Plan Reviews and Continued Stay Requirements
+
+**T3C Blueprint Reference:** Substance Use Support Services p.60 (October 2025)
+
+Service Plan reviews must occur at minimum every 90 days and include written confirmation of the child's continued need for Substance Use Support Services.
+
+#### 90-Day Service Plan Review Cycle
+
+**Regulatory Requirement:** Unlike Basic Foster Family Home (6-month reviews), Substance Use Support Services requires more frequent monitoring through 90-day Service Plan reviews that coincide with Continued Stay evaluations.
+
+**Review Components:**
+
+| Component | Description | Documentation Location |
+|-----------|-------------|------------------------|
+| Progress Toward Goals | Documentation of progress on each Service Plan goal per Element 2 | Service Plan Review section |
+| CANS 3.0 Integration | Analysis of CANS changes since last assessment per Element 4 | Service Plan Review section |
+| Youth Voice | Documentation of youth participation per Element 1 | Service Plan Review section |
+| Therapy Effectiveness | Evaluation of therapy types and adjustments per Element 5 | Service Plan Review section |
+| **Continued Stay Evaluation** | **Written confirmation of continued need for Substance Use services** | **T3C Supplement Form** |
+
+#### Continued Stay Guidelines
+
+Continued Stay Reviews evaluate whether the child continues to meet criteria for Substance Use Support Services and whether services remain appropriate to support recovery and permanency goals.
+
+**Evaluation Criteria:**
+
+1. **Primary Admission Reason:**
+   - Does the child continue to require substance use intervention services?
+   - Has the substance use disorder been addressed to the point where step-down is appropriate?
+   - Are there new or ongoing substance use concerns requiring continued specialized support?
+
+2. **CANS 3.0 Alignment:**
+   - How have substance use-related CANS domains changed since admission/last review?
+   - Do current CANS results support continued need for specialized substance use services?
+   - Are CANS improvements sufficient to warrant transition to lower service level?
+
+3. **Service Effectiveness:**
+   - Are current services supporting recovery progress toward permanency goals?
+   - Have services been adjusted based on youth response and CANS data?
+   - Is the service array appropriate for current recovery stage?
+
+4. **Recovery Stability:**
+   - What is the youth's current recovery status (active recovery, relapse, etc.)?
+   - Are protective factors strengthening (family support, prosocial peers, coping skills)?
+   - What risk factors remain that require ongoing specialized services?
+
+**Decision Framework:**
+
+| Recovery Status | CANS Trajectory | Continued Stay Decision |
+|----------------|-----------------|------------------------|
+| Sustained recovery progress | Multiple domains improving | Consider step-down to MH/BH or Basic |
+| Early recovery with stability | Some improvement, needs remain | Continue Substance Use services |
+| Active use or recent relapse | Stable or worsening domains | Continue Substance Use services; intensify |
+| Minimal engagement | No improvement or worsening | Clinical staffing; consider higher level of care |
+
+#### Written Confirmation Process
+
+**T3C Blueprint Requirement:** Child Placing Agency must provide **written confirmation** to SSCC/DFPS within **15 business days** of the 90-day Service Plan review.
+
+**Process:**
+
+| Who | How | When | Where | Regulatory Reference |
+|-----|-----|------|-------|---------------------|
+| Treatment Director | 1. Complete Continued Stay Evaluation section on T3C Supplement Form<br>2. Document clinical justification for continued need<br>3. Reference specific CANS domains and recovery status<br>4. Provide step-down timeline if transitioning | At 90-day Service Plan review | T3C Supplement Form (FC3-03) | T3C Blueprint p.60 (October 2025) |
+| Program Director | 1. Review Treatment Director's evaluation<br>2. Approve continued stay decision<br>3. Sign written confirmation | Within 48 hours of review | T3C Supplement Form (FC3-03) | T3C Blueprint p.60 (October 2025) |
+| Case Manager | 1. Submit written confirmation to SSCC/DFPS<br>2. Include updated Service Plan<br>3. Document submission in case record | **Within 15 business days of review** | IMPACT system / secure email | **CRITICAL DEADLINE** |
+
+**Written Confirmation Contents:**
+
+The written confirmation must include:
+1. Child's current recovery status and progress summary
+2. CANS 3.0 comparison showing changes in substance use-related domains
+3. Service effectiveness analysis
+4. Clinical justification for continued Substance Use Support Services
+5. Treatment Director and Program Director signatures
+6. Projected timeline for step-down (if applicable) or continued service duration
+7. Service adjustments planned for next review period
+
+#### Step-Down Planning
+
+When Continued Stay Review indicates readiness for step-down:
+
+**Criteria for Step-Down:**
+- Sustained recovery (typically 90+ days of abstinence)
+- CANS substance use domains improved from 2-3 to 0-1
+- Strong recovery supports in place
+- Youth demonstrates effective coping skills
+- Permanency plan supports lower service level
+
+**Step-Down Process:**
+1. Treatment Director recommends step-down with clinical justification
+2. Service Planning Team reviews and confirms appropriateness
+3. Transition plan developed (typically to Mental & Behavioral Health package)
+4. 30-day transition period with continued substance use support oversight
+5. Written notification to SSCC/DFPS of planned transition
+6. Warm handoff to receiving Case Manager with comprehensive recovery summary
+
+#### Documentation Standards
+
+**Service Plan Review Must Include:**
+- Explicit Continued Stay evaluation section
+- Clinical narrative supporting continued need
+- CANS-based justification
+- Recovery progress summary
+- Service effectiveness analysis
+- Step-down considerations addressed
+
+**Quality Assurance Targets:**
+- 100% of 90-day reviews include Continued Stay evaluation
+- 100% of written confirmations submitted within 15 business days
+- 100% of Continued Stay decisions include CANS-based justification
+- 90% of reviews demonstrate service adjustments based on progress
+
+**Cross-Reference:**
+- FC3-01.1 Individual Service Planning Procedure Section 4.2 (90-Day Reviews for Specialized Packages)
+- FC3-03 Service Plan T3C Supplement Form
+
+### 5.6 24/7 Crisis Availability
 
 **Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 4** which includes:
 
@@ -450,19 +567,19 @@ Results of the most recent CANS 3.0 Assessment must be used to inform the custom
 
 **Staff Training:** Per **FC-16 Staff and Caregiver Training Policy Section 4.4**, all staff serving Substance Use population must complete 4-hour Substance Use Support Services training including crisis response components.
 
-### 5.6 Human Trafficking Prevention
+### 5.7 Human Trafficking Prevention
 
 **Cross-Reference:** Per **FC-HT-01 Human Trafficking Prevention Policy**. Note: Youth with substance use disorders may have elevated trafficking risk; enhanced screening and prevention required.
 
-### 5.7 Documentation and STAR Health Coordination
+### 5.8 Documentation and STAR Health Coordination
 
 **Cross-Reference:** Per **FC-STAR-01.1 STAR Health Coordination Procedure** with integration of substance use treatment providers.
 
-### 5.8 Family Engagement
+### 5.9 Family Engagement
 
 **Cross-Reference:** Per **FC7-01 Family Connections and Engagement Policy** with family education on supporting recovery.
 
-### 5.9 Foster Home Environment
+### 5.10 Foster Home Environment
 
 Foster home must maintain substance-free environment with:
 - Medications and potentially abusable substances secured

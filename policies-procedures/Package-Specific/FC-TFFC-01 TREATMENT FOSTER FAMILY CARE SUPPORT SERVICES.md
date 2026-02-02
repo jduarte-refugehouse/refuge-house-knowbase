@@ -318,7 +318,184 @@ Results of the most recent CANS 3.0 Assessment must be used to inform the custom
 
 **Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 1.7 (CANS 3.0 Implementation)
 
-### 5.3 24/7 Crisis Availability with On-Call Licensed Therapist
+### 5.3 Service Plan Reviews and Continued Stay Requirements
+
+**T3C Blueprint Reference:** TFFC Support Services p.139 (October 2025)
+
+TFFC requires the most rigorous review process of any T3C Service Package, with Service Plan reviews every 60 days and enhanced Continued Stay evaluation requiring **dual clinical signatures**.
+
+#### 60-Day Service Plan Review Cycle
+
+**Accelerated Timeline:** TFFC reviews occur every 60 days (compared to 90 days for other specialized packages) due to intensive intervention and time-limited treatment model.
+
+**Review Components:**
+
+| Component | Description | TFFC-Specific Requirements |
+|-----------|-------------|----------------------------|
+| Progress Toward Goals | Intensive therapeutic goals progress | Must show measurable clinical progress |
+| CANS 3.0 Integration | Compare to baseline and previous assessments | Critical for step-down evaluation |
+| Therapy Effectiveness | Multiple weekly sessions evaluated | Justify continued intensive frequency |
+| Crisis Events | Any safety incidents or hospitalizations | Document response and service adjustments |
+| **Continued Stay Evaluation** | **Dual signature requirement** | **Treatment Director AND Program Director** |
+
+#### Enhanced Continued Stay Guidelines for TFFC
+
+TFFC Continued Stay Reviews require heightened clinical scrutiny due to intensive service level and higher daily rate.
+
+**Evaluation Criteria:**
+
+1. **Initial Admission Criteria Still Met:**
+   - Does child continue to present with DSM-5 emotional/conduct/behavioral disorder?
+   - Are any of the high-acuity factors still present:
+     * Major self-injurious actions or ongoing suicide risk?
+     * Significant risk of harm to others with frequent/unpredictable aggression?
+     * Severe substance use disorder with significant impairment?
+
+2. **Continued Need for Intensive Services:**
+   - Have lower service levels been attempted and proven insufficient?
+   - Does CANS 3.0 show domains at rating 2-3 requiring intensive intervention?
+   - Would step-down to Mental & Behavioral Health result in placement disruption or safety concerns?
+
+3. **CANS 3.0 Trajectory Analysis:**
+   - Are CANS domains improving with intensive services?
+   - If no improvement, what service adjustments are planned?
+   - If improving, when is step-down appropriate?
+   - What CANS thresholds indicate readiness for transition?
+
+4. **Treatment Progress:**
+   - Is youth responding to intensive therapeutic interventions?
+   - Are therapy sessions productive and showing benefit?
+   - Is family/caregiver engagement supporting treatment?
+   - What measurable improvements justify continued intensive services?
+
+5. **Time-Limited Nature:**
+   - TFFC is designed as time-limited, concentrated intervention
+   - What is projected timeline for step-down?
+   - If exceeding typical duration (6-12 months), what is justification?
+   - Is treatment plan moving toward lower service level?
+
+**Decision Framework:**
+
+| CANS Trajectory | Treatment Response | Safety Status | Continued Stay Decision |
+|----------------|-------------------|---------------|------------------------|
+| Improving across multiple domains | Good engagement, measurable progress | Stable, no recent crises | Begin step-down planning; target 30-60 days |
+| Some improvement, high-need domains remain | Moderate engagement, uneven progress | Generally stable with occasional incidents | Continue TFFC; intensive monitoring |
+| Minimal/no improvement | Poor engagement or limited progress | Ongoing safety concerns | Continue TFFC; consider service adjustments |
+| Worsening domains | Deterioration despite services | Frequent crises/hospitalizations | Clinical staffing; consider higher level of care |
+
+#### Dual Signature Requirement
+
+**CRITICAL TFFC-SPECIFIC REQUIREMENT:** Continued Stay decisions for TFFC require signatures from BOTH Treatment Director AND Program Director.
+
+**Rationale for Dual Review:**
+- Highest service intensity requires enhanced oversight
+- Clinical and operational leadership both accountable
+- Ensures thorough evaluation from multiple perspectives
+- Prevents unnecessary prolonged TFFC placement
+- Promotes timely step-down when appropriate
+
+**Process:**
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Treatment Director | 1. Complete comprehensive Continued Stay Evaluation<br>2. Document clinical justification with CANS support<br>3. Provide step-down timeline projection<br>4. **SIGN Continued Stay confirmation** | At 60-day Service Plan review | T3C Blueprint p.139 (October 2025) |
+| Program Director | 1. Review Treatment Director's evaluation<br>2. Verify appropriateness of continued TFFC-level services<br>3. Confirm step-down planning is appropriate<br>4. **SIGN Continued Stay confirmation** | Within 48 hours of Treatment Director review | T3C Blueprint p.139 (October 2025) |
+| Case Manager | 1. Submit dual-signed written confirmation to SSCC/DFPS<br>2. Include updated Service Plan and CANS comparison<br>3. Document submission | **Within 15 business days of review** | **CRITICAL DEADLINE** |
+
+#### Written Confirmation Process
+
+**T3C Blueprint Requirement:** Written confirmation to SSCC/DFPS within **15 business days** of 60-day review with **dual clinical leadership signatures**.
+
+**Written Confirmation Contents:**
+
+Must include:
+1. **Clinical Summary:**
+   - Current mental health/behavioral status
+   - DSM-5 diagnosis and current symptom severity
+   - Recent crisis events or hospitalizations (if any)
+
+2. **CANS 3.0 Analysis:**
+   - Comparison table: baseline → previous → current
+   - Identification of improving, stable, and worsening domains
+   - Justification for continued intensive services based on CANS data
+
+3. **Treatment Effectiveness:**
+   - Therapy attendance and engagement
+   - Documented interventions and youth response
+   - Measurable improvements or challenges
+   - Service adjustments made based on progress
+
+4. **Continued Need Justification:**
+   - Why TFFC-level intensity still required
+   - What would happen if stepped down to MH/BH
+   - Projected timeline for achieving step-down readiness
+   - Specific CANS targets for step-down consideration
+
+5. **Dual Signatures:**
+   - Treatment Director signature with credentials and date
+   - Program Director signature with credentials and date
+
+6. **Step-Down Planning:**
+   - If ready within 30-60 days: Specific transition plan
+   - If not ready: Clinical targets and timeline
+   - Projected duration of continued TFFC services
+
+#### Step-Down Planning from TFFC
+
+**Target Criteria for Step-Down:**
+- CANS domains reduced from 2-3 to 0-1 across critical areas
+- No major crisis events for 60+ days
+- Youth demonstrates improved coping and emotional regulation
+- Therapy can be reduced from multiple weekly to weekly sessions
+- Caregiver confident in managing with lower support level
+- Permanency plan supports transition
+
+**Step-Down Process:**
+
+1. **90 Days Before Projected Step-Down:**
+   - Service Planning Team discusses step-down readiness
+   - Begin gradual reduction of therapy frequency
+   - Identify community-based supports for transition
+   - Prepare foster parents for transition
+
+2. **60 Days Before:**
+   - Confirm step-down decision with SSCC/DFPS
+   - Coordinate with receiving Case Manager (if CPA change)
+   - Complete step-down transition plan
+   - Begin trauma-informed transition preparation with youth
+
+3. **30 Days Before:**
+   - Finalize all transition documentation
+   - Conduct transition planning meeting with all stakeholders
+   - Ensure smooth handoff of therapeutic supports
+   - Youth prepared for change
+
+4. **At Transition:**
+   - Comprehensive Transition Summary provided
+   - CANS 3.0 assessment completed within 30 days prior
+   - Warm handoff with receiving therapist/Case Manager
+   - Step-down support plan implemented
+
+#### Quality Assurance for TFFC Reviews
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| QA Coordinator | Audit 100% of TFFC Continued Stay reviews:<br>- Dual signatures present<br>- CANS comparison included<br>- Clinical justification robust<br>- Step-down planning addressed<br>- Submitted within 15 business days | Monthly | TAC §749.131 |
+| Executive Director | Review aggregate TFFC data quarterly:<br>- Average length of service<br>- Step-down success rates<br>- Re-admission rates<br>- CANS outcome trends | Quarterly | T3C Blueprint (October 2025) |
+
+**Compliance Standards:**
+- 100% of 60-day reviews include dual signatures
+- 100% of written confirmations submitted within 15 business days
+- 100% of reviews include comprehensive CANS comparison
+- 100% of reviews address step-down timeline
+- 90% of youth step down within projected timeline
+
+**Cross-Reference:**
+- FC3-01.1 Individual Service Planning Procedure Section 4.2 (90-Day Reviews) - NOTE: TFFC uses 60-day cycle
+- FC3-03 Service Plan T3C Supplement Form
+- FC14-01 Discharge and Permanency Planning Policy (Step-down procedures)
+
+### 5.4 24/7 Crisis Availability with On-Call Licensed Therapist
 
 **Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 6**
 
@@ -332,19 +509,19 @@ Results of the most recent CANS 3.0 Assessment must be used to inform the custom
 
 **Staff Training:** Per **FC-16 Staff and Caregiver Training Policy Section 4.6**, all staff serving TFFC population must complete clinical components of 20-hour specialized training including high-acuity crisis response.
 
-### 5.4 Human Trafficking Prevention
+### 5.5 Human Trafficking Prevention
 
 **Cross-Reference:** Per **FC-HT-01 Human Trafficking Prevention Policy** and **Human Trafficking Prevention Training Implementation Plan**.
 
-### 5.5 Documentation and STAR Health Coordination
+### 5.6 Documentation and STAR Health Coordination
 
 **Cross-Reference:** Documentation and service coordination per **FC-STAR-01.1 STAR Health Coordination Procedure** and **FC10-01 Physical and Mental Health Care Policy**.
 
-### 5.6 Family Engagement
+### 5.7 Family Engagement
 
 **Cross-Reference:** Family engagement per **FC7-01 Family Connections and Engagement Policy** with intensive family therapy as clinically indicated.
 
-### 5.7 Educational Coordination
+### 5.8 Educational Coordination
 
 **Cross-Reference:** Educational coordination per **FC-T3C-01** with enhanced support for children with behavioral challenges in educational settings.
 
