@@ -210,6 +210,19 @@ Child must receive **regular and frequent** therapeutic services:
 | CANS 3.0 | Every 90 days | Every 90 days |
 | Step-Down Assessment | At each 60-day review | Not applicable |
 
+#### Youth-Informed Service Planning
+
+Service Plans must be informed by the child, youth, or young adult (when age-appropriate) and developed in collaboration with the Service Planning team. Each Service Plan includes:
+
+- **Customized goals** developed with meaningful youth input that reflect their voice, perspective, and priorities
+- **Specific services and supports** tailored to achieve each goal
+- **Documentation of youth participation** in the goal-setting and planning process
+- **Cultural considerations** that honor the youth's identity and values
+
+The Service Planning team incorporates input from the child/youth, Case Manager, Treatment Director, Licensed Therapist, Foster Parents, SSCC/DFPS caseworker, biological family/support persons (when appropriate), educational representatives, and medical providers (as applicable).
+
+**T3C Blueprint Reference:** TFFC Support Services p.138 - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
+
 ### 5.3 24/7 Crisis Availability with On-Call Licensed Therapist
 
 **Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 6**
@@ -219,7 +232,6 @@ Child must receive **regular and frequent** therapeutic services:
 | Crisis Component | Requirement | Reference |
 |-----------------|-------------|-----------|
 | On-Call Licensed Therapist | 24/7 availability; contact for ALL crises | T3C Blueprint p.138; FC-04.1 Section 6.2 |
-| In-Person Response | When clinically indicated per Licensed Therapist | FC-04.1 Section 6.3 |
 | Psychiatric Emergency | Specialized protocols for suicidal ideation, psychosis, severe dissociation | FC-04.1 Section 6.4 |
 | 60-Day Review Integration | Crisis patterns documented and analyzed at each review | FC-04.1 Section 6.5 |
 

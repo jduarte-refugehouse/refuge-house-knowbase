@@ -237,6 +237,19 @@ Drug screening conducted **as clinically indicated** based on treatment team jud
 | Recovery Planning | Required component | N/A |
 | Drug Screening Protocol | Required component | N/A |
 
+#### Youth-Informed Service Planning
+
+Service Plans must be informed by the child, youth, or young adult (when age-appropriate) and developed in collaboration with the Service Planning team. Each Service Plan includes:
+
+- **Customized goals** developed with meaningful youth input that reflect their voice, perspective, and priorities
+- **Specific services and supports** tailored to achieve each goal
+- **Documentation of youth participation** in the goal-setting and planning process
+- **Cultural considerations** that honor the youth's identity and values
+
+The Service Planning team incorporates input from the child/youth, Case Manager, Treatment Director, Licensed Therapist, Foster Parents, SSCC/DFPS caseworker, biological family/support persons (when appropriate), educational representatives, and medical providers (as applicable).
+
+**T3C Blueprint Reference:** Substance Use Support Services p.59 - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
+
 ### 5.5 24/7 Crisis Availability
 
 **Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 4** which includes:

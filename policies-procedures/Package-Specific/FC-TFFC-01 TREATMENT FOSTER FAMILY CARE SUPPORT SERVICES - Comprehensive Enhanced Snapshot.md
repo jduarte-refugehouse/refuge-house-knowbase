@@ -445,7 +445,50 @@ This Comprehensive Enhanced Snapshot integrates policy (governing principles) an
 >
 > | Who | How | When | Regulatory Reference |
 > | :---- | :---- | :---- | :---- |
-> | Crisis Staff | 1. Contact On-Call Licensed Therapist for ALL crises<br>2. Follow therapist guidance<br>3. Coordinate in-person response if indicated<br>4. Document therapist consultation<br>5. Include in 60-day review analysis | ALL crises | T3C Blueprint p.138 |
+> | Crisis Management Staff or Foster Parent | 1. Contact On-Call Licensed Therapist for ALL crises<br>2. Provide crisis details and child's current state<br>3. Follow therapist guidance for intervention<br>4. Document therapist consultation | **Immediately during any crisis** | **T3C Blueprint p.138** |
+> | On-Call Licensed Therapist | 1. Provide immediate phone/telehealth consultation<br>2. Guide de-escalation strategies<br>3. Determine if psychiatric emergency protocols needed<br>4. Document consultation | When contacted | T3C Blueprint p.138; FC-04.1 Section 6.2 |
+>
+### 14.3 Psychiatric Emergency Response
+
+> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure, Section 6.4**
+>
+> | Crisis Type | Indicators | Response |
+> | :---- | :---- | :---- |
+> | **Suicidal Ideation with Plan/Intent** | Expressed plan, access to means, imminent risk | 911 + On-Call Licensed Therapist + Treatment Director |
+> | **Psychotic Episode** | Hallucinations, delusions, reality detachment | On-Call Licensed Therapist immediately; 911 if danger |
+> | **Severe Dissociation** | Non-responsive, significant detachment | On-Call Licensed Therapist; safety monitoring |
+> | **Self-Harm in Progress** | Active self-injury | 911 + On-Call Licensed Therapist |
+>
+> **Psychiatric Emergency Protocol:**
+>
+> | Who | How | When | Regulatory Reference |
+> | :---- | :---- | :---- | :---- |
+> | Foster Parent | 1. Ensure immediate safety<br>2. Call 911 if imminent danger<br>3. Contact On-Call Licensed Therapist IMMEDIATELY<br>4. Follow therapist guidance<br>5. Stay with child | **IMMEDIATE** | T3C Blueprint p.138; FC-04.1 Section 6.4 |
+> | On-Call Licensed Therapist | 1. Assess psychiatric emergency severity<br>2. Guide crisis intervention<br>3. Determine need for hospitalization<br>4. Notify Treatment Director<br>5. Coordinate with emergency services if present | When contacted | T3C Blueprint p.138 |
+> | Treatment Director | 1. Consult on clinical response<br>2. Coordinate with psychiatric providers<br>3. Review and adjust treatment plan<br>4. Determine if placement continues to meet child's needs | Within 4 hours | FC-TFFC-01 |
+
+### 14.4 Crisis Documentation for 60-Day Reviews
+
+> **📋 DERIVED FROM: FC-04.1 Crisis Management Procedure, Section 6.5**
+>
+> | Who | How | When | Regulatory Reference |
+> | :---- | :---- | :---- | :---- |
+> | Crisis Management Staff | 1. Document all crisis incidents thoroughly<br>2. Include On-Call Licensed Therapist consultation notes<br>3. Note effective/ineffective interventions<br>4. Identify triggers and patterns<br>5. Use TFFC 60-Day Crisis Pattern Analysis Template | During and after each crisis | FC-04.1 Section 6.5 |
+> | Case Manager | 1. Compile crisis patterns for each 60-day review<br>2. Analyze trends (increasing, decreasing, stable)<br>3. Include crisis analysis in Continued Stay documentation<br>4. Assess crisis patterns' implications for step-down | Before each 60-day review | FC-TFFC-01 |
+
+### 14.5 Staff Training - Treatment Foster Family Care Crisis
+
+> **📋 DERIVED FROM: FC-16 Staff and Caregiver Training Policy, Section 4.6**
+>
+> Crisis-specific training competencies for staff serving TFFC population:
+>
+> | Competency | Training Content | Hours |
+> |------------|------------------|-------|
+> | On-Call Licensed Therapist Coordination | When and how to contact; documentation | Included in 20-hour TFFC training |
+> | Psychiatric Emergency Response | Recognition and response protocols | Included in 20-hour TFFC training |
+> | High-Acuity De-escalation | Advanced techniques for severe behavioral crises | Included in 20-hour TFFC training |
+> | Clinical Team Coordination | Working with therapists and Treatment Director | Included in 20-hour TFFC training |
+> | 60-Day Review Integration | Crisis documentation and pattern analysis | Included in 20-hour TFFC training |
 
 ---
 

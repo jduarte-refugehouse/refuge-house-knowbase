@@ -89,7 +89,7 @@ Crisis response protocols are tailored to meet the specific needs of each T3C Se
 
 - **Short-Term Assessment Support Services**: Crisis response recognizes that children's histories, triggers, and effective interventions may be unknown or incomplete at placement. Enhanced vigilance, careful documentation, and expedited safety planning are essential during this assessment period. All crisis information is documented for transition to the receiving Service Package.
 
-- **T3C Treatment Foster Family Care Support Services**: Crisis response reflects the high-acuity population served and integrates intensive clinical oversight. The on-call Licensed Therapist must be available to provide consultation and respond in person if needed. Crisis patterns are reviewed at each 60-day Continued Stay Review and inform step-down planning.
+- **T3C Treatment Foster Family Care Support Services**: Crisis response reflects the high-acuity population served and integrates intensive clinical oversight. The on-call Licensed Therapist must be available to provide consultation. Crisis patterns are reviewed at each 60-day Continued Stay Review and inform step-down planning.
 
 ### 4. Least Restrictive Intervention
 

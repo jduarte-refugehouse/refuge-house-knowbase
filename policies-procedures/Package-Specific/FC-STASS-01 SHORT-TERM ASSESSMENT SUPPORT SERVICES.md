@@ -208,6 +208,21 @@ A single 15-day extension may be granted when:
 - Focus on identifying appropriate subsequent Service Package
 - Document assessment progress and findings
 
+#### Youth-Informed Service Planning
+
+Service Plans must be informed by the child, youth, or young adult (when age-appropriate) and developed in collaboration with the Service Planning team. Each Service Plan includes:
+
+- **Customized goals** developed with meaningful youth input that reflect their voice, perspective, and priorities (focused on assessment coordination and Service Package determination)
+- **Specific services and supports** tailored to achieve each goal
+- **Documentation of youth participation** in the goal-setting and planning process
+- **Cultural considerations** that honor the youth's identity and values
+
+The Service Planning team incorporates input from the child/youth, Case Manager, Treatment Director, Licensed Therapist, Foster Parents, SSCC/DFPS caseworker, biological family/support persons (when appropriate), educational representatives, and medical providers (as applicable).
+
+**Note:** For Short-Term Assessment, youth goals focus primarily on supporting the assessment process and preparing for transition to the receiving Service Package.
+
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.70 - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
+
 ### 5.3 CANS 3.0 Assessment Requirements
 
 **Cross-Reference:** CANS implementation follows procedures in **FC3-01.1 Individual Service Planning Procedure** with expedited timeline:

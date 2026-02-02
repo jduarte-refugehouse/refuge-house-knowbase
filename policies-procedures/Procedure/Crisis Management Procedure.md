@@ -269,8 +269,8 @@ Children receiving Treatment Foster Family Care have serious mental, emotional, 
 
 | Who | How | When | Regulatory Reference |
 | :---- | :---- | :---- | :---- |
-| On-Call Licensed Therapist | 1. Available 24/7 for phone consultation 2. Able to respond in person within 1 hour when needed 3. Provide clinical guidance during crisis 4. Consult on psychiatric emergency response 5. Coordinate with treating therapist and psychiatrist | 24/7 availability | **T3C Blueprint p.138** |
-| Crisis Management Staff | 1. Contact On-Call Licensed Therapist for all TFFC crises 2. Follow clinical guidance provided 3. Document therapist consultation 4. Coordinate in-person response when indicated | During all TFFC crises | T3C Blueprint |
+| On-Call Licensed Therapist | 1. Available 24/7 for phone/telehealth consultation 2. Provide clinical guidance during crisis 3. Consult on psychiatric emergency response 4. Coordinate with treating therapist and psychiatrist | 24/7 availability | **T3C Blueprint p.138** |
+| Crisis Management Staff | 1. Contact On-Call Licensed Therapist for all TFFC crises 2. Follow clinical guidance provided 3. Document therapist consultation | During all TFFC crises | T3C Blueprint |
 
 ### 6.3 Psychiatric Emergency Response
 
@@ -278,7 +278,7 @@ Children receiving Treatment Foster Family Care have serious mental, emotional, 
 | :---- | :---- | :---- | :---- |
 | Foster Parent | **Recognize psychiatric emergency indicators:** - Active suicidal ideation with plan/means - Suicide attempt - Psychotic episode (hallucinations, delusions) - Severe dissociation - Complete loss of reality contact **Response:** 1. Ensure immediate safety 2. Call 911 if imminent danger 3. Contact On-Call Staff immediately 4. Do not leave child alone 5. Remove access to means of harm | Upon recognition | Medical/Psychiatric Emergency Protocol |
 | On-Call Staff | 1. Contact On-Call Licensed Therapist immediately 2. Assess need for psychiatric hospitalization 3. Coordinate with emergency services 4. Notify Treatment Director 5. Support foster parent through crisis | Immediately | T3C Blueprint |
-| On-Call Licensed Therapist | 1. Provide clinical assessment via phone 2. Determine if in-person response needed 3. Guide decision on hospitalization vs. stabilization 4. Coordinate with child's treating therapist/psychiatrist 5. Document clinical recommendations | During crisis | T3C Blueprint p.138 |
+| On-Call Licensed Therapist | 1. Provide clinical assessment via phone/telehealth 2. Guide decision on hospitalization vs. stabilization 3. Coordinate with child's treating therapist/psychiatrist 4. Document clinical recommendations | During crisis | T3C Blueprint p.138 |
 | Treatment Director | 1. Oversee clinical response 2. Coordinate with psychiatric providers 3. Review for 60-day implications 4. Determine if placement remains appropriate 5. Update treatment plan | Within 24 hours | FC-TFFC-01 |
 
 ### 6.4 Crisis Response Integration with Treatment
@@ -403,7 +403,7 @@ For T3C Mental & Behavioral Health Support Services, IDD/Autism Spectrum Disorde
 **Staffing Model:**
 
 - Treatment Directors (Angel Wolfe, LMSW - Dallas; Alia Cepeda, MS, LPC-S - San Antonio) provide clinical oversight and consultation for complex crisis situations
-- On-Call Licensed Therapist (TFFC package) available 24/7 for consultation and in-person response
+- On-Call Licensed Therapist (TFFC package) available 24/7 for consultation
 - Licensed Therapists provide specialized consultation for mental health and developmental crisis situations
 - Behavioral Support Specialists provide crisis prevention support through behavior intervention planning
 - Case Managers maintain primary crisis response role with enhanced training
