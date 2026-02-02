@@ -200,7 +200,11 @@ Child must receive **regular and frequent** therapeutic services:
 
 **Therapist Qualifications:** Licensed Therapist specializing in serious mental, emotional, and/or behavioral disorders.
 
-### 5.2 Service Planning Requirements
+### 5.2 Service Planning Requirements with Caregiver Participation
+
+**T3C Blueprint Reference:** TFFC Support Services p.139 (October 2025)
+
+TFFC Service Planning requires enhanced caregiver participation due to the intensive, therapeutic nature of the placement and the critical role foster parents play in treatment implementation.
 
 **Cross-Reference:** Service planning follows **FC3-01.1 Individual Service Planning Procedure** with the following package-specific modifications:
 
@@ -209,6 +213,178 @@ Child must receive **regular and frequent** therapeutic services:
 | Service Plan Reviews | **Every 60 days** | Every 90 days (MH/IDD) |
 | CANS 3.0 | Every 90 days | Every 90 days |
 | Step-Down Assessment | At each 60-day review | Not applicable |
+
+#### Mandatory Caregiver Participation
+
+**CRITICAL REQUIREMENT:** Service Planning team meetings **must include the participation** of the foster family home caregiver(s).
+
+**Rationale for Mandatory Participation:**
+- Foster parents are primary implementers of intensive therapeutic interventions
+- Daily observations from foster parents provide critical treatment data
+- Foster parents must understand and commit to complex treatment protocols
+- Caregiver stress and capacity directly impact treatment outcomes
+- Foster parents provide unique insights into home behavioral patterns
+- Treatment adjustments require caregiver input and agreement
+
+#### Service Planning Team Composition for TFFC
+
+**Required Participants:**
+
+| Participant | Role | Participation Method |
+|-------------|------|---------------------|
+| **Foster Parent(s)** | **PRIMARY treatment implementers** | **In-person or virtual (must be present)** |
+| Child/Youth | Service recipient (age-appropriate) | In-person preferred; virtual if needed |
+| Case Manager | Team facilitator and coordinator | In-person or virtual |
+| Treatment Director | Clinical oversight and direction | In-person or virtual |
+| Licensed Therapist | Direct treatment provider | In-person or virtual |
+| SSCC/DFPS Caseworker | Permanency planning and oversight | In-person or virtual |
+| Biological Family | When appropriate per case plan | In-person or virtual |
+| Educational Representative | When educational issues present | In-person or virtual |
+
+**Foster Parent Participation is NON-NEGOTIABLE.** If foster parent cannot attend scheduled meeting, the meeting must be rescheduled.
+
+#### Foster Parent Preparation for Service Planning
+
+**Before Each Service Planning Meeting:**
+
+| Who | How | When | Where |
+|-----|-----|------|-------|
+| Case Manager | 1. Schedule meeting at time convenient for foster parents<br>2. Send meeting invitation 10 days in advance<br>3. Provide pre-meeting materials:<br>   - Current Service Plan draft<br>   - CANS 3.0 summary<br>   - Therapy progress notes<br>   - Questions to consider<br>4. Confirm foster parent availability | 10 days before meeting | Meeting invitation and materials |
+| Foster Parent(s) | 1. Review pre-meeting materials<br>2. Complete Foster Parent Input Form documenting:<br>   - Daily behavioral observations<br>   - Progress toward goals<br>   - Effective interventions<br>   - Challenges encountered<br>   - Caregiver support needs<br>   - Questions or concerns<br>3. Submit form to Case Manager | 3 days before meeting | Foster Parent Input Form |
+| Case Manager | 1. Review foster parent input<br>2. Integrate observations into Service Plan draft<br>3. Identify discussion topics requiring foster parent insight<br>4. Prepare questions for foster parents | 2 days before meeting | Service Plan preparation |
+
+#### Foster Parent Role During Service Planning Meetings
+
+**Expected Participation:**
+
+1. **Provide Daily Living Context:**
+   - Share specific behavioral examples from home environment
+   - Describe youth's functioning across different times of day and situations
+   - Identify triggers and successful de-escalation strategies
+   - Report on medication compliance and observable effects
+
+2. **Assess Treatment Progress:**
+   - Discuss whether therapy seems to be helping based on home behavior
+   - Share youth's comments about therapy or treatment
+   - Identify skills youth is using at home
+   - Note any behavioral changes (positive or concerning)
+
+3. **Evaluate Intervention Feasibility:**
+   - Provide honest feedback on ability to implement recommended strategies
+   - Identify barriers to intervention implementation
+   - Suggest modifications based on home realities
+   - Request additional training or support as needed
+
+4. **Contribute to Goal Setting:**
+   - Suggest goals based on home functioning needs
+   - Confirm goals are realistic given youth's current capacity
+   - Identify priorities from caregiver perspective
+   - Ensure goals address placement stability factors
+
+5. **Assess Own Support Needs:**
+   - Communicate caregiver stress level honestly
+   - Request respite if approaching burnout
+   - Identify additional supports needed
+   - Discuss any concerns about continuing placement
+
+**Documentation of Participation:**
+
+Service Plan must document:
+- Foster parent(s) present (names and relationship)
+- Key observations shared by foster parent
+- Foster parent input on treatment effectiveness
+- Caregiver concerns or support needs identified
+- Foster parent agreement with Service Plan
+- Any training or support foster parent requested
+
+#### Addressing Caregiver Inability to Attend
+
+**If Foster Parent Cannot Attend:**
+
+| Circumstance | Response | Timeline |
+|--------------|----------|----------|
+| Work conflict | Reschedule to accommodate foster parent availability | Within 3 days of original date |
+| Medical emergency | Conduct phone/video meeting with foster parent participation | As soon as medically feasible |
+| Last-minute illness | Reschedule in-person meeting | Within 5 days |
+| Persistent scheduling challenges | Discuss with Program Director; may indicate placement strain | Immediate supervisory review |
+
+**Documentation Requirements When Rescheduling:**
+- Reason for rescheduling
+- Original meeting date
+- Rescheduled date accommodating foster parent
+- Confirmation of foster parent's ability to attend new date
+- Any urgency factors requiring expedited rescheduling
+
+**NEVER proceed with Service Planning meeting without foster parent participation** unless there is a documented emergency requiring immediate plan updates (e.g., hospitalization requiring discharge planning).
+
+#### Virtual Participation Option
+
+Foster parents may participate virtually (phone or video conference) when:
+- Geographic distance makes in-person attendance burdensome
+- Work schedule prevents in-person attendance
+- Medical or family circumstances require remote participation
+- Weather or transportation issues prevent travel
+
+**Virtual Participation Standards:**
+- Video preferred over phone when possible
+- Quiet, private location for confidentiality
+- Stable internet/phone connection
+- Full attention for duration of meeting (not driving, working, etc.)
+- Access to documents being discussed
+
+#### Caregiver-Focused Service Plan Components
+
+**Service Plan Must Address:**
+
+1. **Foster Parent Training Needs:**
+   - Specific skills foster parent needs to support treatment
+   - Timeline for training completion
+   - Provider of training (agency staff, therapist, external trainer)
+
+2. **Daily Implementation Strategies:**
+   - Clear, step-by-step intervention protocols foster parent can follow
+   - Visual aids or written guides for complex procedures
+   - Decision trees for responding to specific behaviors
+
+3. **Foster Parent Support Plan:**
+   - Respite schedule (recommended monthly for TFFC intensity)
+   - Crisis support protocols (who to call, when, for what situations)
+   - Peer support connections (other TFFC foster parents if available)
+   - Consultation availability (Treatment Director, therapist)
+
+4. **Communication Protocols:**
+   - How often foster parent communicates with Case Manager (minimum weekly)
+   - Method for sharing behavioral observations (daily logs, weekly calls, etc.)
+   - Emergency communication procedures
+   - Therapist consultation protocols (before/after sessions as needed)
+
+#### Foster Parent Training Based on Service Planning
+
+**After Each Service Planning Meeting:**
+
+| Who | How | When | Where |
+|-----|-----|------|-------|
+| Treatment Director or Therapist | 1. Provide hands-on training on any new interventions<br>2. Role-play scenarios with foster parent<br>3. Demonstrate techniques<br>4. Answer foster parent questions<br>5. Provide written protocols | Within 7 days of Service Planning | In-person training session |
+| Foster Parent(s) | 1. Practice new techniques<br>2. Document implementation attempts<br>3. Report challenges to Case Manager<br>4. Request follow-up training if needed | Within 14 days of training | Home implementation |
+| Case Manager | 1. Follow up on training implementation<br>2. Gather feedback on intervention feasibility<br>3. Coordinate additional support as needed | Within 30 days of Service Planning | Phone or home visit |
+
+#### Quality Assurance for Caregiver Participation
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| QA Coordinator | Audit 100% of TFFC Service Plans for:<br>- Foster parent attendance documented<br>- Foster parent input included<br>- Caregiver support needs addressed<br>- Training plans specified | Monthly | T3C Blueprint p.139 (October 2025) |
+| Treatment Director | Review foster parent engagement patterns:<br>- Consistent attendance<br>- Quality of input<br>- Signs of burnout or disengagement<br>- Need for additional support | Quarterly | Best practice |
+| Program Director | Analyze placement stability correlation with caregiver participation level | Semi-annually | CQI process |
+
+**Compliance Standards:**
+- 100% of Service Planning meetings include foster parent participation
+- 100% of Service Plans document foster parent input
+- 100% of Service Plans include caregiver support components
+- 95% of foster parents report feeling heard in Service Planning process (annual survey)
+
+**Cross-Reference:**
+- FC3-01.1 Individual Service Planning Procedure Section 2.8 (TFFC Service Plan Requirements)
+- FC-16 Staff and Caregiver Training Policy Section 4.6 (TFFC Foster Parent Training)
 
 #### Youth-Informed Service Planning
 
