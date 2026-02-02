@@ -129,35 +129,179 @@ Our approach recognizes that the assessment period itself is an intervention tha
 
 ---
 
-## 3. ADMISSION CRITERIA AND GUIDELINES
+## 3. ADMISSION GUIDELINES
 
-### 3.1 Admission Eligibility
+### 3.1 Admission Criteria
 
-Children are eligible for Short-Term Assessment Support Services when they meet one of the following criteria:
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.71 (October 2025)
 
-1. **New to Care:** Child is newly entering foster care and requires comprehensive assessment
-2. **Transitioning from Unpaid Placement:** Child is moving from kinship or other unpaid arrangement
-3. **Returning After Unauthorized Absence:** Child is returning to care after runaway
-4. **Post-Disruption:** Child experienced recent unplanned placement disruption
-5. **Assessment Need Identified:** Service Planning team determines additional assessment needed
+Short-Term Assessment Support Services provides time-limited assessment to determine appropriate ongoing Service Package placement.
 
-### 3.2 Admission Process
+#### Primary Purpose
 
-**Cross-Reference:** Admission follows **FC1-01.1 Admission Screening Procedure** and **FC2-01.1 Admission Assessment Procedure** with the following package-specific requirements:
+**Assessment and Service Package Determination:**
+- Child's needs are unclear or complex requiring comprehensive assessment
+- Appropriate ongoing Service Package cannot be determined without additional evaluation
+- Multiple competing needs require professional assessment to prioritize
+- Transition from higher level of care needing step-down determination
+- New removal requiring thorough assessment before longer-term placement
 
-- Verify child meets Short-Term Assessment eligibility criteria
-- Confirm no Add-On Services are needed (ineligible for this package)
-- Verify credentialed Short-Term Assessment home availability
-- Complete expedited assessment planning within 72 hours
+**NOT for emergency placement** - Short-Term Assessment is planned, assessment-focused placement
 
-In addition to, and consistent with Statutory and Minimum Standards Requirements per **FC6-01 Admission Matching & Criteria Policy**:
-- Placement type and Service Package aligns with child's needs
-- Pre-Placement visit conducted (when applicable and appropriate)
-- Child Placing Agency and Foster Family Home are Credentialed for Short-Term Assessment
+#### CANS 3.0 Assessment Requirement
 
-### 3.3 Capacity Limitations
+**CRITICAL:** Placement type and Service Package must align with the child's needs and strengths as demonstrated through the CANS 3.0 Assessment (once administered).
 
-**CRITICAL:** Foster homes providing this Service Package may have **no more than four (4) children in foster care** at the same time, unless necessary to accommodate a sibling group.
+**Timeline for CANS 3.0:**
+- Children ages 3-5: Within 21 days of placement
+- Children ages 6 and older: Within 30 days of placement
+
+**Purpose:** CANS results directly inform Service Package recommendation for transition placement
+
+#### Professional Judgment in Placement Decision
+
+Admission is based on knowledge and professional judgment of the child's Service Planning team:
+- The child, youth, or young adult (when appropriate)
+- Biological parents/family members
+- CPS or SSCC caseworker
+- Attorney ad-litem, guardian ad-litem, CASA volunteer
+- STAR Health Service Coordinator
+- Relatives and subsequent caregivers
+- Other stakeholders
+
+**Factors Considered:**
+- Complexity of presenting needs
+- Lack of clear diagnosis or treatment direction
+- Conflicting information from multiple sources
+- Need for structured observation period
+- Recent trauma or significant life changes
+- Transition from psychiatric hospitalization or residential treatment
+- Unknown history (e.g., trafficking survivor, international placement)
+
+### 3.2 Time-Limited Parameters
+
+**CRITICAL DISTINCTION:** Short-Term Assessment has strict time limitations:
+
+| Child Age | Standard Duration | Extension Available | Maximum Total |
+|-----------|------------------|---------------------|---------------|
+| Age 5 and under | 30 days | One 15-day extension | 45 days |
+| Over age 5 | 45 days | One 15-day extension | 60 days |
+
+**Extension Approval:**
+- Requires Program Director written approval
+- Must document why assessment incomplete
+- Must show progress toward completion
+- Only ONE extension permitted
+
+### 3.3 Admission Process
+
+**Cross-Reference:** Follows **FC1-01.1 Admission Screening Procedure** and **FC2-01.1 Admission Assessment Procedure** with expedited assessment focus.
+
+#### Screening and Approval
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Intake Specialist | 1. Receive referral information<br>2. Verify assessment need<br>3. Confirm appropriate duration (30 or 45 days)<br>4. Forward to Treatment Director | Within 2 hours of referral | FC1-01.1 |
+| Treatment Director | 1. Review complexity of needs<br>2. Confirm assessment plan feasible within timeline<br>3. Identify required assessments<br>4. Approve placement | Within 4 hours of screening | T3C Blueprint p.71 (October 2025) |
+| Case Manager | 1. Develop assessment coordination plan<br>2. Schedule all required assessments<br>3. Document admission date and maximum stay date | Within 24 hours of placement | FC2-01.1 |
+
+#### Assessment Coordination Plan
+
+**Required at Admission:**
+
+Case Manager creates Assessment Coordination Plan documenting:
+- List of assessments needed (CANS 3.0, psychological, educational, medical, etc.)
+- Timeline for each assessment
+- Provider for each assessment
+- Maximum stay date (30 or 45 days from admission)
+- Preliminary Service Package possibilities based on referral information
+
+### 3.4 Exclusion Criteria
+
+Children are **NOT appropriate** for Short-Term Assessment when:
+
+**Immediate Needs Requiring Higher Level:**
+- Acute psychiatric crisis requiring hospitalization
+- Medical emergency
+- Active safety risk to self or others
+- Severe behavioral dysregulation requiring intensive intervention
+
+**Service Package Already Clear:**
+- CANS 3.0 recently completed with clear Service Package indicated
+- Diagnosis and treatment needs well-established
+- Appropriate Service Package readily identifiable without additional assessment
+- Child simply needs placement, not assessment
+
+**Redirect to:**
+- Appropriate specialized Service Package if needs are clear
+- Psychiatric hospital if acute crisis
+- TFFC if intensive intervention needed immediately
+- Basic Foster Home if no specialized needs evident
+
+### 3.5 Pre-Placement Visit
+
+**Per TAC §749.1111 and FC1-01.1:**
+
+When applicable and appropriate, pre-placement visit conducted before admission.
+
+**Modified for Assessment Context:**
+- Visit focuses on child's comfort with temporary assessment placement
+- Foster parent understanding of assessment timeline
+- Child prepared for multiple assessments and transition focus
+- Timeline clearly communicated to child and foster parent
+
+### 3.6 Foster Home Requirements
+
+**Enhanced Logistical Support:**
+
+Foster homes serving Short-Term Assessment must provide:
+- Enhanced coordination for multiple assessment appointments
+- Detailed behavioral observation and documentation
+- Flexibility for frequent appointments and meetings
+- Understanding of time-limited nature
+- Preparation for transition to receiving placement
+
+**Training Requirements:**
+- Understanding Short-Term Assessment purpose and timeline
+- Enhanced observation and reporting skills
+- Trauma-informed approach for children with unknown histories
+- Transition support for children moving to new placement
+
+### 3.7 SSCC/DFPS Coordination
+
+**Referral Process:**
+
+| Who | Action | Timeline |
+|-----|--------|----------|
+| SSCC/DFPS Caseworker | 1. Determines need for assessment placement<br>2. Provides all available information<br>3. Identifies assessment priorities | Before placement |
+| Treatment Director | 1. Reviews referral information<br>2. Confirms assessment feasibility within timeline<br>3. Approves or recommends alternative | Within 4 hours |
+| Case Manager | 1. Coordinates admission<br>2. Begins assessment scheduling immediately | Upon approval |
+
+**Ongoing Communication:**
+
+- Weekly updates to SSCC/DFPS on assessment progress
+- Immediate notification of any assessment delays
+- 10-day notice before maximum stay date with preliminary Service Package recommendation
+- Final Service Package recommendation with comprehensive justification at discharge
+
+### 3.8 Quality Assurance for Admissions
+
+| Who | How | When |
+|-----|-----|------|
+| Treatment Director | Review all STASS admissions for appropriateness and assessment plan | Weekly |
+| Program Director | Monitor assessment completion rates and timeline adherence | Monthly |
+| QA Coordinator | Audit admission documentation and assessment coordination plans | Quarterly |
+
+**Compliance Targets:**
+- 100% of admissions have Assessment Coordination Plan within 24 hours
+- 95% of placements complete within standard timeline (without extension)
+- 100% of discharges include Service Package recommendation
+- 90% of assessments completed per original timeline
+
+**Cross-Reference:**
+- FC1-01.1 Admission Screening Procedure
+- FC2-01.1 Admission Assessment Procedure
+- FC14-01 Discharge and Permanency Planning Policy (STASS transition procedures)
 
 ---
 

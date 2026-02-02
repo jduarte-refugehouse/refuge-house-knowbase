@@ -145,34 +145,189 @@ Refuge House recognizes:
 
 ---
 
-## 3. ADMISSION CRITERIA AND GUIDELINES
+## 3. ADMISSION GUIDELINES
 
-### 3.1 Admission Eligibility
+### 3.1 Admission Criteria
 
-Children eligible for Substance Use Support Services present with:
-- DSM-5 diagnosis of substance-related and/or addictive disorder; OR
-- Documented history of problematic substance use requiring specialized monitoring; OR
-- Significant risk factors for developing substance use disorder; OR
-- Need for coordination with substance use treatment providers
+**T3C Blueprint Reference:** Substance Use Support Services p.60 (October 2025)
 
-**Exclusions:** Children requiring inpatient detoxification or residential substance use treatment are not appropriate until medically stable for community-based care.
+Children, youth, and young adults are appropriate for Substance Use Support Services when they meet the following criteria:
+
+#### Primary Admission Requirement
+
+**Substance Use Disorder or Significant Substance Use Concerns:**
+- Current or recent substance use that impacts functioning
+- May or may not have formal DSM-5 Substance-Related and Addictive Disorder diagnosis
+- Substance use interferes with daily activities, relationships, or permanency planning
+- Risk factors present that could lead to substance use disorder if unaddressed
+
+**Substance Use May Include:**
+- Alcohol
+- Marijuana/cannabis
+- Prescription medications (misuse)
+- Illicit drugs (methamphetamine, cocaine, opioids, etc.)
+- Inhalants
+- Synthetic substances
+- Polysubstance use
+
+#### CANS 3.0 Assessment Alignment
+
+Once CANS 3.0 is administered, placement type and Service Package should align with the child's needs and strengths as demonstrated through the assessment results.
+
+**CANS Indicators Supporting Substance Use Placement:**
+- Substance Use domain scored 2 (actionable) or 3 (dangerous/disabling)
+- Multiple behavioral/emotional domains rated 2-3 that relate to substance use
+- Risk Behaviors domain showing substance-related concerns
+- Family/Caregiver domains showing substance use in home environment
+
+#### Professional Judgment Consideration
+
+Admission may also be based on the knowledge and professional judgment of the child's Service Planning team, which includes:
+- The child, youth, or young adult (when age-appropriate)
+- Biological parents or family members
+- CPS or SSCC caseworker
+- Attorney ad-litem, guardian ad-litem, and/or CASA volunteer
+- STAR Health Service Coordinator
+- Relatives and subsequent caregivers
+- Other stakeholders as appropriate
+
+**Professional Judgment Factors:**
+- History of substance use episodes
+- Family history of substance use disorders
+- Trauma history correlating with substance use
+- Peer influences promoting substance use
+- School or legal system concerns related to substance use
+- Previous treatment attempts and outcomes
+- Caregiver capacity to support recovery in current placement
 
 ### 3.2 Admission Process
 
-**Cross-Reference:** Admission follows **FC1-01.1 Admission Screening Procedure** and **FC2-01.1 Admission Assessment Procedure** with the following package-specific requirements:
+**Cross-Reference:** Admission procedures follow **FC1-01.1 Admission Screening Procedure** and **FC2-01.1 Admission Assessment Procedure** with package-specific enhancements.
+
+#### Screening and Approval
 
 | Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Treatment Director | 1. Review substance use history 2. Assess clinical appropriateness 3. Verify child is medically stable 4. Document eligibility | Before placement | T3C Blueprint; FC2-01.1 |
+|-----|-----|------|---------------------|
+| Intake Specialist | 1. Receive referral information<br>2. Screen for substance use indicators<br>3. Gather substance use history<br>4. Forward to Treatment Director | Within 2 hours of referral | FC1-01.1 |
+| Treatment Director | 1. Review substance use history and current status<br>2. Assess appropriateness for Substance Use package<br>3. Identify any higher level of care needs<br>4. Approve or redirect placement | Within 4 hours of screening | T3C Blueprint p.60 (October 2025) |
+| Case Manager | 1. Complete initial substance use screening tool<br>2. Document substances used, frequency, duration, last use<br>3. Identify immediate safety concerns | Within 24 hours of placement | FC2-01.1 |
 
-**Per FC6-01 Admission Matching & Criteria Policy** with additional requirements:
-- Foster Family Home credentialed for Substance Use Support Services
-- Foster family completed substance abuse awareness training
-- Home maintains substance-free environment
+#### Documentation Requirements
 
-### 3.3 Capacity Considerations
+**At Admission, Case Manager documents:**
+- Specific substance(s) used
+- Frequency and duration of use
+- Date of last use
+- Route of administration
+- History of overdose or medical complications
+- Previous substance use treatment
+- Current withdrawal risk
+- Motivation for treatment/recovery stage
 
-**Cross-Reference:** Capacity per **FC-T3C-01** standard foster home limits, with consideration of supervision needs for youth in recovery.
+### 3.3 Exclusion Criteria
+
+Children are **NOT appropriate** for Substance Use Support Services when:
+
+**Higher Level of Care Needed:**
+- Active withdrawal requiring medical detoxification
+- Severe substance use disorder requiring residential treatment
+- Co-occurring psychiatric condition requiring psychiatric hospitalization
+- Immediate safety risk to self or others due to substance-related impairment
+
+**Redirect to:**
+- Medical facility for detoxification
+- Psychiatric hospital for stabilization
+- Residential substance use treatment facility
+- TFFC if meeting intensive treatment criteria
+
+**Lower Level Appropriate:**
+- Substance experimentation without pattern of use
+- No current use and strong recovery supports already in place
+- Basic Foster Home with therapy adequate to address needs
+
+### 3.4 Pre-Placement Visit Requirements
+
+**Per TAC §749.1111 and FC1-01.1:**
+
+When applicable and appropriate, a pre-placement visit must be conducted and successful before admission to Substance Use Support Services.
+
+**Visit Components:**
+- Youth meets foster family
+- Home environment reviewed for substance-free status
+- Foster parent understanding of recovery support needs confirmed
+- Youth expresses comfort with placement (if developmentally appropriate)
+- Any substance use triggers in home environment addressed
+
+**Documentation:**
+- Pre-placement visit checklist completed
+- Youth feedback documented
+- Foster parent agreement to support recovery documented
+- Any concerns identified and resolved
+
+### 3.5 Dual Credentialing Requirement
+
+**Foster Family Home Requirements:**
+
+Foster home must hold credential for:
+- T3C Basic Foster Family Home Support Services (foundation)
+- AND have capacity to support substance use recovery
+
+**Caregiver Capabilities:**
+- Understanding of adolescent substance use disorders
+- Commitment to substance-free home environment
+- Ability to support recovery without punitive approach
+- Willingness to participate in family therapy as needed
+- Capability to monitor without enabling
+
+### 3.6 Capacity and Limitations
+
+**Maximum Capacity:**
+- No specific capacity limitation beyond TAC §749 requirements
+- Foster home capacity determined by home's credential
+
+**Age Appropriateness:**
+- Typically serves youth ages 12-21
+- Younger children may be served if substance exposure/use documented
+- Young adults in Extended Foster Care eligible if substance use needs present
+
+### 3.7 Coordination with SSCC/DFPS
+
+**Placement Approval Process:**
+
+| Who | Action | Timeline |
+|-----|--------|----------|
+| SSCC/DFPS Caseworker | Determines Service Package need based on assessment and case planning | Before placement |
+| Treatment Director | Reviews and confirms appropriateness | Within 4 hours of referral |
+| Case Manager | Coordinates admission logistics | Upon approval |
+
+**Application for Placement Review:**
+
+If SSCC/DFPS refers placement that may not meet Substance Use criteria, Treatment Director reviews and may:
+- Accept placement if criteria met
+- Recommend alternative Service Package
+- Request additional clinical information
+- Decline if criteria not met and document rationale
+
+### 3.8 Quality Assurance for Admissions
+
+**Admission Appropriateness Monitoring:**
+
+| Who | How | When |
+|-----|-----|------|
+| Treatment Director | Review all Substance Use admissions for appropriateness | Monthly |
+| QA Coordinator | Audit admission documentation for completeness | Quarterly |
+| Program Director | Analyze admission trends and outcomes | Semi-annually |
+
+**Compliance Targets:**
+- 100% of admissions have documented substance use screening
+- 95% of admissions align with CANS results (once administered)
+- 100% of admissions approved by Treatment Director
+- 90% of placements demonstrate recovery progress within 90 days
+
+**Cross-Reference:**
+- FC1-01.1 Admission Screening Procedure
+- FC2-01.1 Admission Assessment Procedure
+- FC6-01 Admission Matching & Criteria Policy
 
 ---
 
