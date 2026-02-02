@@ -123,18 +123,100 @@ Only licensed clinical staff certified in CANS 3.0 administration may complete a
 
 #### CANS 3.0 Integration with Service Planning
 
-**At Initial Service Plan (30 days):**
-- CANS 3.0 results integrated into all goal areas
-- High-need domains (ratings of 2 or 3) receive prioritized intervention
-- Strengths (positive ratings) leveraged in treatment approach
-- Service intensity matched to complexity revealed by CANS
+**T3C Blueprint Reference:** All T3C Service Packages require CANS 3.0 results to inform Service Plans including service type, frequency, and duration adjustments (SU p.60, STASS p.71, TFFC p.139 - October 2025)
 
-**At Ongoing Service Plan Reviews:**
-- Compare current CANS to baseline and previous assessments
-- Celebrate improvements across domains
-- Analyze reasons for decline or lack of progress
-- Adjust service type, frequency, or approach based on CANS trends
-- Document rationale for service changes linked to CANS data
+##### At Initial Service Plan (30 days)
+
+CANS 3.0 results must directly inform all aspects of the initial Service Plan:
+
+| CANS Domain Finding | Service Planning Response | Documentation Required |
+|---------------------|---------------------------|------------------------|
+| High-Need Domain (Rating 2-3) | Create specific goal addressing domain | Goal references CANS domain and rating |
+| Multiple High-Need Domains | Prioritize goals; determine service intensity | Service Plan notes CANS complexity justifying intensity |
+| Behavioral/Emotional Needs | Determine therapy type and frequency | Therapy authorization includes CANS justification |
+| Caregiver Resource Depletion | Plan caregiver support and respite | Service Plan includes caregiver strengthening goals |
+| Risk Behaviors Present | Develop safety plan and monitoring | Safety plan references specific CANS risk domains |
+| Strengths Identified (Rating 0-1 strengths) | Leverage in treatment approach | Goals note how strengths support progress |
+
+**Service Type Determination:**
+- Individual therapy: CANS behavioral/emotional domains with actionable needs
+- Family therapy: CANS caregiver or family functioning domains showing needs
+- Group therapy: CANS peer relations or social functioning domains
+- Specialized interventions: Domain-specific needs (e.g., trauma-focused therapy for traumatic stress domains)
+
+**Service Frequency Determination:**
+- Weekly therapy: CANS domains at rating 2 (actionable need)
+- Multiple weekly sessions: CANS domains at rating 3 (dangerous/disabling) or multiple rating 2 domains
+- Monthly or less frequent: CANS domains at rating 0-1 (strengths or watchful waiting)
+
+**Service Duration Planning:**
+- Short-term (3-6 months): Limited high-need domains with good prognosis
+- Moderate-term (6-12 months): Multiple domains requiring sustained intervention
+- Long-term (12+ months): Complex presentations across multiple life domains
+
+##### At Ongoing Service Plan Reviews
+
+| Who | How | When | Where | Regulatory Reference |
+|-----|-----|------|-------|---------------------|
+| Treatment Director | 1. Compare current CANS to previous assessment(s)<br>2. Identify domains with improvement, decline, or stability<br>3. Analyze whether current services effectively addressing needs<br>4. Recommend service adjustments based on CANS trends | Before each Service Plan review | CANS comparison analysis | T3C Blueprint p.60, 71, 139 (October 2025) |
+| Service Planning Team | 1. Review CANS comparison data<br>2. Discuss effectiveness of current service array<br>3. Determine if service type still matches needs<br>4. Adjust service frequency based on progress/regression<br>5. Modify service duration based on trajectory | At Service Plan review meeting | Service Planning meeting | T3C Blueprint p.60, 71, 139 (October 2025) |
+| Case Manager | Document in Service Plan:<br>1. Current CANS domain ratings vs. previous<br>2. Service effectiveness analysis per domain<br>3. Service adjustments with CANS-based rationale<br>4. Projected CANS targets for next review period | During/after Service Plan review | Service Plan in Radius | T3C Blueprint p.60, 71, 139 (October 2025) |
+
+**CANS-Driven Service Adjustments:**
+
+*When CANS shows improvement:*
+- Decrease therapy frequency if sustained improvement across multiple assessments
+- Consider step-down to less intensive service package if appropriate
+- Shift focus to relapse prevention and skill consolidation
+- Leverage improved domains as strengths to address remaining needs
+
+*When CANS shows regression or lack of progress:*
+- Increase therapy frequency
+- Add new service modalities (e.g., add family therapy, specialized interventions)
+- Intensify existing services
+- Consider step-up to more intensive package if appropriate
+- Conduct clinical staffing to analyze barriers and develop new approach
+
+*When CANS shows mixed results:*
+- Continue effective services for improving domains
+- Modify approach for domains showing no progress
+- Add targeted interventions for newly emerged needs
+- Maintain overall service intensity while adjusting specific components
+
+##### Documentation Standards for CANS Integration
+
+**Initial Service Plan Must Include:**
+- Table or narrative summarizing key CANS findings
+- Explicit connection between CANS domains and goals
+- Service frequency justification referencing CANS severity
+- Service type selection rationale based on CANS needs
+
+**Service Plan Reviews Must Include:**
+- CANS comparison table (current vs. previous)
+- Analysis of progress/regression by domain
+- Service effectiveness evaluation linked to CANS changes
+- Specific service adjustments with CANS-based rationale
+- Updated service frequency with CANS justification
+
+**Example Documentation:**
+
+*Good:* "John's CANS shows improvement in Behavioral/Emotional Needs from 2 to 1, indicating weekly individual therapy has been effective. However, his Caregiver Resources domain declined from 1 to 2, necessitating addition of monthly family therapy to strengthen caregiver support and prevent placement disruption."
+
+*Poor:* "Services adjusted based on progress and continued needs."
+
+##### Quality Assurance for CANS Integration
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Treatment Director | Review all Service Plans to ensure CANS integration | Within 48 hours of plan completion | T3C Blueprint (October 2025) |
+| QA Coordinator | Audit sample of Service Plans monthly for:<br>- CANS findings documented<br>- Goals linked to CANS domains<br>- Service adjustments justified by CANS<br>- Frequency/duration tied to CANS data | Monthly | TAC §749.131 |
+| Program Director | Review aggregate data on CANS-driven service adjustments | Quarterly | T3C Blueprint (October 2025) |
+
+**Quality Standards:**
+- 100% of Service Plans reference most recent CANS 3.0 results
+- 100% of high-need CANS domains (rating 2-3) have corresponding Service Plan goals
+- 90% of service frequency changes include CANS-based justification
+- 100% of step-up/step-down decisions reference CANS trends
 
 #### Quality Assurance for CANS 3.0 Compliance
 

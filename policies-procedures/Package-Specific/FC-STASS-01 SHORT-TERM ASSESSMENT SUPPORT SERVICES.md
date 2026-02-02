@@ -275,15 +275,34 @@ Children over the age of 3, youth, and young adults must receive CANS 3.0 Assess
 - Case Manager ensures scheduling and follow-through within accelerated timeline
 
 **Integration with Assessment Process:**
-- CANS 3.0 results integrated with other assessment findings
-- Included in Service Package recommendation documentation
-- Shared with receiving placement to inform transition planning
 
-**Documentation:**
-- CANS 3.0 results entered into designated system
-- Summary included in Transition Summary document
-- Integration into Service Package recommendation documented
-- Copy provided to SSCC/DFPS caseworker with recommendation
+Results of the CANS 3.0 Assessment must be used to inform the Service Package recommendation and transition planning. For Short-Term Assessment, CANS 3.0 integration focuses on determining appropriate next placement:
+
+**Service Package Recommendation:**
+- CANS 3.0 results directly inform which T3C Service Package is recommended
+- High-need domains identify required specialized services (Mental Health, IDD/Autism, Substance Use, etc.)
+- Multiple high-need domains may indicate need for TFFC-level intensive services
+- Strengths identified guide placement matching and transition support planning
+
+**Service Plan Integration During Assessment Period:**
+- Initial Service Plan incorporates CANS findings to support assessment completion
+- Goals focus on assessment cooperation and stabilization in high-need domains
+- Services adjusted if CANS reveals acute needs requiring immediate intervention
+- Service type and frequency support assessment process and child stability
+
+**Transition Planning:**
+- CANS results included in comprehensive transition summary
+- Receiving placement receives CANS data to inform their initial Service Plan
+- Recommendations for service type, frequency, duration based on CANS findings
+- Identification of critical domains requiring immediate attention in new placement
+
+**Documentation Requirements:**
+- Service Package recommendation explicitly references CANS findings
+- Clinical justification for recommended package includes CANS domain analysis
+- Transition summary includes CANS-based service recommendations
+- Receiving placement provided CANS summary with domain-specific guidance
+
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.71 (October 2025) - Results of the CANS 3.0 Assessment must be used to inform the customized Service Plan, including adjustments to the type of, frequency, and duration of services.
 
 **Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 1.7 (CANS 3.0 Implementation)
 
