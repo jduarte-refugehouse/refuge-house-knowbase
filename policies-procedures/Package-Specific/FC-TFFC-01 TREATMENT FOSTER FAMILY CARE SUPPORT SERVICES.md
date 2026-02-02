@@ -134,34 +134,229 @@ This package recognizes that intensive intervention should achieve stabilization
 
 ---
 
-## 3. ADMISSION CRITERIA AND GUIDELINES
+## 3. ADMISSION GUIDELINES
 
-### 3.1 Admission Eligibility
+### 3.1 Admission Criteria
 
-**Primary Requirement:** DSM-5 diagnosis for emotional, conduct, or behavioral disorder
+**T3C Blueprint Reference:** TFFC Support Services p.139-140 (October 2025)
 
-**PLUS Two or More of the Following:**
-- Major self-injurious actions, including suicide attempt within last 12 months
-- Difficulties presenting significant risk of harm to others, including frequent or unpredictable physical aggression
-- Additional DSM-5 diagnosis of substance-related and/or addictive disorder with severe impairment
+Treatment Foster Family Care provides time-limited, highly-structured, intensive therapeutic intervention for children with serious emotional, conduct, or behavioral disorders.
 
-### 3.2 Admission Process
+#### Primary Admission Requirement
 
-**Cross-Reference:** Admission follows **FC1-01.1 Admission Screening Procedure** and **FC2-01.1 Admission Assessment Procedure** with the following package-specific requirements:
+**DSM-5 Diagnosis for Emotional, Conduct, or Behavioral Disorder:**
+
+Child, youth, or young adult must present with (or be pending) a DSM-5 diagnosis in one of these categories:
+- **Emotional Disorders:** Depressive disorders, anxiety disorders, trauma and stressor-related disorders, bipolar disorders
+- **Conduct Disorders:** Oppositional defiant disorder, conduct disorder, disruptive behavior disorders
+- **Behavioral Disorders:** Attention-deficit/hyperactivity disorder, impulse control disorders
+
+**"Pending" diagnosis:** Child demonstrates symptoms consistent with diagnosis but formal diagnostic evaluation not yet completed. Must be completed within 30 days of admission.
+
+#### Additional High-Acuity Criteria (Minimum 2 Required)
+
+In addition to DSM-5 diagnosis, child must demonstrate **TWO or more** of the following:
+
+1. **Major Self-Injurious Actions:**
+   - Suicide attempt within the last 12 months
+   - Serious self-harm requiring medical intervention
+   - Persistent suicidal ideation with plan
+   - High-risk behaviors with self-destructive intent
+
+2. **Significant Risk of Harm to Others:**
+   - Frequent physical aggression toward others
+   - Unpredictable violent outbursts
+   - Assaultive behavior requiring intervention
+   - Threats with intent and means to harm others
+
+3. **Severe Substance Use Disorder:**
+   - DSM-5 diagnosis of Substance-Related and/or Addictive Disorder with severe impairment
+   - Substance use significantly interfering with safety and functioning
+   - Multiple failed attempts at lower levels of substance use treatment
+   - Medical complications from substance use
+
+**Documentation Required:**
+- Psychiatric evaluation documenting DSM-5 diagnosis (or pending with timeline)
+- Specific examples of 2+ additional criteria met
+- Recent crisis events or hospitalizations
+- Treatment history showing need for intensive intervention
+- CANS 3.0 results (if available) supporting high-acuity placement
+
+#### CANS 3.0 Assessment Alignment
+
+**T3C Blueprint Requirement:** Placement type and Service Package must align with child's needs and strengths as demonstrated through CANS 3.0 Assessment (once administered).
+
+**CANS Indicators Supporting TFFC Placement:**
+- Multiple behavioral/emotional domains scored 2-3 (actionable or dangerous)
+- Risk Behaviors domains showing dangerous/disabling level
+- Functioning domains significantly impaired
+- Trauma domains indicating severe impact
+- Overall CANS profile showing need for intensive intervention
+
+**Timeline:**
+- Ages 3-5: CANS within 21 days
+- Ages 6+: CANS within 30 days
+
+#### Professional Judgment and Service Planning Team Input
+
+Admission based on knowledge and professional judgment of Service Planning team:
+- Child, youth, or young adult (when appropriate)
+- Biological parents/family members
+- CPS or SSCC caseworker
+- Attorney ad-litem, guardian ad-litem, CASA volunteer
+- STAR Health Service Coordinator
+- Psychiatric/psychological providers
+- Previous treatment providers
+- Relatives and caregivers
+
+**Factors Considered:**
+- Pattern of placement disruptions due to behavioral challenges
+- Failed attempts at lower levels of care
+- Escalating risk behaviors over time
+- Family/caregiver resource depletion
+- Need for intensive structure and clinical oversight
+- Projected response to time-limited intensive intervention
+
+### 3.2 Time-Limited Nature
+
+**CRITICAL:** TFFC is designed as **TIME-LIMITED** intervention with goal of step-down to lower service level.
+
+**Expected Length of Stay:** Typically 6-12 months
+**Maximum Duration:** 365 days (approximately 12 months)
+
+**From Day 1:** Step-down planning begins at admission with preliminary step-down goals in initial Service Plan.
+
+### 3.3 Admission Process
+
+**Cross-Reference:** Follows **FC1-01.1 Admission Screening Procedure** and **FC2-01.1 Admission Assessment Procedure** with intensive clinical screening.
+
+#### Enhanced Clinical Screening
 
 | Who | How | When | Regulatory Reference |
-| :---- | :---- | :---- | :---- |
-| Treatment Director | 1. Review clinical documentation 2. Verify DSM-5 diagnosis 3. Confirm child meets 2+ additional criteria 4. Document clinical appropriateness | Before placement | T3C Blueprint p.141-142; FC2-01.1 |
+|-----|-----|------|---------------------|
+| Intake Specialist | 1. Receive referral information<br>2. Initial screening for TFFC indicators<br>3. Gather psychiatric/crisis history<br>4. Forward to Treatment Director with complete documentation | Within 2 hours of referral | FC1-01.1 |
+| Treatment Director | 1. Review all clinical documentation<br>2. Verify DSM-5 diagnosis (or pending timeline)<br>3. Confirm 2+ additional criteria met<br>4. Assess safety and intervention needs<br>5. Determine if TFFC appropriate or if higher level needed<br>6. Document clinical justification for acceptance<br>7. Approve or redirect | Within 4 hours of screening | T3C Blueprint p.139-140 (October 2025) |
 
-**Per FC6-01 Admission Matching & Criteria Policy** with additional requirements:
-- Child Placing Agency AND Foster Family Home must be Credentialed for Treatment Foster Family Care
-- Dual credentialing verified (Treatment Foster Care AND Basic Foster Home)
-- Home capacity verified (maximum 2 children)
-- Pre-placement visit conducted when appropriate
+**Required Documentation for Screening:**
+- Psychiatric evaluation or psychological assessment
+- Recent hospitalization records (if applicable)
+- Crisis incident reports
+- Previous treatment history
+- Current medication list
+- CANS 3.0 (if available)
+- Educational records with behavioral documentation
 
-### 3.3 Capacity Limitation
+#### Treatment Director Clinical Justification
 
-**CRITICAL:** Foster homes providing Treatment Foster Family Care may have **no more than two (2) children in foster care** at the same time due to the intensive nature of services.
+**Must Document:**
+- Specific DSM-5 diagnosis and supporting evidence
+- Two or more additional criteria with specific examples
+- Why lower service level is insufficient
+- Projected treatment approach and anticipated duration
+- Step-down planning considerations
+- Any safety protocols required at admission
+
+### 3.4 Exclusion Criteria
+
+Children are **NOT appropriate** for TFFC when:
+
+**Higher Level of Care Needed:**
+- Acute psychiatric crisis requiring hospitalization
+- Immediate danger to self or others requiring secure setting
+- Medical needs beyond foster home capacity
+- Severe developmental disability as primary need (redirect to IDD/Autism package)
+- Active psychosis requiring psychiatric hospital
+
+**Lower Level Appropriate:**
+- Behavioral challenges manageable with weekly therapy
+- CANS results show primarily 0-1 ratings
+- Stable on medications with no recent crises
+- Single DSM-5 diagnosis without additional high-acuity factors
+- Mental & Behavioral Health package sufficient
+
+**Redirect to:**
+- Psychiatric hospital for acute stabilization
+- Residential treatment for longer-term intensive care
+- Mental & Behavioral Health package if less intensity adequate
+- IDD/Autism package if developmental disability primary
+
+### 3.5 Pre-Placement Visit
+
+**Per TAC §749.1111 and FC1-01.1:**
+
+Pre-placement visit **strongly recommended** for TFFC to assess:
+- Youth's response to intensive therapeutic home environment
+- Foster parent's understanding of high-acuity needs
+- Home safety and structure appropriate for youth
+- Initial rapport between youth and foster family
+- Youth's willingness to engage in intensive treatment
+
+**If youth refuses or visit not feasible:**
+- Document reason
+- Plan for intensive orientation period
+- Enhanced monitoring first 30 days
+
+### 3.6 Foster Home Requirements
+
+**Dual Credentialing REQUIRED:**
+
+Foster home must hold credentials for BOTH:
+- **T3C Treatment Foster Family Care Support Services**
+- **T3C Basic Foster Family Home Support Services**
+
+This allows step-down to Basic package in same home when appropriate.
+
+**Enhanced Training:**
+- 20 hours specialized TFFC training (TAC §749.863(c))
+- Crisis intervention and de-escalation
+- Managing high-acuity behaviors
+- Supporting intensive therapy
+- Psychiatric emergency recognition
+
+**Capacity Limitation:**
+- **Maximum 2 children in foster care** due to intensive needs
+
+**Caregiver Capabilities Required:**
+- Ability to implement complex behavior support plans
+- Availability for multiple weekly meetings
+- Flexibility for frequent therapy appointments
+- Emotional capacity for high-intensity placement
+- Crisis response skills
+- Commitment to time-limited intensive treatment model
+
+### 3.7 Approval and Notification Process
+
+| Who | Action | Timeline |
+|-----|--------|----------|
+| SSCC/DFPS Caseworker | Refers child for TFFC consideration with complete documentation | Before placement |
+| Treatment Director | Reviews, approves with clinical justification, or redirects | Within 4 hours of complete referral |
+| Program Director | Reviews Treatment Director approval for operational feasibility | Within 24 hours |
+| Case Manager | Coordinates admission logistics and documentation | Upon dual approval |
+
+**If Denied:**
+- Treatment Director provides written rationale
+- Alternative Service Package recommended
+- SSCC/DFPS notified of redirection with clinical justification
+
+### 3.8 Quality Assurance for Admissions
+
+| Who | How | When |
+|-----|-----|------|
+| Treatment Director | Review 100% of TFFC admissions for criteria adherence | At admission and 30 days |
+| Executive Director | Review TFFC admission appropriateness | Monthly |
+| QA Coordinator | Audit admission documentation completeness | Quarterly |
+
+**Compliance Targets:**
+- 100% of admissions have documented DSM-5 diagnosis within 30 days
+- 100% of admissions document 2+ additional criteria with examples
+- 100% of admissions have Treatment Director clinical justification
+- 95% of admissions demonstrate CANS alignment (once administered)
+- 90% of placements achieve step-down within 12 months
+
+**Cross-Reference:**
+- FC1-01.1 Admission Screening Procedure
+- FC2-01.1 Admission Assessment Procedure
+- FC6-01 Admission Matching & Criteria Policy
 
 ---
 
