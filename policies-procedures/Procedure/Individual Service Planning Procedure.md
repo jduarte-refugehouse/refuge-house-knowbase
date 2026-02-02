@@ -57,6 +57,99 @@ The T3C system requires that providers maintain specific credentials for each Se
 | Program Director | 5\. Develop implementation plan addressing any capacity gaps | Within 7 days of placement | Written plan in Radius | TAC §749.665 |
 | Case Manager | 6\. Schedule required package-specific training or support for foster family | Within 7 days of placement | Training calendar | T3C Blueprint requirements |
 
+### 1.7 CANS 3.0 Assessment Implementation
+
+**T3C Blueprint Reference:** All T3C Service Packages (SU p.60, STASS p.71, TFFC p.139 - October 2025)
+
+#### Purpose and Overview
+
+The Child and Adolescent Needs and Strengths (CANS 3.0) Assessment is a comprehensive tool that informs individualized service planning and measures outcomes across multiple life domains. For children over age 3, CANS 3.0 assessments are required at specified intervals and directly guide service planning decisions.
+
+CANS 3.0 assesses needs and strengths across domains including behavioral/emotional health, life functioning, risk behaviors, caregiver resources, and traumatic experiences. Results provide objective data to support clinical decision-making and track progress over time.
+
+#### Assessment Frequency by Child Age
+
+| Child Age | Initial Assessment | Ongoing Assessments | Notes |
+|-----------|-------------------|---------------------|-------|
+| 0-3 years | Not required | Not required | May complete if clinically indicated |
+| 3-5 years | Within 21 days | Every 90 days | Required for T3C packages |
+| 6+ years | Within 30 days | Every 90 days | Required for T3C packages |
+
+**Package-Specific Considerations:**
+
+*Short-Term Assessment:* Initial CANS 3.0 required within timeline; ongoing typically not applicable due to 30-45 day placement duration unless extension granted beyond 90 days.
+
+*All Other Packages:* Initial CANS 3.0 per timeline above, then every 90 days throughout placement.
+
+#### Initial CANS 3.0 Assessment Procedures
+
+| Who | How | When | Where | Regulatory Reference |
+|-----|-----|------|-------|---------------------|
+| Case Manager | 1. Verify child's age and determine CANS 3.0 timeline (21 or 30 days)<br>2. Calendar CANS 3.0 due date<br>3. Coordinate with Treatment Director for assessment scheduling<br>4. Gather background information for assessor | Within 48 hours of placement | CANS tracking system | T3C Blueprint p.60, 71, 139 (October 2025) |
+| Treatment Director | 1. Assign CANS-certified clinical staff to complete assessment<br>2. Ensure assessor has access to background information<br>3. Review clinical history to inform assessment | Within first week of placement | Clinical assignment system | T3C Blueprint p.60, 71, 139 (October 2025) |
+| CANS-Certified Clinical Staff | 1. Schedule assessment with foster parent and youth (if appropriate)<br>2. Complete CANS 3.0 interview and rating<br>3. Enter results into CANS system<br>4. Generate CANS summary report<br>5. Share results with Treatment Director and Case Manager | Within 21 days (ages 3-5) or 30 days (ages 6+) | CANS 3.0 system | T3C Blueprint p.60, 71, 139 (October 2025) |
+| Treatment Director | 1. Review CANS 3.0 results for clinical implications<br>2. Identify high-need domains requiring immediate attention<br>3. Provide recommendations for Service Plan integration<br>4. Flag any concerning findings for team discussion | Within 5 days of CANS completion | Clinical review | T3C Blueprint p.60, 71, 139 (October 2025) |
+| Case Manager | 1. Integrate CANS 3.0 findings into Service Plan development<br>2. Ensure goals address high-need domains<br>3. Document how services align with CANS results<br>4. Provide CANS summary to SSCC/DFPS caseworker | Before Service Plan meeting | Service Plan documentation | T3C Blueprint p.60, 71, 139 (October 2025) |
+
+#### Ongoing CANS 3.0 Assessment Procedures (Every 90 Days)
+
+| Who | How | When | Where | Regulatory Reference |
+|-----|-----|------|-------|---------------------|
+| Case Manager | 1. Calendar next CANS 3.0 due date (90 days from last assessment)<br>2. Send reminder to Treatment Director 30 days before due date<br>3. Coordinate scheduling with foster parent and youth | Ongoing tracking | CANS tracking calendar | T3C Blueprint p.60, 71, 139 (October 2025) |
+| CANS-Certified Clinical Staff | 1. Complete reassessment using same process as initial<br>2. Compare results to previous CANS 3.0<br>3. Note areas of improvement, decline, or stability<br>4. Generate comparative summary report | Every 90 days (±5 days) | CANS 3.0 system | T3C Blueprint p.60, 71, 139 (October 2025) |
+| Treatment Director | 1. Review changes across CANS domains<br>2. Analyze effectiveness of current interventions<br>3. Identify need for service adjustments<br>4. Recommend service plan modifications | Within 5 days of reassessment | Clinical review | T3C Blueprint p.60, 71, 139 (October 2025) |
+| Service Planning Team | 1. Review CANS 3.0 changes at Service Plan review<br>2. Discuss progress in high-need domains<br>3. Adjust services based on current CANS results<br>4. Set goals targeting domains needing improvement | At Service Plan review (90-day for most packages) | Service Planning meeting | T3C Blueprint p.60, 71, 139 (October 2025) |
+| Case Manager | 1. Document CANS 3.0-informed service adjustments<br>2. Update Service Plan to reflect new CANS findings<br>3. Communicate changes to foster parents and service providers<br>4. Provide updated CANS summary to SSCC/DFPS | After Service Plan review | Service Plan documentation | T3C Blueprint p.60, 71, 139 (October 2025) |
+
+#### CANS 3.0 Certification and Qualified Assessors
+
+Only licensed clinical staff certified in CANS 3.0 administration may complete assessments:
+- Licensed Master Social Worker (LMSW)
+- Licensed Clinical Social Worker (LCSW)
+- Licensed Professional Counselor (LPC)
+- Licensed Professional Counselor - Supervisor (LPC-S)
+- Licensed Marriage and Family Therapist (LMFT)
+
+**Certification Requirements:**
+- Completion of CANS 3.0 online training modules
+- Passing certification exam with 80% or higher
+- Annual recertification to maintain reliability
+
+**Treatment Director Responsibilities:**
+- Maintain list of CANS-certified staff
+- Ensure adequate number of certified assessors
+- Monitor certification expiration dates
+- Coordinate recertification training
+
+#### CANS 3.0 Integration with Service Planning
+
+**At Initial Service Plan (30 days):**
+- CANS 3.0 results integrated into all goal areas
+- High-need domains (ratings of 2 or 3) receive prioritized intervention
+- Strengths (positive ratings) leveraged in treatment approach
+- Service intensity matched to complexity revealed by CANS
+
+**At Ongoing Service Plan Reviews:**
+- Compare current CANS to baseline and previous assessments
+- Celebrate improvements across domains
+- Analyze reasons for decline or lack of progress
+- Adjust service type, frequency, or approach based on CANS trends
+- Document rationale for service changes linked to CANS data
+
+#### Quality Assurance for CANS 3.0 Compliance
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| QA Coordinator | 1. Audit CANS 3.0 completion timeliness monthly<br>2. Verify certification status of assessors<br>3. Review sample of assessments for quality<br>4. Generate compliance reports | Monthly | TAC §749.131 |
+| Treatment Director | 1. Address any late assessments<br>2. Ensure assessor reliability<br>3. Review reassessment intervals | Ongoing | T3C Blueprint (October 2025) |
+| Program Director | 1. Review aggregate CANS trends<br>2. Implement improvements based on data<br>3. Report CANS outcomes to Board | Quarterly | T3C Blueprint (October 2025) |
+
+**Compliance Targets:**
+- 100% of children over age 3 receive timely initial CANS 3.0
+- 95% of ongoing CANS 3.0 completed within ±5 days of due date
+- 100% of CANS-certified staff maintain current certification
+- 100% of Service Plans demonstrate CANS integration
+
 ### 2\. SERVICE PLAN DEVELOPMENT TIMELINES AND PROCESSES
 
 #### Purpose and Overview
@@ -97,7 +190,7 @@ The service planning process must balance regulatory compliance with meaningful,
 
 #### 2.4 Youth Participation in Service Planning
 
-**T3C Blueprint Reference:** All T3C Service Packages require youth-informed service planning (SU p.59, STASS p.70, TFFC p.138)
+**T3C Blueprint Reference:** All T3C Service Packages require youth-informed service planning (SU p.59, STASS p.70, TFFC p.138 - October 2025)
 
 ##### Purpose and Overview
 
@@ -105,10 +198,10 @@ Service Plans must be informed by the child, youth, or young adult (when age-app
 
 | Who | How | When | Where | Regulatory Reference |
 |-----|-----|------|-------|---------------------|
-| Case Manager | 1. Meet with youth individually before Service Planning meeting<br>2. Use age-appropriate methods to gather input:<br>   - Verbal discussion for older youth<br>   - Visual aids and simplified language for younger children<br>   - Written surveys or preference assessments<br>   - Drawing/creative expression for younger children<br>3. Document youth's goals, preferences, and priorities in their own words<br>4. Prepare youth for participation in planning meeting<br>5. Review previous Service Plan goals with youth | 5-7 days before Service Plan meeting | Individual meeting with youth | T3C Blueprint p.59, 70, 138 |
-| Treatment Director | 1. Review youth's stated goals and preferences<br>2. Ensure clinical recommendations align with youth voice<br>3. Identify ways to incorporate youth priorities into treatment planning<br>4. Reconcile clinical needs with youth-identified goals | Before Service Planning meeting | Clinical review | T3C Blueprint p.59, 70, 138 |
-| Service Planning Team | 1. Include youth in Service Planning meeting (age-appropriate)<br>2. Present goals in youth's own words during meeting<br>3. Ask youth to explain their priorities to the team<br>4. Develop customized services/supports to achieve youth's goals<br>5. Ensure youth understands how services connect to their goals<br>6. Document youth participation and agreement (or concerns)<br>7. Ensure cultural considerations reflected in goals and services | At Service Planning meeting | Service Planning meeting | T3C Blueprint p.59, 70, 138 |
-| Case Manager | Document in Service Plan:<br>1. Youth's stated goals (in their words when possible)<br>2. Level of youth participation<br>3. How services align with youth-identified needs<br>4. Cultural considerations incorporated<br>5. Any concerns youth expressed<br>6. Youth's understanding of the plan | During/after Service Planning meeting | Service Plan in Radius | T3C Blueprint p.59, 70, 138 |
+| Case Manager | 1. Meet with youth individually before Service Planning meeting<br>2. Use age-appropriate methods to gather input:<br>   - Verbal discussion for older youth<br>   - Visual aids and simplified language for younger children<br>   - Written surveys or preference assessments<br>   - Drawing/creative expression for younger children<br>3. Document youth's goals, preferences, and priorities in their own words<br>4. Prepare youth for participation in planning meeting<br>5. Review previous Service Plan goals with youth | 5-7 days before Service Plan meeting | Individual meeting with youth | T3C Blueprint p.59, 70, 138 (October 2025) |
+| Treatment Director | 1. Review youth's stated goals and preferences<br>2. Ensure clinical recommendations align with youth voice<br>3. Identify ways to incorporate youth priorities into treatment planning<br>4. Reconcile clinical needs with youth-identified goals | Before Service Planning meeting | Clinical review | T3C Blueprint p.59, 70, 138 (October 2025) |
+| Service Planning Team | 1. Include youth in Service Planning meeting (age-appropriate)<br>2. Present goals in youth's own words during meeting<br>3. Ask youth to explain their priorities to the team<br>4. Develop customized services/supports to achieve youth's goals<br>5. Ensure youth understands how services connect to their goals<br>6. Document youth participation and agreement (or concerns)<br>7. Ensure cultural considerations reflected in goals and services | At Service Planning meeting | Service Planning meeting | T3C Blueprint p.59, 70, 138 (October 2025) |
+| Case Manager | Document in Service Plan:<br>1. Youth's stated goals (in their words when possible)<br>2. Level of youth participation<br>3. How services align with youth-identified needs<br>4. Cultural considerations incorporated<br>5. Any concerns youth expressed<br>6. Youth's understanding of the plan | During/after Service Planning meeting | Service Plan in Radius | T3C Blueprint p.59, 70, 138 (October 2025) |
 
 **Package-Specific Considerations:**
 
@@ -326,7 +419,7 @@ Regular service plan reviews ensure services remain relevant and effective while
 
 #### 4.4 Progress Documentation Toward Goals
 
-**T3C Blueprint Reference:** All T3C Service Packages require goal-specific progress documentation in Service Plan reviews (SU p.59, STASS p.70, TFFC p.138)
+**T3C Blueprint Reference:** All T3C Service Packages require goal-specific progress documentation in Service Plan reviews (SU p.59, STASS p.70, TFFC p.138 - October 2025)
 
 ##### Purpose and Overview
 
@@ -336,11 +429,11 @@ Generic statements like "child is doing well" or "some progress noted" do not me
 
 | Who | How | When | Where | Regulatory Reference |
 |-----|-----|------|-------|---------------------|
-| Case Manager | 1. Review each goal in current Service Plan<br>2. Gather progress information from all sources:<br>   - Foster parent observations and reports<br>   - Therapist progress notes and summaries<br>   - School reports and educational progress<br>   - Medical/psychiatric provider updates<br>   - BSS/Mentor documentation<br>   - Youth self-report<br>3. Compile goal-specific progress notes | 5-7 days before Service Plan review | Progress compilation worksheet | T3C Blueprint p.59, 70, 138 |
-| Treatment Director | 1. Review clinical progress toward therapeutic goals<br>2. Analyze effectiveness of interventions<br>3. Identify clinical barriers to progress<br>4. Recommend service adjustments | Before Service Plan review | Clinical review | T3C Blueprint p.59, 70, 138 |
-| Licensed Therapist | 1. Provide written summary of progress toward therapy-related goals<br>2. Include specific examples from therapy sessions<br>3. Document intervention effectiveness<br>4. Recommend frequency/approach adjustments | At least 3 days before review | Therapy progress summary | T3C Blueprint p.59, 70, 138 |
-| Service Planning Team | 1. Review progress for each goal collaboratively<br>2. Discuss what's working and what's not<br>3. Determine if goals need modification<br>4. Identify service adjustments needed<br>5. Document team consensus on progress | At Service Plan review meeting | Service Plan review meeting | T3C Blueprint p.59, 70, 138 |
-| Case Manager | Document for each goal:<br>1. **Current Status:** Level of progress (no/minimal/moderate/significant/achieved)<br>2. **Specific Examples:** Observable behaviors or achievements demonstrating current functioning<br>3. **Effective Supports:** What services/interventions are helping<br>4. **Barriers:** What's hindering progress<br>5. **Adjustments:** Changes needed to services, supports, or goal itself<br>6. **Next Steps:** Action plan for continued progress | During/after Service Plan review | Service Plan in Radius | T3C Blueprint p.59, 70, 138 |
+| Case Manager | 1. Review each goal in current Service Plan<br>2. Gather progress information from all sources:<br>   - Foster parent observations and reports<br>   - Therapist progress notes and summaries<br>   - School reports and educational progress<br>   - Medical/psychiatric provider updates<br>   - BSS/Mentor documentation<br>   - Youth self-report<br>3. Compile goal-specific progress notes | 5-7 days before Service Plan review | Progress compilation worksheet | T3C Blueprint p.59, 70, 138 (October 2025) |
+| Treatment Director | 1. Review clinical progress toward therapeutic goals<br>2. Analyze effectiveness of interventions<br>3. Identify clinical barriers to progress<br>4. Recommend service adjustments | Before Service Plan review | Clinical review | T3C Blueprint p.59, 70, 138 (October 2025) |
+| Licensed Therapist | 1. Provide written summary of progress toward therapy-related goals<br>2. Include specific examples from therapy sessions<br>3. Document intervention effectiveness<br>4. Recommend frequency/approach adjustments | At least 3 days before review | Therapy progress summary | T3C Blueprint p.59, 70, 138 (October 2025) |
+| Service Planning Team | 1. Review progress for each goal collaboratively<br>2. Discuss what's working and what's not<br>3. Determine if goals need modification<br>4. Identify service adjustments needed<br>5. Document team consensus on progress | At Service Plan review meeting | Service Plan review meeting | T3C Blueprint p.59, 70, 138 (October 2025) |
+| Case Manager | Document for each goal:<br>1. **Current Status:** Level of progress (no/minimal/moderate/significant/achieved)<br>2. **Specific Examples:** Observable behaviors or achievements demonstrating current functioning<br>3. **Effective Supports:** What services/interventions are helping<br>4. **Barriers:** What's hindering progress<br>5. **Adjustments:** Changes needed to services, supports, or goal itself<br>6. **Next Steps:** Action plan for continued progress | During/after Service Plan review | Service Plan in Radius | T3C Blueprint p.59, 70, 138 (October 2025) |
 
 **Documentation Template for Each Goal:**
 ```

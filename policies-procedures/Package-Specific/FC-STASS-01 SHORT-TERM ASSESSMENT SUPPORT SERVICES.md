@@ -221,7 +221,7 @@ The Service Planning team incorporates input from the child/youth, Case Manager,
 
 **Note:** For Short-Term Assessment, youth goals focus primarily on supporting the assessment process and preparing for transition to the receiving Service Package.
 
-**T3C Blueprint Reference:** Short-Term Assessment Support Services p.70 - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.70 (October 2025) - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
 
 #### Service Plan Review - Progress Documentation
 
@@ -243,18 +243,49 @@ For each goal in the Service Plan, the review documents:
 
 **Note:** For Short-Term Assessment, goals focus primarily on assessment coordination progress and Service Package recommendation development.
 
-**T3C Blueprint Reference:** Short-Term Assessment Support Services p.70 - Service Plan reviews must include documentation to show the progress made toward achieving each goal.
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.70 (October 2025) - Service Plan reviews must include documentation to show the progress made toward achieving each goal.
 
 **Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 3 (Service Plan Reviews)
 
 ### 5.3 CANS 3.0 Assessment Requirements
 
-**Cross-Reference:** CANS implementation follows procedures in **FC3-01.1 Individual Service Planning Procedure** with expedited timeline:
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.71 (October 2025)
 
-- **21 days** after placement (children ages 3-5)
-- **30 days** after placement (children age 6+)
+Children over the age of 3, youth, and young adults must receive CANS 3.0 Assessments according to the following schedule:
 
-Results inform Service Package recommendation for transition.
+**Initial Assessment (Required):**
+- Children ages 3-5: Within **21 days** of placement
+- Children ages 6 and older: Within **30 days** of placement
+
+**Ongoing Assessments:**
+- **Not typically applicable** due to time-limited placement duration (30-45 days maximum)
+- If placement extends beyond 90 days with approved extension, CANS 3.0 should be readministered
+
+**Children Age 3 and Under:**
+- CANS 3.0 not required but may be completed if clinically indicated
+
+**Assessment Purpose for Short-Term Assessment:**
+- Results inform Service Package recommendation for transition
+- Identifies areas requiring specialized support in receiving placement
+- Provides baseline for comparison at future placements
+
+**Assessment Administration:**
+- Conducted by licensed clinical staff certified in CANS 3.0 administration (LMSW, LPC, LCSW, LPC-S, LMFT)
+- Treatment Director or designee coordinates completion
+- Case Manager ensures scheduling and follow-through within accelerated timeline
+
+**Integration with Assessment Process:**
+- CANS 3.0 results integrated with other assessment findings
+- Included in Service Package recommendation documentation
+- Shared with receiving placement to inform transition planning
+
+**Documentation:**
+- CANS 3.0 results entered into designated system
+- Summary included in Transition Summary document
+- Integration into Service Package recommendation documented
+- Copy provided to SSCC/DFPS caseworker with recommendation
+
+**Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 1.7 (CANS 3.0 Implementation)
 
 ### 5.4 24/7 Crisis Availability
 

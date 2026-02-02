@@ -221,7 +221,7 @@ Service Plans must be informed by the child, youth, or young adult (when age-app
 
 The Service Planning team incorporates input from the child/youth, Case Manager, Treatment Director, Licensed Therapist, Foster Parents, SSCC/DFPS caseworker, biological family/support persons (when appropriate), educational representatives, and medical providers (as applicable).
 
-**T3C Blueprint Reference:** TFFC Support Services p.138 - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
+**T3C Blueprint Reference:** TFFC Support Services p.138 (October 2025) - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
 
 #### Service Plan Review - Progress Documentation
 
@@ -241,9 +241,50 @@ For each goal in the Service Plan, the review documents:
 
 **Review Frequency:** Service Plan reviews occur **every 60 days** for TFFC Support Services, reflecting the intensive clinical intervention and time-limited nature of this package.
 
-**T3C Blueprint Reference:** TFFC Support Services p.138 - Service Plan reviews must include documentation to show the progress made toward achieving each goal.
+**T3C Blueprint Reference:** TFFC Support Services p.138 (October 2025) - Service Plan reviews must include documentation to show the progress made toward achieving each goal.
 
 **Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 3 (Service Plan Reviews)
+
+#### CANS 3.0 Assessment Requirements
+
+**T3C Blueprint Reference:** TFFC Support Services p.139 (October 2025)
+
+Children over the age of 3, youth, and young adults must receive CANS 3.0 Assessments according to the following schedule:
+
+**Initial Assessment:**
+- Children ages 3-5: Within 21 days of placement
+- Children ages 6 and older: Within 30 days of placement
+
+**Ongoing Assessments:**
+- **Every 90 days** thereafter for the duration of placement
+
+**Children Age 3 and Under:**
+- CANS 3.0 not required but may be completed if clinically indicated
+
+**TFFC-Specific Considerations:**
+- Given intensive clinical intervention and 60-day Service Plan reviews, CANS 3.0 provides critical data for treatment adjustments
+- Results analyzed in conjunction with 60-day reviews to assess progress and continued need for TFFC-level services
+- Changes in CANS 3.0 domains inform step-down planning and transition readiness
+
+**Assessment Administration:**
+- Conducted by licensed clinical staff certified in CANS 3.0 administration (LMSW, LPC, LCSW, LPC-S, LMFT)
+- Treatment Director or designee coordinates completion
+- Case Manager ensures scheduling and follow-through
+
+**Integration with Intensive Services:**
+- Results directly inform Service Plan development and modifications
+- CANS 3.0 findings guide adjustments to therapy frequency and intensity
+- Progress across domains tracked to evaluate effectiveness of intensive intervention
+- Regression in domains triggers immediate clinical review and service adjustment
+
+**Documentation:**
+- CANS 3.0 results entered into designated system
+- Summary of findings in case record
+- Integration into 60-day Service Plan reviews documented
+- Comparison across assessments included in step-down evaluations
+- Copy provided to SSCC/DFPS caseworker
+
+**Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 1.7 (CANS 3.0 Implementation)
 
 ### 5.3 24/7 Crisis Availability with On-Call Licensed Therapist
 
