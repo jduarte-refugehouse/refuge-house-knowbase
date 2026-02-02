@@ -223,6 +223,30 @@ The Service Planning team incorporates input from the child/youth, Case Manager,
 
 **T3C Blueprint Reference:** Short-Term Assessment Support Services p.70 - Service Plan must be informed by child/youth and include customized goals and planned services to achieve those goals.
 
+#### Service Plan Review - Progress Documentation
+
+Service Plan reviews must include documentation demonstrating the progress made toward achieving **each goal** identified in the Service Plan. Progress documentation is:
+
+- **Goal-specific** - addressing each stated goal individually, not general observations
+- **Measurable** - using objective indicators where possible (frequency, duration, intensity)
+- **Descriptive** - providing specific examples and observations that illustrate progress or challenges
+- **Action-oriented** - identifying next steps, adjustments, and continued supports needed
+
+For each goal in the Service Plan, the review documents:
+- Current status of goal achievement (no progress, minimal progress, moderate progress, significant progress, goal achieved)
+- Specific examples demonstrating current functioning related to the goal
+- Effective interventions and supports that have promoted progress
+- Barriers to progress and challenges encountered
+- Adjustments needed to services, supports, or the goal itself
+
+**Review Frequency:** Service Plan reviews occur **every 30 days** for Short-Term Assessment Support Services, reflecting the accelerated timeline and assessment focus.
+
+**Note:** For Short-Term Assessment, goals focus primarily on assessment coordination progress and Service Package recommendation development.
+
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.70 - Service Plan reviews must include documentation to show the progress made toward achieving each goal.
+
+**Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 3 (Service Plan Reviews)
+
 ### 5.3 CANS 3.0 Assessment Requirements
 
 **Cross-Reference:** CANS implementation follows procedures in **FC3-01.1 Individual Service Planning Procedure** with expedited timeline:

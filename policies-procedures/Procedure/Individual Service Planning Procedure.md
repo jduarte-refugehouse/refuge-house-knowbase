@@ -324,6 +324,67 @@ Regular service plan reviews ensure services remain relevant and effective while
 | **Short-Term Assessment** | **30 days** | **N/A** | **Per Section 2.7; FC-STASS-01** |
 | **Treatment Foster Family Care** | **60 days** | **60 days (dual signature)** | **Per Section 2.8; FC-TFFC-01** |
 
+#### 4.4 Progress Documentation Toward Goals
+
+**T3C Blueprint Reference:** All T3C Service Packages require goal-specific progress documentation in Service Plan reviews (SU p.59, STASS p.70, TFFC p.138)
+
+##### Purpose and Overview
+
+Service Plan reviews must demonstrate the progress made toward achieving each goal identified in the Service Plan. This goal-by-goal documentation ensures accountability, allows for data-driven adjustments to services, and provides clear evidence of treatment effectiveness or need for modification.
+
+Generic statements like "child is doing well" or "some progress noted" do not meet this requirement. Each goal requires individualized progress analysis with specific examples.
+
+| Who | How | When | Where | Regulatory Reference |
+|-----|-----|------|-------|---------------------|
+| Case Manager | 1. Review each goal in current Service Plan<br>2. Gather progress information from all sources:<br>   - Foster parent observations and reports<br>   - Therapist progress notes and summaries<br>   - School reports and educational progress<br>   - Medical/psychiatric provider updates<br>   - BSS/Mentor documentation<br>   - Youth self-report<br>3. Compile goal-specific progress notes | 5-7 days before Service Plan review | Progress compilation worksheet | T3C Blueprint p.59, 70, 138 |
+| Treatment Director | 1. Review clinical progress toward therapeutic goals<br>2. Analyze effectiveness of interventions<br>3. Identify clinical barriers to progress<br>4. Recommend service adjustments | Before Service Plan review | Clinical review | T3C Blueprint p.59, 70, 138 |
+| Licensed Therapist | 1. Provide written summary of progress toward therapy-related goals<br>2. Include specific examples from therapy sessions<br>3. Document intervention effectiveness<br>4. Recommend frequency/approach adjustments | At least 3 days before review | Therapy progress summary | T3C Blueprint p.59, 70, 138 |
+| Service Planning Team | 1. Review progress for each goal collaboratively<br>2. Discuss what's working and what's not<br>3. Determine if goals need modification<br>4. Identify service adjustments needed<br>5. Document team consensus on progress | At Service Plan review meeting | Service Plan review meeting | T3C Blueprint p.59, 70, 138 |
+| Case Manager | Document for each goal:<br>1. **Current Status:** Level of progress (no/minimal/moderate/significant/achieved)<br>2. **Specific Examples:** Observable behaviors or achievements demonstrating current functioning<br>3. **Effective Supports:** What services/interventions are helping<br>4. **Barriers:** What's hindering progress<br>5. **Adjustments:** Changes needed to services, supports, or goal itself<br>6. **Next Steps:** Action plan for continued progress | During/after Service Plan review | Service Plan in Radius | T3C Blueprint p.59, 70, 138 |
+
+**Documentation Template for Each Goal:**
+```
+GOAL: [State original goal as written in Service Plan]
+
+CURRENT STATUS: [No Progress / Minimal Progress / Moderate Progress / Significant Progress / Goal Achieved]
+
+SPECIFIC EXAMPLES:
+- [Example 1 with date/context]
+- [Example 2 with date/context]
+
+EFFECTIVE INTERVENTIONS:
+- [What's working]
+
+BARRIERS TO PROGRESS:
+- [What's hindering progress]
+
+ADJUSTMENTS NEEDED:
+- [Changes to services/supports]
+- [Goal modification if needed]
+
+NEXT STEPS:
+- [Action plan for next review period]
+```
+
+**Package-Specific Review Frequency:**
+
+| Package | Review Frequency | Note |
+|---------|------------------|------|
+| Basic Foster Home | Every 6 months minimum | May be more frequent per treatment model |
+| Substance Use | Every 90 days | In conjunction with Continued Stay Review |
+| Short-Term Assessment | Every 30 days | Focused on assessment progress |
+| Mental & Behavioral Health | Every 90 days | In conjunction with Continued Stay Review |
+| IDD/Autism | Every 90 days | In conjunction with Continued Stay Review |
+| TFFC | Every 60 days | Accelerated due to intensive intervention |
+
+**Quality Assurance Review:**
+
+Quality Assurance staff review random Service Plan reviews monthly to ensure:
+- Every goal has individualized progress documentation
+- Examples are specific and observable
+- Interventions are clearly linked to progress or lack thereof
+- Adjustments are appropriate and evidence-based
+
 ### 5\. MONITORING AND QUALITY ASSURANCE
 
 #### Purpose and Overview
