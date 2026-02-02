@@ -306,7 +306,93 @@ Results of the CANS 3.0 Assessment must be used to inform the Service Package re
 
 **Cross-Reference:** FC3-01.1 Individual Service Planning Procedure Section 1.7 (CANS 3.0 Implementation)
 
-### 5.4 24/7 Crisis Availability
+### 5.4 Service Plan Reviews
+
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.71 (October 2025)
+
+Service Plan reviews must occur every 30 days for Short-Term Assessment Support Services, reflecting the accelerated assessment timeline.
+
+#### 30-Day Service Plan Review Cycle
+
+**Unique Characteristic:** Short-Term Assessment has the most frequent review cycle of any T3C Service Package due to its time-limited, assessment-focused nature.
+
+**Review Components:**
+
+| Component | Description | Focus for STASS |
+|-----------|-------------|-----------------|
+| Assessment Progress | Status of all required assessments | Primary focus |
+| Progress Toward Goals | Goals focus on assessment completion and cooperation | Assessment-specific |
+| CANS 3.0 Status | Completion status and preliminary findings | Informs Service Package recommendation |
+| Youth Participation | Youth cooperation with assessment process | Critical for valid results |
+| Service Package Determination | Emerging recommendation for next placement | Culminates at discharge |
+
+#### NO Continued Stay Review Required
+
+**CRITICAL DISTINCTION:** Unlike other specialized packages (Substance Use, Mental & Behavioral Health, IDD/Autism, TFFC), Short-Term Assessment Support Services does **NOT require Continued Stay Reviews** with written confirmation to SSCC/DFPS.
+
+**Rationale:**
+- Time-limited by design (30-45 days maximum, plus potential 15-day extension)
+- Purpose is assessment completion, not ongoing treatment
+- Discharge occurs when assessments complete and Service Package recommended
+- Extensions beyond maximum timeline require Program Director approval only (not SSCC/DFPS written confirmation)
+
+#### 30-Day Review Requirements
+
+**What IS Required:**
+
+| Requirement | Description | Documentation |
+|-------------|-------------|---------------|
+| Assessment Status Update | Progress on CANS 3.0 and other assessments | Service Plan Review |
+| Cooperation Evaluation | Youth engagement with assessment process | Service Plan Review |
+| Timeline Projection | Expected completion date and Service Package determination | Service Plan Review |
+| Behavioral Observations | Patterns observed for transition planning | Service Plan Review |
+| Preliminary Findings | Emerging themes informing Service Package recommendation | Clinical notes |
+
+**What is NOT Required:**
+- ❌ Continued Stay Review evaluation
+- ❌ Written confirmation to SSCC/DFPS within 15 business days
+- ❌ Clinical justification for continued placement
+- ❌ Step-down planning (different transition model)
+
+#### Service Package Determination Process
+
+**Upon Assessment Completion:**
+
+| Who | How | When | Regulatory Reference |
+|-----|-----|------|---------------------|
+| Treatment Director | 1. Review all assessment findings<br>2. Analyze CANS 3.0 results<br>3. Recommend appropriate Service Package<br>4. Document clinical justification | Upon assessment completion | T3C Blueprint p.71 (October 2025) |
+| Service Planning Team | 1. Review Treatment Director recommendation<br>2. Discuss appropriateness of recommended package<br>3. Confirm or modify recommendation<br>4. Document team consensus | Within 5 business days | T3C Blueprint p.71 (October 2025) |
+| Case Manager | 1. Document Service Package recommendation<br>2. Include recommendation in Transition Summary<br>3. Communicate to SSCC/DFPS<br>4. Coordinate transition to receiving placement | Before discharge | T3C Blueprint p.71 (October 2025) |
+
+#### Extension Request Process
+
+When assessments cannot be completed within standard timeline:
+
+**Extension Approval:**
+- Program Director reviews progress and barriers
+- Written justification for extension documented
+- **Does NOT require SSCC/DFPS written confirmation** (internal approval only)
+- One 15-day extension maximum
+
+**Extension Justification Examples:**
+- Youth behavioral challenges delaying valid assessment
+- Required assessments delayed due to provider availability
+- Medical issues interfering with assessment completion
+- Additional time needed for accurate developmental evaluation
+
+#### Quality Assurance Standards
+
+**Compliance Targets:**
+- 100% of placements complete assessments within 45 days (or approved extension)
+- 100% of 30-day reviews document assessment progress
+- 100% of discharges include Service Package recommendation with clinical justification
+- 90% of placements do not require extension beyond initial timeline
+
+**Cross-Reference:**
+- FC3-01.1 Individual Service Planning Procedure Section 4.3 (Service Plan Review Requirements by Package)
+- FC14-01 Discharge and Permanency Planning Policy (STASS-specific transition procedures)
+
+### 5.5 24/7 Crisis Availability
 
 **Cross-Reference:** Crisis response per **FC-04 Crisis Management Policy** and **FC-04.1 Crisis Management Procedure Section 5**
 
@@ -321,21 +407,21 @@ Results of the CANS 3.0 Assessment must be used to inform the Service Package re
 
 **Staff Training:** Per **FC-16 Staff and Caregiver Training Policy Section 4.5**, all staff serving STASS population must complete 4-hour Short-Term Assessment training including crisis protocols for unknown history children.
 
-### 5.5 Human Trafficking Prevention
+### 5.6 Human Trafficking Prevention
 
 **Cross-Reference:** Universal Human Trafficking Prevention per **FC-HT-01 Human Trafficking Prevention Policy** and **Human Trafficking Prevention Training Implementation Plan**.
 
-### 5.6 Documentation and Coordination Requirements
+### 5.7 Documentation and Coordination Requirements
 
 **Cross-Reference:** Documentation follows **FC10-01 Physical and Mental Health Care Policy** and **FC-STAR-01.1 STAR Health Coordination Procedure** with enhanced assessment tracking.
 
 **Service Denial Notification:** Notify SSCC/DFPS of service access challenges within **3 business days**.
 
-### 5.7 Educational Coordination
+### 5.8 Educational Coordination
 
 **Cross-Reference:** Educational coordination per **FC-T3C-01 Section on Educational Services** with expedited enrollment and evaluation referrals.
 
-### 5.8 Family Engagement
+### 5.9 Family Engagement
 
 **Cross-Reference:** Family engagement follows **FC7-01 Family Connections and Engagement Policy** with documentation in Service Plan.
 
