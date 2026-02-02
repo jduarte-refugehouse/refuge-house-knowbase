@@ -339,11 +339,119 @@ If SSCC/DFPS refers placement that may not meet Substance Use criteria, Treatmen
 
 ### 4.2 Anticipated Length of Service
 
-Anticipated length of service varies based on:
-- Severity of substance use disorder
-- Progress in recovery
-- Stability of recovery supports
-- Family/permanency readiness
+**T3C Blueprint Reference:** Substance Use Support Services p.60 (October 2025)
+
+Refuge House has established anticipated length of service for children served under Substance Use Support Services, recognizing that recovery timelines vary based on individual needs and progress.
+
+#### Expected Length of Service Guidelines
+
+**Standard Recovery-Focused Placement:**
+- **Expected Duration:** 6-12 months for most children
+- **Rationale:** Sufficient time to achieve sustained recovery, develop coping skills, and build relapse prevention capacity
+
+**Factors Influencing Length of Service:**
+
+| Factor | Shorter Stay (6-9 months) | Longer Stay (9-12 months) |
+|--------|---------------------------|---------------------------|
+| **Substance Use Severity** | Single substance, recent onset | Polysubstance use, long history |
+| **Co-Occurring Needs** | Minimal mental health issues | Complex trauma, severe mental health needs |
+| **Recovery Progress** | Rapid engagement, consistent abstinence | Relapse patterns, inconsistent engagement |
+| **Support System** | Strong family/community supports | Limited supports, placement in support network |
+| **Permanency Planning** | Clear permanency plan with timeline | Uncertain permanency, barriers to discharge |
+| **Treatment Compliance** | Consistent therapy attendance | Missed appointments, resistance to treatment |
+
+#### CANS-Based Length of Service Planning
+
+**Using CANS 3.0 to Project Duration:**
+
+| CANS Pattern | Anticipated Duration | Planning Considerations |
+|--------------|---------------------|------------------------|
+| **Substance Use domain improving (3→2→1)** | 6-9 months | Plan for step-down to Basic or MH/BH package |
+| **Multiple domains at 2-3 besides substance use** | 9-12 months | Address co-occurring needs comprehensively |
+| **Substance Use stable at 0-1, other domains improving** | 6 months | Consider early step-down with aftercare support |
+| **Persistent rating of 3 in Substance Use** | 12+ months or step-up to TFFC | May need more intensive intervention |
+
+#### Recovery Stage Considerations
+
+**Early Recovery (Months 1-3):**
+- Assessment and engagement phase
+- Intensive weekly therapy
+- Building coping skills foundation
+- Expected to remain in Substance Use package
+
+**Middle Recovery (Months 4-8):**
+- Active recovery work
+- Skill application and relapse prevention
+- Evaluate progress toward step-down
+- May continue or plan transition
+
+**Sustained Recovery (Months 9-12):**
+- Recovery consolidation
+- Transition planning active
+- Step-down to lower service level typically appropriate
+- Aftercare planning intensifies
+
+#### Step-Down Planning Timeline
+
+**6-Month Review - Step-Down Assessment:**
+- Evaluate sustained recovery (typically 90+ days abstinence)
+- Review CANS improvements
+- Assess support system strength
+- Consider appropriateness of step-down to:
+  * Mental & Behavioral Health package (if ongoing therapy needed)
+  * Basic Foster Family Home (if stable with minimal clinical needs)
+
+**9-Month Review - Transition Decision:**
+- If still in Substance Use package at 9 months, establish clear transition timeline
+- Identify barriers to step-down
+- Intensify permanency planning
+- Set specific goals for discharge
+
+**12-Month Review - Extension Justification:**
+- If placement extends beyond 12 months, document specific justification
+- Identify what additional time will accomplish
+- Set firm discharge timeline (typically 3-6 months)
+
+#### Documentation of Anticipated Length of Service
+
+**At Initial Service Plan (30 days):**
+
+Case Manager documents:
+- Projected length of service based on initial assessment: _____ months
+- Factors supporting this projection:
+  * Severity of substance use
+  * Co-occurring needs
+  * Support system strength
+  * Permanency plan timeline
+- Anticipated step-down date: ___________
+- Service milestones expected at 3, 6, 9 months
+
+**At Each 90-Day Review:**
+
+Treatment Director evaluates:
+- Is child progressing as anticipated?
+- Should projected length of service be adjusted?
+- What factors are accelerating or delaying progress?
+- Is step-down timeline still realistic?
+- Updated anticipated discharge date: ___________
+
+#### Quality Assurance for Length of Service
+
+| Who | How | When |
+|-----|-----|------|
+| Treatment Director | Review all Substance Use placements monthly:<br>- Identify placements approaching 6, 9, 12 months<br>- Evaluate progress toward discharge<br>- Identify barriers to step-down<br>- Recommend service adjustments or discharge planning | Monthly |
+| Program Director | Analyze aggregate length of service data:<br>- Average length of stay<br>- Percentage achieving step-down by 12 months<br>- Factors associated with longer stays<br>- Comparison to anticipated timelines | Quarterly |
+
+**Compliance Targets:**
+- 80% of placements achieve step-down within anticipated timeline (±3 months)
+- 90% of placements discharge or step-down within 15 months
+- 100% of placements exceeding 12 months have documented justification
+
+**NOTE:** There is no maximum length of service specified for Substance Use Support Services in the T3C Blueprint. However, time-limited intervention philosophy emphasizes working toward step-down rather than indefinite placement.
+
+**Cross-Reference:**
+- FC14-01 Discharge and Permanency Planning Policy (Step-down procedures)
+- FC3-01.1 Individual Service Planning Procedure Section 4.2 (90-Day Reviews)
 
 ---
 

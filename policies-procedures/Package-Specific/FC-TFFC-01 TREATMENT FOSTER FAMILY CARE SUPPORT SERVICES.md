@@ -362,23 +362,187 @@ This allows step-down to Basic package in same home when appropriate.
 
 ## 4. LENGTH OF SERVICE PARAMETERS
 
-### 4.1 Time-Limited Service
+### 4.1 Time-Limited Service Philosophy
 
-| Parameter | Duration |
-|-----------|----------|
-| Standard Treatment Period | Up to 274 days |
-| Extension (if clinically necessary) | Up to 91 additional days |
-| **Maximum Total** | **365 days** |
+**T3C Blueprint Reference:** TFFC Support Services p.139-140 (October 2025)
 
-**CRITICAL:** An individual child cannot be served under this package for more than 365 days.
+Treatment Foster Family Care is explicitly designed as **TIME-LIMITED**, concentrated intervention to achieve stabilization and step-down to lower service level.
+
+**Critical Principle:** TFFC is NOT indefinite placement. From Day 1, the goal is working toward successful step-down.
 
 ### 4.2 Anticipated Length of Service
 
-Refuge House policy must include anticipated Length of Service for children served under this package, recognizing that intensive intervention should achieve stabilization for step-down within defined timeframes.
+**T3C Blueprint Reference:** TFFC Support Services p.140 (October 2025)
 
-### 4.3 Step-Down Planning from Day 1
+Refuge House has established anticipated length of service for children served under TFFC, recognizing the intensive nature requires concentrated intervention followed by transition.
 
-Due to time-limited nature, step-down planning begins at admission with preliminary step-down goals included in initial Service Plan.
+#### Expected Treatment Duration
+
+**Standard TFFC Placement:**
+- **Expected Duration:** 6-12 months for most children
+- **Rationale:** Sufficient time for intensive intervention, skill development, and gradual step-down preparation
+
+**Treatment Phase Model:**
+
+| Phase | Duration | Focus | Milestones |
+|-------|----------|-------|------------|
+| **Stabilization** | Months 1-3 | Crisis reduction, safety establishment, therapy engagement | - No psychiatric hospitalizations<br>- Therapy attendance consistent<br>- Medication stabilized<br>- Caregiver relationship building |
+| **Active Treatment** | Months 4-8 | Intensive therapeutic work, skill development, trauma processing | - Coping skills demonstrated<br>- Reduced crisis incidents<br>- Progress in therapy<br>- CANS domains improving |
+| **Step-Down Preparation** | Months 9-12 | Recovery consolidation, lower service level trial, transition planning | - Therapy reduced to weekly<br>- Independent skill use<br>- Permanency plan advanced<br>- Ready for less intensive support |
+
+#### Factors Influencing Length of Service
+
+**Shorter TFFC Stay (6-9 months):**
+- Rapid response to intensive intervention
+- Good therapy engagement from start
+- Strong support system
+- Clear permanency plan
+- CANS improvement across multiple domains
+- Minimal crisis incidents
+- Foster parent highly skilled and committed
+
+**Longer TFFC Stay (9-12 months):**
+- Complex trauma requiring extended processing
+- Co-occurring substance use disorder
+- Multiple placement disruptions in history
+- Slower CANS improvement
+- Ongoing crisis incidents requiring intervention
+- Permanency barriers being addressed
+- Need for multiple modality adjustments
+
+**Red Flags for Extended Stay (>12 months):**
+- Lack of measurable progress despite intensive services
+- Repeated crises without improvement
+- CANS domains worsening or stagnant
+- Foster parent burnout concerns
+- May indicate need for higher level of care rather than continued TFFC
+
+### 4.3 Maximum Length of Service
+
+**T3C Blueprint Reference:** TFFC Support Services p.140 (October 2025)
+
+**ABSOLUTE MAXIMUM: 365 days (approximately 12 months)**
+
+| Timeline Component | Duration | Cumulative Total |
+|-------------------|----------|------------------|
+| **Standard Treatment Period** | Up to 274 days | 274 days (~9 months) |
+| **Extension Period** (if needed) | Up to 91 additional days | **365 days (~12 months)** |
+
+**An individual child CANNOT be served under TFFC for more than 365 days total.**
+
+#### Extension Beyond 274 Days
+
+**Extension Request Process:**
+
+| Who | Action | Timeline | Documentation |
+|-----|--------|----------|---------------|
+| Treatment Director | 1. At 240-day mark, evaluate progress<br>2. Determine if extension needed<br>3. Document specific clinical justification<br>4. Project completion timeline within 91 days<br>5. Submit extension request | Days 240-260 | Extension Justification Form |
+| Program Director | 1. Review Treatment Director justification<br>2. Verify operational feasibility<br>3. Approve or deny extension<br>4. Document decision | Within 5 days of request | Written approval |
+| SSCC/DFPS | Notification of extension with justification | Within 10 days of approval | Extension notification letter |
+
+**Valid Reasons for Extension:**
+- Significant progress made but not yet ready for step-down
+- Permanency plan delayed due to system factors (court, ICPC, etc.)
+- Recent setback after period of improvement requiring time to restabilize
+- Complex needs requiring full 12 months of intensive intervention
+- Step-down plan in process but needs additional time to implement
+
+**Invalid Reasons for Extension:**
+- Lack of planning for step-down
+- Failure to work toward lower service level
+- Using TFFC as indefinite placement solution
+- Convenience rather than clinical need
+
+#### Approaching 365-Day Maximum
+
+**At 330 Days (1 month before maximum):**
+
+**CRITICAL REVIEW Required:**
+
+| Who | Action |
+|-----|--------|
+| Treatment Director | **Mandatory discharge planning staffing**:<br>- Review all progress since admission<br>- Identify discharge barriers<br>- Determine discharge plan:<br>  * Step-down to MH/BH or Basic (preferred)<br>  * Transition to permanency (ideal)<br>  * Referral to residential if higher level needed<br>- Set firm discharge date within 30 days |
+| Program Director | Approve discharge plan and timeline |
+| SSCC/DFPS | Participate in discharge planning<br>Coordinate receiving placement if applicable |
+
+**At 350 Days (15 days before maximum):**
+- All discharge logistics finalized
+- Receiving placement confirmed
+- Transition plan implemented
+- Youth and foster family prepared
+
+**Day 365:**
+- **MUST discharge** - no exceptions
+- Cannot re-admit to TFFC for same episode of need
+
+### 4.4 Step-Down Planning Timeline Integration
+
+**TFFC Step-Down targets aligned with anticipated length of service:**
+
+| Month | Step-Down Planning Activity |
+|-------|----------------------------|
+| **1-3** | Establish baseline, identify step-down criteria, document in initial Service Plan |
+| **4-6** | Mid-treatment assessment of progress toward step-down criteria |
+| **7-9** | Begin gradual reduction of services if criteria being met (reduce therapy frequency) |
+| **10-12** | Active step-down transition, receiving placement identified, warm handoff |
+
+**Step-Down Criteria (CANS-Based):**
+- Behavioral/Emotional domains reduced from 2-3 to 0-1
+- No crisis incidents for 60+ days
+- Therapy effective at weekly frequency (vs. multiple weekly)
+- Caregiver confident in managing without intensive support
+- Permanency plan supports lower service level
+
+### 4.5 Documentation of Length of Service Planning
+
+**At Admission:**
+
+Case Manager documents in initial Service Plan:
+- **Admission date:** ___________
+- **Projected TFFC duration:** _____ months (typically 6-12)
+- **Anticipated step-down date:** ___________
+- **Day 274 date:** ___________ (standard period expires)
+- **Day 365 date:** ___________ (absolute maximum)
+- **Step-down criteria:** [List specific CANS targets and behavioral markers]
+
+**At Each 60-Day Review:**
+
+Treatment Director evaluates:
+- Progress toward step-down criteria
+- Is projected duration still realistic?
+- Is child on track for anticipated timeline?
+- Updated projected step-down date: ___________
+- If approaching 274 days: Extension needed? Clinical justification?
+- If approaching 365 days: **Discharge plan confirmed**
+
+**At 6-Month Mark (Day 180):**
+
+Comprehensive review:
+- Compare current status to admission baseline
+- Calculate improvement percentage across CANS domains
+- Evaluate realistically: Can step-down occur in next 3-6 months?
+- If not: What barriers must be addressed?
+- If yes: Begin active step-down planning
+
+### 4.6 Quality Assurance for Length of Service
+
+| Who | How | When |
+|-----|-----|------|
+| Treatment Director | Track all TFFC placements monthly:<br>- Days in placement<br>- Progress toward step-down<br>- Projected discharge timeline<br>- Extension needs | Monthly |
+| Program Director | Review TFFC length of stay quarterly:<br>- Average length of stay<br>- Percentage achieving step-down within anticipated timeline<br>- Extension utilization<br>- Barriers to timely discharge | Quarterly |
+| Executive Director | Analyze aggregate outcomes:<br>- Step-down success rates<br>- Re-admission patterns<br>- Comparison of anticipated vs. actual length of stay | Semi-annually |
+
+**Compliance Targets:**
+- 80% of placements achieve step-down within anticipated timeline (±2 months)
+- 95% of placements discharge by Day 365
+- 0% placements exceed 365 days
+- 70% of placements do not require extension beyond 274 days
+- 100% of placements have documented step-down planning from Day 1
+
+**Cross-Reference:**
+- FC14-01 Discharge and Permanency Planning Policy (Step-down procedures)
+- FC3-01.1 Individual Service Planning Procedure Section 2.8 (TFFC Service Plan requirements)
+- Section 5.5 of this policy (Continued Stay Reviews with step-down assessment)
 
 ---
 
