@@ -307,29 +307,140 @@ Foster homes serving Short-Term Assessment must provide:
 
 ## 4. LENGTH OF SERVICE PARAMETERS
 
-### 4.1 Time-Limited Service
+### 4.1 Time-Limited Nature
 
-| Child Age | Maximum Stay | Extension Available |
-|-----------|--------------|---------------------|
-| Age 5 and under | 30 days | One 15-day extension |
-| Over age 5 | 45 days | One 15-day extension |
+**T3C Blueprint Reference:** Short-Term Assessment Support Services p.71 (October 2025)
 
-### 4.2 Anticipated Length of Service
+**CRITICAL DISTINCTION:** Short-Term Assessment Support Services is the ONLY T3C Service Package with strict, non-negotiable maximum timelines.
 
-- **Ages 5 and under:** 21-25 days typical
-- **Over age 5:** 30-40 days typical
+**Purpose:** Assessment to determine appropriate ongoing Service Package, NOT long-term placement.
 
-### 4.3 Extension Criteria
+### 4.2 Standard Length of Service
 
-A single 15-day extension may be granted when:
-- Additional assessments are pending and cannot be expedited
-- Appropriate receiving placement has been identified but is not yet available
-- Service Planning team documents specific reason extension serves child's best interest
-- Program Director approves extension in writing
+| Child Age | Standard Assessment Period | Extension Available | Absolute Maximum |
+|-----------|---------------------------|---------------------|------------------|
+| **Age 5 and under** | **30 days** | One 15-day extension | **45 days total** |
+| **Over age 5** | **45 days** | One 15-day extension | **60 days total** |
 
-### 4.4 No Continued Stay Guidelines
+**These are MAXIMUM timelines, not targets.** The goal is to complete assessments and make Service Package determination as quickly as feasible.
 
-**Quality Assurance and Continued Stay Guidelines are NOT applicable** due to the time-limited nature of this package. This differs from **FC-CSR-01.1 Continued Stay Review Procedure** which applies to other Service Packages.
+### 4.3 Anticipated Length of Service
+
+**Target Assessment Completion:**
+
+Most Short-Term Assessment placements should complete within the standard timeline WITHOUT requiring extension:
+
+**Best Practice Timelines:**
+
+| Assessment Complexity | Target Completion | Typical Duration |
+|----------------------|------------------|------------------|
+| **Straightforward** | Standard timeline minus 5 days | 25 days (ages ≤5)<br>40 days (ages 6+) |
+| **Moderate Complexity** | Standard timeline | 30 days (ages ≤5)<br>45 days (ages 6+) |
+| **High Complexity** | Requires extension | 35-45 days (ages ≤5)<br>50-60 days (ages 6+) |
+
+**Factors Influencing Duration:**
+
+*Assessments Complete Faster When:*
+- Child has recent evaluations that can be used
+- CANS 3.0 completed quickly (within 10 days)
+- Service Package needs are relatively clear
+- Assessment providers readily available
+- Child cooperates with assessment process
+- No major behavioral crises during assessment period
+
+*Assessments Take Longer When:*
+- No recent evaluations; all assessments needed
+- Complex presentation requiring multiple specialist evaluations
+- Child's behavior prevents valid assessment
+- Assessment provider delays or cancellations
+- CANS 3.0 delayed
+- Medical or psychiatric concerns emerge during placement
+
+### 4.4 Extension Request Process
+
+**ONE Extension Maximum - 15 Days**
+
+**Extension Request Requirements:**
+
+| Who | How | When | Documentation Required |
+|-----|-----|------|----------------------|
+| Case Manager | 1. Identify that assessments cannot be completed within standard timeline<br>2. Document specific reason for delay<br>3. Confirm extension will be sufficient to complete<br>4. Prepare extension request for Program Director | 5 days before standard timeline expires | Extension Request Form |
+| Program Director | 1. Review progress made during standard period<br>2. Verify legitimate reason for delay<br>3. Confirm extension will result in completion<br>4. Approve or deny extension<br>5. **Document decision in writing** | Within 24 hours of request | Written approval/denial |
+
+**Valid Reasons for Extension:**
+- Required assessment provider had scheduling delays beyond agency control
+- Child behavioral challenges prevented valid assessment during standard period
+- Medical issue temporarily prevented assessment completion
+- CANS 3.0 assessor availability delayed beyond 21/30 day timeline
+- Complexity of needs required additional evaluation not initially anticipated
+
+**Invalid Reasons for Extension:**
+- Agency failed to schedule assessments promptly
+- Case Manager did not follow up on assessment coordination
+- Assessments were scheduled but not prioritized
+- Service Package determination delayed due to documentation rather than assessment completion
+
+### 4.5 Consequences of Timeline Non-Compliance
+
+**If Standard Timeline Expires Without Extension:**
+- Service Package recommendation must be made based on available information
+- Child must transition to recommended package immediately
+- Cannot continue in Short-Term Assessment beyond standard timeline
+
+**If Extension Expires:**
+- **MUST discharge from Short-Term Assessment**
+- Service Package recommendation required even if incomplete
+- Cannot seek second extension
+- Document assessments still needed for receiving placement
+
+### 4.6 Timeline Tracking and Monitoring
+
+**Admission Documentation:**
+
+At admission, Case Manager calculates and documents:
+- Admission date: ___________
+- Child's age: _____
+- Standard timeline expiration: ___________  (30 or 45 days from admission)
+- Maximum stay date (with extension): ___________ (45 or 60 days from admission)
+
+**Milestone Alerts:**
+
+| Timeline Point | Action Required | Who |
+|----------------|----------------|-----|
+| **Day 1** | Assessment Coordination Plan created | Case Manager |
+| **Day 10** | All assessments scheduled with appointments confirmed | Case Manager |
+| **Day 15** (ages ≤5)<br>**Day 25** (ages 6+) | Mid-point check: On track for completion? | Case Manager + Treatment Director |
+| **Day 25** (ages ≤5)<br>**Day 40** (ages 6+) | Extension decision point if needed | Program Director |
+| **Day 30** (ages ≤5)<br>**Day 45** (ages 6+) | **Standard timeline EXPIRES** - Must have Service Package recommendation | Treatment Director |
+| **Day 45** (ages ≤5)<br>**Day 60** (ages 6+) | **ABSOLUTE MAXIMUM** - Must discharge | Program Director |
+
+### 4.7 Quality Assurance for Timeline Compliance
+
+| Who | How | When |
+|-----|-----|------|
+| Case Manager | Track each STASS placement on timeline calendar<br>Send alerts at milestone points<br>Escalate delays immediately | Daily monitoring |
+| Program Director | Review all STASS placements weekly:<br>- Timeline adherence<br>- Assessment completion status<br>- Extension requests<br>- Barriers to completion | Weekly |
+| QA Coordinator | Audit STASS timeline compliance:<br>- Percentage completed within standard timeline<br>- Extension utilization rate<br>- Reasons for extensions<br>- Timeline violations | Monthly |
+
+**Compliance Targets:**
+- 90% of placements complete within standard timeline (no extension needed)
+- 95% of placements complete within maximum timeline (with extension if needed)
+- 100% of placements have Assessment Coordination Plan within 24 hours
+- 0% placements exceed maximum timeline
+
+### 4.8 Planning for Transition
+
+**From Day 1:** Case Manager and Treatment Director identify likely Service Package based on referral information and begin planning for transition.
+
+**By Mid-Point:** Preliminary Service Package recommendation emerging based on assessment results to date.
+
+**5 Days Before Timeline Expiration:** Service Package recommendation finalized and communicated to SSCC/DFPS.
+
+**At Discharge:** Comprehensive Transition Summary with Service Package recommendation and all assessment findings provided to receiving placement.
+
+**Cross-Reference:**
+- FC14-01 Discharge and Permanency Planning Policy (STASS-specific transition procedures)
+- FC2-01.1 Admission Assessment Procedure (Assessment Coordination Plan requirements)
 
 ---
 
