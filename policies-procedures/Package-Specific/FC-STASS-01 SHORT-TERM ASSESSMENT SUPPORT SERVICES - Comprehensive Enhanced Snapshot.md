@@ -998,6 +998,7 @@ The Transition Summary is the primary deliverable of Short-Term Assessment and m
 | 1.0 | December 2025 | Refuge House Leadership | Initial comprehensive enhanced snapshot |
 | 1.1 | January 2026 | Refuge House Leadership | Added Section 5.6 Service Documentation and Cost Coverage per T3C Blueprint p.70-71 requirements |
 | 2.0 | February 2026 | Refuge House Leadership | Full reconciliation with October 2025 Blueprint (pages 69-77); Updated all regulatory references; Added Sections 3.3-3.9 (CANS alignment, pre-placement visit, admissions review, dual credentialing, capacity, SSCC/DFPS coordination, home availability); Expanded Sections 5.7-5.14 (HT prevention, service documentation, educational coordination, STAR Health coordination, IT systems, insurance, family engagement, foster parent responsibilities); Updated staffing to include infrastructure requirements per p.74-75; Added Section 5.12 Insurance; Added Desired Individual Outcomes (Section 6.5) |
+| 2.1 | February 2026 | Refuge House Leadership | **Enhancement Round 1:** Expanded §5.2 (Service Plan content detailing who informs the plan, progress documentation requirements per p.70); Enhanced §5.6.1 (CANS 3.0 results usage per p.71); Expanded §5.9 (Educational coordination with testing, plans, supports, accommodations per p.73); Enhanced §5.14 (Foster home enhanced logistical support and multi-system navigation per p.72); Expanded §4.3 (Anticipated Length of Service individualization per p.74); Added all Admission Guidelines from p.76-77 in Section 3 |
 
 ---
 
