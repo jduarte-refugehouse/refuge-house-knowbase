@@ -11,14 +11,14 @@
 | \#\# APPLICABLE T3C PACKAGES: | \#\# APPLICABLE T3C ADD-ON SERVICES: |
 | :---- | :---- |
 | ☒ T3C Basic Foster Family Home | ☒ Transition Support Services for Youth & Young Adults |
-| ☐ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
-| ☐ Short-Term Assessment | ☒ Pregnant & Parenting Youth or Young Adult |
-| ☐ Mental & Behavioral Health |  |
+| ☒ Substance Use Support Services | ☒ Kinship Caregiver Support Services |
+| ☒ Short-Term Assessment | ☒ Pregnant & Parenting Youth or Young Adult |
+| ☒ Mental & Behavioral Health |  |
 | ☐ Sexual Aggression/Sex Offender |  |
 | ☐ Complex Medical Needs or Medically Fragile |  |
 | ☐ Human Trafficking Victim/Survivor |  |
-| ☐ Intellectual or Developmental Disability (IDD)/Autism Spectrum Disorder |  |
-| ☐ T3C Treatment Foster Family Care |  |
+| ☒ Intellectual or Developmental Disability (IDD)/Autism Spectrum Disorder |  |
+| ☒ T3C Treatment Foster Family Care |  |
 
 ## PURPOSE
 
@@ -167,17 +167,61 @@ Our payment transparency system includes multiple security layers to protect sen
 
 This system eliminates the need for providers to contact the office for payment verification while maintaining strict privacy standards.
 
+### 7\. T3C METHODOLOGICAL RATE SUMMARY
+
+#### Purpose and Overview
+
+The following rate tables provide the current T3C methodological daily rates as established in the T3C Blueprint (October 2025). These rates determine both the CPA receivable amount and the Foster Family Home pass-through payment. Staff must use these rates when setting up placements in Radius.
+
+#### T3C Service Package Daily Rates (October 2025)
+
+| Service Package | Total Daily Rate | CPA Retainage | FFH Pass-Through | T3C Blueprint Reference |
+|----------------|-----------------|---------------|------------------|------------------------|
+| T3C Basic Foster Family Home | $83.29 | $42.27 | $41.02 | p.47–55 |
+| Substance Use Support Services | $162.32 | $89.40 | $72.92 | p.58–68 |
+| Short-Term Assessment Support Services | $128.10 | $77.14 | $50.96 | p.69–77 |
+| Mental & Behavioral Health Support Services | $162.32 | $89.40 | $72.92 | p.78–88 |
+| IDD/Autism Spectrum Disorder Support Services | $219.98 | $129.20 | $90.78 | p.123–135 |
+| Treatment Foster Family Care Support Services | $328.41 | $188.83 | $139.58 | p.136–147 |
+
+#### T3C Add-On Service Daily Rates (October 2025)
+
+Add-On rates are paid IN ADDITION to the primary Service Package rate. Only one primary Service Package rate applies per day; multiple Add-Ons may apply.
+
+| Add-On Service | Total Daily Rate | CPA Retainage | FFH Pass-Through | T3C Blueprint Reference |
+|---------------|-----------------|---------------|------------------|------------------------|
+| Transition Support Services | $37.40 | $11.28 | $26.12 | p.148–153 |
+| Kinship Caregiver Support Services | $38.22 | $38.22 | N/A (100% CPA) | p.154–157 |
+| Pregnant & Parenting Youth Support Services | $51.22 | $24.94 | $26.28 | p.158–163 |
+
+**Critical Add-On Rules:**
+- **STASS is NOT eligible for any Add-On Services** (T3C Blueprint p.28, p.69, p.148)
+- CPA must be credentialed for BOTH the primary package AND the Add-On
+- Add-On rates do NOT apply to GRO settings
+- FFH Pass-through of Add-On rates is still paid during Intermittent Alternative Care days but not to the IAC provider
+
+#### Rate Application Examples
+
+| Scenario | Primary Package | Add-On(s) | Total Daily | FFH Total |
+|----------|-----------------|-----------|-------------|-----------|
+| Basic placement | Basic ($83.29) | None | $83.29 | $41.02 |
+| MH with Transition | MH ($162.32) | Transition ($37.40) | $199.72 | $99.04 |
+| Kinship with MH | MH ($162.32) | Kinship ($38.22) | $200.54 | $72.92 |
+| TFFC (highest intensity) | TFFC ($328.41) | None eligible | $328.41 | $139.58 |
+| STASS (no Add-Ons allowed) | STASS ($128.10) | NOT ELIGIBLE | $128.10 | $50.96 |
+
 ## REGULATORY REFERENCES
 
-- T3C System Blueprint (April 2025\) \- Pages 403-404 (IT System Requirements)  
-- T3C System Blueprint \- Page 145 (Service Package Requirements)  
-- TAC §749.1301 \- Admission and Placement Requirements  
-- TAC §749.2457 \- Service Planning  
-- TAC §749.503 \- Discharge Planning  
-- TAC §749.121 \- Administrator Responsibilities for Financial Records  
-- RCC Contract Section5.1 \- Placement Documentation  
-- RCC Contract Financial Terms and Payment Schedules  
-- DFPS Contract Section 8 \- Financial Requirements  
+- T3C System Blueprint (October 2025) - Pages 28-30 (Rate Structure and Add-On Eligibility)
+- T3C System Blueprint (October 2025) - Pages 47-163 (Service Package and Add-On Rate Details)
+- T3C System Blueprint (October 2025) - Pages 403-404 (IT System Requirements)
+- TAC §749.1301 - Admission and Placement Requirements
+- TAC §749.2457 - Service Planning
+- TAC §749.503 - Discharge Planning
+- TAC §749.121 - Administrator Responsibilities for Financial Records
+- RCC Contract Section 5.1 - Placement Documentation
+- RCC Contract Financial Terms and Payment Schedules
+- DFPS Contract Section 8 - Financial Requirements
 - GAAP Principles for Revenue Recognition
 
 ---
