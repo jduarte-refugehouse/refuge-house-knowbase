@@ -372,6 +372,10 @@ Systematic quality review ensures home studies meet standards while continuously
 - Dual Credentialing Verification Form
 - TFFC Credential Certificate
 
+### AI Development Partner Resources:
+
+- **T3C Home Study Addendum Generation Guide** (`ai-development-guides/T3C_Home_Study_Addendum_Generation_Guide.md`) — Comprehensive guidance for AI tools generating home study addenda, including regulatory cross-references, package-specific requirements, evidence standards, and compliance alerts per T3C Blueprint (October 2025)
+
 ---
 
 *This procedure document operationalizes the principles established in the corresponding policy by providing specific implementation details (who, when, where, and how). While policies require Board approval and remain relatively stable, procedures may be updated by the Executive Director to adapt to regulatory changes, technological advancements, or operational improvements without requiring Board approval, provided such changes maintain alignment with the policy's intent.*
