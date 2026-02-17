@@ -252,7 +252,115 @@ Credentialing for Treatment Foster Family Care represents the most intensive fos
 | Credentialing Committee | 1. Review all TFFC-specific documentation: - 20-hour specialized training completion - Intensive service competency assessment - Availability and commitment assessment - Capacity verification (max 2) - Dual credentialing status 2. **Require clinical team input** 3. Approve, deny, or approve with conditions 4. Document decision and rationale | Within 7 days of complete application | Committee review with clinical input | TAC §749.863; T3C Blueprint p.143-144 |
 | Home Development Specialist | 1. Notify foster family of decision 2. Issue TFFC credential certificate if approved (**simultaneously with Basic credential verification**) 3. Update system with dual credential status 4. Document capacity limit (max 2) in system | Within 3 days of committee decision | Written notification | T3C Blueprint |
 
-### 6E. PACKAGE-SPECIFIC CREDENTIAL MAINTENANCE
+### 6G. MENTAL & BEHAVIORAL HEALTH SUPPORT SERVICES FOSTER HOME CREDENTIALING
+
+**Purpose and Overview**
+
+Credentialing for Mental & Behavioral Health Support Services ensures foster families are prepared to support children with mental health diagnoses through therapeutic parenting and crisis intervention. **DUAL CREDENTIALING REQUIRED:** CPA and home must hold BOTH MH AND Basic credentials to enable step-down (T3C Blueprint, October 2025, p.83).
+
+**T3C Blueprint Reference:** Pages 78–88 (October 2025)
+**Daily Rate:** $162.32 ($89.40 CPA retainage + $72.92 FFH pass-through)
+**Refuge House Procedure:** FC-MH-01
+
+#### MH-CRED-1. Eligibility Prerequisites
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify foster home holds current T3C Basic Foster Family Home credential 2. Confirm home capacity does not exceed 4 children (unless sibling group) 3. Assess family's therapeutic parenting capacity 4. Document eligibility status | Before initiating MH credentialing | Credentialing system | T3C Blueprint p.78–88 |
+
+#### MH-CRED-2. Mental & Behavioral Health Training (4 Hours)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Training Coordinator | 1. Schedule foster parents for 4-hour MH initial training 2. Training must cover: - Therapeutic parenting techniques - Crisis de-escalation skills - Emotional regulation and boundaries - Managing challenging behaviors - Enhanced safety environment (self-harm risk, medication storage, de-escalation spaces) - Psychotropic medication management - Treatment team participation 3. Document training completion | Before placement of MH-package child | Training facility or online | FC-16 §4.3; T3C Blueprint p.82–83 |
+| Home Development Specialist | 1. Verify training completion certificate 2. Document in foster home credential file 3. Update credential status in system | Within 5 days of training completion | Credentialing module | FC-16 |
+
+#### MH-CRED-3. Mental Health First Aid Certification
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Training Coordinator | 1. Schedule foster parents for Mental Health First Aid certification 2. Verify certification completion 3. Document certification date and expiration | Before first MH placement | Certified training provider | T3C Blueprint p.82 |
+
+#### MH-CRED-4. Therapeutic Environment Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Conduct enhanced safety assessment: - Self-harm risk items secured or removed - Medication storage (locked, separate from child access) - De-escalation spaces identified - Therapeutic environment supports healing 2. Document assessment findings 3. Identify any remediation needed | During credentialing assessment | Foster home | T3C Blueprint p.82–83 |
+
+#### MH-CRED-5. Clinical Competency Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Clinical Team | 1. Assess foster parent competency in: - Therapeutic parenting techniques - Crisis de-escalation - Emotional regulation and boundaries - Psychotropic medication management - Treatment team participation - Recognizing signs of mental health crisis 2. Use MH Competency Checklist 3. Document competency demonstration | During credentialing assessment | Foster home or clinical setting | T3C Blueprint p.82–83 |
+
+#### MH-CRED-6. Dual Credentialing Verification
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify foster home maintains BOTH: - T3C Mental & Behavioral Health credential - T3C Basic Foster Family Home credential 2. Document dual credential status 3. **Critical:** Dual credentialing enables step-down to Basic in same home | Before MH credential issuance | Credentialing system | T3C Blueprint p.83 |
+
+#### MH-CRED-7. Credentialing Approval
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Credentialing Committee | 1. Review all MH-specific documentation: - 4-hour MH training completion - Mental Health First Aid certification - Therapeutic environment assessment - Clinical competency assessment - Dual credentialing status 2. Approve, deny, or approve with conditions 3. Document decision and rationale | Within 7 days of complete application | Committee review | TAC §749.863; T3C Blueprint p.82–83 |
+| Home Development Specialist | 1. Notify foster family of decision 2. Issue MH credential certificate if approved 3. Update system with dual credential status 4. Document capacity limit (max 4) in system | Within 3 days of committee decision | Written notification | T3C Blueprint |
+
+### 6H. IDD/AUTISM SPECTRUM DISORDER SUPPORT SERVICES FOSTER HOME CREDENTIALING
+
+**Purpose and Overview**
+
+Credentialing for IDD/Autism Spectrum Disorder Support Services ensures foster families are prepared to support children with intellectual or developmental disabilities, including autism spectrum disorder. **DUAL CREDENTIALING REQUIRED:** CPA and home must hold BOTH IDD AND Basic credentials (T3C Blueprint, October 2025, p.128).
+
+**T3C Blueprint Reference:** Pages 123–135 (October 2025)
+**Daily Rate:** $219.98 ($129.20 CPA retainage + $90.78 FFH pass-through)
+**Refuge House Procedure:** FC-IDD-01
+
+#### IDD-CRED-1. Eligibility Prerequisites
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify foster home holds current T3C Basic Foster Family Home credential 2. Confirm home capacity does not exceed 4 children (unless sibling group) 3. Assess family's capacity for structured, specialized care 4. Document eligibility status | Before initiating IDD credentialing | Credentialing system | T3C Blueprint p.123–135 |
+
+#### IDD-CRED-2. IDD/Autism-Specific Training (6 Hours Minimum)
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Training Coordinator | 1. Schedule foster parents for 6-hour minimum IDD/Autism training 2. Training must cover: - Developmental disability fundamentals - Autism spectrum disorder characteristics - Communication adaptation (including AAC devices) - Structured environment creation - Sensory processing and sensory-friendly environments - Behavior support plan implementation - Medical care coordination (OT, PT, speech, ECI) 3. Document training completion | Before placement of IDD-package child | Training facility or online | FC-16 §4.4; T3C Blueprint p.123–135 |
+| Home Development Specialist | 1. Verify training completion certificate 2. Document in foster home credential file 3. Update credential status in system | Within 5 days of training completion | Credentialing module | FC-16 |
+
+#### IDD-CRED-3. Enhanced Medical Training
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Training Coordinator | 1. Verify enhanced CPR certification (including swallowing/seizure response) 2. Verify medication administration training (as applicable) 3. Document certifications | Before first IDD placement | Certified training provider | T3C Blueprint p.123–135 |
+
+#### IDD-CRED-4. Environment and Accessibility Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Conduct IDD-specific environment assessment: - Sensory-friendly spaces available - Structured environment supports - Accessibility features (as applicable) - Safety modifications for developmental level - Technology readiness (AAC, adaptive devices) 2. Document assessment findings 3. Identify any modifications needed | During credentialing assessment | Foster home | T3C Blueprint p.123–135 |
+
+#### IDD-CRED-5. Specialized Competency Assessment
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Clinical Team | 1. Assess foster parent competency in: - Communication adaptation techniques - Structured routine implementation - Sensory regulation strategies - Behavior support plan implementation - Medical coordination (OT, PT, speech, ECI) - Crisis response for IDD population 2. Use IDD Competency Checklist 3. Document competency demonstration | During credentialing assessment | Foster home or clinical setting | T3C Blueprint p.123–135 |
+
+#### IDD-CRED-6. Dual Credentialing Verification
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify foster home maintains BOTH: - T3C IDD/Autism Support Services credential - T3C Basic Foster Family Home credential 2. Document dual credential status 3. **Critical:** Dual credentialing enables step-down to Basic in same home | Before IDD credential issuance | Credentialing system | T3C Blueprint p.128 |
+
+#### IDD-CRED-7. Credentialing Approval
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Credentialing Committee | 1. Review all IDD-specific documentation: - 6-hour IDD/Autism training completion - Enhanced medical training verification - Environment/accessibility assessment - Specialized competency assessment - Dual credentialing status 2. Approve, deny, or approve with conditions 3. Document decision and rationale | Within 7 days of complete application | Committee review | TAC §749.863; T3C Blueprint p.123–135 |
+| Home Development Specialist | 1. Notify foster family of decision 2. Issue IDD credential certificate if approved 3. Update system with dual credential status 4. Document capacity limit (max 4) in system | Within 3 days of committee decision | Written notification | T3C Blueprint |
+
+### 6I. PACKAGE-SPECIFIC CREDENTIAL MAINTENANCE
 
 **Purpose and Overview**
 
@@ -262,9 +370,23 @@ Foster homes with package-specific credentials require enhanced ongoing monitori
 
 | Package | Annual Training Requirement | Special Monitoring |
 |---------|---------------------------|-------------------|
-| Substance Use | Refresher on recovery support (2 hours) | Home environment re-assessment |
+| Mental & Behavioral Health | 2-hour refresher | Therapeutic environment re-assessment; dual credential verification |
+| IDD/Autism | 2-hour refresher | Accessibility re-assessment; dual credential verification |
+| Substance Use | 2-hour refresher | Home environment re-assessment |
 | Short-Term Assessment | Documentation competency review | Capacity monitoring |
 | Treatment Foster Care | 8 hours annual specialized training | Competency reassessment; dual credential verification |
+
+#### MH Annual Compliance
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify annual MH refresher training completed 2. Re-assess therapeutic environment (safety items, de-escalation spaces) 3. Verify dual credential maintained (MH + Basic) 4. Review placement outcomes 5. Document annual compliance | Annually at credential anniversary | Home visit; Training documentation | T3C Blueprint p.78–88; FC-MH-01 |
+
+#### IDD Annual Compliance
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Verify annual IDD refresher training completed 2. Re-assess environment/accessibility features 3. Verify dual credential maintained (IDD + Basic) 4. Review placement outcomes 5. Document annual compliance | Annually at credential anniversary | Home visit; Training documentation | T3C Blueprint p.123–135; FC-IDD-01 |
 
 #### SU Annual Compliance
 
@@ -284,19 +406,21 @@ Foster homes with package-specific credentials require enhanced ongoing monitori
 | :---- | :---- | :---- | :---- | :---- |
 | Home Development Specialist | 1. Verify 8-hour annual specialized training completed 2. Re-assess intensive service competencies 3. Verify dual credential maintained (TFFC + Basic) 4. Verify capacity compliance (max 2) 5. Review placement outcomes 6. **Require clinical team input** 7. Document annual compliance | Annually at credential anniversary | Home visit; Clinical review | TAC §749.863(c); T3C Blueprint p.143-144 |
 
-### 6F. FOSTER HOME CREDENTIALING REQUIREMENTS COMPARISON
+### 6J. FOSTER HOME CREDENTIALING REQUIREMENTS COMPARISON
 
-| Requirement | Substance Use | Short-Term Assessment | Treatment Foster Care |
-|-------------|:-------------:|:---------------------:|:---------------------:|
-| **Basic Credential Required** | ✅ | ✅ | ✅ |
-| **MH Credential Required** | ✅ | ❌ | ✅ |
-| **Dual Credentialing** | ❌ | ❌ | ✅ **REQUIRED** (TFFC + Basic) |
-| **Package-Specific Training** | 4 hours | 4 hours | **20 hours** |
-| **Competency Assessment** | Recovery-supportive approach | Observation/documentation; Transitions | Intensive service; Crisis response |
-| **Home Environment** | Substance-free verification | Standard | Standard |
-| **Capacity Limit** | Per MH standards | **Max 4 children** | **Max 2 children** |
-| **Clinical Team Review** | Optional | Optional | **REQUIRED** |
-| **Annual Training** | 2-hour refresher | Standard | 8 hours specialized |
+| Requirement | Mental & Behavioral Health | IDD/Autism | Substance Use | Short-Term Assessment | Treatment Foster Care |
+|-------------|:-------------------------:|:----------:|:-------------:|:---------------------:|:---------------------:|
+| **Basic Credential Required** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **MH Credential Required** | N/A | ❌ | ✅ | ❌ | ✅ |
+| **Dual Credentialing** | ✅ (MH + Basic) | ✅ (IDD + Basic) | ✅ (SU + Basic) | ❌ | ✅ **REQUIRED** (TFFC + Basic) |
+| **Package-Specific Training** | 4 hours + MHFA cert | 6 hours min | 4 hours | 4 hours | **20 hours** |
+| **Competency Assessment** | Therapeutic parenting; crisis de-escalation | Communication adaptation; structured environment | Recovery-supportive approach | Observation/documentation; Transitions | Intensive service; Crisis response |
+| **Home Environment** | Therapeutic environment; self-harm safety | Sensory-friendly; accessibility | Substance-free verification | Standard | Standard |
+| **Capacity Limit** | **Max 4 children** | **Max 4 children** | **Max 4 children** | **Max 4 children** | **Max 2 children** |
+| **Clinical Team Review** | Recommended | Recommended | Optional | Optional | **REQUIRED** |
+| **Annual Training** | 2-hour refresher | 2-hour refresher | 2-hour refresher | Standard | 8 hours specialized |
+| **Daily Rate (Oct 2025)** | $162.32 | $219.98 | $162.32 | $128.10 | $328.41 |
+| **FFH Pass-Through** | $72.92 | $90.78 | $72.92 | $50.96 | $139.58 |
 
 ### 7\. QUALITY ASSURANCE AND CONTINUOUS IMPROVEMENT
 
@@ -309,22 +433,124 @@ Systematic quality review ensures home studies meet standards while continuously
 | Quality Assurance Manager | Review study quality via dashboards: 1\. Sample review for completeness 2\. Assess credentialing consistency 3\. Identify training needs 4\. Track timeline compliance5. Report findings | Quarterly | QA review dashboard | TAC §749.43 |
 | Home Development Team | Team improvement meetings: 1\. Review difficult cases 2\. Share best practices 3\. Discuss credentialing challenges 4\. Update procedures5. Plan enhancements | Monthly | Team meeting platform | Continuous improvement |
 
+### 8\. HOME STUDY ADDENDUM PROCEDURES
+
+**Purpose and Overview**
+
+A home study addendum is a formal supplement to an existing foster family home study that documents changes, updates, or additional assessments without requiring a complete rewrite of the original study. Per TAC §749.2803(a)(5), changes in the types of services the foster home will provide trigger an addendum requirement. The addendum must stand on its own as a credentialing document while referencing the original home study as the foundational assessment.
+
+**Reference:** For detailed AI-assisted addendum generation, see `ai-development-guides/T3C_Home_Study_Addendum_Generation_Guide.md`
+
+#### 8.1 Addendum Triggers
+
+| Trigger | Timeline | Key Requirements | Regulatory Reference |
+|---------|----------|------------------|---------------------|
+| T3C Credential Addition | Before child placement | Full credentialing assessment per package | T3C Blueprint p.33; TAC §749.2803(a)(5) |
+| Marriage, divorce, separation | Within 30 days | Updated household composition; reassess capacity | TAC §749.2805 |
+| Death of household member | Within 30 days | Impact assessment; support evaluation | TAC §749.2805 |
+| Birth/addition to household | Within 30 days | Updated composition; capacity impact | TAC §749.2805 |
+| Change of address | Before placement at new address | Full safety inspection at new location | TAC §749.2803(a)(2) |
+| Change in capacity | As determined | Updated capacity assessment | TAC §749.2803(a)(3); §749.2557 |
+| Change in ages/genders served | As determined | Updated placement parameters | TAC §749.2803(a)(4) |
+| Annual verification update | 60 days before anniversary | Per TAC §749.1351; include T3C re-credentialing | TAC §749.1351 |
+| Adoption conversion | Upon adoption request | Per TAC §749.1335 | TAC §749.1335 |
+| Agency transfer | Within 30 days | Review prior documentation; conduct T3C assessment | TAC §749.2803 |
+
+#### 8.2 Addendum Type Identifiers
+
+| Type Code | Description |
+|-----------|-------------|
+| `T3C_CREDENTIAL_CPA_BASIC` | T3C Basic Foster Family Home credential |
+| `T3C_CREDENTIAL_MH` | Mental & Behavioral Health Support Services |
+| `T3C_CREDENTIAL_IDD` | IDD/Autism Spectrum Disorder Support Services |
+| `T3C_CREDENTIAL_SU` | Substance Use Support Services |
+| `T3C_CREDENTIAL_TFFC` | Treatment Foster Family Care Support Services |
+| `T3C_CREDENTIAL_STASS` | Short-Term Assessment Support Services |
+| `T3C_CREDENTIAL_ADDON_KINSHIP` | Kinship Caregiver Support Services Add-On |
+| `T3C_CREDENTIAL_ADDON_TRANSITION` | Transition Support Services Add-On |
+| `T3C_CREDENTIAL_ADDON_PPY` | Pregnant & Parenting Youth Add-On |
+| `MAJOR_LIFE_CHANGE` | Major life change update per §749.2805 |
+| `ANNUAL_UPDATE` | Annual re-credentialing review |
+| `CAPACITY_CHANGE` | Change in home capacity or placement parameters |
+
+#### 8.3 Required Addendum Sections
+
+Every home study addendum must include:
+
+1. **Header Information** — Addendum number, revision date, effective date, type identifier, home name, address, original home study date, prior addendum reference (if applicable)
+2. **Change Summary** — Brief narrative explaining what changed and why the addendum is being generated
+3. **Training Verification** — Table showing relevant training completion status with dates
+4. **Assessment/Evaluation Content** — The substantive body of the addendum (varies by type)
+5. **Decision/Recommendation** — Clear statement of the credentialing or update decision
+6. **Updated Service Package Credentials** — Current status table showing all packages/add-ons
+7. **Authorization Signatures** — T3C Transition Team Lead and LCPAA/Program Director
+
+#### 8.4 Addendum Generation Procedure
+
+| Who | How | When | Where | Regulatory Reference |
+| :---- | :---- | :---- | :---- | :---- |
+| Home Development Specialist | 1. Identify addendum trigger 2. Select appropriate addendum type 3. Gather all supporting documentation 4. Complete package-specific assessment (if credentialing) | Upon trigger identification | Credentialing system | TAC §749.2803; T3C Blueprint |
+| Home Development Specialist | 1. Draft addendum using standard format 2. Include all required sections 3. Cite evidence sources for all claims 4. Complete training verification table | Within 14 days of trigger | Addendum template | FC-17.1 |
+| Supervisor/Clinical Team | 1. Review addendum for completeness 2. Verify regulatory compliance 3. Assess clinical competencies (if applicable) 4. Recommend approval or revision | Within 5 days of draft | Review module | TAC §749.861 |
+| Credentialing Committee | 1. Review addendum and supporting documentation 2. Make credentialing decision 3. Document decision and rationale | Within 7 days of submission | Committee review | TAC §749.863 |
+| Home Development Specialist | 1. Finalize addendum with signatures 2. Update credential status in system 3. Update CLASS portal 4. Notify foster family | Within 3 days of approval | Credentialing module; CLASS | T3C Blueprint |
+
+#### 8.5 Evidence Standards
+
+All addenda must meet these evidence integrity standards:
+
+**Source Verification:** Every factual claim must be traceable to: original home study narrative/interviews; training certificates with dates; home safety inspection; financial assessment; background checks; reference checks; credentialing assessment forms; Foster Home Quarterly Reviews; direct observation notes.
+
+**Prohibited Practices:** Staff must NOT assume/fabricate information; infer unstated details; misattribute context; use incorrect relationship terminology; claim undocumented legal actions; or embellish interview responses.
+
+**Handling Uncertainty:** Flag uncertain information with qualifying language; recommend follow-up verification; never fill gaps with assumptions.
+
+#### 8.6 Add-On Service Credentialing Rules
+
+Per T3C Blueprint (October 2025) p.28:
+
+- Only one primary Service Package rate per day of care
+- Add-On rates paid IN ADDITION to primary package rate
+- **STASS is NOT eligible for any Add-On Services**
+- CPA must be credentialed for BOTH the primary package AND the Add-On
+- Add-On rates do NOT apply to GRO settings
+
+| Add-On Service | Daily Rate | CPA Retainage | FFH Pass-Through | T3C Blueprint Reference |
+|----------------|-----------|---------------|------------------|------------------------|
+| Kinship Caregiver Support | $38.22 | $38.22 | N/A (100% CPA) | p.154–157 |
+| Transition Support | $37.40 | $11.28 | $26.12 | p.148–153 |
+| Pregnant & Parenting Youth | $51.22 | $24.94 | $26.28 | p.158–163 |
+
 ## REGULATORY REFERENCES:
 
-- TAC Chapter 749, Subchapter E: Foster Homes  
-  - §749.1301-1335: Home Screening and Verification Requirements  
-  - §749.811-815: Background Check Requirements  
-  - §749.2751-2757: Physical Site Requirements  
-  - §749.863: Training Requirements  
-  - §749.1401-1405: Kinship Specific Requirements  
-- T3C Blueprint Standards:  
-  - Pages 33: Credentialing Overview  
-  - Pages 47-55: Basic Foster Family Home  
-  - Pages 78-93: Mental & Behavioral Health  
-  - Pages 123-135: IDD/Autism Spectrum  
-- RCC Contract Requirements: Contract Term 7  
-- FC17-01 Foster Home Studies Policy  
-- FC16-01 Recruitment and Retention Policy  
+- TAC Chapter 749, Subchapter E: Foster Homes
+  - §749.1301-1335: Home Screening and Verification Requirements
+  - §749.811-815: Background Check Requirements
+  - §749.2751-2757: Physical Site Requirements
+  - §749.863: Training Requirements (including §749.863(c) for Treatment Foster Care)
+  - §749.1401-1405: Kinship Specific Requirements
+  - §749.2803: Changes Affecting Foster Home Verification
+  - §749.2805: Major Life Changes Requiring Screening Update
+- T3C Blueprint Standards (October 2025):
+  - Pages 12, 26, 33: Credentialing Overview and Definitions
+  - Pages 28-30: Rate Structure and Add-On Eligibility
+  - Pages 47-55: Basic Foster Family Home ($83.29/day)
+  - Pages 58-68: Substance Use Support Services ($162.32/day)
+  - Pages 69-77: Short-Term Assessment Support Services ($128.10/day)
+  - Pages 78-88: Mental & Behavioral Health Support Services ($162.32/day)
+  - Pages 123-135: IDD/Autism Spectrum Disorder Support Services ($219.98/day)
+  - Pages 136-147: Treatment Foster Family Care Support Services ($328.41/day)
+  - Pages 148-153: Transition Support Services Add-On ($37.40/day)
+  - Pages 154-157: Kinship Caregiver Support Services Add-On ($38.22/day)
+  - Pages 158-163: Pregnant & Parenting Youth Support Services Add-On ($51.22/day)
+- RCC Contract Requirements: Contract Term 7
+- FC-17 Foster Home Studies and T3C Credentialing Policy
+- FC-16 Staff and Caregiver Training Policy
+- FC-MH-01 Mental & Behavioral Health Support Services
+- FC-IDD-01 IDD/Autism Spectrum Disorder Support Services
+- FC-SU-01 Substance Use Support Services
+- FC-STASS-01 Short-Term Assessment Support Services
+- FC-TFFC-01 Treatment Foster Family Care Support Services
 - Safe and Timely Interstate Placement of Foster Children Act of 2006
 
 ## FORMS/ATTACHMENTS:
@@ -363,6 +589,26 @@ Systematic quality review ensures home studies meet standards while continuously
 - Transition Management Assessment Form
 - STASS Credential Certificate
 
+### Mental & Behavioral Health Credentialing Forms:
+
+- Mental & Behavioral Health Credentialing Checklist
+- MH 4-Hour Training Verification
+- Mental Health First Aid Certification Verification
+- Therapeutic Environment Assessment
+- MH Clinical Competency Checklist
+- Dual Credentialing Verification Form (MH + Basic)
+- MH Credential Certificate
+
+### IDD/Autism Credentialing Forms:
+
+- IDD/Autism Credentialing Checklist
+- IDD 6-Hour Training Verification
+- Enhanced Medical Training Verification (CPR, medication administration)
+- Environment and Accessibility Assessment
+- IDD Specialized Competency Checklist
+- Dual Credentialing Verification Form (IDD + Basic)
+- IDD Credential Certificate
+
 ### Treatment Foster Family Care Credentialing Forms:
 
 - Treatment Foster Care Credentialing Checklist
@@ -371,6 +617,19 @@ Systematic quality review ensures home studies meet standards while continuously
 - Availability and Commitment Assessment
 - Dual Credentialing Verification Form
 - TFFC Credential Certificate
+
+### Home Study Addendum Forms:
+
+- Home Study Addendum Template
+- Addendum Header Information Form
+- Training Verification Table Template
+- Service Package Credentials Status Table
+- Addendum Authorization Signature Page
+- CLASS Portal Entry Checklist
+
+### AI Development Partner Resources:
+
+- **T3C Home Study Addendum Generation Guide** (`ai-development-guides/T3C_Home_Study_Addendum_Generation_Guide.md`) — Comprehensive guidance for AI tools generating home study addenda, including regulatory cross-references, package-specific requirements, evidence standards, and compliance alerts per T3C Blueprint (October 2025)
 
 ---
 
