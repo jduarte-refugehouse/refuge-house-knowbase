@@ -75,7 +75,7 @@ Establishes comprehensive content requirements for home studies including backgr
 
 **§749.863 — Training Requirements**
 
-Establishes required training hours and content. Package-specific training requirements are layered on top of base training per T3C Blueprint.
+Establishes required training hours and content. Package-specific training requirements are layered on top of base training per T3C Blueprint (October 2025).
 
 **§749.863(c) — Treatment Foster Care Training** (specific to TFFC Package)
 
@@ -177,7 +177,7 @@ All T3C credential addenda (whether for Service Packages or Add-On Services) fol
 
 ### 4.1 Change Summary
 
-Must include: what credential is being assessed; relationship to existing credentials; any relevant placement context; T3C Blueprint page references for the applicable package/add-on.
+Must include: what credential is being assessed; relationship to existing credentials; any relevant placement context; T3C Blueprint (October 2025) page references for the applicable package/add-on.
 
 ### 4.2 Training Verification Table
 
@@ -194,7 +194,7 @@ For each assessment criterion required by the package/add-on:
 ```
 ### Assessment Criterion [Number]: [Criterion Name]
 
-**Source:** [T3C Blueprint page reference]
+**Source:** [T3C Blueprint (October 2025) page reference]
 **Status:** ✅ Met / ❌ Not Met / ⚠️ Conditionally Met
 
 **Assessment Notes:**
@@ -261,13 +261,13 @@ This is always the FIRST addendum for any foster home entering the T3C system. A
 
 | Training | Source |
 |----------|--------|
-| T3C Caregiver Pre-Service Training | T3C Blueprint p.47–55 |
-| T3C Orientation Training | T3C Blueprint p.47–55 |
-| TBRI Caregiver Training | FC-16; T3C Blueprint |
+| T3C Caregiver Pre-Service Training | T3C Blueprint (October 2025) p.47–55 |
+| T3C Orientation Training | T3C Blueprint (October 2025) p.47–55 |
+| TBRI Caregiver Training | FC-16; T3C Blueprint (October 2025) |
 | Standard DFPS pre-service (PRIDE/Mini-PRIDE or equivalent) | TAC §749.863 |
 | CPR/First Aid | TAC §749.863 |
 | SAMA | FC-16 |
-| Human Trafficking Prevention Training | T3C Blueprint p.51 |
+| Human Trafficking Prevention Training | T3C Blueprint (October 2025) p.51 |
 
 **Assessment Criteria:**
 
@@ -282,7 +282,7 @@ This is always the FIRST addendum for any foster home entering the T3C system. A
 | Family Outreach and Engagement | Willingness to engage child's biological parents, relatives, siblings, supportive persons | Interview responses, prior experience (p.53) |
 
 **Capacity:** Max 6 children (variance for 7+; awake night supervision for 7+)  
-**CPA Case Manager Ratio:** 1:20 (T3C Blueprint p.55)
+**CPA Case Manager Ratio:** 1:20 (T3C Blueprint, October 2025, p.55)
 
 **Key Service Expectations to Verify Home Readiness For:**
 
